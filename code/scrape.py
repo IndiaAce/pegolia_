@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 import feedparser
 import requests
+from collections import defaultdict
 
 # === CONFIGURATION ===
 
@@ -55,10 +56,31 @@ def save_results(rss_data, hn_data):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(all_articles, f, indent=2)
     print(f"[+] Saved {len(all_articles)} articles to {output_path}")
+    return all_articles, today
+
+# === RENDER DASHBOARD MARKDOWN ===
+
+def render_dashboard(articles, today):
+    grouped = defaultdict(list)
+    for article in articles:
+        grouped[article["source"]].append(article)
+
+    with open("dashboard.md", "w", encoding="utf-8") as f:
+        f.write(f"# 🛡️ Email Security Trends – Updated {today}\n\n")
+        for source in sorted(grouped.keys()):
+            f.write(f"## 📰 {source}\n")
+            for item in grouped[source]:
+                title = item["title"].strip()
+                link = item["link"]
+                published = item.get("published", "N/A")[:16]
+                f.write(f"- [{title}]({link}) — {published}\n")
+            f.write("\n")
+    print(f"[+] Dashboard updated: dashboard.md")
 
 # === MAIN EXECUTION ===
 
 if __name__ == "__main__":
     rss_articles = fetch_rss_articles()
     hn_articles = fetch_hn_articles()
-    save_results(rss_articles, hn_articles)
+    all_articles, today = save_results(rss_articles, hn_articles)
+    render_dashboard(all_articles, today)
