@@ -30,7 +30,7 @@ jobs:
       - name: Commit dashboard and results
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "[email protected]"
+          git config --global user.email "[email protected]"
           git add results/ dashboard.md
           git commit -m "🤖 Auto-update: 📊 Dashboard and results for $(date -u +"%Y-%m-%d")" || echo "No changes"
           git pus
