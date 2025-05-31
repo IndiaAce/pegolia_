@@ -1,0 +1,36 @@
+# 🛡️ Email Security Trends – Updated 2025-05-31
+
+## 📰 Hacker News
+- [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
+- [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer) — 2025-05-30T20:47
+- [Show HN: ServBay – Create Perfect macOS Development Environment with One Click](https://www.servbay.com) — 2025-05-30T12:23
+- [3-Week MVP Sprint (Node/React/AWS) – 2 free builds for early partners](https://github.com/mackerricher/3week-mvp-sprint/blob/main/README.md) — 2025-05-28T21:30
+- [DigitalOcean terminating business account with no details given](https://news.ycombinator.com/item?id=44109627) — 2025-05-27T18:46
+- [Ask HN: Setting up custom domain for email](https://news.ycombinator.com/item?id=44022039) — 2025-05-18T15:22
+- [GitHub turns on code security billing but you can't turn it off](https://news.ycombinator.com/item?id=44021499) — 2025-05-18T14:03
+- [Ask HN: Email Provider for Main Account?](https://news.ycombinator.com/item?id=43993833) — 2025-05-15T11:19
+- [M&S Cyber Incident Apology](https://news.ycombinator.com/item?id=43984532) — 2025-05-14T13:50
+- [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave) — 2025-05-12T15:34
+- [What do you think about YC Summer 2025 Request for Startups?](https://news.ycombinator.com/item?id=43937709) — 2025-05-09T15:13
+- [Ask HN: If AI is good, why can't Gmail stop the following blatant spammer?](https://news.ycombinator.com/item?id=43872562) — 2025-05-02T17:24
+- [Ask HN: Email Client](https://news.ycombinator.com/item?id=43856576) — 2025-05-01T12:04
+- [Top Free Fax Apps: 7 Best Options for Easy Online Faxing](https://news.ycombinator.com/item?id=43831674) — 2025-04-29T12:26
+- [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927) — 2025-04-29T08:18
+- [Top Apps: 7 Best Options for Easy Online](https://news.ycombinator.com/item?id=43829028) — 2025-04-29T05:44
+- [Show HN: Mirror AI – LLM agent that takes action, not just chat](https://themirrorai.com) — 2025-04-27T14:47
+- [Looking for Feedback for Hardware Server Security](https://news.ycombinator.com/item?id=43798299) — 2025-04-25T20:39
+- [Show HN: Medullar, the AI-Powered Data Discovery and Insight Platform](https://www.medullar.com) — 2025-04-25T08:57
+- [Show HN: SimpleAuth.link – Selfhosted passwordless service with no database](https://simpleauth.link/) — 2025-04-23T16:48
+
+## 📰 Proofpoint
+- [Ransomware Kill Chain Whacked As FBI, Secret Service And Europol Attack](https://www.proofpoint.com/us/newsroom/news/ransomware-kill-chain-whacked-fbi-secret-service-and-europol-attack) — 23 May 2025 07:3
+- [Proofpoint Acquires Nuclei for Enhanced Communications Capture and Archiving Across Modern Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-nuclei-enhanced-communications-capture-and-archiving) — 21 May 2025 09:0
+- [Cyber dealmaking is hot after another $1B deal](https://www.proofpoint.com/us/newsroom/news/cyber-dealmaking-hot-after-another-1b-deal) — 16 May 2025 09:3
+- [Proofpoint to acquire Hornetsecurity in move to expand Microsoft 365 threat protection](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-move-expand-microsoft-365-threat-protection) — 15 May 2025 09:4
+- [Proofpoint to acquire Hornetsecurity for over $1 billion](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-over-1-billion) — 15 May 2025 09:4
+- [Proofpoint CEO On ‘Monumental’ Hornetsecurity Deal, MSP Growth In US](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-monumental-hornetsecurity-deal-msp-growth-us) — 15 May 2025 09:2
+- [Cybersecurity firm Proofpoint to buy European rival for over $1 billion as it eyes IPO](https://www.proofpoint.com/us/newsroom/news/cybersecurity-firm-proofpoint-buy-european-rival-over-1-billion-it-eyes-ipo) — 15 May 2025 08:4
+- [Proofpoint Signs Definitive Agreement to Acquire Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-signs-definitive-agreement-acquire-hornetsecurity) — 15 May 2025 06:0
+- [North Korea's TA406 Targets Ukraine for Intel](https://www.proofpoint.com/us/newsroom/news/north-koreas-ta406-targets-ukraine-intel) — 13 May 2025 09:3
+- [RSAC 2025: Agentic AI, Identity And The New Rules Of Cyber Defense](https://www.proofpoint.com/us/newsroom/news/rsac-2025-agentic-ai-identity-and-new-rules-cyber-defense) — 12 May 2025 09:3
+
