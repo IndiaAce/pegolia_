@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-05-31
+# 🛡️ Email Security Trends – Updated 2025-06-01
 
 ## 📰 Hacker News
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
