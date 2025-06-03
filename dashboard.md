@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-02
+# 🛡️ Email Security Trends – Updated 2025-06-03
 
 ## 📰 Hacker News
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
@@ -23,7 +23,9 @@
 - [Show HN: SimpleAuth.link – Selfhosted passwordless service with no database](https://simpleauth.link/) — 2025-04-23T16:48
 
 ## 📰 Proofpoint
+- [US Authorities Charge 16 in Operation to Disrupt DanaBot Malware](https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware) — 27 May 2025 10:1
 - [Ransomware Kill Chain Whacked As FBI, Secret Service And Europol Attack](https://www.proofpoint.com/us/newsroom/news/ransomware-kill-chain-whacked-fbi-secret-service-and-europol-attack) — 23 May 2025 07:3
+- [Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks, and Spying](https://www.proofpoint.com/us/newsroom/news/feds-charge-16-russians-allegedly-tied-botnets-used-ransomware-cyberattacks-and-spying) — 22 May 2025 10:1
 - [Proofpoint Acquires Nuclei for Enhanced Communications Capture and Archiving Across Modern Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-nuclei-enhanced-communications-capture-and-archiving) — 21 May 2025 09:0
 - [Cyber dealmaking is hot after another $1B deal](https://www.proofpoint.com/us/newsroom/news/cyber-dealmaking-hot-after-another-1b-deal) — 16 May 2025 09:3
 - [Proofpoint to acquire Hornetsecurity in move to expand Microsoft 365 threat protection](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-move-expand-microsoft-365-threat-protection) — 15 May 2025 09:4
@@ -31,6 +33,4 @@
 - [Proofpoint CEO On ‘Monumental’ Hornetsecurity Deal, MSP Growth In US](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-monumental-hornetsecurity-deal-msp-growth-us) — 15 May 2025 09:2
 - [Cybersecurity firm Proofpoint to buy European rival for over $1 billion as it eyes IPO](https://www.proofpoint.com/us/newsroom/news/cybersecurity-firm-proofpoint-buy-european-rival-over-1-billion-it-eyes-ipo) — 15 May 2025 08:4
 - [Proofpoint Signs Definitive Agreement to Acquire Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-signs-definitive-agreement-acquire-hornetsecurity) — 15 May 2025 06:0
-- [North Korea's TA406 Targets Ukraine for Intel](https://www.proofpoint.com/us/newsroom/news/north-koreas-ta406-targets-ukraine-intel) — 13 May 2025 09:3
-- [RSAC 2025: Agentic AI, Identity And The New Rules Of Cyber Defense](https://www.proofpoint.com/us/newsroom/news/rsac-2025-agentic-ai-identity-and-new-rules-cyber-defense) — 12 May 2025 09:3
 
