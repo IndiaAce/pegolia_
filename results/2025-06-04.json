@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: AI Email Prioritizer \u2013 Auto-Organize Gmail with Nvidia LLM",
+    "link": "https://news.ycombinator.com/item?id=44176161",
+    "published": "2025-06-04T00:25:20Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Proposed Canadian spy bill grants government warrantless access to chat and mail",
     "link": "https://www.canada.ca/en/public-safety-canada/news/2025/06/the-strong-borders-act---government-of-canada-strengthens-border-security.html",
     "published": "2025-06-03T18:16:59Z"
@@ -172,11 +178,5 @@
     "title": "Looking for Feedback for Hardware Server Security",
     "link": "https://news.ycombinator.com/item?id=43798299",
     "published": "2025-04-25T20:39:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Medullar, the AI-Powered Data Discovery and Insight Platform",
-    "link": "https://www.medullar.com",
-    "published": "2025-04-25T08:57:01Z"
   }
 ]
