@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Meaning-Based Judgment Simulation for LLM Interfaces",
+    "link": "https://news.ycombinator.com/item?id=44180465",
+    "published": "2025-06-04T13:21:39Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: AI Email Prioritizer \u2013 Auto-Organize Gmail with Nvidia LLM",
     "link": "https://news.ycombinator.com/item?id=44176161",
     "published": "2025-06-04T00:25:20Z"
@@ -172,11 +178,5 @@
     "title": "Looking for Feedback for Hardware Server Security",
     "link": "https://news.ycombinator.com/item?id=43798299",
     "published": "2025-04-25T20:39:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Medullar, the AI-Powered Data Discovery and Insight Platform",
-    "link": "https://www.medullar.com",
-    "published": "2025-04-25T08:57:01Z"
   }
 ]
