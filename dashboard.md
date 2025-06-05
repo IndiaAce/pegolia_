@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-04
+# 🛡️ Email Security Trends – Updated 2025-06-05
 
 ## 📰 Hacker News
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
