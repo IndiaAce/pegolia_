@@ -3,7 +3,6 @@
 ## 📰 Hacker News
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
 - [Show HN: AI Email Prioritizer – Auto-Organize Gmail with Nvidia LLM](https://news.ycombinator.com/item?id=44176161) — 2025-06-04T00:25
-- [Proposed Canadian spy bill grants government warrantless access to chat and mail](https://www.canada.ca/en/public-safety-canada/news/2025/06/the-strong-borders-act---government-of-canada-strengthens-border-security.html) — 2025-06-03T18:16
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
 - [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer) — 2025-05-30T20:47
 - [Show HN: ServBay – Create Perfect macOS Development Environment with One Click](https://www.servbay.com) — 2025-05-30T12:23
@@ -21,6 +20,7 @@
 - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927) — 2025-04-29T08:18
 - [Top Apps: 7 Best Options for Easy Online](https://news.ycombinator.com/item?id=43829028) — 2025-04-29T05:44
 - [Show HN: Mirror AI – LLM agent that takes action, not just chat](https://themirrorai.com) — 2025-04-27T14:47
+- [Looking for Feedback for Hardware Server Security](https://news.ycombinator.com/item?id=43798299) — 2025-04-25T20:39
 
 ## 📰 Proofpoint
 - [US Authorities Charge 16 in Operation to Disrupt DanaBot Malware](https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware) — 27 May 2025 10:1

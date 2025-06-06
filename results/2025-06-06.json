@@ -73,12 +73,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Proposed Canadian spy bill grants government warrantless access to chat and mail",
-    "link": "https://www.canada.ca/en/public-safety-canada/news/2025/06/the-strong-borders-act---government-of-canada-strengthens-border-security.html",
-    "published": "2025-06-03T18:16:59Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Tell HN: eBay doesn't allow changing country",
     "link": "https://news.ycombinator.com/item?id=44140192",
     "published": "2025-05-30T21:49:56Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: Mirror AI \u2013 LLM agent that takes action, not just chat",
     "link": "https://themirrorai.com",
     "published": "2025-04-27T14:47:49Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Looking for Feedback for Hardware Server Security",
+    "link": "https://news.ycombinator.com/item?id=43798299",
+    "published": "2025-04-25T20:39:43Z"
   }
 ]
