@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-06-06
+# 🛡️ Email Security Trends – Updated 2025-06-07
 
 ## 📰 Hacker News
+- [I Built an AI Agent with Gmail Access and Discovered a Security Hole](https://news.ycombinator.com/item?id=44205881) — 2025-06-06T22:57
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
 - [Show HN: AI Email Prioritizer – Auto-Organize Gmail with Nvidia LLM](https://news.ycombinator.com/item?id=44176161) — 2025-06-04T00:25
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
@@ -20,7 +21,6 @@
 - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927) — 2025-04-29T08:18
 - [Top Apps: 7 Best Options for Easy Online](https://news.ycombinator.com/item?id=43829028) — 2025-04-29T05:44
 - [Show HN: Mirror AI – LLM agent that takes action, not just chat](https://themirrorai.com) — 2025-04-27T14:47
-- [Looking for Feedback for Hardware Server Security](https://news.ycombinator.com/item?id=43798299) — 2025-04-25T20:39
 
 ## 📰 Proofpoint
 - [US Authorities Charge 16 in Operation to Disrupt DanaBot Malware](https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware) — 27 May 2025 10:1
