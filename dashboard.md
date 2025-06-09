@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-08
+# 🛡️ Email Security Trends – Updated 2025-06-09
 
 ## 📰 Hacker News
 - [I Built an AI Agent with Gmail Access and Discovered a Security Hole](https://news.ycombinator.com/item?id=44205881) — 2025-06-06T22:57
