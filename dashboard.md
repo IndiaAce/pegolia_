@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-06-10
 
 ## 📰 Hacker News
+- [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
 - [I Built an AI Agent with Gmail Access and Discovered a Security Hole](https://news.ycombinator.com/item?id=44205881) — 2025-06-06T22:57
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
 - [Show HN: AI Email Prioritizer – Auto-Organize Gmail with Nvidia LLM](https://news.ycombinator.com/item?id=44176161) — 2025-06-04T00:25
@@ -20,9 +21,11 @@
 - [Top Free Fax Apps: 7 Best Options for Easy Online Faxing](https://news.ycombinator.com/item?id=43831674) — 2025-04-29T12:26
 - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927) — 2025-04-29T08:18
 - [Top Apps: 7 Best Options for Easy Online](https://news.ycombinator.com/item?id=43829028) — 2025-04-29T05:44
-- [Show HN: Mirror AI – LLM agent that takes action, not just chat](https://themirrorai.com) — 2025-04-27T14:47
 
 ## 📰 Proofpoint
+- [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
+- [Only Malware in the Building: The great CoGUI caper.](https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper) — 03 Jun 2025 16:3
+- [The Evolving Role of the Modern CISO](https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso) — 27 May 2025 16:3
 - [US Authorities Charge 16 in Operation to Disrupt DanaBot Malware](https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware) — 27 May 2025 10:1
 - [Ransomware Kill Chain Whacked As FBI, Secret Service And Europol Attack](https://www.proofpoint.com/us/newsroom/news/ransomware-kill-chain-whacked-fbi-secret-service-and-europol-attack) — 23 May 2025 07:3
 - [Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks, and Spying](https://www.proofpoint.com/us/newsroom/news/feds-charge-16-russians-allegedly-tied-botnets-used-ransomware-cyberattacks-and-spying) — 22 May 2025 10:1
@@ -30,7 +33,4 @@
 - [Cyber dealmaking is hot after another $1B deal](https://www.proofpoint.com/us/newsroom/news/cyber-dealmaking-hot-after-another-1b-deal) — 16 May 2025 09:3
 - [Proofpoint to acquire Hornetsecurity in move to expand Microsoft 365 threat protection](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-move-expand-microsoft-365-threat-protection) — 15 May 2025 09:4
 - [Proofpoint to acquire Hornetsecurity for over $1 billion](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-over-1-billion) — 15 May 2025 09:4
-- [Proofpoint CEO On ‘Monumental’ Hornetsecurity Deal, MSP Growth In US](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-monumental-hornetsecurity-deal-msp-growth-us) — 15 May 2025 09:2
-- [Cybersecurity firm Proofpoint to buy European rival for over $1 billion as it eyes IPO](https://www.proofpoint.com/us/newsroom/news/cybersecurity-firm-proofpoint-buy-european-rival-over-1-billion-it-eyes-ipo) — 15 May 2025 08:4
-- [Proofpoint Signs Definitive Agreement to Acquire Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-signs-definitive-agreement-acquire-hornetsecurity) — 15 May 2025 06:0
 

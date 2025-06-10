@@ -1,6 +1,24 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands",
+    "link": "https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands",
+    "published": "05 Jun 2025 16:33:55"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Only Malware in the Building: The great CoGUI caper.",
+    "link": "https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper",
+    "published": "03 Jun 2025 16:32:37"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "The Evolving Role of the Modern CISO",
+    "link": "https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso",
+    "published": "27 May 2025 16:35:17"
+  },
+  {
+    "source": "Proofpoint",
     "title": "US Authorities Charge 16 in Operation to Disrupt DanaBot Malware",
     "link": "https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware",
     "published": "27 May 2025 10:16:06"
@@ -42,22 +60,10 @@
     "published": "15 May 2025 09:45:22"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint CEO On \u2018Monumental\u2019 Hornetsecurity Deal, MSP Growth In US",
-    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-monumental-hornetsecurity-deal-msp-growth-us",
-    "published": "15 May 2025 09:25:26"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Cybersecurity firm Proofpoint to buy European rival for over $1 billion as it eyes IPO",
-    "link": "https://www.proofpoint.com/us/newsroom/news/cybersecurity-firm-proofpoint-buy-european-rival-over-1-billion-it-eyes-ipo",
-    "published": "15 May 2025 08:42:03"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Signs Definitive Agreement to Acquire Hornetsecurity",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-signs-definitive-agreement-acquire-hornetsecurity",
-    "published": "15 May 2025 06:00:00"
+    "source": "Hacker News",
+    "title": "Think Twice Before You Click 'Unsubscribe'",
+    "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf",
+    "published": "2025-06-10T15:18:34Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Top Apps: 7 Best Options for Easy Online",
     "link": "https://news.ycombinator.com/item?id=43829028",
     "published": "2025-04-29T05:44:12Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Mirror AI \u2013 LLM agent that takes action, not just chat",
-    "link": "https://themirrorai.com",
-    "published": "2025-04-27T14:47:49Z"
   }
 ]
