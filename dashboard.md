@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-14
+# 🛡️ Email Security Trends – Updated 2025-06-15
 
 ## 📰 Hacker News
 - [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
