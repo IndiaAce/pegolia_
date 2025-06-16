@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-06-16
 
 ## 📰 Hacker News
+- [Best Antidetect Browser Setups for Social Media Marketers](https://news.ycombinator.com/item?id=44287610) — 2025-06-16T08:26
 - [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
 - [I Built an AI Agent with Gmail Access and Discovered a Security Hole](https://news.ycombinator.com/item?id=44205881) — 2025-06-06T22:57
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
@@ -20,7 +21,6 @@
 - [Ask HN: Email Client](https://news.ycombinator.com/item?id=43856576) — 2025-05-01T12:04
 - [Top Free Fax Apps: 7 Best Options for Easy Online Faxing](https://news.ycombinator.com/item?id=43831674) — 2025-04-29T12:26
 - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927) — 2025-04-29T08:18
-- [Top Apps: 7 Best Options for Easy Online](https://news.ycombinator.com/item?id=43829028) — 2025-04-29T05:44
 
 ## 📰 Proofpoint
 - [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
