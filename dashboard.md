@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-16
+# 🛡️ Email Security Trends – Updated 2025-06-17
 
 ## 📰 Hacker News
 - [Best Antidetect Browser Setups for Social Media Marketers](https://news.ycombinator.com/item?id=44287610) — 2025-06-16T08:26
@@ -23,6 +23,7 @@
 - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927) — 2025-04-29T08:18
 
 ## 📰 Proofpoint
+- [Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security) — 16 Jun 2025 08:0
 - [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
 - [Only Malware in the Building: The great CoGUI caper.](https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper) — 03 Jun 2025 16:3
 - [The Evolving Role of the Modern CISO](https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso) — 27 May 2025 16:3
@@ -32,5 +33,4 @@
 - [Proofpoint Acquires Nuclei for Enhanced Communications Capture and Archiving Across Modern Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-nuclei-enhanced-communications-capture-and-archiving) — 21 May 2025 09:0
 - [Cyber dealmaking is hot after another $1B deal](https://www.proofpoint.com/us/newsroom/news/cyber-dealmaking-hot-after-another-1b-deal) — 16 May 2025 09:3
 - [Proofpoint to acquire Hornetsecurity in move to expand Microsoft 365 threat protection](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-move-expand-microsoft-365-threat-protection) — 15 May 2025 09:4
-- [Proofpoint to acquire Hornetsecurity for over $1 billion](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-over-1-billion) — 15 May 2025 09:4
 
