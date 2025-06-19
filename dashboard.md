@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-18
+# 🛡️ Email Security Trends – Updated 2025-06-19
 
 ## 📰 Hacker News
 - [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
