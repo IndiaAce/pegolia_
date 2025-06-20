@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-06-20
 
 ## 📰 Hacker News
+- [Russian Hackers Bypass Gmail MFA with App-Specific Password Ruse](https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse/) — 2025-06-20T16:25
 - [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
 - [Best Antidetect Browser Setups for Social Media Marketers](https://news.ycombinator.com/item?id=44287610) — 2025-06-16T08:26
 - [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
@@ -20,7 +21,6 @@
 - [What do you think about YC Summer 2025 Request for Startups?](https://news.ycombinator.com/item?id=43937709) — 2025-05-09T15:13
 - [Ask HN: If AI is good, why can't Gmail stop the following blatant spammer?](https://news.ycombinator.com/item?id=43872562) — 2025-05-02T17:24
 - [Ask HN: Email Client](https://news.ycombinator.com/item?id=43856576) — 2025-05-01T12:04
-- [Top Free Fax Apps: 7 Best Options for Easy Online Faxing](https://news.ycombinator.com/item?id=43831674) — 2025-04-29T12:26
 
 ## 📰 Proofpoint
 - [Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security) — 16 Jun 2025 08:0
