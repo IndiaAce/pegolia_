@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-21
+# 🛡️ Email Security Trends – Updated 2025-06-22
 
 ## 📰 Hacker News
 - [Russian Hackers Bypass Gmail MFA with App-Specific Password Ruse](https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse/) — 2025-06-20T16:25
