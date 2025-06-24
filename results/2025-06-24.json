@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Supply Chain Security at Scale \u2013 Insights into NPM Account Takeovers",
+    "link": "https://laburity.com/research-npm-account-takeovers/",
+    "published": "2025-06-24T14:18:34Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Encrypted email now available to all Infomaniak users",
     "link": "https://news.infomaniak.com/en/email-encryption/",
     "published": "2025-06-17T07:52:23Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Email Client",
     "link": "https://news.ycombinator.com/item?id=43856576",
     "published": "2025-05-01T12:04:51Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Top Free Fax Apps: 7 Best Options for Easy Online Faxing",
-    "link": "https://news.ycombinator.com/item?id=43831674",
-    "published": "2025-04-29T12:26:36Z"
   }
 ]
