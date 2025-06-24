@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-23
+# 🛡️ Email Security Trends – Updated 2025-06-24
 
 ## 📰 Hacker News
 - [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
@@ -23,6 +23,7 @@
 - [Top Free Fax Apps: 7 Best Options for Easy Online Faxing](https://news.ycombinator.com/item?id=43831674) — 2025-04-29T12:26
 
 ## 📰 Proofpoint
+- [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
 - [Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security) — 16 Jun 2025 08:0
 - [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
 - [Only Malware in the Building: The great CoGUI caper.](https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper) — 03 Jun 2025 16:3
@@ -32,5 +33,4 @@
 - [Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks, and Spying](https://www.proofpoint.com/us/newsroom/news/feds-charge-16-russians-allegedly-tied-botnets-used-ransomware-cyberattacks-and-spying) — 22 May 2025 10:1
 - [Proofpoint Acquires Nuclei for Enhanced Communications Capture and Archiving Across Modern Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-nuclei-enhanced-communications-capture-and-archiving) — 21 May 2025 09:0
 - [Cyber dealmaking is hot after another $1B deal](https://www.proofpoint.com/us/newsroom/news/cyber-dealmaking-hot-after-another-1b-deal) — 16 May 2025 09:3
-- [Proofpoint to acquire Hornetsecurity in move to expand Microsoft 365 threat protection](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-hornetsecurity-move-expand-microsoft-365-threat-protection) — 15 May 2025 09:4
 
