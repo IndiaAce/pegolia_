@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-24
+# 🛡️ Email Security Trends – Updated 2025-06-25
 
 ## 📰 Hacker News
 - [Show HN: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) — 2025-06-24T14:18
