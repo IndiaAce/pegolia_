@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-06-25
+# 🛡️ Email Security Trends – Updated 2025-06-26
 
 ## 📰 Hacker News
+- [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
 - [Show HN: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) — 2025-06-24T14:18
 - [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
 - [Best Antidetect Browser Setups for Social Media Marketers](https://news.ycombinator.com/item?id=44287610) — 2025-06-16T08:26
@@ -20,7 +21,6 @@
 - [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave) — 2025-05-12T15:34
 - [What do you think about YC Summer 2025 Request for Startups?](https://news.ycombinator.com/item?id=43937709) — 2025-05-09T15:13
 - [Ask HN: If AI is good, why can't Gmail stop the following blatant spammer?](https://news.ycombinator.com/item?id=43872562) — 2025-05-02T17:24
-- [Ask HN: Email Client](https://news.ycombinator.com/item?id=43856576) — 2025-05-01T12:04
 
 ## 📰 Proofpoint
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
