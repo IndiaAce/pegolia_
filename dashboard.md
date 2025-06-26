@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-06-26
 
 ## 📰 Hacker News
+- [Show HN: Taurin – Local First AI Email Client](https://www.taurin.io/) — 2025-06-26T11:20
 - [Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency](https://news.ycombinator.com/item?id=44383534) — 2025-06-26T01:52
 - [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
 - [Show HN: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) — 2025-06-24T14:18
@@ -20,7 +21,6 @@
 - [Ask HN: Email Provider for Main Account?](https://news.ycombinator.com/item?id=43993833) — 2025-05-15T11:19
 - [M&S Cyber Incident Apology](https://news.ycombinator.com/item?id=43984532) — 2025-05-14T13:50
 - [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave) — 2025-05-12T15:34
-- [What do you think about YC Summer 2025 Request for Startups?](https://news.ycombinator.com/item?id=43937709) — 2025-05-09T15:13
 
 ## 📰 Proofpoint
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1

@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Taurin \u2013 Local First AI Email Client",
+    "link": "https://www.taurin.io/",
+    "published": "2025-06-26T11:20:46Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency",
     "link": "https://news.ycombinator.com/item?id=44383534",
     "published": "2025-06-26T01:52:54Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Airweave \u2013 Let agents search any app",
     "link": "https://github.com/airweave-ai/airweave",
     "published": "2025-05-12T15:34:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "What do you think about YC Summer 2025 Request for Startups?",
-    "link": "https://news.ycombinator.com/item?id=43937709",
-    "published": "2025-05-09T15:13:53Z"
   }
 ]
