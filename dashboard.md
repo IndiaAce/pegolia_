@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-27
+# 🛡️ Email Security Trends – Updated 2025-06-28
 
 ## 📰 Hacker News
 - [Show HN: Taurin – Local First AI Email Client](https://www.taurin.io/) — 2025-06-26T11:20
@@ -23,6 +23,9 @@
 - [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave) — 2025-05-12T15:34
 
 ## 📰 Proofpoint
+- [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 27 Jun 2025 10:0
+- [Password Spraying Attacks Hit Entra ID Accounts](https://www.proofpoint.com/us/newsroom/news/password-spraying-attacks-hit-entra-id-accounts) — 27 Jun 2025 09:4
+- [Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe](https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe) — 27 Jun 2025 09:3
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
 - [Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security) — 16 Jun 2025 08:0
 - [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
@@ -30,7 +33,4 @@
 - [The Evolving Role of the Modern CISO](https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso) — 27 May 2025 16:3
 - [US Authorities Charge 16 in Operation to Disrupt DanaBot Malware](https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware) — 27 May 2025 10:1
 - [Ransomware Kill Chain Whacked As FBI, Secret Service And Europol Attack](https://www.proofpoint.com/us/newsroom/news/ransomware-kill-chain-whacked-fbi-secret-service-and-europol-attack) — 23 May 2025 07:3
-- [Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks, and Spying](https://www.proofpoint.com/us/newsroom/news/feds-charge-16-russians-allegedly-tied-botnets-used-ransomware-cyberattacks-and-spying) — 22 May 2025 10:1
-- [Proofpoint Acquires Nuclei for Enhanced Communications Capture and Archiving Across Modern Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-nuclei-enhanced-communications-capture-and-archiving) — 21 May 2025 09:0
-- [Cyber dealmaking is hot after another $1B deal](https://www.proofpoint.com/us/newsroom/news/cyber-dealmaking-hot-after-another-1b-deal) — 16 May 2025 09:3
 
