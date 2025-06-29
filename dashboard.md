@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-06-29
 
 ## 📰 Hacker News
+- [Show HN: Cipherhood – Cybersecurity and Recovery for Hacked Users](https://news.ycombinator.com/item?id=44412280) — 2025-06-29T11:38
+- [Show HN: Cipherhood – Recover Hacked Accounts with Ethical Hacking](https://news.ycombinator.com/item?id=44412237) — 2025-06-29T11:30
 - [Show HN: Taurin – Local First AI Email Client](https://www.taurin.io/) — 2025-06-26T11:20
 - [Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency](https://news.ycombinator.com/item?id=44383534) — 2025-06-26T01:52
 - [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
@@ -19,8 +21,6 @@
 - [Ask HN: Setting up custom domain for email](https://news.ycombinator.com/item?id=44022039) — 2025-05-18T15:22
 - [GitHub turns on code security billing but you can't turn it off](https://news.ycombinator.com/item?id=44021499) — 2025-05-18T14:03
 - [Ask HN: Email Provider for Main Account?](https://news.ycombinator.com/item?id=43993833) — 2025-05-15T11:19
-- [M&S Cyber Incident Apology](https://news.ycombinator.com/item?id=43984532) — 2025-05-14T13:50
-- [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave) — 2025-05-12T15:34
 
 ## 📰 Proofpoint
 - [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 27 Jun 2025 10:0

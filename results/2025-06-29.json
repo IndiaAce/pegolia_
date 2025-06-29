@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Cipherhood \u2013 Cybersecurity and Recovery for Hacked Users",
+    "link": "https://news.ycombinator.com/item?id=44412280",
+    "published": "2025-06-29T11:38:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Cipherhood \u2013 Recover Hacked Accounts with Ethical Hacking",
+    "link": "https://news.ycombinator.com/item?id=44412237",
+    "published": "2025-06-29T11:30:39Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Taurin \u2013 Local First AI Email Client",
     "link": "https://www.taurin.io/",
     "published": "2025-06-26T11:20:46Z"
@@ -166,17 +178,5 @@
     "title": "Ask HN: Email Provider for Main Account?",
     "link": "https://news.ycombinator.com/item?id=43993833",
     "published": "2025-05-15T11:19:55Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "M&S Cyber Incident Apology",
-    "link": "https://news.ycombinator.com/item?id=43984532",
-    "published": "2025-05-14T13:50:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Airweave \u2013 Let agents search any app",
-    "link": "https://github.com/airweave-ai/airweave",
-    "published": "2025-05-12T15:34:21Z"
   }
 ]
