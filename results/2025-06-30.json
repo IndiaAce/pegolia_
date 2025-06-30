@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Future of post-open-source? Considering a \"source-visible, non-runnable\" license",
+    "link": "https://news.ycombinator.com/item?id=44425545",
+    "published": "2025-06-30T17:01:25Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Taurin \u2013 Local First AI Email Client",
     "link": "https://www.taurin.io/",
     "published": "2025-06-26T11:20:46Z"
@@ -172,11 +178,5 @@
     "title": "M&S Cyber Incident Apology",
     "link": "https://news.ycombinator.com/item?id=43984532",
     "published": "2025-05-14T13:50:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Airweave \u2013 Let agents search any app",
-    "link": "https://github.com/airweave-ai/airweave",
-    "published": "2025-05-12T15:34:21Z"
   }
 ]

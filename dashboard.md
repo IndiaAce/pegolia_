@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-06-30
 
 ## 📰 Hacker News
+- [Future of post-open-source? Considering a "source-visible, non-runnable" license](https://news.ycombinator.com/item?id=44425545) — 2025-06-30T17:01
 - [Show HN: Taurin – Local First AI Email Client](https://www.taurin.io/) — 2025-06-26T11:20
 - [Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency](https://news.ycombinator.com/item?id=44383534) — 2025-06-26T01:52
 - [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
@@ -20,7 +21,6 @@
 - [GitHub turns on code security billing but you can't turn it off](https://news.ycombinator.com/item?id=44021499) — 2025-05-18T14:03
 - [Ask HN: Email Provider for Main Account?](https://news.ycombinator.com/item?id=43993833) — 2025-05-15T11:19
 - [M&S Cyber Incident Apology](https://news.ycombinator.com/item?id=43984532) — 2025-05-14T13:50
-- [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave) — 2025-05-12T15:34
 
 ## 📰 Proofpoint
 - [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 27 Jun 2025 10:0
