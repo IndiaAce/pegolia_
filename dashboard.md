@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-06-30
+# 🛡️ Email Security Trends – Updated 2025-07-01
 
 ## 📰 Hacker News
 - [Future of post-open-source? Considering a "source-visible, non-runnable" license](https://news.ycombinator.com/item?id=44425545) — 2025-06-30T17:01
@@ -23,11 +23,11 @@
 - [M&S Cyber Incident Apology](https://news.ycombinator.com/item?id=43984532) — 2025-05-14T13:50
 
 ## 📰 Proofpoint
-- [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 27 Jun 2025 10:0
-- [Password Spraying Attacks Hit Entra ID Accounts](https://www.proofpoint.com/us/newsroom/news/password-spraying-attacks-hit-entra-id-accounts) — 27 Jun 2025 09:4
-- [Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe](https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe) — 27 Jun 2025 09:3
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
+- [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 17 Jun 2025 10:0
+- [Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe](https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe) — 16 Jun 2025 09:3
 - [Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security) — 16 Jun 2025 08:0
+- [Password Spraying Attacks Hit Entra ID Accounts](https://www.proofpoint.com/us/newsroom/news/password-spraying-attacks-hit-entra-id-accounts) — 12 Jun 2025 09:4
 - [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
 - [Only Malware in the Building: The great CoGUI caper.](https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper) — 03 Jun 2025 16:3
 - [The Evolving Role of the Modern CISO](https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso) — 27 May 2025 16:3
