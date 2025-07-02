@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2025-07-01
+# 🛡️ Email Security Trends – Updated 2025-07-02
 
 ## 📰 Hacker News
+- [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
+- [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 - [Future of post-open-source? Considering a "source-visible, non-runnable" license](https://news.ycombinator.com/item?id=44425545) — 2025-06-30T17:01
 - [Show HN: Taurin – Local First AI Email Client](https://www.taurin.io/) — 2025-06-26T11:20
 - [Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency](https://news.ycombinator.com/item?id=44383534) — 2025-06-26T01:52
@@ -19,8 +21,6 @@
 - [DigitalOcean terminating business account with no details given](https://news.ycombinator.com/item?id=44109627) — 2025-05-27T18:46
 - [Ask HN: Setting up custom domain for email](https://news.ycombinator.com/item?id=44022039) — 2025-05-18T15:22
 - [GitHub turns on code security billing but you can't turn it off](https://news.ycombinator.com/item?id=44021499) — 2025-05-18T14:03
-- [Ask HN: Email Provider for Main Account?](https://news.ycombinator.com/item?id=43993833) — 2025-05-15T11:19
-- [M&S Cyber Incident Apology](https://news.ycombinator.com/item?id=43984532) — 2025-05-14T13:50
 
 ## 📰 Proofpoint
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
