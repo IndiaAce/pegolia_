@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-07-03
 
 ## 📰 Hacker News
+- [Tell HN: Google says "not vuln", fixes hours later without attribution](https://news.ycombinator.com/item?id=44456382) — 2025-07-03T15:58
+- [Tell HN: Google banned me for reporting CT vulns they fixed hours later](https://news.ycombinator.com/item?id=44454141) — 2025-07-03T12:04
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 - [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
 - [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
@@ -19,10 +21,10 @@
 - [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer) — 2025-05-30T20:47
 - [Show HN: ServBay – Create Perfect macOS Development Environment with One Click](https://www.servbay.com) — 2025-05-30T12:23
 - [3-Week MVP Sprint (Node/React/AWS) – 2 free builds for early partners](https://github.com/mackerricher/3week-mvp-sprint/blob/main/README.md) — 2025-05-28T21:30
-- [DigitalOcean terminating business account with no details given](https://news.ycombinator.com/item?id=44109627) — 2025-05-27T18:46
-- [Ask HN: Setting up custom domain for email](https://news.ycombinator.com/item?id=44022039) — 2025-05-18T15:22
 
 ## 📰 Proofpoint
+- [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
+- [Scammers have a new tactic: impersonating DOGE](https://www.proofpoint.com/us/newsroom/news/scammers-have-new-tactic-impersonating-doge) — 30 Jun 2025 15:0
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
 - [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 17 Jun 2025 10:0
 - [Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe](https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe) — 16 Jun 2025 09:3
@@ -31,6 +33,4 @@
 - [Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands](https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands) — 05 Jun 2025 16:3
 - [Only Malware in the Building: The great CoGUI caper.](https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper) — 03 Jun 2025 16:3
 - [The Evolving Role of the Modern CISO](https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso) — 27 May 2025 16:3
-- [US Authorities Charge 16 in Operation to Disrupt DanaBot Malware](https://www.proofpoint.com/us/newsroom/news/us-authorities-charge-16-operation-disrupt-danabot-malware) — 27 May 2025 10:1
-- [Ransomware Kill Chain Whacked As FBI, Secret Service And Europol Attack](https://www.proofpoint.com/us/newsroom/news/ransomware-kill-chain-whacked-fbi-secret-service-and-europol-attack) — 23 May 2025 07:3
 
