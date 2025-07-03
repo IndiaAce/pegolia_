@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-07-02
+# 🛡️ Email Security Trends – Updated 2025-07-03
 
 ## 📰 Hacker News
+- [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 - [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
 - [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 - [Future of post-open-source? Considering a "source-visible, non-runnable" license](https://news.ycombinator.com/item?id=44425545) — 2025-06-30T17:01
@@ -20,7 +21,6 @@
 - [3-Week MVP Sprint (Node/React/AWS) – 2 free builds for early partners](https://github.com/mackerricher/3week-mvp-sprint/blob/main/README.md) — 2025-05-28T21:30
 - [DigitalOcean terminating business account with no details given](https://news.ycombinator.com/item?id=44109627) — 2025-05-27T18:46
 - [Ask HN: Setting up custom domain for email](https://news.ycombinator.com/item?id=44022039) — 2025-05-18T15:22
-- [GitHub turns on code security billing but you can't turn it off](https://news.ycombinator.com/item?id=44021499) — 2025-05-18T14:03
 
 ## 📰 Proofpoint
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
