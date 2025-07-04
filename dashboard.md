@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-07-03
+# 🛡️ Email Security Trends – Updated 2025-07-04
 
 ## 📰 Hacker News
+- [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Tell HN: Google says "not vuln", fixes hours later without attribution](https://news.ycombinator.com/item?id=44456382) — 2025-07-03T15:58
 - [Tell HN: Google banned me for reporting CT vulns they fixed hours later](https://news.ycombinator.com/item?id=44454141) — 2025-07-03T12:04
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
@@ -20,7 +21,6 @@
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
 - [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer) — 2025-05-30T20:47
 - [Show HN: ServBay – Create Perfect macOS Development Environment with One Click](https://www.servbay.com) — 2025-05-30T12:23
-- [3-Week MVP Sprint (Node/React/AWS) – 2 free builds for early partners](https://github.com/mackerricher/3week-mvp-sprint/blob/main/README.md) — 2025-05-28T21:30
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1

@@ -1,0 +1,182 @@
+[
+  {
+    "source": "Proofpoint",
+    "title": "TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure",
+    "link": "https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure",
+    "published": "02 Jul 2025 13:14:54"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Scammers have a new tactic: impersonating DOGE",
+    "link": "https://www.proofpoint.com/us/newsroom/news/scammers-have-new-tactic-impersonating-doge",
+    "published": "30 Jun 2025 15:07:43"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager",
+    "published": "23 Jun 2025 09:14:09"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint, Wiz Partner on Cloud Security",
+    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security",
+    "published": "17 Jun 2025 10:03:12"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe",
+    "link": "https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe",
+    "published": "16 Jun 2025 09:33:25"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security",
+    "published": "16 Jun 2025 08:01:23"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Password Spraying Attacks Hit Entra ID Accounts",
+    "link": "https://www.proofpoint.com/us/newsroom/news/password-spraying-attacks-hit-entra-id-accounts",
+    "published": "12 Jun 2025 09:43:37"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands",
+    "link": "https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands",
+    "published": "05 Jun 2025 16:33:55"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Only Malware in the Building: The great CoGUI caper.",
+    "link": "https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper",
+    "published": "03 Jun 2025 16:32:37"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "The Evolving Role of the Modern CISO",
+    "link": "https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso",
+    "published": "27 May 2025 16:35:17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Twilio account suspended minutes after making a $20 payment",
+    "link": "https://news.ycombinator.com/item?id=44459439",
+    "published": "2025-07-03T21:45:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tell HN: Google says \"not vuln\", fixes hours later without attribution",
+    "link": "https://news.ycombinator.com/item?id=44456382",
+    "published": "2025-07-03T15:58:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tell HN: Google banned me for reporting CT vulns they fixed hours later",
+    "link": "https://news.ycombinator.com/item?id=44454141",
+    "published": "2025-07-03T12:04:57Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: a community for collaborating on sideprojects",
+    "link": "https://relentlessly.no/",
+    "published": "2025-07-02T18:32:33Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built a enterprise level SaaS kit",
+    "link": "https://www.launchkitaws.com/",
+    "published": "2025-07-01T22:10:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Manage Gmail with Voice While Driving",
+    "link": "https://harmony.com.ai",
+    "published": "2025-07-01T19:56:10Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Future of post-open-source? Considering a \"source-visible, non-runnable\" license",
+    "link": "https://news.ycombinator.com/item?id=44425545",
+    "published": "2025-06-30T17:01:25Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Taurin \u2013 Local First AI Email Client",
+    "link": "https://www.taurin.io/",
+    "published": "2025-06-26T11:20:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency",
+    "link": "https://news.ycombinator.com/item?id=44383534",
+    "published": "2025-06-26T01:52:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Free Security.txt Monitoring and Expiration Warning Service",
+    "link": "https://securitytxt-reminder.email",
+    "published": "2025-06-25T19:13:16Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Supply Chain Security at Scale \u2013 Insights into NPM Account Takeovers",
+    "link": "https://laburity.com/research-npm-account-takeovers/",
+    "published": "2025-06-24T14:18:34Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Encrypted email now available to all Infomaniak users",
+    "link": "https://news.infomaniak.com/en/email-encryption/",
+    "published": "2025-06-17T07:52:23Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Best Antidetect Browser Setups for Social Media Marketers",
+    "link": "https://news.ycombinator.com/item?id=44287610",
+    "published": "2025-06-16T08:26:23Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Think Twice Before You Click 'Unsubscribe'",
+    "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf",
+    "published": "2025-06-10T15:18:34Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I Built an AI Agent with Gmail Access and Discovered a Security Hole",
+    "link": "https://news.ycombinator.com/item?id=44205881",
+    "published": "2025-06-06T22:57:25Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Meaning-Based Judgment Simulation for LLM Interfaces",
+    "link": "https://news.ycombinator.com/item?id=44180465",
+    "published": "2025-06-04T13:21:39Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: AI Email Prioritizer \u2013 Auto-Organize Gmail with Nvidia LLM",
+    "link": "https://news.ycombinator.com/item?id=44176161",
+    "published": "2025-06-04T00:25:20Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tell HN: eBay doesn't allow changing country",
+    "link": "https://news.ycombinator.com/item?id=44140192",
+    "published": "2025-05-30T21:49:56Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Changefly \u2013 Rebuilding the foundation of privacy and authentication",
+    "link": "https://www.changefly.com/developer",
+    "published": "2025-05-30T20:47:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: ServBay \u2013 Create Perfect macOS Development Environment with One Click",
+    "link": "https://www.servbay.com",
+    "published": "2025-05-30T12:23:13Z"
+  }
+]
