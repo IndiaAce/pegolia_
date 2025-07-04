@@ -1,9 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2025-07-04
 
 ## 📰 Hacker News
+- [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Tell HN: Google says "not vuln", fixes hours later without attribution](https://news.ycombinator.com/item?id=44456382) — 2025-07-03T15:58
-- [Tell HN: Google banned me for reporting CT vulns they fixed hours later](https://news.ycombinator.com/item?id=44454141) — 2025-07-03T12:04
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 - [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
 - [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
