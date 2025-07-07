@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-06
+# 🛡️ Email Security Trends – Updated 2025-07-07
 
 ## 📰 Hacker News
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
