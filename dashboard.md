@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2025-07-10
+# 🛡️ Email Security Trends – Updated 2025-07-11
 
 ## 📰 Hacker News
+- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
+- [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
@@ -19,8 +21,6 @@
 - [Show HN: AI Email Prioritizer – Auto-Organize Gmail with Nvidia LLM](https://news.ycombinator.com/item?id=44176161) — 2025-06-04T00:25
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
 - [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer) — 2025-05-30T20:47
-- [Show HN: ServBay – Create Perfect macOS Development Environment with One Click](https://www.servbay.com) — 2025-05-30T12:23
-- [3-Week MVP Sprint (Node/React/AWS) – 2 free builds for early partners](https://github.com/mackerricher/3week-mvp-sprint/blob/main/README.md) — 2025-05-28T21:30
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
