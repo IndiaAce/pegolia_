@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-07-11
 
 ## 📰 Hacker News
+- [Submatrix Cloud Phone and Cloud Storage](https://news.ycombinator.com/item?id=44530462) — 2025-07-11T10:18
 - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
@@ -20,7 +21,6 @@
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
 - [Show HN: AI Email Prioritizer – Auto-Organize Gmail with Nvidia LLM](https://news.ycombinator.com/item?id=44176161) — 2025-06-04T00:25
 - [Tell HN: eBay doesn't allow changing country](https://news.ycombinator.com/item?id=44140192) — 2025-05-30T21:49
-- [Show HN: Changefly – Rebuilding the foundation of privacy and authentication](https://www.changefly.com/developer) — 2025-05-30T20:47
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
