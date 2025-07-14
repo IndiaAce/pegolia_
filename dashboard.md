@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-13
+# 🛡️ Email Security Trends – Updated 2025-07-14
 
 ## 📰 Hacker News
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
