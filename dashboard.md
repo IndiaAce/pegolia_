@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-07-15
 
 ## 📰 Hacker News
+- [Show HN: ZeroDayPublishing – Real-time CVE alerts with filtering and digests](https://zerodaypublishing.com) — 2025-07-15T15:06
+- [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
 - [Submatrix Cloud Phone and Cloud Storage](https://news.ycombinator.com/item?id=44530462) — 2025-07-11T10:18
@@ -19,8 +21,6 @@
 - [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
 - [Best Antidetect Browser Setups for Social Media Marketers](https://news.ycombinator.com/item?id=44287610) — 2025-06-16T08:26
 - [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
-- [I Built an AI Agent with Gmail Access and Discovered a Security Hole](https://news.ycombinator.com/item?id=44205881) — 2025-06-06T22:57
-- [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1

@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: ZeroDayPublishing \u2013 Real-time CVE alerts with filtering and digests",
+    "link": "https://zerodaypublishing.com",
+    "published": "2025-07-15T15:06:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google Gemini Tricked into Showing Phishing Message Hidden in Email",
+    "link": "https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/",
+    "published": "2025-07-15T13:23:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Google Gemini flaw hijacks email summaries for phishing",
     "link": "https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/",
     "published": "2025-07-14T20:50:10Z"
@@ -166,17 +178,5 @@
     "title": "Think Twice Before You Click 'Unsubscribe'",
     "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf",
     "published": "2025-06-10T15:18:34Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I Built an AI Agent with Gmail Access and Discovered a Security Hole",
-    "link": "https://news.ycombinator.com/item?id=44205881",
-    "published": "2025-06-06T22:57:25Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Meaning-Based Judgment Simulation for LLM Interfaces",
-    "link": "https://news.ycombinator.com/item?id=44180465",
-    "published": "2025-06-04T13:21:39Z"
   }
 ]
