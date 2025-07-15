@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-07-14
+# 🛡️ Email Security Trends – Updated 2025-07-15
 
 ## 📰 Hacker News
+- [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
 - [Submatrix Cloud Phone and Cloud Storage](https://news.ycombinator.com/item?id=44530462) — 2025-07-11T10:18
 - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
@@ -20,7 +21,6 @@
 - [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
 - [I Built an AI Agent with Gmail Access and Discovered a Security Hole](https://news.ycombinator.com/item?id=44205881) — 2025-06-06T22:57
 - [Show HN: Meaning-Based Judgment Simulation for LLM Interfaces](https://news.ycombinator.com/item?id=44180465) — 2025-06-04T13:21
-- [Show HN: AI Email Prioritizer – Auto-Organize Gmail with Nvidia LLM](https://news.ycombinator.com/item?id=44176161) — 2025-06-04T00:25
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
