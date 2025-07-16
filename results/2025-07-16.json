@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Streamline Global Client Communication with 20 Secure Accounts",
+    "link": "https://news.ycombinator.com/item?id=44580876",
+    "published": "2025-07-16T11:09:07Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: ZeroDayPublishing \u2013 Real-time CVE alerts with filtering and digests",
     "link": "https://zerodaypublishing.com",
     "published": "2025-07-15T15:06:42Z"
@@ -172,11 +178,5 @@
     "title": "Best Antidetect Browser Setups for Social Media Marketers",
     "link": "https://news.ycombinator.com/item?id=44287610",
     "published": "2025-06-16T08:26:23Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Think Twice Before You Click 'Unsubscribe'",
-    "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf",
-    "published": "2025-06-10T15:18:34Z"
   }
 ]
