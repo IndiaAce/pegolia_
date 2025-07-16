@@ -97,12 +97,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
-    "link": "https://github.com/fosrl/pangolin",
-    "published": "2025-07-10T21:50:43Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -178,5 +172,11 @@
     "title": "Best Antidetect Browser Setups for Social Media Marketers",
     "link": "https://news.ycombinator.com/item?id=44287610",
     "published": "2025-06-16T08:26:23Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Think Twice Before You Click 'Unsubscribe'",
+    "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf",
+    "published": "2025-06-10T15:18:34Z"
   }
 ]
