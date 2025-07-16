@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-15
+# 🛡️ Email Security Trends – Updated 2025-07-16
 
 ## 📰 Hacker News
 - [Show HN: ZeroDayPublishing – Real-time CVE alerts with filtering and digests](https://zerodaypublishing.com) — 2025-07-15T15:06
