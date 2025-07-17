@@ -20,7 +20,7 @@
 - [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
 - [Show HN: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) — 2025-06-24T14:18
 - [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
-- [Best Antidetect Browser Setups for Social Media Marketers](https://news.ycombinator.com/item?id=44287610) — 2025-06-16T08:26
+- [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
