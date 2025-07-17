@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Breaking Device and Network Barriers to Ensure Stable Cross-Border Teaching",
+    "link": "https://news.ycombinator.com/item?id=44591554",
+    "published": "2025-07-17T10:00:32Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Code Execution Through Email: How I Used Claude to Hack Itself",
+    "link": "https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself",
+    "published": "2025-07-17T06:32:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Streamline Global Client Communication with 20 Secure Accounts",
     "link": "https://news.ycombinator.com/item?id=44580876",
     "published": "2025-07-16T11:09:07Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Supply Chain Security at Scale \u2013 Insights into NPM Account Takeovers",
     "link": "https://laburity.com/research-npm-account-takeovers/",
     "published": "2025-06-24T14:18:34Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Encrypted email now available to all Infomaniak users",
-    "link": "https://news.infomaniak.com/en/email-encryption/",
-    "published": "2025-06-17T07:52:23Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Think Twice Before You Click 'Unsubscribe'",
-    "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf",
-    "published": "2025-06-10T15:18:34Z"
   }
 ]

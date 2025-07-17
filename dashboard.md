@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-07-17
 
 ## 📰 Hacker News
+- [Breaking Device and Network Barriers to Ensure Stable Cross-Border Teaching](https://news.ycombinator.com/item?id=44591554) — 2025-07-17T10:00
+- [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
 - [Streamline Global Client Communication with 20 Secure Accounts](https://news.ycombinator.com/item?id=44580876) — 2025-07-16T11:09
 - [Show HN: ZeroDayPublishing – Real-time CVE alerts with filtering and digests](https://zerodaypublishing.com) — 2025-07-15T15:06
 - [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
@@ -19,8 +21,6 @@
 - [Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency](https://news.ycombinator.com/item?id=44383534) — 2025-06-26T01:52
 - [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
 - [Show HN: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) — 2025-06-24T14:18
-- [Encrypted email now available to all Infomaniak users](https://news.infomaniak.com/en/email-encryption/) — 2025-06-17T07:52
-- [Think Twice Before You Click 'Unsubscribe'](https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf) — 2025-06-10T15:18
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
