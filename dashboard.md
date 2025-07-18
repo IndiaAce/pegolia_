@@ -1,8 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2025-07-17
+# 🛡️ Email Security Trends – Updated 2025-07-18
 
 ## 📰 Hacker News
 - [Breaking Device and Network Barriers to Ensure Stable Cross-Border Teaching](https://news.ycombinator.com/item?id=44591554) — 2025-07-17T10:00
-- [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
+- [Code execution through email: How I used Claude to hack itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
 - [Streamline Global Client Communication with 20 Secure Accounts](https://news.ycombinator.com/item?id=44580876) — 2025-07-16T11:09
 - [Show HN: ZeroDayPublishing – Real-time CVE alerts with filtering and digests](https://zerodaypublishing.com) — 2025-07-15T15:06
 - [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
