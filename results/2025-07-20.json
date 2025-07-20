@@ -115,12 +115,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
-    "link": "https://github.com/fosrl/pangolin",
-    "published": "2025-07-10T21:50:43Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -178,5 +172,11 @@
     "title": "A Free Security.txt Monitoring and Expiration Warning Service",
     "link": "https://securitytxt-reminder.email",
     "published": "2025-06-25T19:13:16Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Supply Chain Security at Scale \u2013 Insights into NPM Account Takeovers",
+    "link": "https://laburity.com/research-npm-account-takeovers/",
+    "published": "2025-06-24T14:18:34Z"
   }
 ]
