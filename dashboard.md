@@ -1,6 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2025-07-21
 
 ## 📰 Hacker News
+- [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
+- [Show HN: An API for human-powered browser tasks](https://browser-work.com/) — 2025-07-21T16:16
+- [Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?](https://news.ycombinator.com/item?id=44634336) — 2025-07-21T12:27
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
 - [Breaking Device and Network Barriers to Ensure Stable Cross-Border Teaching](https://news.ycombinator.com/item?id=44591554) — 2025-07-17T10:00
 - [Code execution through email: How I used Claude to hack itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
@@ -18,9 +21,6 @@
 - [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 - [Future of post-open-source? Considering a "source-visible, non-runnable" license](https://news.ycombinator.com/item?id=44425545) — 2025-06-30T17:01
 - [Show HN: Taurin – Local First AI Email Client](https://www.taurin.io/) — 2025-06-26T11:20
-- [Ask HN: Seeking Publisher for a Book on AI, Creativity and Human Agency](https://news.ycombinator.com/item?id=44383534) — 2025-06-26T01:52
-- [A Free Security.txt Monitoring and Expiration Warning Service](https://securitytxt-reminder.email) — 2025-06-25T19:13
-- [Show HN: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) — 2025-06-24T14:18
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
