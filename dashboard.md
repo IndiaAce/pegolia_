@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-20
+# 🛡️ Email Security Trends – Updated 2025-07-21
 
 ## 📰 Hacker News
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
