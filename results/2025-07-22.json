@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Support Amazon Multi-Site Operations for Cross-Border E-Commerce",
+    "link": "https://news.ycombinator.com/item?id=44645303",
+    "published": "2025-07-22T10:42:24Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Built an email marketing platform after paying $230/month",
     "link": "https://www.fertit.com",
     "published": "2025-07-21T17:09:03Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Manage Gmail with Voice While Driving",
     "link": "https://harmony.com.ai",
     "published": "2025-07-01T19:56:10Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Future of post-open-source? Considering a \"source-visible, non-runnable\" license",
-    "link": "https://news.ycombinator.com/item?id=44425545",
-    "published": "2025-06-30T17:01:25Z"
   }
 ]

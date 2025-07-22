@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-07-22
 
 ## 📰 Hacker News
+- [Support Amazon Multi-Site Operations for Cross-Border E-Commerce](https://news.ycombinator.com/item?id=44645303) — 2025-07-22T10:42
 - [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
 - [Show HN: An API for human-powered browser tasks](https://browser-work.com/) — 2025-07-21T16:16
 - [Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?](https://news.ycombinator.com/item?id=44634336) — 2025-07-21T12:27
@@ -20,7 +21,6 @@
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 - [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
 - [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
-- [Future of post-open-source? Considering a "source-visible, non-runnable" license](https://news.ycombinator.com/item?id=44425545) — 2025-06-30T17:01
 
 ## 📰 Proofpoint
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
