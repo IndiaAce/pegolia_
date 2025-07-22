@@ -139,12 +139,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
-    "link": "https://github.com/fosrl/pangolin",
-    "published": "2025-07-10T21:50:43Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: Manage Gmail with Voice While Driving",
     "link": "https://harmony.com.ai",
     "published": "2025-07-01T19:56:10Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Future of post-open-source? Considering a \"source-visible, non-runnable\" license",
+    "link": "https://news.ycombinator.com/item?id=44425545",
+    "published": "2025-06-30T17:01:25Z"
   }
 ]
