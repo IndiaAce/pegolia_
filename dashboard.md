@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-22
+# 🛡️ Email Security Trends – Updated 2025-07-23
 
 ## 📰 Hacker News
 - [Support Amazon Multi-Site Operations for Cross-Border E-Commerce](https://news.ycombinator.com/item?id=44645303) — 2025-07-22T10:42
