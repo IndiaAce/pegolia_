@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "OneNoughtOne \u2013 AI That Turns Conversations into Actions Across Your Digital Life",
+    "link": "https://news.ycombinator.com/item?id=44661394",
+    "published": "2025-07-23T16:58:59Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: NextDevKit \u2013 Next.js and OpenNext SaaS Template, Goodbye Vercel Bills",
     "link": "https://nextdevkit.com",
     "published": "2025-07-23T04:54:02Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: a community for collaborating on sideprojects",
     "link": "https://relentlessly.no/",
     "published": "2025-07-02T18:32:33Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a enterprise level SaaS kit",
-    "link": "https://www.launchkitaws.com/",
-    "published": "2025-07-01T22:10:54Z"
   }
 ]
