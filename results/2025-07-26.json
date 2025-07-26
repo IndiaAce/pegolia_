@@ -1,6 +1,42 @@
 [
   {
     "source": "Proofpoint",
+    "title": "4 Chinese APTs Attack Taiwan's Semiconductor Industry",
+    "link": "https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry",
+    "published": "18 Jul 2025 11:16:50"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "China-Backed Hackers Intensify Attacks on Taiwan Chipmakers",
+    "link": "https://www.proofpoint.com/us/newsroom/news/china-backed-hackers-intensify-attacks-taiwan-chipmakers",
+    "published": "17 Jul 2025 11:19:08"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors",
+    "link": "https://www.proofpoint.com/us/newsroom/news/chinese-hackers-target-taiwans-semiconductor-sector-cobalt-strike-custom-backdoors",
+    "published": "17 Jul 2025 11:13:18"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Exclusive: China-linked hackers target Taiwan's chip industry with increasing attacks, researchers say",
+    "link": "https://www.proofpoint.com/us/newsroom/news/exclusive-china-linked-hackers-target-taiwans-chip-industry-increasing-attacks",
+    "published": "16 Jul 2025 11:11:48"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Web-Inject Campaign Debuts Fresh Interlock RAT Variant",
+    "link": "https://www.proofpoint.com/us/newsroom/news/web-inject-campaign-debuts-fresh-interlock-rat-variant",
+    "published": "14 Jul 2025 11:03:16"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Click here to steal.",
+    "link": "https://www.proofpoint.com/us/newsroom/news/click-here-steal",
+    "published": "11 Jul 2025 11:15:12"
+  },
+  {
+    "source": "Proofpoint",
     "title": "TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure",
     "link": "https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure",
     "published": "02 Jul 2025 13:14:54"
@@ -22,42 +58,6 @@
     "title": "Proofpoint, Wiz Partner on Cloud Security",
     "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security",
     "published": "17 Jun 2025 10:03:12"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Cybercrime crackdown disrupts malware, infostealers, marketplaces across the globe",
-    "link": "https://www.proofpoint.com/us/newsroom/news/cybercrime-crackdown-disrupts-malware-infostealers-marketplaces-across-globe",
-    "published": "16 Jun 2025 09:33:25"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Joins the Wiz Integration Network (WIN) to Strengthen Cloud Data Security",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-wiz-integration-network-win-strengthen-cloud-data-security",
-    "published": "16 Jun 2025 08:01:23"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Password Spraying Attacks Hit Entra ID Accounts",
-    "link": "https://www.proofpoint.com/us/newsroom/news/password-spraying-attacks-hit-entra-id-accounts",
-    "published": "12 Jun 2025 09:43:37"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Researchers Detail Bitter APT's Evolving Tactics as Its Geographic Scope Expands",
-    "link": "https://www.proofpoint.com/us/newsroom/news/researchers-detail-bitter-apts-evolving-tactics-its-geographic-scope-expands",
-    "published": "05 Jun 2025 16:33:55"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Only Malware in the Building: The great CoGUI caper.",
-    "link": "https://www.proofpoint.com/us/newsroom/news/only-malware-building-great-cogui-caper",
-    "published": "03 Jun 2025 16:32:37"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "The Evolving Role of the Modern CISO",
-    "link": "https://www.proofpoint.com/us/newsroom/news/evolving-role-modern-ciso",
-    "published": "27 May 2025 16:35:17"
   },
   {
     "source": "Hacker News",
