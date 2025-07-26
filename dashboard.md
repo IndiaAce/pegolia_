@@ -5,7 +5,6 @@
 - [Show HN: NextDevKit – Next.js and OpenNext SaaS Template, Goodbye Vercel Bills](https://nextdevkit.com) — 2025-07-23T04:54
 - [Support Amazon Multi-Site Operations for Cross-Border E-Commerce](https://news.ycombinator.com/item?id=44645303) — 2025-07-22T10:42
 - [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
-- [Show HN: An API for human-powered browser tasks](https://browser-work.com/) — 2025-07-21T16:16
 - [Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?](https://news.ycombinator.com/item?id=44634336) — 2025-07-21T12:27
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
 - [Breaking Device and Network Barriers to Ensure Stable Cross-Border Teaching](https://news.ycombinator.com/item?id=44591554) — 2025-07-17T10:00
@@ -16,11 +15,12 @@
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
 - [Submatrix Cloud Phone and Cloud Storage](https://news.ycombinator.com/item?id=44530462) — 2025-07-11T10:18
-- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
+- [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
+- [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 
 ## 📰 Proofpoint
 - [4 Chinese APTs Attack Taiwan's Semiconductor Industry](https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry) — 18 Jul 2025 11:1

@@ -85,12 +85,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: An API for human-powered browser tasks",
-    "link": "https://browser-work.com/",
-    "published": "2025-07-21T16:16:28Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?",
     "link": "https://news.ycombinator.com/item?id=44634336",
     "published": "2025-07-21T12:27:03Z"
@@ -151,12 +145,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
-    "link": "https://github.com/fosrl/pangolin",
-    "published": "2025-07-10T21:50:43Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -178,5 +166,17 @@
     "title": "Show HN: a community for collaborating on sideprojects",
     "link": "https://relentlessly.no/",
     "published": "2025-07-02T18:32:33Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built a enterprise level SaaS kit",
+    "link": "https://www.launchkitaws.com/",
+    "published": "2025-07-01T22:10:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Manage Gmail with Voice While Driving",
+    "link": "https://harmony.com.ai",
+    "published": "2025-07-01T19:56:10Z"
   }
 ]
