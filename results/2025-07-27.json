@@ -151,6 +151,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
+    "link": "https://github.com/fosrl/pangolin",
+    "published": "2025-07-10T21:50:43Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: a community for collaborating on sideprojects",
     "link": "https://relentlessly.no/",
     "published": "2025-07-02T18:32:33Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a enterprise level SaaS kit",
-    "link": "https://www.launchkitaws.com/",
-    "published": "2025-07-01T22:10:54Z"
   }
 ]
