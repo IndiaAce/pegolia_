@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Cipher Tools Hub \u2013 50 free utilities for devs, hackers, and creators",
+    "link": "https://ciphertoolshub.com",
+    "published": "2025-07-27T05:11:27Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "OneNoughtOne \u2013 AI That Turns Conversations into Actions Across Your Digital Life",
     "link": "https://news.ycombinator.com/item?id=44661394",
     "published": "2025-07-23T16:58:59Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: I built a enterprise level SaaS kit",
     "link": "https://www.launchkitaws.com/",
     "published": "2025-07-01T22:10:54Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Manage Gmail with Voice While Driving",
-    "link": "https://harmony.com.ai",
-    "published": "2025-07-01T19:56:10Z"
   }
 ]

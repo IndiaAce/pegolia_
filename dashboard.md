@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-07-27
 
 ## 📰 Hacker News
+- [Show HN: Cipher Tools Hub – 50 free utilities for devs, hackers, and creators](https://ciphertoolshub.com) — 2025-07-27T05:11
 - [OneNoughtOne – AI That Turns Conversations into Actions Across Your Digital Life](https://news.ycombinator.com/item?id=44661394) — 2025-07-23T16:58
 - [Show HN: NextDevKit – Next.js and OpenNext SaaS Template, Goodbye Vercel Bills](https://nextdevkit.com) — 2025-07-23T04:54
 - [Support Amazon Multi-Site Operations for Cross-Border E-Commerce](https://news.ycombinator.com/item?id=44645303) — 2025-07-22T10:42
@@ -20,7 +21,6 @@
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 - [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
-- [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 
 ## 📰 Proofpoint
 - [4 Chinese APTs Attack Taiwan's Semiconductor Industry](https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry) — 18 Jul 2025 11:1
