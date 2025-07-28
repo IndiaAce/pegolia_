@@ -61,9 +61,9 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Aiko \u2013 Easiest way to manage MCP configurations and credentials (Beta)",
-    "link": "https://getaiko.app",
-    "published": "2025-07-27T22:24:41Z"
+    "title": "Show HN: AnthroShield \u2013 AI Human Verification Without Captcha or ID",
+    "link": "https://anthroshield.com/demo-login",
+    "published": "2025-07-28T16:08:26Z"
   },
   {
     "source": "Hacker News",
@@ -157,12 +157,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
-    "link": "https://github.com/fosrl/pangolin",
-    "published": "2025-07-10T21:50:43Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -178,5 +172,11 @@
     "title": "Twilio account suspended minutes after making a $20 payment",
     "link": "https://news.ycombinator.com/item?id=44459439",
     "published": "2025-07-03T21:45:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: a community for collaborating on sideprojects",
+    "link": "https://relentlessly.no/",
+    "published": "2025-07-02T18:32:33Z"
   }
 ]

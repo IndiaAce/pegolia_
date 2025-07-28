@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-07-28
 
 ## 📰 Hacker News
-- [Show HN: Aiko – Easiest way to manage MCP configurations and credentials (Beta)](https://getaiko.app) — 2025-07-27T22:24
+- [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
 - [Show HN: Cipher Tools Hub – 50 free utilities for devs, hackers, and creators](https://ciphertoolshub.com) — 2025-07-27T05:11
 - [OneNoughtOne – AI That Turns Conversations into Actions Across Your Digital Life](https://news.ycombinator.com/item?id=44661394) — 2025-07-23T16:58
 - [Show HN: NextDevKit – Next.js and OpenNext SaaS Template, Goodbye Vercel Bills](https://nextdevkit.com) — 2025-07-23T04:54
@@ -17,10 +17,10 @@
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
 - [Submatrix Cloud Phone and Cloud Storage](https://news.ycombinator.com/item?id=44530462) — 2025-07-11T10:18
-- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
+- [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 
 ## 📰 Proofpoint
 - [4 Chinese APTs Attack Taiwan's Semiconductor Industry](https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry) — 18 Jul 2025 11:1
