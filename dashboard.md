@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-28
+# 🛡️ Email Security Trends – Updated 2025-07-29
 
 ## 📰 Hacker News
 - [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
