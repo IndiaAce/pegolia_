@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Lovense: The Company That Lies to Security Researchers",
+    "link": "https://bobdahacker.com/blog/lovense-still-leaking-user-emails",
+    "published": "2025-07-29T14:24:20Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: AnthroShield \u2013 AI Human Verification Without Captcha or ID",
     "link": "https://anthroshield.com/demo-login",
     "published": "2025-07-28T16:08:26Z"
@@ -133,6 +139,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
+    "link": "https://github.com/fosrl/pangolin",
+    "published": "2025-07-10T21:50:43Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Open source alternative to Perplexity Comet",
     "link": "https://www.browseros.com/",
     "published": "2025-07-10T17:33:07Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Manage Gmail with Voice While Driving",
     "link": "https://harmony.com.ai",
     "published": "2025-07-01T19:56:10Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Future of post-open-source? Considering a \"source-visible, non-runnable\" license",
-    "link": "https://news.ycombinator.com/item?id=44425545",
-    "published": "2025-06-30T17:01:25Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Taurin \u2013 Local First AI Email Client",
-    "link": "https://www.taurin.io/",
-    "published": "2025-06-26T11:20:46Z"
   }
 ]
