@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-07-29
+# 🛡️ Email Security Trends – Updated 2025-07-30
 
 ## 📰 Hacker News
+- [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
 - [Lovense: The Company That Lies to Security Researchers](https://bobdahacker.com/blog/lovense-still-leaking-user-emails) — 2025-07-29T14:24
 - [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
 - [Show HN: Cipher Tools Hub – 50 free utilities for devs, hackers, and creators](https://ciphertoolshub.com) — 2025-07-27T05:11
@@ -20,7 +21,6 @@
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 - [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
-- [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 
 ## 📰 Proofpoint
 - [4 Chinese APTs Attack Taiwan's Semiconductor Industry](https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry) — 18 Jul 2025 11:1
