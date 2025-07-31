@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-07-30
+# 🛡️ Email Security Trends – Updated 2025-07-31
 
 ## 📰 Hacker News
 - [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
