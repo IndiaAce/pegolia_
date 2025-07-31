@@ -23,6 +23,7 @@
 - [Show HN: Manage Gmail with Voice While Driving](https://harmony.com.ai) — 2025-07-01T19:56
 
 ## 📰 Proofpoint
+- [Proofpoint Demonstrates Long-term Commitment to India with Local Data Centre and Strategic Regional Investments](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-demonstrates-long-term-commitment-india-local-data-centre) — 29 Jul 2025 03:2
 - [4 Chinese APTs Attack Taiwan's Semiconductor Industry](https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry) — 18 Jul 2025 11:1
 - [China-Backed Hackers Intensify Attacks on Taiwan Chipmakers](https://www.proofpoint.com/us/newsroom/news/china-backed-hackers-intensify-attacks-taiwan-chipmakers) — 17 Jul 2025 11:1
 - [Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors](https://www.proofpoint.com/us/newsroom/news/chinese-hackers-target-taiwans-semiconductor-sector-cobalt-strike-custom-backdoors) — 17 Jul 2025 11:1
@@ -32,5 +33,4 @@
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
 - [Scammers have a new tactic: impersonating DOGE](https://www.proofpoint.com/us/newsroom/news/scammers-have-new-tactic-impersonating-doge) — 30 Jun 2025 15:0
 - [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
-- [Proofpoint, Wiz Partner on Cloud Security](https://www.proofpoint.com/us/newsroom/news/proofpoint-wiz-partner-cloud-security) — 17 Jun 2025 10:0
 
