@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-08-01
 
 ## 📰 Hacker News
+- [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
+- [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
 - [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
 - [Lovense: The Company That Lies to Security Researchers](https://bobdahacker.com/blog/lovense-still-leaking-user-emails) — 2025-07-29T14:24
 - [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
@@ -15,12 +17,10 @@
 - [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
-- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
-- [Show HN: I built a enterprise level SaaS kit](https://www.launchkitaws.com/) — 2025-07-01T22:10
 
 ## 📰 Proofpoint
 - [Proofpoint Demonstrates Long-term Commitment to India with Local Data Centre and Strategic Regional Investments](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-demonstrates-long-term-commitment-india-local-data-centre) — 29 Jul 2025 03:2
