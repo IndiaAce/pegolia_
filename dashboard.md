@@ -10,6 +10,7 @@
 - [OneNoughtOne – AI That Turns Conversations into Actions Across Your Digital Life](https://news.ycombinator.com/item?id=44661394) — 2025-07-23T16:58
 - [Show HN: NextDevKit – Next.js and OpenNext SaaS Template, Goodbye Vercel Bills](https://nextdevkit.com) — 2025-07-23T04:54
 - [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
+- [Show HN: An API for human-powered browser tasks](https://browser-work.com/) — 2025-07-21T16:16
 - [Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?](https://news.ycombinator.com/item?id=44634336) — 2025-07-21T12:27
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
 - [Code execution through email: How I used Claude to hack itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
@@ -20,7 +21,6 @@
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
-- [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 
 ## 📰 Proofpoint
 - [Proofpoint Demonstrates Long-term Commitment to India with Local Data Centre and Strategic Regional Investments](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-demonstrates-long-term-commitment-india-local-data-centre) — 29 Jul 2025 03:2

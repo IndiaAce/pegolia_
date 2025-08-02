@@ -115,6 +115,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: An API for human-powered browser tasks",
+    "link": "https://browser-work.com/",
+    "published": "2025-07-21T16:16:28Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?",
     "link": "https://news.ycombinator.com/item?id=44634336",
     "published": "2025-07-21T12:27:03Z"
@@ -172,11 +178,5 @@
     "title": "Twilio account suspended minutes after making a $20 payment",
     "link": "https://news.ycombinator.com/item?id=44459439",
     "published": "2025-07-03T21:45:54Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: a community for collaborating on sideprojects",
-    "link": "https://relentlessly.no/",
-    "published": "2025-07-02T18:32:33Z"
   }
 ]
