@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-03
+# 🛡️ Email Security Trends – Updated 2025-08-04
 
 ## 📰 Hacker News
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
