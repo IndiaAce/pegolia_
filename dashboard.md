@@ -23,6 +23,7 @@
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 
 ## 📰 Proofpoint
+- [Proofpoint and Optiv Surpass $1 Billion in Historical Sales](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-and-optiv-surpass-1-billion-historical-sales) — 04 Aug 2025 15:3
 - [Proofpoint Demonstrates Long-term Commitment to India with Local Data Centre and Strategic Regional Investments](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-demonstrates-long-term-commitment-india-local-data-centre) — 29 Jul 2025 03:2
 - [4 Chinese APTs Attack Taiwan's Semiconductor Industry](https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry) — 18 Jul 2025 11:1
 - [China-Backed Hackers Intensify Attacks on Taiwan Chipmakers](https://www.proofpoint.com/us/newsroom/news/china-backed-hackers-intensify-attacks-taiwan-chipmakers) — 17 Jul 2025 11:1
@@ -32,5 +33,4 @@
 - [Click here to steal.](https://www.proofpoint.com/us/newsroom/news/click-here-steal) — 11 Jul 2025 11:1
 - [TA829, UNK_GreenSec malware campaigns underpinned by same infrastructure](https://www.proofpoint.com/us/newsroom/news/ta829-unkgreensec-malware-campaigns-underpinned-same-infrastructure) — 02 Jul 2025 13:1
 - [Scammers have a new tactic: impersonating DOGE](https://www.proofpoint.com/us/newsroom/news/scammers-have-new-tactic-impersonating-doge) — 30 Jun 2025 15:0
-- [Proofpoint Appoints Tom Corn as Executive Vice President and General Manager, Threat Protection Group](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-tom-corn-executive-vice-president-and-general-manager) — 23 Jun 2025 09:1
 
