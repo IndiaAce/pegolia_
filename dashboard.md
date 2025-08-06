@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-08-05
+# 🛡️ Email Security Trends – Updated 2025-08-06
 
 ## 📰 Hacker News
+- [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
 - [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
 - [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
@@ -20,7 +21,6 @@
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 - [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
-- [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/) — 2025-07-02T18:32
 
 ## 📰 Proofpoint
 - [Proofpoint Demonstrates Long-term Commitment to India with Local Data Centre and Strategic Regional Investments](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-demonstrates-long-term-commitment-india-local-data-centre) — 29 Jul 2025 03:2
