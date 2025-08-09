@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-08-08
+# 🛡️ Email Security Trends – Updated 2025-08-09
 
 ## 📰 Hacker News
+- [Security alerts in Gmail. What a mess](https://news.ycombinator.com/item?id=44840518) — 2025-08-08T19:06
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
 - [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
@@ -20,7 +21,6 @@
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
 - [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
-- [Twilio account suspended minutes after making a $20 payment](https://news.ycombinator.com/item?id=44459439) — 2025-07-03T21:45
 
 ## 📰 Proofpoint
 - [Proofpoint and Optiv Surpass $1 Billion in Historical Sales](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-and-optiv-surpass-1-billion-historical-sales) — 04 Aug 2025 15:3
