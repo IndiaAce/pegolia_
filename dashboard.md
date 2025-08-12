@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-11
+# 🛡️ Email Security Trends – Updated 2025-08-12
 
 ## 📰 Hacker News
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
