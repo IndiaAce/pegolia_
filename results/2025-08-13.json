@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
+    "link": "https://www.vaultrice.com/",
+    "published": "2025-08-13T15:37:04Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: Why isn't email a government service?",
     "link": "https://news.ycombinator.com/item?id=44803958",
     "published": "2025-08-05T20:39:35Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Taurin. Local-First Email Client with Personal AI Agent",
     "link": "https://www.taurin.io/",
     "published": "2025-07-04T12:14:05Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Twilio account suspended minutes after making a $20 payment",
-    "link": "https://news.ycombinator.com/item?id=44459439",
-    "published": "2025-07-03T21:45:54Z"
   }
 ]
