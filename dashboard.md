@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-08-13
+# 🛡️ Email Security Trends – Updated 2025-08-14
 
 ## 📰 Hacker News
+- [Show HN: Gitego – Automatic Git identity switcher](https://github.com/bgreenwell/gitego) — 2025-08-13T19:19
 - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
@@ -20,7 +21,6 @@
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
 - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/) — 2025-07-10T17:33
-- [Show HN: Taurin. Local-First Email Client with Personal AI Agent](https://www.taurin.io/) — 2025-07-04T12:14
 
 ## 📰 Proofpoint
 - [Proofpoint and Optiv Surpass $1 Billion in Historical Sales](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-and-optiv-surpass-1-billion-historical-sales) — 04 Aug 2025 15:3
