@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-08-15
+# 🛡️ Email Security Trends – Updated 2025-08-16
 
 ## 📰 Hacker News
+- [Individual Bestbuy email subscription pages are apparently indexed by Google](https://news.ycombinator.com/item?id=44906692) — 2025-08-14T22:56
 - [Show HN: Gitego – Automatic Git identity switcher](https://github.com/bgreenwell/gitego) — 2025-08-13T19:19
 - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
@@ -20,7 +21,6 @@
 - [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 - [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-13T17:20
-- [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin) — 2025-07-10T21:50
 
 ## 📰 Proofpoint
 - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id) — 13 Aug 2025 13:2
