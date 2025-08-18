@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Launch HN: Reality Defender (YC W22) \u2013 API for Deepfake and GenAI Detection",
+    "link": "https://www.realitydefender.com/platform/api",
+    "published": "2025-08-18T15:16:34Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Individual Bestbuy email subscription pages are apparently indexed by Google",
     "link": "https://news.ycombinator.com/item?id=44906692",
     "published": "2025-08-14T22:56:22Z"
@@ -172,11 +178,5 @@
     "title": "Google Gemini flaw hijacks email summaries for phishing",
     "link": "https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/",
     "published": "2025-07-13T17:20:35Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Open source alternative to Perplexity Comet",
-    "link": "https://www.browseros.com/",
-    "published": "2025-07-10T17:33:07Z"
   }
 ]
