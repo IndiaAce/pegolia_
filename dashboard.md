@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-17
+# 🛡️ Email Security Trends – Updated 2025-08-18
 
 ## 📰 Hacker News
 - [Individual Bestbuy email subscription pages are apparently indexed by Google](https://news.ycombinator.com/item?id=44906692) — 2025-08-14T22:56
