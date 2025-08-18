@@ -67,12 +67,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Gitego \u2013 Automatic Git identity switcher",
-    "link": "https://github.com/bgreenwell/gitego",
-    "published": "2025-08-13T19:19:38Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
     "link": "https://www.vaultrice.com/",
     "published": "2025-08-13T15:37:04Z"
@@ -178,5 +172,11 @@
     "title": "Google Gemini flaw hijacks email summaries for phishing",
     "link": "https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/",
     "published": "2025-07-13T17:20:35Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Open source alternative to Perplexity Comet",
+    "link": "https://www.browseros.com/",
+    "published": "2025-07-10T17:33:07Z"
   }
 ]
