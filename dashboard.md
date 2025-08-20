@@ -4,9 +4,7 @@
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
 - [Show HN: Ldns.com – fast DNS lookups from the URL bar](https://ldns.com/) — 2025-08-15T16:46
-- [Show HN: Gitego – Automatic Git identity switcher](https://github.com/bgreenwell/gitego) — 2025-08-13T19:19
 - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
-- [Security alerts in Gmail. What a mess](https://news.ycombinator.com/item?id=44840518) — 2025-08-08T19:06
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
 - [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
@@ -21,6 +19,8 @@
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
 - [Code execution through email: How I used Claude to hack itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
 - [Show HN: ZeroDayPublishing – Real-time CVE alerts with filtering and digests](https://zerodaypublishing.com) — 2025-07-15T15:06
+- [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
+- [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-07-14T20:50
 
 ## 📰 Proofpoint
 - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id) — 13 Aug 2025 13:2
