@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-08-21
 
 ## 📰 Hacker News
+- [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758) — 2025-08-21T15:09
 - [iCloud Mail or Gmail?](https://news.ycombinator.com/item?id=44968389) — 2025-08-21T02:07
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
@@ -20,7 +21,6 @@
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
 - [Code execution through email: How I used Claude to hack itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
 - [Show HN: ZeroDayPublishing – Real-time CVE alerts with filtering and digests](https://zerodaypublishing.com) — 2025-07-15T15:06
-- [Google Gemini Tricked into Showing Phishing Message Hidden in Email](https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/) — 2025-07-15T13:23
 
 ## 📰 Proofpoint
 - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id) — 13 Aug 2025 13:2

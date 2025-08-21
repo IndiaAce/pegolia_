@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Launch HN: Skope (YC S25) \u2013 Outcome-based pricing for software products",
+    "link": "https://news.ycombinator.com/item?id=44973758",
+    "published": "2025-08-21T15:09:38Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "iCloud Mail or Gmail?",
     "link": "https://news.ycombinator.com/item?id=44968389",
     "published": "2025-08-21T02:07:44Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: ZeroDayPublishing \u2013 Real-time CVE alerts with filtering and digests",
     "link": "https://zerodaypublishing.com",
     "published": "2025-07-15T15:06:42Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google Gemini Tricked into Showing Phishing Message Hidden in Email",
-    "link": "https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/",
-    "published": "2025-07-15T13:23:42Z"
   }
 ]
