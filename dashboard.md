@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-20
+# 🛡️ Email Security Trends – Updated 2025-08-21
 
 ## 📰 Hacker News
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
