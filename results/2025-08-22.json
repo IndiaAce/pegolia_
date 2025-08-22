@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: A Ruby gem that filters sensitive information from free text",
+    "link": "https://github.com/thoughtbot/top_secret",
+    "published": "2025-08-22T02:02:22Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Launch HN: Skope (YC S25) \u2013 Outcome-based pricing for software products",
     "link": "https://news.ycombinator.com/item?id=44973758",
     "published": "2025-08-21T15:09:38Z"
@@ -172,11 +178,5 @@
     "title": "Code execution through email: How I used Claude to hack itself",
     "link": "https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself",
     "published": "2025-07-17T06:32:42Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: ZeroDayPublishing \u2013 Real-time CVE alerts with filtering and digests",
-    "link": "https://zerodaypublishing.com",
-    "published": "2025-07-15T15:06:42Z"
   }
 ]
