@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-21
+# 🛡️ Email Security Trends – Updated 2025-08-22
 
 ## 📰 Hacker News
 - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758) — 2025-08-21T15:09
