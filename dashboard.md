@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-22
+# 🛡️ Email Security Trends – Updated 2025-08-23
 
 ## 📰 Hacker News
 - [Show HN: A Ruby gem that filters sensitive information from free text](https://github.com/thoughtbot/top_secret) — 2025-08-22T02:02
