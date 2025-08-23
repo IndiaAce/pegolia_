@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Enhancing Email Security: A Collective Responsibility (2024)",
+    "link": "https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security",
+    "published": "2025-08-23T09:07:40Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Stop Using Encrypted Email",
     "link": "https://securitycryptographywhatever.com/2025/08/22/stop-using-encrypted-email-with-william-woodruff/",
     "published": "2025-08-23T02:14:11Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?",
     "link": "https://news.ycombinator.com/item?id=44634336",
     "published": "2025-07-21T12:27:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Draggy \u2013 menu bar companion to clippy (better pbcopy)",
-    "link": "https://github.com/neilberkman/clippy/blob/main/README.md",
-    "published": "2025-07-18T20:19:43Z"
   }
 ]
