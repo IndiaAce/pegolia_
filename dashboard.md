@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-08-23
 
 ## 📰 Hacker News
+- [Stop Using Encrypted Email](https://securitycryptographywhatever.com/2025/08/22/stop-using-encrypted-email-with-william-woodruff/) — 2025-08-23T02:14
 - [Show HN: A Ruby gem that filters sensitive information from free text](https://github.com/thoughtbot/top_secret) — 2025-08-22T02:02
 - [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758) — 2025-08-21T15:09
 - [iCloud Mail or Gmail?](https://news.ycombinator.com/item?id=44968389) — 2025-08-21T02:07
@@ -20,7 +21,6 @@
 - [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
 - [Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?](https://news.ycombinator.com/item?id=44634336) — 2025-07-21T12:27
 - [Show HN: Draggy – menu bar companion to clippy (better pbcopy)](https://github.com/neilberkman/clippy/blob/main/README.md) — 2025-07-18T20:19
-- [Code execution through email: How I used Claude to hack itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself) — 2025-07-17T06:32
 
 ## 📰 Proofpoint
 - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id) — 13 Aug 2025 13:2

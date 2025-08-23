@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Stop Using Encrypted Email",
+    "link": "https://securitycryptographywhatever.com/2025/08/22/stop-using-encrypted-email-with-william-woodruff/",
+    "published": "2025-08-23T02:14:11Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: A Ruby gem that filters sensitive information from free text",
     "link": "https://github.com/thoughtbot/top_secret",
     "published": "2025-08-22T02:02:22Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Draggy \u2013 menu bar companion to clippy (better pbcopy)",
     "link": "https://github.com/neilberkman/clippy/blob/main/README.md",
     "published": "2025-07-18T20:19:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Code execution through email: How I used Claude to hack itself",
-    "link": "https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself",
-    "published": "2025-07-17T06:32:42Z"
   }
 ]
