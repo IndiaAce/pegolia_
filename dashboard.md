@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-23
+# 🛡️ Email Security Trends – Updated 2025-08-24
 
 ## 📰 Hacker News
 - [Enhancing Email Security: A Collective Responsibility (2024)](https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security) — 2025-08-23T09:07
