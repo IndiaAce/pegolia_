@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use",
+    "link": "https://app.redactsure.com/",
+    "published": "2025-08-25T16:16:40Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: InterceptSuite \u2013 MitM proxy that handles StartTLS upgrades",
     "link": "https://github.com/InterceptSuite/InterceptSuite",
     "published": "2025-08-25T05:54:16Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: NextDevKit \u2013 Next.js and OpenNext SaaS Template, Goodbye Vercel Bills",
     "link": "https://nextdevkit.com",
     "published": "2025-07-23T04:54:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Built an email marketing platform after paying $230/month",
-    "link": "https://www.fertit.com",
-    "published": "2025-07-21T17:09:03Z"
   }
 ]
