@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: InterceptSuite \u2013 MitM proxy that handles StartTLS upgrades",
+    "link": "https://github.com/InterceptSuite/InterceptSuite",
+    "published": "2025-08-25T05:54:16Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Enhancing Email Security: A Collective Responsibility (2024)",
     "link": "https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security",
     "published": "2025-08-23T09:07:40Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Built an email marketing platform after paying $230/month",
     "link": "https://www.fertit.com",
     "published": "2025-07-21T17:09:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?",
-    "link": "https://news.ycombinator.com/item?id=44634336",
-    "published": "2025-07-21T12:27:03Z"
   }
 ]

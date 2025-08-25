@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-08-25
 
 ## 📰 Hacker News
+- [Show HN: InterceptSuite – MitM proxy that handles StartTLS upgrades](https://github.com/InterceptSuite/InterceptSuite) — 2025-08-25T05:54
 - [Enhancing Email Security: A Collective Responsibility (2024)](https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security) — 2025-08-23T09:07
 - [Stop Using Encrypted Email](https://securitycryptographywhatever.com/2025/08/22/stop-using-encrypted-email-with-william-woodruff/) — 2025-08-23T02:14
 - [Show HN: A Ruby gem that filters sensitive information from free text](https://github.com/thoughtbot/top_secret) — 2025-08-22T02:02
@@ -20,7 +21,6 @@
 - [OneNoughtOne – AI That Turns Conversations into Actions Across Your Digital Life](https://news.ycombinator.com/item?id=44661394) — 2025-07-23T16:58
 - [Show HN: NextDevKit – Next.js and OpenNext SaaS Template, Goodbye Vercel Bills](https://nextdevkit.com) — 2025-07-23T04:54
 - [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
-- [Ask HN: You Have Been Blocked (Half Price Books Blocking Denmark)?](https://news.ycombinator.com/item?id=44634336) — 2025-07-21T12:27
 
 ## 📰 Proofpoint
 - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id) — 13 Aug 2025 13:2
