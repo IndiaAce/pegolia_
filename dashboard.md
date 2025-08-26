@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-25
+# 🛡️ Email Security Trends – Updated 2025-08-26
 
 ## 📰 Hacker News
 - [Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use](https://app.redactsure.com/) — 2025-08-25T16:16
