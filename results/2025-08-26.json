@@ -1,6 +1,36 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Hackers Are Vibe Coding Phishing Websites To Steal Credentials",
+    "link": "https://www.proofpoint.com/us/newsroom/news/hackers-are-vibe-coding-phishing-websites-steal-credentials",
+    "published": "22 Aug 2025 13:31:30"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "FBI Warns iPhone And Android Users - Do Not Use These Codes",
+    "link": "https://www.proofpoint.com/us/newsroom/news/fbi-warns-iphone-and-android-users-do-not-use-these-codes",
+    "published": "21 Aug 2025 13:35:09"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites",
+    "link": "https://www.proofpoint.com/us/newsroom/news/cybercriminals-abuse-vibe-coding-service-create-malicious-sites",
+    "published": "20 Aug 2025 13:33:36"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Why hackers are targeting agency help desks and key employees to bypass cyber defenses",
+    "link": "https://www.proofpoint.com/us/newsroom/news/why-hackers-are-targeting-agency-help-desks-and-key-employees-bypass-cyber-defenses",
+    "published": "20 Aug 2025 13:23:31"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "ClickFix phishing links increased nearly 400% in 12 months report says",
+    "link": "https://www.proofpoint.com/us/newsroom/news/clickfix-phishing-links-increased-nearly-400-12-months-report-says",
+    "published": "18 Aug 2025 13:29:35"
+  },
+  {
+    "source": "Proofpoint",
     "title": "New downgrade attack can bypass FIDO auth in Microsoft Entra ID",
     "link": "https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id",
     "published": "13 Aug 2025 13:22:16"
@@ -28,36 +58,6 @@
     "title": "Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts",
     "link": "https://www.proofpoint.com/us/newsroom/news/attackers-use-fake-oauth-apps-tycoon-kit-breach-microsoft-365-accounts",
     "published": "01 Aug 2025 13:19:53"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Cybercrooks faked Microsoft OAuth apps for MFA phishing",
-    "link": "https://www.proofpoint.com/us/newsroom/news/cybercrooks-faked-microsoft-oauth-apps-mfa-phishing",
-    "published": "01 Aug 2025 13:17:55"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Demonstrates Long-term Commitment to India with Local Data Centre and Strategic Regional Investments",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-demonstrates-long-term-commitment-india-local-data-centre",
-    "published": "29 Jul 2025 03:23:53"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "4 Chinese APTs Attack Taiwan's Semiconductor Industry",
-    "link": "https://www.proofpoint.com/us/newsroom/news/4-chinese-apts-attack-taiwans-semiconductor-industry",
-    "published": "18 Jul 2025 11:16:50"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "China-Backed Hackers Intensify Attacks on Taiwan Chipmakers",
-    "link": "https://www.proofpoint.com/us/newsroom/news/china-backed-hackers-intensify-attacks-taiwan-chipmakers",
-    "published": "17 Jul 2025 11:19:08"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors",
-    "link": "https://www.proofpoint.com/us/newsroom/news/chinese-hackers-target-taiwans-semiconductor-sector-cobalt-strike-custom-backdoors",
-    "published": "17 Jul 2025 11:13:18"
   },
   {
     "source": "Hacker News",
@@ -88,12 +88,6 @@
     "title": "Show HN: A Ruby gem that filters sensitive information from free text",
     "link": "https://github.com/thoughtbot/top_secret",
     "published": "2025-08-22T02:02:22Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Skope (YC S25) \u2013 Outcome-based pricing for software products",
-    "link": "https://news.ycombinator.com/item?id=44973758",
-    "published": "2025-08-21T15:09:38Z"
   },
   {
     "source": "Hacker News",
@@ -178,5 +172,11 @@
     "title": "Show HN: NextDevKit \u2013 Next.js and OpenNext SaaS Template, Goodbye Vercel Bills",
     "link": "https://nextdevkit.com",
     "published": "2025-07-23T04:54:02Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Built an email marketing platform after paying $230/month",
+    "link": "https://www.fertit.com",
+    "published": "2025-07-21T17:09:03Z"
   }
 ]
