@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Wife sent $57k to fake Elon Musk \u2013 technical security couldn't stop it",
+    "link": "https://news.ycombinator.com/item?id=45037474",
+    "published": "2025-08-27T09:58:25Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use",
     "link": "https://app.redactsure.com/",
     "published": "2025-08-25T16:16:40Z"
@@ -88,6 +94,12 @@
     "title": "Show HN: A Ruby gem that filters sensitive information from free text",
     "link": "https://github.com/thoughtbot/top_secret",
     "published": "2025-08-22T02:02:22Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Skope (YC S25) \u2013 Outcome-based pricing for software products",
+    "link": "https://news.ycombinator.com/item?id=44973758",
+    "published": "2025-08-21T15:09:38Z"
   },
   {
     "source": "Hacker News",
@@ -166,17 +178,5 @@
     "title": "OneNoughtOne \u2013 AI That Turns Conversations into Actions Across Your Digital Life",
     "link": "https://news.ycombinator.com/item?id=44661394",
     "published": "2025-07-23T16:58:59Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: NextDevKit \u2013 Next.js and OpenNext SaaS Template, Goodbye Vercel Bills",
-    "link": "https://nextdevkit.com",
-    "published": "2025-07-23T04:54:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Built an email marketing platform after paying $230/month",
-    "link": "https://www.fertit.com",
-    "published": "2025-07-21T17:09:03Z"
   }
 ]
