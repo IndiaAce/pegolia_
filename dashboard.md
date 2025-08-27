@@ -23,6 +23,7 @@
 - [Show HN: Built an email marketing platform after paying $230/month](https://www.fertit.com) — 2025-07-21T17:09
 
 ## 📰 Proofpoint
+- [Proofpoint’s 2025 Voice of the CISO Report Reveals Heightened AI Risk, Record CISO Burnout, and the Persistent People Problem in Cybersecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2025-voice-ciso-report) — 26 Aug 2025 05:0
 - [Hackers Are Vibe Coding Phishing Websites To Steal Credentials](https://www.proofpoint.com/us/newsroom/news/hackers-are-vibe-coding-phishing-websites-steal-credentials) — 22 Aug 2025 13:3
 - [FBI Warns iPhone And Android Users - Do Not Use These Codes](https://www.proofpoint.com/us/newsroom/news/fbi-warns-iphone-and-android-users-do-not-use-these-codes) — 21 Aug 2025 13:3
 - [Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites](https://www.proofpoint.com/us/newsroom/news/cybercriminals-abuse-vibe-coding-service-create-malicious-sites) — 20 Aug 2025 13:3
@@ -32,5 +33,4 @@
 - [Proofpoint to Invest More to Boost Partners' Profits](https://www.proofpoint.com/us/newsroom/news/proofpoint-invest-more-boost-partners-profits) — 06 Aug 2025 13:1
 - [Proofpoint and Optiv Surpass $1 Billion in Historical Sales](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-and-optiv-surpass-1-billion-historical-sales) — 04 Aug 2025 15:3
 - [Work from home, malware included](https://www.proofpoint.com/us/newsroom/news/work-home-malware-included) — 04 Aug 2025 13:0
-- [Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts](https://www.proofpoint.com/us/newsroom/news/attackers-use-fake-oauth-apps-tycoon-kit-breach-microsoft-365-accounts) — 01 Aug 2025 13:1
 
