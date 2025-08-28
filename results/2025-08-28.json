@@ -97,12 +97,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Launch HN: Skope (YC S25) \u2013 Outcome-based pricing for software products",
-    "link": "https://news.ycombinator.com/item?id=44973758",
-    "published": "2025-08-21T15:09:38Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "iCloud Mail or Gmail?",
     "link": "https://news.ycombinator.com/item?id=44968389",
     "published": "2025-08-21T02:07:44Z"
@@ -178,5 +172,11 @@
     "title": "OneNoughtOne \u2013 AI That Turns Conversations into Actions Across Your Digital Life",
     "link": "https://news.ycombinator.com/item?id=44661394",
     "published": "2025-07-23T16:58:59Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: NextDevKit \u2013 Next.js and OpenNext SaaS Template, Goodbye Vercel Bills",
+    "link": "https://nextdevkit.com",
+    "published": "2025-07-23T04:54:02Z"
   }
 ]
