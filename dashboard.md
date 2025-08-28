@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-08-27
+# 🛡️ Email Security Trends – Updated 2025-08-28
 
 ## 📰 Hacker News
 - [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
