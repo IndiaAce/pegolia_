@@ -23,14 +23,14 @@
 - [OneNoughtOne – AI That Turns Conversations into Actions Across Your Digital Life](https://news.ycombinator.com/item?id=44661394) — 2025-07-23T16:58
 
 ## 📰 Proofpoint
+- [58% of Organizations Are Unprepared for Cyberattacks](https://www.proofpoint.com/us/newsroom/news/58-organizations-are-unprepared-cyberattacks) — 28 Aug 2025 12:2
+- [Training Bank Employees on Cybersecurity](https://www.proofpoint.com/us/newsroom/news/training-bank-employees-cybersecurity) — 26 Aug 2025 12:3
+- [AI website builder Lovable fuels rise in phishing & scams](https://www.proofpoint.com/us/newsroom/news/ai-website-builder-lovable-fuels-rise-phishing-scams) — 26 Aug 2025 12:2
+- [CISOs grow more concerned about risk of material cyberattack](https://www.proofpoint.com/us/newsroom/news/cisos-grow-more-concerned-about-risk-material-cyberattack) — 26 Aug 2025 12:1
 - [Proofpoint’s 2025 Voice of the CISO Report Reveals Heightened AI Risk, Record CISO Burnout, and the Persistent People Problem in Cybersecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2025-voice-ciso-report) — 26 Aug 2025 05:0
 - [Hackers Are Vibe Coding Phishing Websites To Steal Credentials](https://www.proofpoint.com/us/newsroom/news/hackers-are-vibe-coding-phishing-websites-steal-credentials) — 22 Aug 2025 13:3
 - [FBI Warns iPhone And Android Users - Do Not Use These Codes](https://www.proofpoint.com/us/newsroom/news/fbi-warns-iphone-and-android-users-do-not-use-these-codes) — 21 Aug 2025 13:3
+- [Illicit activity powered by Lovable website builder abuse on the rise](https://www.proofpoint.com/us/newsroom/news/illicit-activity-powered-lovable-website-builder-abuse-rise) — 21 Aug 2025 12:2
 - [Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites](https://www.proofpoint.com/us/newsroom/news/cybercriminals-abuse-vibe-coding-service-create-malicious-sites) — 20 Aug 2025 13:3
 - [Why hackers are targeting agency help desks and key employees to bypass cyber defenses](https://www.proofpoint.com/us/newsroom/news/why-hackers-are-targeting-agency-help-desks-and-key-employees-bypass-cyber-defenses) — 20 Aug 2025 13:2
-- [ClickFix phishing links increased nearly 400% in 12 months report says](https://www.proofpoint.com/us/newsroom/news/clickfix-phishing-links-increased-nearly-400-12-months-report-says) — 18 Aug 2025 13:2
-- [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.proofpoint.com/us/newsroom/news/new-downgrade-attack-can-bypass-fido-auth-microsoft-entra-id) — 13 Aug 2025 13:2
-- [Proofpoint to Invest More to Boost Partners' Profits](https://www.proofpoint.com/us/newsroom/news/proofpoint-invest-more-boost-partners-profits) — 06 Aug 2025 13:1
-- [Proofpoint and Optiv Surpass $1 Billion in Historical Sales](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-and-optiv-surpass-1-billion-historical-sales) — 04 Aug 2025 15:3
-- [Work from home, malware included](https://www.proofpoint.com/us/newsroom/news/work-home-malware-included) — 04 Aug 2025 13:0
 
