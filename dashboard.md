@@ -23,6 +23,7 @@
 - [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
 
 ## 📰 Proofpoint
+- [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
 - [58% of Organizations Are Unprepared for Cyberattacks](https://www.proofpoint.com/us/newsroom/news/58-organizations-are-unprepared-cyberattacks) — 28 Aug 2025 12:2
 - [Training Bank Employees on Cybersecurity](https://www.proofpoint.com/us/newsroom/news/training-bank-employees-cybersecurity) — 26 Aug 2025 12:3
 - [AI website builder Lovable fuels rise in phishing & scams](https://www.proofpoint.com/us/newsroom/news/ai-website-builder-lovable-fuels-rise-phishing-scams) — 26 Aug 2025 12:2
@@ -32,5 +33,4 @@
 - [FBI Warns iPhone And Android Users - Do Not Use These Codes](https://www.proofpoint.com/us/newsroom/news/fbi-warns-iphone-and-android-users-do-not-use-these-codes) — 21 Aug 2025 13:3
 - [Illicit activity powered by Lovable website builder abuse on the rise](https://www.proofpoint.com/us/newsroom/news/illicit-activity-powered-lovable-website-builder-abuse-rise) — 21 Aug 2025 12:2
 - [Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites](https://www.proofpoint.com/us/newsroom/news/cybercriminals-abuse-vibe-coding-service-create-malicious-sites) — 20 Aug 2025 13:3
-- [Why hackers are targeting agency help desks and key employees to bypass cyber defenses](https://www.proofpoint.com/us/newsroom/news/why-hackers-are-targeting-agency-help-desks-and-key-employees-bypass-cyber-defenses) — 20 Aug 2025 13:2
 
