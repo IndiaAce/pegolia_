@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-09-03
 
 ## 📰 Hacker News
+- [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
 - [Google says Gmail security is "strong and effective" as it denies major breach](https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/) — 2025-09-02T22:47
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
 - [Reports of Gmail security issue are inaccurate](https://blog.google/products/workspace/gmail-security-protections/) — 2025-09-01T19:40
@@ -20,7 +21,6 @@
 - [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
 - [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
 - [Lovense: The Company That Lies to Security Researchers](https://bobdahacker.com/blog/lovense-still-leaking-user-emails) — 2025-07-29T14:24
-- [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
