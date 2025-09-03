@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-09-02
+# 🛡️ Email Security Trends – Updated 2025-09-03
 
 ## 📰 Hacker News
+- [Google says Gmail security is "strong and effective" as it denies major breach](https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/) — 2025-09-02T22:47
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
 - [Reports of Gmail security issue are inaccurate](https://blog.google/products/workspace/gmail-security-protections/) — 2025-09-01T19:40
 - [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
@@ -20,7 +21,6 @@
 - [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
 - [Lovense: The Company That Lies to Security Researchers](https://bobdahacker.com/blog/lovense-still-leaking-user-emails) — 2025-07-29T14:24
 - [Show HN: AnthroShield – AI Human Verification Without Captcha or ID](https://anthroshield.com/demo-login) — 2025-07-28T16:08
-- [Show HN: Cipher Tools Hub – 50 free utilities for devs, hackers, and creators](https://ciphertoolshub.com) — 2025-07-27T05:11
 
 ## 📰 Proofpoint
 - [58% of Organizations Are Unprepared for Cyberattacks](https://www.proofpoint.com/us/newsroom/news/58-organizations-are-unprepared-cyberattacks) — 28 Aug 2025 12:2
