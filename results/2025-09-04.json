@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I built a tool that turns cryptography papers into working Python code",
+    "link": "https://paperstoapp.com",
+    "published": "2025-09-04T09:46:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Launch HN: Risely (YC S25) \u2013 AI Agents for Universities",
     "link": "https://news.ycombinator.com/item?id=45116859",
     "published": "2025-09-03T15:21:35Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here",
     "link": "https://opensaas.sh",
     "published": "2025-08-01T12:36:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lovense sex toy app flaw leaks private user email addresses",
-    "link": "https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/",
-    "published": "2025-07-29T20:40:30Z"
   }
 ]
