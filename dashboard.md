@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-09-04
+# 🛡️ Email Security Trends – Updated 2025-09-05
 
 ## 📰 Hacker News
+- [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
 - [Show HN: I built a tool that turns cryptography papers into working Python code](https://paperstoapp.com) — 2025-09-04T09:46
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
 - [Google says Gmail security is "strong and effective" as it denies major breach](https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/) — 2025-09-02T22:47
@@ -20,7 +21,6 @@
 - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
-- [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
