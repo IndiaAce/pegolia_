@@ -79,21 +79,9 @@
   },
   {
     "source": "Hacker News",
-    "title": "Google says Gmail security is \"strong and effective\" as it denies major breach",
-    "link": "https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/",
-    "published": "2025-09-02T22:47:15Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Launch HN: Datafruit (YC S25) \u2013 AI for DevOps",
     "link": "https://news.ycombinator.com/item?id=45104974",
     "published": "2025-09-02T16:08:31Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reports of Gmail security issue are inaccurate",
-    "link": "https://blog.google/products/workspace/gmail-security-protections/",
-    "published": "2025-09-01T19:40:42Z"
   },
   {
     "source": "Hacker News",
@@ -130,12 +118,6 @@
     "title": "Show HN: A Ruby gem that filters sensitive information from free text",
     "link": "https://github.com/thoughtbot/top_secret",
     "published": "2025-08-22T02:02:22Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Skope (YC S25) \u2013 Outcome-based pricing for software products",
-    "link": "https://news.ycombinator.com/item?id=44973758",
-    "published": "2025-08-21T15:09:38Z"
   },
   {
     "source": "Hacker News",
@@ -178,5 +160,23 @@
     "title": "Show HN: IsAgent \u2013 Detect agents like ChatGPT Agent on your website",
     "link": "https://www.isagent.dev/",
     "published": "2025-08-01T15:17:04Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here",
+    "link": "https://opensaas.sh",
+    "published": "2025-08-01T12:36:18Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Lovense sex toy app flaw leaks private user email addresses",
+    "link": "https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/",
+    "published": "2025-07-29T20:40:30Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Lovense: The Company That Lies to Security Researchers",
+    "link": "https://bobdahacker.com/blog/lovense-still-leaking-user-emails",
+    "published": "2025-07-29T14:24:20Z"
   }
 ]

@@ -4,16 +4,13 @@
 - [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
 - [Show HN: I built a tool that turns cryptography papers into working Python code](https://paperstoapp.com) — 2025-09-04T09:46
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
-- [Google says Gmail security is "strong and effective" as it denies major breach](https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/) — 2025-09-02T22:47
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
-- [Reports of Gmail security issue are inaccurate](https://blog.google/products/workspace/gmail-security-protections/) — 2025-09-01T19:40
 - [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
 - [Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use](https://app.redactsure.com/) — 2025-08-25T16:16
 - [Show HN: InterceptSuite – MitM proxy that handles StartTLS upgrades](https://github.com/InterceptSuite/InterceptSuite) — 2025-08-25T05:54
 - [Enhancing Email Security: A Collective Responsibility (2024)](https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security) — 2025-08-23T09:07
 - [Stop Using Encrypted Email](https://securitycryptographywhatever.com/2025/08/22/stop-using-encrypted-email-with-william-woodruff/) — 2025-08-23T02:14
 - [Show HN: A Ruby gem that filters sensitive information from free text](https://github.com/thoughtbot/top_secret) — 2025-08-22T02:02
-- [Launch HN: Skope (YC S25) – Outcome-based pricing for software products](https://news.ycombinator.com/item?id=44973758) — 2025-08-21T15:09
 - [iCloud Mail or Gmail?](https://news.ycombinator.com/item?id=44968389) — 2025-08-21T02:07
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
@@ -21,6 +18,9 @@
 - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
 - [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 - [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
+- [Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here](https://opensaas.sh) — 2025-08-01T12:36
+- [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/) — 2025-07-29T20:40
+- [Lovense: The Company That Lies to Security Researchers](https://bobdahacker.com/blog/lovense-still-leaking-user-emails) — 2025-07-29T14:24
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
