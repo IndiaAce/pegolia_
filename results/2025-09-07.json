@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough",
+    "link": "https://news.ycombinator.com/item?id=45160056",
+    "published": "2025-09-07T17:13:15Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: Think twice before activating two-factor authentication on Vivaldi",
     "link": "https://news.ycombinator.com/item?id=45132858",
     "published": "2025-09-04T22:15:40Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: V2.0 of Open SaaS, a free, open-source SaaS boilerplate starter is here",
     "link": "https://opensaas.sh",
     "published": "2025-08-01T12:36:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lovense sex toy app flaw leaks private user email addresses",
-    "link": "https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/",
-    "published": "2025-07-29T20:40:30Z"
   }
 ]
