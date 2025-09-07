@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-06
+# 🛡️ Email Security Trends – Updated 2025-09-07
 
 ## 📰 Hacker News
 - [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
