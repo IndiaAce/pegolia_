@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-09-08
 
 ## 📰 Hacker News
+- [Your ATM Card](https://news.ycombinator.com/item?id=45166435) — 2025-09-08T10:04
+- [Ask HN: What are the tech stack you use in 2025?](https://news.ycombinator.com/item?id=45166228) — 2025-09-08T09:25
 - [Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2025-09-07T20:17
 - [The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough](https://news.ycombinator.com/item?id=45160056) — 2025-09-07T17:13
 - [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
@@ -19,8 +21,6 @@
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
 - [Show HN: Ldns.com – fast DNS lookups from the URL bar](https://ldns.com/) — 2025-08-15T16:46
 - [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
-- [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
-- [Show HN: IsAgent – Detect agents like ChatGPT Agent on your website](https://www.isagent.dev/) — 2025-08-01T15:17
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0

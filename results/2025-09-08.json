@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Your ATM Card",
+    "link": "https://news.ycombinator.com/item?id=45166435",
+    "published": "2025-09-08T10:04:48Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: What are the tech stack you use in 2025?",
+    "link": "https://news.ycombinator.com/item?id=45166228",
+    "published": "2025-09-08T09:25:31Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]",
     "link": "https://cr.yp.to/qmail/qmailsec-20071101.pdf",
     "published": "2025-09-07T20:17:54Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
     "link": "https://www.vaultrice.com/",
     "published": "2025-08-13T15:37:04Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why isn't email a government service?",
-    "link": "https://news.ycombinator.com/item?id=44803958",
-    "published": "2025-08-05T20:39:35Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: IsAgent \u2013 Detect agents like ChatGPT Agent on your website",
-    "link": "https://www.isagent.dev/",
-    "published": "2025-08-01T15:17:04Z"
   }
 ]
