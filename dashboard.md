@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-09-08
 
 ## 📰 Hacker News
-- [Your ATM Card](https://news.ycombinator.com/item?id=45166435) — 2025-09-08T10:04
+- [Show HN: Hyperif – Forget MCPs, chat with your data across all your tools](https://hyperif.com) — 2025-09-08T13:44
 - [Ask HN: What are the tech stack you use in 2025?](https://news.ycombinator.com/item?id=45166228) — 2025-09-08T09:25
 - [Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2025-09-07T20:17
 - [The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough](https://news.ycombinator.com/item?id=45160056) — 2025-09-07T17:13
