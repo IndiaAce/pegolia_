@@ -115,6 +115,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Reports of Gmail security issue are inaccurate",
+    "link": "https://blog.google/products/workspace/gmail-security-protections/",
+    "published": "2025-09-01T19:40:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Wife sent $57k to fake Elon Musk \u2013 technical security couldn't stop it",
     "link": "https://news.ycombinator.com/item?id=45037474",
     "published": "2025-08-27T09:58:25Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Ldns.com \u2013 fast DNS lookups from the URL bar",
     "link": "https://ldns.com/",
     "published": "2025-08-15T16:46:57Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
-    "link": "https://www.vaultrice.com/",
-    "published": "2025-08-13T15:37:04Z"
   }
 ]
