@@ -4,13 +4,11 @@
 - [Plex Update: Notice of a potential security incident](https://news.ycombinator.com/item?id=45174684) — 2025-09-08T22:09
 - [Show HN: Hyperif – Forget MCPs, chat with your data across all your tools](https://hyperif.com) — 2025-09-08T13:44
 - [Ask HN: What are the tech stack you use in 2025?](https://news.ycombinator.com/item?id=45166228) — 2025-09-08T09:25
-- [Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2025-09-07T20:17
 - [The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough](https://news.ycombinator.com/item?id=45160056) — 2025-09-07T17:13
 - [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
 - [Show HN: I built a tool that turns cryptography papers into working Python code](https://paperstoapp.com) — 2025-09-04T09:46
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
-- [Reports of Gmail security issue are inaccurate](https://blog.google/products/workspace/gmail-security-protections/) — 2025-09-01T19:40
 - [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
 - [Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use](https://app.redactsure.com/) — 2025-08-25T16:16
 - [Show HN: InterceptSuite – MitM proxy that handles StartTLS upgrades](https://github.com/InterceptSuite/InterceptSuite) — 2025-08-25T05:54
@@ -21,6 +19,8 @@
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
 - [Show HN: Ldns.com – fast DNS lookups from the URL bar](https://ldns.com/) — 2025-08-15T16:46
+- [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
+- [Ask HN: Why isn't email a government service?](https://news.ycombinator.com/item?id=44803958) — 2025-08-05T20:39
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0

@@ -79,12 +79,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]",
-    "link": "https://cr.yp.to/qmail/qmailsec-20071101.pdf",
-    "published": "2025-09-07T20:17:54Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough",
     "link": "https://news.ycombinator.com/item?id=45160056",
     "published": "2025-09-07T17:13:15Z"
@@ -112,12 +106,6 @@
     "title": "Launch HN: Datafruit (YC S25) \u2013 AI for DevOps",
     "link": "https://news.ycombinator.com/item?id=45104974",
     "published": "2025-09-02T16:08:31Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reports of Gmail security issue are inaccurate",
-    "link": "https://blog.google/products/workspace/gmail-security-protections/",
-    "published": "2025-09-01T19:40:42Z"
   },
   {
     "source": "Hacker News",
@@ -178,5 +166,17 @@
     "title": "Show HN: Ldns.com \u2013 fast DNS lookups from the URL bar",
     "link": "https://ldns.com/",
     "published": "2025-08-15T16:46:57Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
+    "link": "https://www.vaultrice.com/",
+    "published": "2025-08-13T15:37:04Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Why isn't email a government service?",
+    "link": "https://news.ycombinator.com/item?id=44803958",
+    "published": "2025-08-05T20:39:35Z"
   }
 ]
