@@ -10,7 +10,6 @@
 - [Show HN: I built a tool that turns cryptography papers into working Python code](https://paperstoapp.com) — 2025-09-04T09:46
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
-- [Reports of Gmail security issue are inaccurate](https://blog.google/products/workspace/gmail-security-protections/) — 2025-09-01T19:40
 - [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
 - [Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use](https://app.redactsure.com/) — 2025-08-25T16:16
 - [Show HN: InterceptSuite – MitM proxy that handles StartTLS upgrades](https://github.com/InterceptSuite/InterceptSuite) — 2025-08-25T05:54
@@ -21,6 +20,7 @@
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
 - [Show HN: Ldns.com – fast DNS lookups from the URL bar](https://ldns.com/) — 2025-08-15T16:46
+- [Show HN: Vaultrice – A real-time key-value store with a localStorage API](https://www.vaultrice.com/) — 2025-08-13T15:37
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
