@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-10
+# 🛡️ Email Security Trends – Updated 2025-09-11
 
 ## 📰 Hacker News
 - [Plex security incident leaks emails, usernames, and hashed passwords](https://links.plex.tv/s/vb/oJIDdHNP1Zyr2csQlfQV9epYGm5CXYYTe5R0JCY5hUuvpoGXjFD4RUmCXVc6ua8xU9suJ_s2um07ouSelOiNEgADmqMYZggzQH4KDEWeYTcex09UBwizlx-vDm0yfdiYJ8bKHBQ/ElJGH6Xk1Wkna2xmL1B8xUdkj90kFVjC/12) — 2025-09-09T09:41
