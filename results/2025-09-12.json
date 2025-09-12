@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Root Managed Services",
+    "link": "https://www.rootmanagedservices.com",
+    "published": "2025-09-12T03:45:29Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Plex security incident leaks emails, usernames, and hashed passwords",
     "link": "https://links.plex.tv/s/vb/oJIDdHNP1Zyr2csQlfQV9epYGm5CXYYTe5R0JCY5hUuvpoGXjFD4RUmCXVc6ua8xU9suJ_s2um07ouSelOiNEgADmqMYZggzQH4KDEWeYTcex09UBwizlx-vDm0yfdiYJ8bKHBQ/ElJGH6Xk1Wkna2xmL1B8xUdkj90kFVjC/12",
     "published": "2025-09-09T09:41:00Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Ldns.com \u2013 fast DNS lookups from the URL bar",
     "link": "https://ldns.com/",
     "published": "2025-08-15T16:46:57Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
-    "link": "https://www.vaultrice.com/",
-    "published": "2025-08-13T15:37:04Z"
   }
 ]
