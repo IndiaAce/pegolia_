@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-09-13
 
 ## 📰 Hacker News
+- [Guidance on End-to-End Email Security](https://www.rfc-editor.org/rfc/rfc9787.html) — 2025-09-13T15:44
 - [Show HN: Root Managed Services](https://www.rootmanagedservices.com) — 2025-09-12T03:45
 - [Plex security incident leaks emails, usernames, and hashed passwords](https://links.plex.tv/s/vb/oJIDdHNP1Zyr2csQlfQV9epYGm5CXYYTe5R0JCY5hUuvpoGXjFD4RUmCXVc6ua8xU9suJ_s2um07ouSelOiNEgADmqMYZggzQH4KDEWeYTcex09UBwizlx-vDm0yfdiYJ8bKHBQ/ElJGH6Xk1Wkna2xmL1B8xUdkj90kFVjC/12) — 2025-09-09T09:41
 - [Plex Update: Notice of a potential security incident](https://news.ycombinator.com/item?id=45174684) — 2025-09-08T22:09
@@ -20,7 +21,6 @@
 - [iCloud Mail or Gmail?](https://news.ycombinator.com/item?id=44968389) — 2025-08-21T02:07
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 - [Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection](https://www.realitydefender.com/platform/api) — 2025-08-18T15:16
-- [Show HN: Ldns.com – fast DNS lookups from the URL bar](https://ldns.com/) — 2025-08-15T16:46
 
 ## 📰 Proofpoint
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
