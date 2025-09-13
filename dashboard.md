@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-12
+# 🛡️ Email Security Trends – Updated 2025-09-13
 
 ## 📰 Hacker News
 - [Show HN: Root Managed Services](https://www.rootmanagedservices.com) — 2025-09-12T03:45
