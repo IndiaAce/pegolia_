@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-13
+# 🛡️ Email Security Trends – Updated 2025-09-14
 
 ## 📰 Hacker News
 - [Guidance on End-to-End Email Security](https://www.rfc-editor.org/rfc/rfc9787.html) — 2025-09-13T15:44
