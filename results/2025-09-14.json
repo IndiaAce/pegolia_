@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Lost $300 due to an API key leak from \"vibe coding\" \u2013 Learn from my mistake",
+    "link": "https://news.ycombinator.com/item?id=45241001",
+    "published": "2025-09-14T16:16:00Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Guidance on End-to-End Email Security",
     "link": "https://www.rfc-editor.org/rfc/rfc9787.html",
     "published": "2025-09-13T15:44:06Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)",
     "link": "https://news.ycombinator.com/item?id=44951318",
     "published": "2025-08-19T13:32:30Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Reality Defender (YC W22) \u2013 API for Deepfake and GenAI Detection",
-    "link": "https://www.realitydefender.com/platform/api",
-    "published": "2025-08-18T15:16:34Z"
   }
 ]
