@@ -23,14 +23,14 @@
 - [Ask HN: Founding Engineer/CTO (equity) for music rights/data infra (UK/US)](https://news.ycombinator.com/item?id=44951318) — 2025-08-19T13:32
 
 ## 📰 Proofpoint
+- [Proofpoint Unveils First Agentic AI Solution for Human Communications Intelligence](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-first-agentic-ai-solution-human-communications) — 15 Sep 2025 08:5
+- [Research Saturday: Don’t trust that app!](https://www.proofpoint.com/us/newsroom/news/research-saturday-dont-trust-app) — 06 Sep 2025 16:0
+- [Attacks with Stealerium malware spike](https://www.proofpoint.com/us/newsroom/news/attacks-stealerium-malware-spike) — 05 Sep 2025 16:0
+- [Fewer CISOs feel aligned with their boards on cybersecurity this year](https://www.proofpoint.com/us/newsroom/news/fewer-cisos-feel-aligned-their-boards-cybersecurity-year) — 05 Sep 2025 16:0
+- [Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn](https://www.proofpoint.com/us/newsroom/news/automated-sextortion-spyware-takes-webcam-pics-victims-watching-porn) — 03 Sep 2025 16:0
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
 - [58% of Organizations Are Unprepared for Cyberattacks](https://www.proofpoint.com/us/newsroom/news/58-organizations-are-unprepared-cyberattacks) — 28 Aug 2025 12:2
 - [Training Bank Employees on Cybersecurity](https://www.proofpoint.com/us/newsroom/news/training-bank-employees-cybersecurity) — 26 Aug 2025 12:3
 - [AI website builder Lovable fuels rise in phishing & scams](https://www.proofpoint.com/us/newsroom/news/ai-website-builder-lovable-fuels-rise-phishing-scams) — 26 Aug 2025 12:2
 - [CISOs grow more concerned about risk of material cyberattack](https://www.proofpoint.com/us/newsroom/news/cisos-grow-more-concerned-about-risk-material-cyberattack) — 26 Aug 2025 12:1
-- [Proofpoint’s 2025 Voice of the CISO Report Reveals Heightened AI Risk, Record CISO Burnout, and the Persistent People Problem in Cybersecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2025-voice-ciso-report) — 26 Aug 2025 05:0
-- [Hackers Are Vibe Coding Phishing Websites To Steal Credentials](https://www.proofpoint.com/us/newsroom/news/hackers-are-vibe-coding-phishing-websites-steal-credentials) — 22 Aug 2025 13:3
-- [FBI Warns iPhone And Android Users - Do Not Use These Codes](https://www.proofpoint.com/us/newsroom/news/fbi-warns-iphone-and-android-users-do-not-use-these-codes) — 21 Aug 2025 13:3
-- [Illicit activity powered by Lovable website builder abuse on the rise](https://www.proofpoint.com/us/newsroom/news/illicit-activity-powered-lovable-website-builder-abuse-rise) — 21 Aug 2025 12:2
-- [Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites](https://www.proofpoint.com/us/newsroom/news/cybercriminals-abuse-vibe-coding-service-create-malicious-sites) — 20 Aug 2025 13:3
 
