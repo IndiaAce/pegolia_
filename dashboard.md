@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-15
+# 🛡️ Email Security Trends – Updated 2025-09-16
 
 ## 📰 Hacker News
 - [Lost $300 due to an API key leak from "vibe coding" – Learn from my mistake](https://news.ycombinator.com/item?id=45241001) — 2025-09-14T16:16
