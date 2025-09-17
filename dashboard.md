@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-16
+# 🛡️ Email Security Trends – Updated 2025-09-17
 
 ## 📰 Hacker News
 - [Show HN: Spyc – Privacy-First Investment Tracker for DIY Portfolio and Net Worth](https://spyc.io) — 2025-09-16T15:38
