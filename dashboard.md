@@ -23,6 +23,7 @@
 - [iCloud Mail or Gmail?](https://news.ycombinator.com/item?id=44968389) — 2025-08-21T02:07
 
 ## 📰 Proofpoint
+- [Proofpoint Secures Collaboration and Data in the Agentic Workspace with Industry-First Innovations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-secures-collaboration-and-data-agentic-workspace-industry-first) — 23 Sep 2025 06:0
 - [Proofpoint Recognizes 2025 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/global-partner-award-winners-2025) — 22 Sep 2025 01:0
 - [Proofpoint Unveils First Agentic AI Solution for Human Communications Intelligence](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-first-agentic-ai-solution-human-communications) — 15 Sep 2025 08:5
 - [Research Saturday: Don’t trust that app!](https://www.proofpoint.com/us/newsroom/news/research-saturday-dont-trust-app) — 06 Sep 2025 16:0
@@ -32,5 +33,4 @@
 - [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
 - [58% of Organizations Are Unprepared for Cyberattacks](https://www.proofpoint.com/us/newsroom/news/58-organizations-are-unprepared-cyberattacks) — 28 Aug 2025 12:2
 - [Training Bank Employees on Cybersecurity](https://www.proofpoint.com/us/newsroom/news/training-bank-employees-cybersecurity) — 26 Aug 2025 12:3
-- [AI website builder Lovable fuels rise in phishing & scams](https://www.proofpoint.com/us/newsroom/news/ai-website-builder-lovable-fuels-rise-phishing-scams) — 26 Aug 2025 12:2
 
