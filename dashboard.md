@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-09-24
+# 🛡️ Email Security Trends – Updated 2025-09-25
 
 ## 📰 Hacker News
+- [Show HN: Aegis – A Self-Hosted Code Hosting Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-24T21:04
 - [Show HN: AuthPress – Advanced WordPress 2FA Plugin](https://wordpress.org/plugins/two-factor-login-telegram/) — 2025-09-16T12:44
 - [Lost $300 due to an API key leak from "vibe coding" – Learn from my mistake](https://news.ycombinator.com/item?id=45241001) — 2025-09-14T16:16
 - [Guidance on End-to-End Email Security](https://www.rfc-editor.org/rfc/rfc9787.html) — 2025-09-13T15:44
@@ -20,7 +21,6 @@
 - [Enhancing Email Security: A Collective Responsibility (2024)](https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security) — 2025-08-23T09:07
 - [Stop Using Encrypted Email](https://securitycryptographywhatever.com/2025/08/22/stop-using-encrypted-email-with-william-woodruff/) — 2025-08-23T02:14
 - [Show HN: A Ruby gem that filters sensitive information from free text](https://github.com/thoughtbot/top_secret) — 2025-08-22T02:02
-- [iCloud Mail or Gmail?](https://news.ycombinator.com/item?id=44968389) — 2025-08-21T02:07
 
 ## 📰 Proofpoint
 - [Proofpoint Secures Collaboration and Data in the Agentic Workspace with Industry-First Innovations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-secures-collaboration-and-data-agentic-workspace-industry-first) — 23 Sep 2025 06:0
