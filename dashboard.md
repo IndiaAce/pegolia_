@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-09-25
+# 🛡️ Email Security Trends – Updated 2025-09-26
 
 ## 📰 Hacker News
+- [Show HN: Prism – Let browser agents access any app](https://prismai.sh) — 2025-09-25T19:32
 - [Ask HN: Is it likely AI training models could start training on personal files?](https://news.ycombinator.com/item?id=45370640) — 2025-09-25T08:48
 - [Ask HN: Engineer Who Ships – From Idea → Production (Remote Full-Stack Roles)](https://news.ycombinator.com/item?id=45369810) — 2025-09-25T06:23
 - [Show HN: Aegis – A Self-Hosted Code Hosting Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-24T21:04
@@ -20,7 +21,6 @@
 - [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
 - [Show HN: Bitcoin Challenge. Try to steal a plain text private key you can use](https://app.redactsure.com/) — 2025-08-25T16:16
 - [Show HN: InterceptSuite – MitM proxy that handles StartTLS upgrades](https://github.com/InterceptSuite/InterceptSuite) — 2025-08-25T05:54
-- [Enhancing Email Security: A Collective Responsibility (2024)](https://www.dotmagazine.online/issues/digital-security-trust-consumer-protection/enhancing-email-security) — 2025-08-23T09:07
 
 ## 📰 Proofpoint
 - [Proofpoint Secures Collaboration and Data in the Agentic Workspace with Industry-First Innovations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-secures-collaboration-and-data-agentic-workspace-industry-first) — 23 Sep 2025 06:0
