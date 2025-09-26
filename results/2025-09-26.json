@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Quick News on How to Recover Stolen Crypto from Scammers",
+    "link": "https://news.ycombinator.com/item?id=45389005",
+    "published": "2025-09-26T17:35:56Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Aegis \u2013 A Self-Hosted Git Server Written in Golang",
     "link": "https://github.com/AegisCodeForge/aegis",
     "published": "2025-09-26T10:14:11Z"
@@ -172,11 +178,5 @@
     "title": "Launch HN: Risely (YC S25) \u2013 AI Agents for Universities",
     "link": "https://news.ycombinator.com/item?id=45116859",
     "published": "2025-09-03T15:21:35Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Datafruit (YC S25) \u2013 AI for DevOps",
-    "link": "https://news.ycombinator.com/item?id=45104974",
-    "published": "2025-09-02T16:08:31Z"
   }
 ]
