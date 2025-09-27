@@ -85,12 +85,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Ask HN: Is it likely AI training models could start training on personal files?",
-    "link": "https://news.ycombinator.com/item?id=45370640",
-    "published": "2025-09-25T08:48:48Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Ask HN: Engineer Who Ships \u2013 From Idea \u2192 Production (Remote Full-Stack Roles)",
     "link": "https://news.ycombinator.com/item?id=45369810",
     "published": "2025-09-25T06:23:52Z"
@@ -178,5 +172,11 @@
     "title": "Launch HN: Datafruit (YC S25) \u2013 AI for DevOps",
     "link": "https://news.ycombinator.com/item?id=45104974",
     "published": "2025-09-02T16:08:31Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Wife sent $57k to fake Elon Musk \u2013 technical security couldn't stop it",
+    "link": "https://news.ycombinator.com/item?id=45037474",
+    "published": "2025-08-27T09:58:25Z"
   }
 ]

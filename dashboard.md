@@ -5,7 +5,6 @@
 - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-26T08:56
 - [Ask HN-(Remote Full-Stack Roles)Engineer Who Ships – From Idea → Production](https://news.ycombinator.com/item?id=45381883) — 2025-09-26T02:19
 - [Show HN: Prism – Let browser agents access any app](https://prismai.sh) — 2025-09-25T19:32
-- [Ask HN: Is it likely AI training models could start training on personal files?](https://news.ycombinator.com/item?id=45370640) — 2025-09-25T08:48
 - [Ask HN: Engineer Who Ships – From Idea → Production (Remote Full-Stack Roles)](https://news.ycombinator.com/item?id=45369810) — 2025-09-25T06:23
 - [Show HN: Aegis – A Self-Hosted Code Hosting Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-24T21:04
 - [Show HN: AuthPress – Advanced WordPress 2FA Plugin](https://wordpress.org/plugins/two-factor-login-telegram/) — 2025-09-16T12:44
@@ -21,6 +20,7 @@
 - [Show HN: I built a tool that turns cryptography papers into working Python code](https://paperstoapp.com) — 2025-09-04T09:46
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
+- [Wife sent $57k to fake Elon Musk – technical security couldn't stop it](https://news.ycombinator.com/item?id=45037474) — 2025-08-27T09:58
 
 ## 📰 Proofpoint
 - [Proofpoint Secures Collaboration and Data in the Agentic Workspace with Industry-First Innovations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-secures-collaboration-and-data-agentic-workspace-industry-first) — 23 Sep 2025 06:0
