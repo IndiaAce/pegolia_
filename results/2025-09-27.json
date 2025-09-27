@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
+    "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
+    "published": "2025-09-27T14:23:12Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Aegis \u2013 A Self-Hosted Git Server Written in Golang",
     "link": "https://github.com/AegisCodeForge/aegis",
     "published": "2025-09-26T10:14:11Z"
@@ -172,11 +178,5 @@
     "title": "Launch HN: Datafruit (YC S25) \u2013 AI for DevOps",
     "link": "https://news.ycombinator.com/item?id=45104974",
     "published": "2025-09-02T16:08:31Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Wife sent $57k to fake Elon Musk \u2013 technical security couldn't stop it",
-    "link": "https://news.ycombinator.com/item?id=45037474",
-    "published": "2025-08-27T09:58:25Z"
   }
 ]
