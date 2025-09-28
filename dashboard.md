@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-09-28
 
 ## 📰 Hacker News
-- [The Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-27T14:23
+- [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-27T14:23
 - [Show HN: Aegis – A Self-Hosted Git Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-26T10:14
 - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-26T08:56
 - [Ask HN-(Remote Full-Stack Roles)Engineer Who Ships – From Idea → Production](https://news.ycombinator.com/item?id=45381883) — 2025-09-26T02:19
