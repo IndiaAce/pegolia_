@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-09-29
+# 🛡️ Email Security Trends – Updated 2025-09-30
 
 ## 📰 Hacker News
 - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-27T14:23
