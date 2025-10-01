@@ -23,6 +23,9 @@
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
 
 ## 📰 Proofpoint
+- [Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy](https://www.proofpoint.com/us/newsroom/news/proofpoints-big-bet-securing-agentic-workspace-it-gets-messy) — 23 Sep 2025 10:3
+- [Proofpoint's Latest Tooling Addresses AI Security Needs](https://www.proofpoint.com/us/newsroom/news/proofpoints-latest-tooling-addresses-ai-security-needs) — 23 Sep 2025 10:3
+- [Proofpoint targets AI risks with new agentic workspace security capabilities](https://www.proofpoint.com/us/newsroom/news/proofpoint-targets-ai-risks-new-agentic-workspace-security-capabilities) — 23 Sep 2025 10:3
 - [Proofpoint Secures Collaboration and Data in the Agentic Workspace with Industry-First Innovations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-secures-collaboration-and-data-agentic-workspace-industry-first) — 23 Sep 2025 06:0
 - [Proofpoint Recognizes 2025 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/global-partner-award-winners-2025) — 22 Sep 2025 01:0
 - [Proofpoint Unveils First Agentic AI Solution for Human Communications Intelligence](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-first-agentic-ai-solution-human-communications) — 15 Sep 2025 08:5
@@ -30,7 +33,4 @@
 - [Attacks with Stealerium malware spike](https://www.proofpoint.com/us/newsroom/news/attacks-stealerium-malware-spike) — 05 Sep 2025 16:0
 - [Fewer CISOs feel aligned with their boards on cybersecurity this year](https://www.proofpoint.com/us/newsroom/news/fewer-cisos-feel-aligned-their-boards-cybersecurity-year) — 05 Sep 2025 16:0
 - [Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn](https://www.proofpoint.com/us/newsroom/news/automated-sextortion-spyware-takes-webcam-pics-victims-watching-porn) — 03 Sep 2025 16:0
-- [Proofpoint Teams Up with Padel Star Delfina Brea in New Global Brand Ambassador Partnership](https://www.proofpoint.com/us/newsroom/news/proofpoint-partners-padel-star-delfina-brea) — 02 Sep 2025 05:0
-- [58% of Organizations Are Unprepared for Cyberattacks](https://www.proofpoint.com/us/newsroom/news/58-organizations-are-unprepared-cyberattacks) — 28 Aug 2025 12:2
-- [Training Bank Employees on Cybersecurity](https://www.proofpoint.com/us/newsroom/news/training-bank-employees-cybersecurity) — 26 Aug 2025 12:3
 
