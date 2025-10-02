@@ -23,6 +23,7 @@
 - [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
 
 ## 📰 Proofpoint
+- [Proofpoint is a Proud Participant in the Microsoft Security Store Partner Ecosystem](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-proud-participant-microsoft-security-store-partner-ecosystem-0) — 01 Oct 2025 09:1
 - [Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy](https://www.proofpoint.com/us/newsroom/news/proofpoints-big-bet-securing-agentic-workspace-it-gets-messy) — 23 Sep 2025 10:3
 - [Proofpoint's Latest Tooling Addresses AI Security Needs](https://www.proofpoint.com/us/newsroom/news/proofpoints-latest-tooling-addresses-ai-security-needs) — 23 Sep 2025 10:3
 - [Proofpoint targets AI risks with new agentic workspace security capabilities](https://www.proofpoint.com/us/newsroom/news/proofpoint-targets-ai-risks-new-agentic-workspace-security-capabilities) — 23 Sep 2025 10:3
@@ -32,5 +33,4 @@
 - [Research Saturday: Don’t trust that app!](https://www.proofpoint.com/us/newsroom/news/research-saturday-dont-trust-app) — 06 Sep 2025 16:0
 - [Attacks with Stealerium malware spike](https://www.proofpoint.com/us/newsroom/news/attacks-stealerium-malware-spike) — 05 Sep 2025 16:0
 - [Fewer CISOs feel aligned with their boards on cybersecurity this year](https://www.proofpoint.com/us/newsroom/news/fewer-cisos-feel-aligned-their-boards-cybersecurity-year) — 05 Sep 2025 16:0
-- [Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn](https://www.proofpoint.com/us/newsroom/news/automated-sextortion-spyware-takes-webcam-pics-victims-watching-porn) — 03 Sep 2025 16:0
 
