@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-10-03
+# 🛡️ Email Security Trends – Updated 2025-10-04
 
 ## 📰 Hacker News
+- [CometJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/) — 2025-10-03T19:47
 - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-27T14:23
 - [Show HN: Aegis – A Self-Hosted Git Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-26T10:14
 - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-26T08:56
@@ -20,7 +21,6 @@
 - [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
 - [Show HN: I built a tool that turns cryptography papers into working Python code](https://paperstoapp.com) — 2025-09-04T09:46
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
-- [Launch HN: Datafruit (YC S25) – AI for DevOps](https://news.ycombinator.com/item?id=45104974) — 2025-09-02T16:08
 
 ## 📰 Proofpoint
 - [Proofpoint is a Proud Participant in the Microsoft Security Store Partner Ecosystem](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-proud-participant-microsoft-security-store-partner-ecosystem-0) — 01 Oct 2025 09:1
