@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-06
+# 🛡️ Email Security Trends – Updated 2025-10-07
 
 ## 📰 Hacker News
 - [CometJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/) — 2025-10-03T19:47
