@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-08
+# 🛡️ Email Security Trends – Updated 2025-10-09
 
 ## 📰 Hacker News
 - [CometJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/) — 2025-10-03T19:47
@@ -23,6 +23,7 @@
 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859) — 2025-09-03T15:21
 
 ## 📰 Proofpoint
+- [Nearly Three in Four U.S. Healthcare Organizations Report Patient Care Disruption Due to Cyber Attacks, According to New Proofpoint-Ponemon Institute Report](https://www.proofpoint.com/us/newsroom/press-releases/nearly-three-four-us-healthcare-organizations-report-patient-care-disruption) — 07 Oct 2025 14:0
 - [Proofpoint is a Proud Participant in the Microsoft Security Store Partner Ecosystem](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-proud-participant-microsoft-security-store-partner-ecosystem-0) — 01 Oct 2025 09:1
 - [Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy](https://www.proofpoint.com/us/newsroom/news/proofpoints-big-bet-securing-agentic-workspace-it-gets-messy) — 23 Sep 2025 10:3
 - [Proofpoint's Latest Tooling Addresses AI Security Needs](https://www.proofpoint.com/us/newsroom/news/proofpoints-latest-tooling-addresses-ai-security-needs) — 23 Sep 2025 10:3
@@ -32,5 +33,4 @@
 - [Proofpoint Unveils First Agentic AI Solution for Human Communications Intelligence](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-first-agentic-ai-solution-human-communications) — 15 Sep 2025 08:5
 - [Research Saturday: Don’t trust that app!](https://www.proofpoint.com/us/newsroom/news/research-saturday-dont-trust-app) — 06 Sep 2025 16:0
 - [Attacks with Stealerium malware spike](https://www.proofpoint.com/us/newsroom/news/attacks-stealerium-malware-spike) — 05 Sep 2025 16:0
-- [Fewer CISOs feel aligned with their boards on cybersecurity this year](https://www.proofpoint.com/us/newsroom/news/fewer-cisos-feel-aligned-their-boards-cybersecurity-year) — 05 Sep 2025 16:0
 
