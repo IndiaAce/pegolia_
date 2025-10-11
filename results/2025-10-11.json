@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Tell HN: Protonmail support reads your emails in unsuspension process",
+    "link": "https://news.ycombinator.com/item?id=45549020",
+    "published": "2025-10-11T13:35:05Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "CometJacking attack tricks Comet browser into stealing emails",
     "link": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/",
     "published": "2025-10-03T19:47:43Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: I built a tool that turns cryptography papers into working Python code",
     "link": "https://paperstoapp.com",
     "published": "2025-09-04T09:46:42Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Risely (YC S25) \u2013 AI Agents for Universities",
-    "link": "https://news.ycombinator.com/item?id=45116859",
-    "published": "2025-09-03T15:21:35Z"
   }
 ]
