@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-12
+# 🛡️ Email Security Trends – Updated 2025-10-13
 
 ## 📰 Hacker News
 - [Tell HN: Protonmail support reads your emails in unsuspension process](https://news.ycombinator.com/item?id=45549020) — 2025-10-11T13:35
