@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections",
+    "link": "https://www.archestra.ai/",
+    "published": "2025-10-13T14:22:35Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: Protonmail support reads your emails in unsuspension process",
     "link": "https://news.ycombinator.com/item?id=45549020",
     "published": "2025-10-11T13:35:05Z"
@@ -172,11 +178,5 @@
     "title": "Tell HN: Think twice before activating two-factor authentication on Vivaldi",
     "link": "https://news.ycombinator.com/item?id=45132858",
     "published": "2025-09-04T22:15:40Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a tool that turns cryptography papers into working Python code",
-    "link": "https://paperstoapp.com",
-    "published": "2025-09-04T09:46:42Z"
   }
 ]
