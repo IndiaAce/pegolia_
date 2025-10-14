@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-13
+# 🛡️ Email Security Trends – Updated 2025-10-14
 
 ## 📰 Hacker News
 - [Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections](https://www.archestra.ai/) — 2025-10-13T14:22
