@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Building a Personal AI Avatar. What Technical Are Essential?",
+    "link": "https://news.ycombinator.com/item?id=45604911",
+    "published": "2025-10-16T13:12:18Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections",
     "link": "https://www.archestra.ai/",
     "published": "2025-10-13T14:22:35Z"
@@ -172,11 +178,5 @@
     "title": "The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough",
     "link": "https://news.ycombinator.com/item?id=45160056",
     "published": "2025-09-07T17:13:15Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tell HN: Think twice before activating two-factor authentication on Vivaldi",
-    "link": "https://news.ycombinator.com/item?id=45132858",
-    "published": "2025-09-04T22:15:40Z"
   }
 ]

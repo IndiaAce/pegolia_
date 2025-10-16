@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-10-16
 
 ## 📰 Hacker News
+- [Ask HN: Building a Personal AI Avatar. What Technical Are Essential?](https://news.ycombinator.com/item?id=45604911) — 2025-10-16T13:12
 - [Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections](https://www.archestra.ai/) — 2025-10-13T14:22
 - [Tell HN: Protonmail support reads your emails in unsuspension process](https://news.ycombinator.com/item?id=45549020) — 2025-10-11T13:35
 - [CometJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/) — 2025-10-03T19:47
@@ -20,7 +21,6 @@
 - [Show HN: Hyperif – Forget MCPs, chat with your data across all your tools](https://hyperif.com) — 2025-09-08T13:44
 - [Ask HN: What are the tech stack you use in 2025?](https://news.ycombinator.com/item?id=45166228) — 2025-09-08T09:25
 - [The Evolution of Technical Scams: Why Developer Knowledge Isn't Enough](https://news.ycombinator.com/item?id=45160056) — 2025-09-07T17:13
-- [Tell HN: Think twice before activating two-factor authentication on Vivaldi](https://news.ycombinator.com/item?id=45132858) — 2025-09-04T22:15
 
 ## 📰 Proofpoint
 - [Nearly Three in Four U.S. Healthcare Organizations Report Patient Care Disruption Due to Cyber Attacks, According to New Proofpoint-Ponemon Institute Report](https://www.proofpoint.com/us/newsroom/press-releases/nearly-three-four-us-healthcare-organizations-report-patient-care-disruption) — 07 Oct 2025 14:0
