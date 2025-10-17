@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-10-17
 
 ## 📰 Hacker News
+- [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
+- [Ask HN: How do you remember to keep all your devices charged?](https://news.ycombinator.com/item?id=45616536) — 2025-10-17T13:26
 - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621) — 2025-10-16T19:24
 - [Ask HN: Building a Personal AI Avatar. What Technical Are Essential?](https://news.ycombinator.com/item?id=45604911) — 2025-10-16T13:12
 - [Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections](https://www.archestra.ai/) — 2025-10-13T14:22
@@ -19,8 +21,6 @@
 - [Show HN: Root Managed Services](https://www.rootmanagedservices.com) — 2025-09-12T03:45
 - [Plex security incident leaks emails, usernames, and hashed passwords](https://links.plex.tv/s/vb/oJIDdHNP1Zyr2csQlfQV9epYGm5CXYYTe5R0JCY5hUuvpoGXjFD4RUmCXVc6ua8xU9suJ_s2um07ouSelOiNEgADmqMYZggzQH4KDEWeYTcex09UBwizlx-vDm0yfdiYJ8bKHBQ/ElJGH6Xk1Wkna2xmL1B8xUdkj90kFVjC/12) — 2025-09-09T09:41
 - [Plex Update: Notice of a potential security incident](https://news.ycombinator.com/item?id=45174684) — 2025-09-08T22:09
-- [Show HN: Hyperif – Forget MCPs, chat with your data across all your tools](https://hyperif.com) — 2025-09-08T13:44
-- [Ask HN: What are the tech stack you use in 2025?](https://news.ycombinator.com/item?id=45166228) — 2025-09-08T09:25
 
 ## 📰 Proofpoint
 - [Nearly Three in Four U.S. Healthcare Organizations Report Patient Care Disruption Due to Cyber Attacks, According to New Proofpoint-Ponemon Institute Report](https://www.proofpoint.com/us/newsroom/press-releases/nearly-three-four-us-healthcare-organizations-report-patient-care-disruption) — 07 Oct 2025 14:0
