@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-17
+# 🛡️ Email Security Trends – Updated 2025-10-18
 
 ## 📰 Hacker News
 - [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
@@ -23,14 +23,14 @@
 - [Plex Update: Notice of a potential security incident](https://news.ycombinator.com/item?id=45174684) — 2025-09-08T22:09
 
 ## 📰 Proofpoint
+- [Cybersecurity Study Shows Patient Care at Risk of Attacks](https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks) — 16 Oct 2025 00:3
+- [Cybersecurity In Healthcare Is Now A Clinical Safety Issue](https://www.proofpoint.com/us/newsroom/news/cybersecurity-healthcare-now-clinical-safety-issue) — 08 Oct 2025 00:4
 - [Nearly Three in Four U.S. Healthcare Organizations Report Patient Care Disruption Due to Cyber Attacks, According to New Proofpoint-Ponemon Institute Report](https://www.proofpoint.com/us/newsroom/press-releases/nearly-three-four-us-healthcare-organizations-report-patient-care-disruption) — 07 Oct 2025 14:0
+- [10 Big Cybersecurity Acquisition Deals In 2025](https://www.proofpoint.com/us/newsroom/news/10-big-cybersecurity-acquisition-deals-2025) — 07 Oct 2025 00:4
+- [Congress Let Cyber-Intel Sharing Act Lapse. Does it Matter?](https://www.proofpoint.com/us/newsroom/news/congress-let-cyber-intel-sharing-act-lapse-does-it-matter) — 03 Oct 2025 00:3
+- [Proofpoint Pushes Security Deeper Into The Agentic Workspace](https://www.proofpoint.com/us/newsroom/news/proofpoint-pushes-security-deeper-agentic-workspace) — 02 Oct 2025 00:3
 - [Proofpoint is a Proud Participant in the Microsoft Security Store Partner Ecosystem](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-proud-participant-microsoft-security-store-partner-ecosystem-0) — 01 Oct 2025 09:1
 - [Proofpoint’s Big Bet: Securing the “Agentic Workspace” Before It Gets Messy](https://www.proofpoint.com/us/newsroom/news/proofpoints-big-bet-securing-agentic-workspace-it-gets-messy) — 23 Sep 2025 10:3
 - [Proofpoint's Latest Tooling Addresses AI Security Needs](https://www.proofpoint.com/us/newsroom/news/proofpoints-latest-tooling-addresses-ai-security-needs) — 23 Sep 2025 10:3
 - [Proofpoint targets AI risks with new agentic workspace security capabilities](https://www.proofpoint.com/us/newsroom/news/proofpoint-targets-ai-risks-new-agentic-workspace-security-capabilities) — 23 Sep 2025 10:3
-- [Proofpoint Secures Collaboration and Data in the Agentic Workspace with Industry-First Innovations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-secures-collaboration-and-data-agentic-workspace-industry-first) — 23 Sep 2025 06:0
-- [Proofpoint Recognizes 2025 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/global-partner-award-winners-2025) — 22 Sep 2025 01:0
-- [Proofpoint Unveils First Agentic AI Solution for Human Communications Intelligence](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-first-agentic-ai-solution-human-communications) — 15 Sep 2025 08:5
-- [Research Saturday: Don’t trust that app!](https://www.proofpoint.com/us/newsroom/news/research-saturday-dont-trust-app) — 06 Sep 2025 16:0
-- [Attacks with Stealerium malware spike](https://www.proofpoint.com/us/newsroom/news/attacks-stealerium-malware-spike) — 05 Sep 2025 16:0
 
