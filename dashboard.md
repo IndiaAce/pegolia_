@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-10-20
 
 ## 📰 Hacker News
+- [Show HN: I made a RAG agent for the leyman](https://www.sitesidekick.io) — 2025-10-20T08:16
 - [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
 - [Ask HN: How do you remember to keep all your devices charged?](https://news.ycombinator.com/item?id=45616536) — 2025-10-17T13:26
 - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621) — 2025-10-16T19:24
@@ -20,7 +21,6 @@
 - [Guidance on End-to-End Email Security](https://www.rfc-editor.org/rfc/rfc9787.html) — 2025-09-13T15:44
 - [Show HN: Root Managed Services](https://www.rootmanagedservices.com) — 2025-09-12T03:45
 - [Plex security incident leaks emails, usernames, and hashed passwords](https://links.plex.tv/s/vb/oJIDdHNP1Zyr2csQlfQV9epYGm5CXYYTe5R0JCY5hUuvpoGXjFD4RUmCXVc6ua8xU9suJ_s2um07ouSelOiNEgADmqMYZggzQH4KDEWeYTcex09UBwizlx-vDm0yfdiYJ8bKHBQ/ElJGH6Xk1Wkna2xmL1B8xUdkj90kFVjC/12) — 2025-09-09T09:41
-- [Plex Update: Notice of a potential security incident](https://news.ycombinator.com/item?id=45174684) — 2025-09-08T22:09
 
 ## 📰 Proofpoint
 - [Cybersecurity Study Shows Patient Care at Risk of Attacks](https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks) — 16 Oct 2025 00:3

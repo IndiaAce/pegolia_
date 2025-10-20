@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I made a RAG agent for the leyman",
+    "link": "https://www.sitesidekick.io",
+    "published": "2025-10-20T08:16:22Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers",
     "link": "https://browsertotal.com/demos/agentic-browser-fuzzer",
     "published": "2025-10-17T16:03:36Z"
@@ -172,11 +178,5 @@
     "title": "Plex security incident leaks emails, usernames, and hashed passwords",
     "link": "https://links.plex.tv/s/vb/oJIDdHNP1Zyr2csQlfQV9epYGm5CXYYTe5R0JCY5hUuvpoGXjFD4RUmCXVc6ua8xU9suJ_s2um07ouSelOiNEgADmqMYZggzQH4KDEWeYTcex09UBwizlx-vDm0yfdiYJ8bKHBQ/ElJGH6Xk1Wkna2xmL1B8xUdkj90kFVjC/12",
     "published": "2025-09-09T09:41:00Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Plex Update: Notice of a potential security incident",
-    "link": "https://news.ycombinator.com/item?id=45174684",
-    "published": "2025-09-08T22:09:48Z"
   }
 ]
