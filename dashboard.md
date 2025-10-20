@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-19
+# 🛡️ Email Security Trends – Updated 2025-10-20
 
 ## 📰 Hacker News
 - [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
