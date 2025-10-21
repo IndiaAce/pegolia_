@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: MailAI \u2013 Personal AI agents in secure sandboxes for email automation",
+    "link": "https://www.mailai.live/",
+    "published": "2025-10-21T14:59:11Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Workbench \u2013 ephemeral cloud sandboxes for agentic coding",
     "link": "https://workbench.brwse.ai",
     "published": "2025-10-20T21:06:58Z"
@@ -172,11 +178,5 @@
     "title": "Guidance on End-to-End Email Security",
     "link": "https://www.rfc-editor.org/rfc/rfc9787.html",
     "published": "2025-09-13T15:44:06Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Root Managed Services",
-    "link": "https://www.rootmanagedservices.com",
-    "published": "2025-09-12T03:45:29Z"
   }
 ]
