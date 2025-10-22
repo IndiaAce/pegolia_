@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-21
+# 🛡️ Email Security Trends – Updated 2025-10-22
 
 ## 📰 Hacker News
 - [Show HN: MailAI – Personal AI agents in secure sandboxes for email automation](https://www.mailai.live/) — 2025-10-21T14:59
