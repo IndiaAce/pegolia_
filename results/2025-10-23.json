@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "A complete toolkit that helps to ship startups in days",
+    "link": "https://news.ycombinator.com/item?id=45679924",
+    "published": "2025-10-23T09:28:43Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Steps to take in advance in case your phone gets stolen",
     "link": "https://news.ycombinator.com/item?id=45669985",
     "published": "2025-10-22T14:49:54Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: AuthPress \u2013 Advanced WordPress 2FA Plugin",
     "link": "https://wordpress.org/plugins/two-factor-login-telegram/",
     "published": "2025-09-16T12:44:27Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lost $300 due to an API key leak from \"vibe coding\" \u2013 Learn from my mistake",
-    "link": "https://news.ycombinator.com/item?id=45241001",
-    "published": "2025-09-14T16:16:00Z"
   }
 ]

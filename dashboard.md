@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-10-23
 
 ## 📰 Hacker News
+- [A complete toolkit that helps to ship startups in days](https://news.ycombinator.com/item?id=45679924) — 2025-10-23T09:28
 - [Steps to take in advance in case your phone gets stolen](https://news.ycombinator.com/item?id=45669985) — 2025-10-22T14:49
 - [Show HN: MailAI – Personal AI agents in secure sandboxes for email automation](https://www.mailai.live/) — 2025-10-21T14:59
 - [Show HN: Workbench – ephemeral cloud sandboxes for agentic coding](https://workbench.brwse.ai) — 2025-10-20T21:06
@@ -20,7 +21,6 @@
 - [Ask HN: Engineer Who Ships – From Idea → Production (Remote Full-Stack Roles)](https://news.ycombinator.com/item?id=45369810) — 2025-09-25T06:23
 - [Show HN: Aegis – A Self-Hosted Code Hosting Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-24T21:04
 - [Show HN: AuthPress – Advanced WordPress 2FA Plugin](https://wordpress.org/plugins/two-factor-login-telegram/) — 2025-09-16T12:44
-- [Lost $300 due to an API key leak from "vibe coding" – Learn from my mistake](https://news.ycombinator.com/item?id=45241001) — 2025-09-14T16:16
 
 ## 📰 Proofpoint
 - [Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-second-consecutive-time-2025-gartnerr-magic) — 21 Oct 2025 12:5
