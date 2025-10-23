@@ -67,12 +67,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Drowning in emails? So I made an AI to give me the gist in one line",
-    "link": "https://www.supamail.co/",
-    "published": "2025-10-22T13:52:55Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: MailAI \u2013 Personal AI agents in secure sandboxes for email automation",
     "link": "https://www.mailai.live/",
     "published": "2025-10-21T14:59:11Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: AuthPress \u2013 Advanced WordPress 2FA Plugin",
     "link": "https://wordpress.org/plugins/two-factor-login-telegram/",
     "published": "2025-09-16T12:44:27Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Lost $300 due to an API key leak from \"vibe coding\" \u2013 Learn from my mistake",
+    "link": "https://news.ycombinator.com/item?id=45241001",
+    "published": "2025-09-14T16:16:00Z"
   }
 ]
