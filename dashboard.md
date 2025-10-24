@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-23
+# 🛡️ Email Security Trends – Updated 2025-10-24
 
 ## 📰 Hacker News
 - [A complete toolkit that helps to ship startups in days](https://news.ycombinator.com/item?id=45679924) — 2025-10-23T09:28
