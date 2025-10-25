@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: MailAI \u2013 Automate Any Workflow in Plain English with Gmail and Stripe",
+    "link": "https://www.mailai.live/",
+    "published": "2025-10-25T14:27:04Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "I built an AI tool to recover passwords",
     "link": "https://news.ycombinator.com/item?id=45700357",
     "published": "2025-10-25T00:12:05Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Engineer Who Ships \u2013 From Idea \u2192 Production (Remote Full-Stack Roles)",
     "link": "https://news.ycombinator.com/item?id=45369810",
     "published": "2025-09-25T06:23:52Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Aegis \u2013 A Self-Hosted Code Hosting Server Written in Golang",
-    "link": "https://github.com/AegisCodeForge/aegis",
-    "published": "2025-09-24T21:04:19Z"
   }
 ]
