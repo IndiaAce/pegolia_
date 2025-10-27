@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-26
+# 🛡️ Email Security Trends – Updated 2025-10-27
 
 ## 📰 Hacker News
 - [Show HN: MailAI – Automate Any Workflow in Plain English with Gmail and Stripe](https://www.mailai.live/) — 2025-10-25T14:27
