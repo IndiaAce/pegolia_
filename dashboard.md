@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-27
+# 🛡️ Email Security Trends – Updated 2025-10-28
 
 ## 📰 Hacker News
 - [Show HN: Dlog – Journaling and AI coach that learns what drives well-being (Mac)](https://dlog.pro/) — 2025-10-27T17:14
