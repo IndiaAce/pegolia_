@@ -61,7 +61,13 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Dlog \u2013 Journaling and AI coach that learns what drives well-being (Mac)",
+    "title": "Hack Any Outlook Account in Firebase Apps \u2013 Zero-Click Email Verification",
+    "link": "https://news.ycombinator.com/item?id=45728529",
+    "published": "2025-10-28T02:01:23Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Dlog \u2013 Journaling and AI coach that learns what drives wellbeing (Mac)",
     "link": "https://dlog.pro/",
     "published": "2025-10-27T17:14:34Z"
   },
@@ -172,11 +178,5 @@
     "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
     "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
     "published": "2025-09-26T08:56:37Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN-(Remote Full-Stack Roles)Engineer Who Ships \u2013 From Idea \u2192 Production",
-    "link": "https://news.ycombinator.com/item?id=45381883",
-    "published": "2025-09-26T02:19:15Z"
   }
 ]
