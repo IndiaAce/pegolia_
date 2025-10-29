@@ -7,9 +7,21 @@
   },
   {
     "source": "Proofpoint",
+    "title": "They were looking for work \u2014 but found a scam instead",
+    "link": "https://www.proofpoint.com/us/newsroom/news/they-were-looking-work-found-scam-instead",
+    "published": "20 Oct 2025 12:31:54"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Cybersecurity Study Shows Patient Care at Risk of Attacks",
     "link": "https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks",
     "published": "16 Oct 2025 00:33:46"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "10 Cool New Data Security Products In 2025",
+    "link": "https://www.proofpoint.com/us/newsroom/news/10-cool-new-data-security-products-2025",
+    "published": "10 Oct 2025 12:36:03"
   },
   {
     "source": "Proofpoint",
@@ -48,18 +60,6 @@
     "published": "01 Oct 2025 09:18:46"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint\u2019s Big Bet: Securing the \u201cAgentic Workspace\u201d Before It Gets Messy",
-    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoints-big-bet-securing-agentic-workspace-it-gets-messy",
-    "published": "23 Sep 2025 10:35:50"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint's Latest Tooling Addresses AI Security Needs",
-    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoints-latest-tooling-addresses-ai-security-needs",
-    "published": "23 Sep 2025 10:34:04"
-  },
-  {
     "source": "Hacker News",
     "title": "Hack Any Outlook Account in Firebase Apps \u2013 Zero-Click Email Verification",
     "link": "https://news.ycombinator.com/item?id=45728529",
@@ -70,6 +70,12 @@
     "title": "Show HN: Dlog \u2013 Journaling and AI coach that learns what drives wellbeing (Mac)",
     "link": "https://dlog.pro/",
     "published": "2025-10-27T17:14:34Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Omnia OS, the Most Efficient Email Client Without AI",
+    "link": "https://omniaos.co/",
+    "published": "2025-10-27T16:03:20Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
     "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
     "published": "2025-09-26T08:56:37Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN-(Remote Full-Stack Roles)Engineer Who Ships \u2013 From Idea \u2192 Production",
-    "link": "https://news.ycombinator.com/item?id=45381883",
-    "published": "2025-09-26T02:19:15Z"
   }
 ]
