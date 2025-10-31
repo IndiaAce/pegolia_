@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-10-30
+# 🛡️ Email Security Trends – Updated 2025-10-31
 
 ## 📰 Hacker News
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
