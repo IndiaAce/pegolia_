@@ -3,7 +3,6 @@
 ## 📰 Hacker News
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
 - [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/) — 2025-10-27T17:14
-- [Show HN: Omnia OS, the Most Efficient Email Client Without AI](https://omniaos.co/) — 2025-10-27T16:03
 - [Show HN: MailAI – Automate Any Workflow in Plain English with Gmail and Stripe](https://www.mailai.live/) — 2025-10-25T14:27
 - [I built an AI tool to recover passwords](https://news.ycombinator.com/item?id=45700357) — 2025-10-25T00:12
 - [A complete toolkit that helps to ship startups in days](https://news.ycombinator.com/item?id=45679924) — 2025-10-23T09:28
@@ -21,6 +20,7 @@
 - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-27T14:23
 - [Show HN: Aegis – A Self-Hosted Git Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-26T10:14
 - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-26T08:56
+- [Ask HN-(Remote Full-Stack Roles)Engineer Who Ships – From Idea → Production](https://news.ycombinator.com/item?id=45381883) — 2025-09-26T02:19
 
 ## 📰 Proofpoint
 - [Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-second-consecutive-time-2025-gartnerr-magic) — 21 Oct 2025 12:5
