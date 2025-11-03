@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Your AI Agent Is Now a Target for Email Phishing",
+    "link": "https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing",
+    "published": "27 Oct 2025 20:15:13"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner\u00ae Magic Quadrant\u2122 for Digital Communications Governance and Archiving Solutions",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-second-consecutive-time-2025-gartnerr-magic",
     "published": "21 Oct 2025 12:51:42"
@@ -54,10 +60,10 @@
     "published": "02 Oct 2025 00:37:30"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint is a Proud Participant in the Microsoft Security Store Partner Ecosystem",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-proud-participant-microsoft-security-store-partner-ecosystem-0",
-    "published": "01 Oct 2025 09:18:46"
+    "source": "Hacker News",
+    "title": "Show HN: Painless structured data from LLMs in Rust: rstructor",
+    "link": "https://github.com/clifton/rstructor",
+    "published": "2025-11-03T17:17:12Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
     "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
     "published": "2025-09-26T08:56:37Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN-(Remote Full-Stack Roles)Engineer Who Ships \u2013 From Idea \u2192 Production",
-    "link": "https://news.ycombinator.com/item?id=45381883",
-    "published": "2025-09-26T02:19:15Z"
   }
 ]
