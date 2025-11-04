@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-11-04
 
 ## 📰 Hacker News
-- [Show HN: Painless structured data from LLMs in Rust: rstructor](https://github.com/clifton/rstructor) — 2025-11-03T17:17
+- [MongoDB cloud accepted an email with .con for 7 years before locking my account](https://news.ycombinator.com/item?id=45807789) — 2025-11-04T05:56
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
 - [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/) — 2025-10-27T17:14
 - [Show HN: MailAI – Automate Any Workflow in Plain English with Gmail and Stripe](https://www.mailai.live/) — 2025-10-25T14:27
@@ -23,6 +23,7 @@
 - [First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-26T08:56
 
 ## 📰 Proofpoint
+- [Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi) — 03 Nov 2025 05:0
 - [Your AI Agent Is Now a Target for Email Phishing](https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing) — 27 Oct 2025 20:1
 - [Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-second-consecutive-time-2025-gartnerr-magic) — 21 Oct 2025 12:5
 - [They were looking for work — but found a scam instead](https://www.proofpoint.com/us/newsroom/news/they-were-looking-work-found-scam-instead) — 20 Oct 2025 12:3
@@ -32,5 +33,4 @@
 - [Nearly Three in Four U.S. Healthcare Organizations Report Patient Care Disruption Due to Cyber Attacks, According to New Proofpoint-Ponemon Institute Report](https://www.proofpoint.com/us/newsroom/press-releases/nearly-three-four-us-healthcare-organizations-report-patient-care-disruption) — 07 Oct 2025 14:0
 - [10 Big Cybersecurity Acquisition Deals In 2025](https://www.proofpoint.com/us/newsroom/news/10-big-cybersecurity-acquisition-deals-2025) — 07 Oct 2025 00:4
 - [Congress Let Cyber-Intel Sharing Act Lapse. Does it Matter?](https://www.proofpoint.com/us/newsroom/news/congress-let-cyber-intel-sharing-act-lapse-does-it-matter) — 03 Oct 2025 00:3
-- [Proofpoint Pushes Security Deeper Into The Agentic Workspace](https://www.proofpoint.com/us/newsroom/news/proofpoint-pushes-security-deeper-agentic-workspace) — 02 Oct 2025 00:3
 

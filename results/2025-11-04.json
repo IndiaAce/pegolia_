@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi",
+    "published": "03 Nov 2025 05:00:00"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Your AI Agent Is Now a Target for Email Phishing",
     "link": "https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing",
     "published": "27 Oct 2025 20:15:13"
@@ -54,16 +60,10 @@
     "published": "03 Oct 2025 00:39:37"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint Pushes Security Deeper Into The Agentic Workspace",
-    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-pushes-security-deeper-agentic-workspace",
-    "published": "02 Oct 2025 00:37:30"
-  },
-  {
     "source": "Hacker News",
-    "title": "Show HN: Painless structured data from LLMs in Rust: rstructor",
-    "link": "https://github.com/clifton/rstructor",
-    "published": "2025-11-03T17:17:12Z"
+    "title": "MongoDB cloud accepted an email with .con for 7 years before locking my account",
+    "link": "https://news.ycombinator.com/item?id=45807789",
+    "published": "2025-11-04T05:56:01Z"
   },
   {
     "source": "Hacker News",
