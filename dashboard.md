@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-03
+# 🛡️ Email Security Trends – Updated 2025-11-04
 
 ## 📰 Hacker News
 - [Show HN: Painless structured data from LLMs in Rust: rstructor](https://github.com/clifton/rstructor) — 2025-11-03T17:17
