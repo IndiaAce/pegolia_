@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Report: Gen AI Adoption, Data Growth, and Insider Risks Are Converging to Create Unprecedented Data Security Challenges",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-report-gen-ai-adoption-data-growth-and-insider-risks-are",
+    "published": "04 Nov 2025 06:58:46"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi",
     "published": "03 Nov 2025 05:00:00"
@@ -54,10 +60,10 @@
     "published": "07 Oct 2025 00:42:53"
   },
   {
-    "source": "Proofpoint",
-    "title": "Congress Let Cyber-Intel Sharing Act Lapse. Does it Matter?",
-    "link": "https://www.proofpoint.com/us/newsroom/news/congress-let-cyber-intel-sharing-act-lapse-does-it-matter",
-    "published": "03 Oct 2025 00:39:37"
+    "source": "Hacker News",
+    "title": "Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors",
+    "link": "https://jumpstartups.gumroad.com/l/ai-email-security-database",
+    "published": "2025-11-04T15:33:46Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: Aegis \u2013 A Self-Hosted Git Server Written in Golang",
     "link": "https://github.com/AegisCodeForge/aegis",
     "published": "2025-09-26T10:14:11Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
-    "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
-    "published": "2025-09-26T08:56:37Z"
   }
 ]
