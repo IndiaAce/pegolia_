@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-11-04
+# 🛡️ Email Security Trends – Updated 2025-11-05
 
 ## 📰 Hacker News
+- [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
 - [Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors](https://jumpstartups.gumroad.com/l/ai-email-security-database) — 2025-11-04T15:33
 - [MongoDB cloud accepted an email with .con for 7 years before locking my account](https://news.ycombinator.com/item?id=45807789) — 2025-11-04T05:56
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
@@ -20,7 +21,6 @@
 - [Tell HN: Protonmail support reads your emails in unsuspension process](https://news.ycombinator.com/item?id=45549020) — 2025-10-11T13:35
 - [CometJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/) — 2025-10-03T19:47
 - [A Postmark backdoor that’s downloading emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft) — 2025-09-27T14:23
-- [Show HN: Aegis – A Self-Hosted Git Server Written in Golang](https://github.com/AegisCodeForge/aegis) — 2025-09-26T10:14
 
 ## 📰 Proofpoint
 - [Proofpoint Report: Gen AI Adoption, Data Growth, and Insider Risks Are Converging to Create Unprecedented Data Security Challenges](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-report-gen-ai-adoption-data-growth-and-insider-risks-are) — 04 Nov 2025 06:5
