@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-05
+# 🛡️ Email Security Trends – Updated 2025-11-06
 
 ## 📰 Hacker News
 - [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
