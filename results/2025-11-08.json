@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Never miss another critical iOS security update again",
+    "link": "https://earlynotify.com",
+    "published": "2025-11-08T14:40:47Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Federated app store for self-hosted AI agents (Apache-2.0)",
     "link": "https://github.com/agentsystems/agentsystems",
     "published": "2025-11-04T18:09:21Z"
@@ -172,11 +178,5 @@
     "title": "CometJacking attack tricks Comet browser into stealing emails",
     "link": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/",
     "published": "2025-10-03T19:47:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Postmark backdoor that\u2019s downloading emails",
-    "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
-    "published": "2025-09-27T14:23:12Z"
   }
 ]
