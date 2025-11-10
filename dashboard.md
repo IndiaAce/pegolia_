@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-09
+# 🛡️ Email Security Trends – Updated 2025-11-10
 
 ## 📰 Hacker News
 - [Show HN: Never miss another critical iOS security update again](https://earlynotify.com) — 2025-11-08T14:40
