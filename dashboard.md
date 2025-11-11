@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-11-10
+# 🛡️ Email Security Trends – Updated 2025-11-11
 
 ## 📰 Hacker News
+- [Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack](https://traclea.com/coming-soon) — 2025-11-10T18:47
 - [Show HN: Never miss another critical iOS security update again](https://earlynotify.com) — 2025-11-08T14:40
 - [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
 - [Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors](https://jumpstartups.gumroad.com/l/ai-email-security-database) — 2025-11-04T15:33
@@ -20,17 +21,16 @@
 - [Ask HN: Building a Personal AI Avatar. What Technical Are Essential?](https://news.ycombinator.com/item?id=45604911) — 2025-10-16T13:12
 - [Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections](https://www.archestra.ai/) — 2025-10-13T14:22
 - [Tell HN: Protonmail support reads your emails in unsuspension process](https://news.ycombinator.com/item?id=45549020) — 2025-10-11T13:35
-- [CometJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/) — 2025-10-03T19:47
 
 ## 📰 Proofpoint
+- [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4
+- [How crooks use IT to enable cargo theft](https://www.proofpoint.com/us/newsroom/news/how-crooks-use-it-enable-cargo-theft) — 04 Nov 2025 13:4
 - [Proofpoint Report: Gen AI Adoption, Data Growth, and Insider Risks Are Converging to Create Unprecedented Data Security Challenges](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-report-gen-ai-adoption-data-growth-and-insider-risks-are) — 04 Nov 2025 06:5
+- [Cyber-enabled cargo theft targeting North American ports](https://www.proofpoint.com/us/newsroom/news/cyber-enabled-cargo-theft-targeting-north-american-ports) — 03 Nov 2025 13:4
+- [Homeland Security Biometric Policy for Foreign Travelers Poses Data-Theft Risks](https://www.proofpoint.com/us/newsroom/news/homeland-security-biometric-policy-foreign-travelers-poses-data-theft-risks) — 03 Nov 2025 13:4
+- [Hackers and Crime Rings Are Teaming Up to Steal Cargo, Cyber Firm Says](https://www.proofpoint.com/us/newsroom/news/hackers-and-crime-rings-are-teaming-steal-cargo-cyber-firm-says) — 03 Nov 2025 13:3
 - [Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi) — 03 Nov 2025 05:0
 - [Your AI Agent Is Now a Target for Email Phishing](https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing) — 27 Oct 2025 20:1
 - [Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-second-consecutive-time-2025-gartnerr-magic) — 21 Oct 2025 12:5
 - [They were looking for work — but found a scam instead](https://www.proofpoint.com/us/newsroom/news/they-were-looking-work-found-scam-instead) — 20 Oct 2025 12:3
-- [Cybersecurity Study Shows Patient Care at Risk of Attacks](https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks) — 16 Oct 2025 00:3
-- [10 Cool New Data Security Products In 2025](https://www.proofpoint.com/us/newsroom/news/10-cool-new-data-security-products-2025) — 10 Oct 2025 12:3
-- [Cybersecurity In Healthcare Is Now A Clinical Safety Issue](https://www.proofpoint.com/us/newsroom/news/cybersecurity-healthcare-now-clinical-safety-issue) — 08 Oct 2025 00:4
-- [Nearly Three in Four U.S. Healthcare Organizations Report Patient Care Disruption Due to Cyber Attacks, According to New Proofpoint-Ponemon Institute Report](https://www.proofpoint.com/us/newsroom/press-releases/nearly-three-four-us-healthcare-organizations-report-patient-care-disruption) — 07 Oct 2025 14:0
-- [10 Big Cybersecurity Acquisition Deals In 2025](https://www.proofpoint.com/us/newsroom/news/10-big-cybersecurity-acquisition-deals-2025) — 07 Oct 2025 00:4
 
