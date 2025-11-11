@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-11-11
 
 ## 📰 Hacker News
+- [Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions](https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo) — 2025-11-11T15:08
 - [Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack](https://traclea.com/coming-soon) — 2025-11-10T18:47
 - [Show HN: Never miss another critical iOS security update again](https://earlynotify.com) — 2025-11-08T14:40
 - [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
@@ -20,7 +21,6 @@
 - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621) — 2025-10-16T19:24
 - [Ask HN: Building a Personal AI Avatar. What Technical Are Essential?](https://news.ycombinator.com/item?id=45604911) — 2025-10-16T13:12
 - [Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections](https://www.archestra.ai/) — 2025-10-13T14:22
-- [Tell HN: Protonmail support reads your emails in unsuspension process](https://news.ycombinator.com/item?id=45549020) — 2025-10-11T13:35
 
 ## 📰 Proofpoint
 - [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4

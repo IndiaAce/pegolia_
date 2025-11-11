@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions",
+    "link": "https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo",
+    "published": "2025-11-11T15:08:20Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack",
     "link": "https://traclea.com/coming-soon",
     "published": "2025-11-10T18:47:20Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections",
     "link": "https://www.archestra.ai/",
     "published": "2025-10-13T14:22:35Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tell HN: Protonmail support reads your emails in unsuspension process",
-    "link": "https://news.ycombinator.com/item?id=45549020",
-    "published": "2025-10-11T13:35:05Z"
   }
 ]
