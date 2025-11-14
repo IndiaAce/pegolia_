@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-13
+# 🛡️ Email Security Trends – Updated 2025-11-14
 
 ## 📰 Hacker News
 - [Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions](https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo) — 2025-11-11T15:08
