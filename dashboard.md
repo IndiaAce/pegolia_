@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-14
+# 🛡️ Email Security Trends – Updated 2025-11-15
 
 ## 📰 Hacker News
 - [Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions](https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo) — 2025-11-11T15:08
@@ -23,6 +23,7 @@
 - [Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections](https://www.archestra.ai/) — 2025-10-13T14:22
 
 ## 📰 Proofpoint
+- [Operation Endgame targets malware networks in global crackdown](https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown) — 13 Nov 2025 15:2
 - [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4
 - [How crooks use IT to enable cargo theft](https://www.proofpoint.com/us/newsroom/news/how-crooks-use-it-enable-cargo-theft) — 04 Nov 2025 13:4
 - [Proofpoint Report: Gen AI Adoption, Data Growth, and Insider Risks Are Converging to Create Unprecedented Data Security Challenges](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-report-gen-ai-adoption-data-growth-and-insider-risks-are) — 04 Nov 2025 06:5
@@ -32,5 +33,4 @@
 - [Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi) — 03 Nov 2025 05:0
 - [Your AI Agent Is Now a Target for Email Phishing](https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing) — 27 Oct 2025 20:1
 - [Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-second-consecutive-time-2025-gartnerr-magic) — 21 Oct 2025 12:5
-- [They were looking for work — but found a scam instead](https://www.proofpoint.com/us/newsroom/news/they-were-looking-work-found-scam-instead) — 20 Oct 2025 12:3
 
