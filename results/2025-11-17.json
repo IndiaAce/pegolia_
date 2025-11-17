@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+    "link": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+    "published": "2025-11-17T16:33:02Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions",
     "link": "https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo",
     "published": "2025-11-11T15:08:20Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Building a Personal AI Avatar. What Technical Are Essential?",
     "link": "https://news.ycombinator.com/item?id=45604911",
     "published": "2025-10-16T13:12:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Open-Source Gateway to Stop Tool-Abusing Prompt Injections",
-    "link": "https://www.archestra.ai/",
-    "published": "2025-10-13T14:22:35Z"
   }
 ]
