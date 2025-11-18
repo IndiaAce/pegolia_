@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-11-17
+# 🛡️ Email Security Trends – Updated 2025-11-18
 
 ## 📰 Hacker News
+- [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2025-11-17T19:45
 - [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/) — 2025-11-17T16:33
 - [Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions](https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo) — 2025-11-11T15:08
 - [Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack](https://traclea.com/coming-soon) — 2025-11-10T18:47
@@ -20,7 +21,6 @@
 - [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
 - [Ask HN: How do you remember to keep all your devices charged?](https://news.ycombinator.com/item?id=45616536) — 2025-10-17T13:26
 - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621) — 2025-10-16T19:24
-- [Ask HN: Building a Personal AI Avatar. What Technical Are Essential?](https://news.ycombinator.com/item?id=45604911) — 2025-10-16T13:12
 
 ## 📰 Proofpoint
 - [Operation Endgame targets malware networks in global crackdown](https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown) — 13 Nov 2025 15:2
