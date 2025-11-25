@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-24
+# 🛡️ Email Security Trends – Updated 2025-11-25
 
 ## 📰 Hacker News
 - [Seeking Founding Engineer (CTO Track) – Secure Digital Communications – UK Only](https://news.ycombinator.com/item?id=46026431) — 2025-11-23T19:19
