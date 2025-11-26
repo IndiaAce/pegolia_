@@ -23,6 +23,7 @@
 - [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
 
 ## 📰 Proofpoint
+- [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
 - [Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally) — 18 Nov 2025 12:0
 - [Operation Endgame targets malware networks in global crackdown](https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown) — 13 Nov 2025 15:2
 - [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4
@@ -32,5 +33,4 @@
 - [Homeland Security Biometric Policy for Foreign Travelers Poses Data-Theft Risks](https://www.proofpoint.com/us/newsroom/news/homeland-security-biometric-policy-foreign-travelers-poses-data-theft-risks) — 03 Nov 2025 13:4
 - [Hackers and Crime Rings Are Teaming Up to Steal Cargo, Cyber Firm Says](https://www.proofpoint.com/us/newsroom/news/hackers-and-crime-rings-are-teaming-steal-cargo-cyber-firm-says) — 03 Nov 2025 13:3
 - [Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi) — 03 Nov 2025 05:0
-- [Your AI Agent Is Now a Target for Email Phishing](https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing) — 27 Oct 2025 20:1
 
