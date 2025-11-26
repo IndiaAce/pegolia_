@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Preshiplist \u2013 A fast way to ship waitlist websites without headaches",
+    "link": "https://www.preshiplist.co/",
+    "published": "2025-11-26T09:42:06Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: Do you sanitize secrets before pasting code into ChatGPT?",
     "link": "https://news.ycombinator.com/item?id=46052097",
     "published": "2025-11-25T23:27:57Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: I made a RAG agent for the leyman",
     "link": "https://www.sitesidekick.io",
     "published": "2025-10-20T08:16:22Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers",
-    "link": "https://browsertotal.com/demos/agentic-browser-fuzzer",
-    "published": "2025-10-17T16:03:36Z"
   }
 ]

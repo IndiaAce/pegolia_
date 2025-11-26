@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-11-26
 
 ## 📰 Hacker News
+- [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
 - [Ask HN: Do you sanitize secrets before pasting code into ChatGPT?](https://news.ycombinator.com/item?id=46052097) — 2025-11-25T23:27
 - [Seeking Founding Engineer (CTO Track) – Secure Digital Communications – UK Only](https://news.ycombinator.com/item?id=46026431) — 2025-11-23T19:19
 - [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2025-11-17T19:45
@@ -20,7 +21,6 @@
 - [Show HN: MailAI – Personal AI agents in secure sandboxes for email automation](https://www.mailai.live/) — 2025-10-21T14:59
 - [Show HN: Workbench – ephemeral cloud sandboxes for agentic coding](https://workbench.brwse.ai) — 2025-10-20T21:06
 - [Show HN: I made a RAG agent for the leyman](https://www.sitesidekick.io) — 2025-10-20T08:16
-- [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
 
 ## 📰 Proofpoint
 - [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
