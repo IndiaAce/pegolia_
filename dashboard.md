@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-11-25
+# 🛡️ Email Security Trends – Updated 2025-11-26
 
 ## 📰 Hacker News
+- [Ask HN: Do you sanitize secrets before pasting code into ChatGPT?](https://news.ycombinator.com/item?id=46052097) — 2025-11-25T23:27
 - [Seeking Founding Engineer (CTO Track) – Secure Digital Communications – UK Only](https://news.ycombinator.com/item?id=46026431) — 2025-11-23T19:19
 - [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2025-11-17T19:45
 - [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/) — 2025-11-17T16:33
@@ -20,7 +21,6 @@
 - [Show HN: Workbench – ephemeral cloud sandboxes for agentic coding](https://workbench.brwse.ai) — 2025-10-20T21:06
 - [Show HN: I made a RAG agent for the leyman](https://www.sitesidekick.io) — 2025-10-20T08:16
 - [Show HN: LLM In-Browser Fuzzer Finds Hidden Prompt Injection in AI Browsers](https://browsertotal.com/demos/agentic-browser-fuzzer) — 2025-10-17T16:03
-- [Ask HN: How do you remember to keep all your devices charged?](https://news.ycombinator.com/item?id=45616536) — 2025-10-17T13:26
 
 ## 📰 Proofpoint
 - [Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally) — 18 Nov 2025 12:0
