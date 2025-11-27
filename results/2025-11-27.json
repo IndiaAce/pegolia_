@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "CoinTracker Third-party security incident (Mixpanel)",
+    "link": "https://news.ycombinator.com/item?id=46065208",
+    "published": "2025-11-27T03:20:39Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Preshiplist \u2013 A fast way to ship waitlist websites without headaches",
     "link": "https://www.preshiplist.co/",
     "published": "2025-11-26T09:42:06Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Workbench \u2013 ephemeral cloud sandboxes for agentic coding",
     "link": "https://workbench.brwse.ai",
     "published": "2025-10-20T21:06:58Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I made a RAG agent for the leyman",
-    "link": "https://www.sitesidekick.io",
-    "published": "2025-10-20T08:16:22Z"
   }
 ]
