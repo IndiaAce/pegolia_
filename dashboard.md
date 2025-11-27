@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-11-27
 
 ## 📰 Hacker News
+- [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
 - [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
 - [Ask HN: Do you sanitize secrets before pasting code into ChatGPT?](https://news.ycombinator.com/item?id=46052097) — 2025-11-25T23:27
@@ -20,7 +21,6 @@
 - [A complete toolkit that helps to ship startups in days](https://news.ycombinator.com/item?id=45679924) — 2025-10-23T09:28
 - [Steps to take in advance in case your phone gets stolen](https://news.ycombinator.com/item?id=45669985) — 2025-10-22T14:49
 - [Show HN: MailAI – Personal AI agents in secure sandboxes for email automation](https://www.mailai.live/) — 2025-10-21T14:59
-- [Show HN: Workbench – ephemeral cloud sandboxes for agentic coding](https://workbench.brwse.ai) — 2025-10-20T21:06
 
 ## 📰 Proofpoint
 - [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
