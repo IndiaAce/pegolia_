@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-26
+# 🛡️ Email Security Trends – Updated 2025-11-27
 
 ## 📰 Hacker News
 - [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
