@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-11-27
+# 🛡️ Email Security Trends – Updated 2025-11-28
 
 ## 📰 Hacker News
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
