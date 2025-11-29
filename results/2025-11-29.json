@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
+    "link": "https://news.ycombinator.com/item?id=46086571",
+    "published": "2025-11-29T10:42:00Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: OpenAI Security Incident with PII",
     "link": "https://news.ycombinator.com/item?id=46069064",
     "published": "2025-11-27T13:31:36Z"
@@ -172,11 +178,5 @@
     "title": "Steps to take in advance in case your phone gets stolen",
     "link": "https://news.ycombinator.com/item?id=45669985",
     "published": "2025-10-22T14:49:54Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: MailAI \u2013 Personal AI agents in secure sandboxes for email automation",
-    "link": "https://www.mailai.live/",
-    "published": "2025-10-21T14:59:11Z"
   }
 ]

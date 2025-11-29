@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-11-29
 
 ## 📰 Hacker News
+- [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
 - [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
@@ -20,7 +21,6 @@
 - [I built an AI tool to recover passwords](https://news.ycombinator.com/item?id=45700357) — 2025-10-25T00:12
 - [A complete toolkit that helps to ship startups in days](https://news.ycombinator.com/item?id=45679924) — 2025-10-23T09:28
 - [Steps to take in advance in case your phone gets stolen](https://news.ycombinator.com/item?id=45669985) — 2025-10-22T14:49
-- [Show HN: MailAI – Personal AI agents in secure sandboxes for email automation](https://www.mailai.live/) — 2025-10-21T14:59
 
 ## 📰 Proofpoint
 - [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
