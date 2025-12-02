@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-01
+# 🛡️ Email Security Trends – Updated 2025-12-02
 
 ## 📰 Hacker News
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
