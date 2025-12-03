@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)",
+    "link": "https://sidepay.app/",
+    "published": "2025-12-03T15:00:05Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tell HN: Compliance is not equal to Security",
+    "link": "https://news.ycombinator.com/item?id=46133753",
+    "published": "2025-12-03T12:31:09Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
     "link": "https://news.ycombinator.com/item?id=46086571",
     "published": "2025-11-29T10:42:00Z"
@@ -166,17 +178,5 @@
     "title": "I built an AI tool to recover passwords",
     "link": "https://news.ycombinator.com/item?id=45700357",
     "published": "2025-10-25T00:12:05Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A complete toolkit that helps to ship startups in days",
-    "link": "https://news.ycombinator.com/item?id=45679924",
-    "published": "2025-10-23T09:28:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Steps to take in advance in case your phone gets stolen",
-    "link": "https://news.ycombinator.com/item?id=45669985",
-    "published": "2025-10-22T14:49:54Z"
   }
 ]

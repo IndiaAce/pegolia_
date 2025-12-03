@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-12-03
 
 ## 📰 Hacker News
+- [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
+- [Tell HN: Compliance is not equal to Security](https://news.ycombinator.com/item?id=46133753) — 2025-12-03T12:31
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
@@ -19,8 +21,6 @@
 - [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/) — 2025-10-27T17:14
 - [Show HN: MailAI – Automate Any Workflow in Plain English with Gmail and Stripe](https://www.mailai.live/) — 2025-10-25T14:27
 - [I built an AI tool to recover passwords](https://news.ycombinator.com/item?id=45700357) — 2025-10-25T00:12
-- [A complete toolkit that helps to ship startups in days](https://news.ycombinator.com/item?id=45679924) — 2025-10-23T09:28
-- [Steps to take in advance in case your phone gets stolen](https://news.ycombinator.com/item?id=45669985) — 2025-10-22T14:49
 
 ## 📰 Proofpoint
 - [Proofpoint Named a Leader in 2025 Gartner Magic Quadrant for Email Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-2025-gartner-magic-quadrant-email-security) — 01 Dec 2025 19:4
