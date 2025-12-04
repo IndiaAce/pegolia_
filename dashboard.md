@@ -1,9 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2025-12-04
 
 ## 📰 Hacker News
+- [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
 - [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
-- [Tell HN: Compliance is not equal to Security](https://news.ycombinator.com/item?id=46133753) — 2025-12-03T12:31
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
