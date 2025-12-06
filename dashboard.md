@@ -1,9 +1,10 @@
-# 🛡️ Email Security Trends – Updated 2025-12-05
+# 🛡️ Email Security Trends – Updated 2025-12-06
 
 ## 📰 Hacker News
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
 - [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
+- [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/) — 2025-12-03T04:20
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
@@ -20,17 +21,16 @@
 - [MongoDB cloud accepted an email with .con for 7 years before locking my account](https://news.ycombinator.com/item?id=45807789) — 2025-11-04T05:56
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
 - [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/) — 2025-10-27T17:14
-- [Show HN: MailAI – Automate Any Workflow in Plain English with Gmail and Stripe](https://www.mailai.live/) — 2025-10-25T14:27
 
 ## 📰 Proofpoint
+- [Yippee-ki-yay, cybercriminals!](https://www.proofpoint.com/us/newsroom/news/yippee-ki-yay-cybercriminals) — 02 Dec 2025 15:0
 - [Proofpoint Named a Leader in 2025 Gartner Magic Quadrant for Email Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-2025-gartner-magic-quadrant-email-security) — 01 Dec 2025 19:4
 - [Proofpoint Appoints Chief Marketing Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-chief-marketing-officer) — 01 Dec 2025 08:0
 - [How to Stay Vigilant During End-of-Year Online Scams This Holiday Season](https://www.proofpoint.com/us/newsroom/news/how-stay-vigilant-during-end-year-online-scams-holiday-season) — 27 Nov 2025 18:2
 - [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
+- [The 10 Hottest Cybersecurity Products Of 2025](https://www.proofpoint.com/us/newsroom/news/10-hottest-cybersecurity-products-2025) — 21 Nov 2025 14:5
 - [Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally) — 18 Nov 2025 12:0
 - [Operation Endgame targets malware networks in global crackdown](https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown) — 13 Nov 2025 15:2
 - [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4
 - [How crooks use IT to enable cargo theft](https://www.proofpoint.com/us/newsroom/news/how-crooks-use-it-enable-cargo-theft) — 04 Nov 2025 13:4
-- [Proofpoint Report: Gen AI Adoption, Data Growth, and Insider Risks Are Converging to Create Unprecedented Data Security Challenges](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-report-gen-ai-adoption-data-growth-and-insider-risks-are) — 04 Nov 2025 06:5
-- [Cyber-enabled cargo theft targeting North American ports](https://www.proofpoint.com/us/newsroom/news/cyber-enabled-cargo-theft-targeting-north-american-ports) — 03 Nov 2025 13:4
 
