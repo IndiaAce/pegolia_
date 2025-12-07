@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-06
+# 🛡️ Email Security Trends – Updated 2025-12-07
 
 ## 📰 Hacker News
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
