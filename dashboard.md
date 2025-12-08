@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-12-07
+# 🛡️ Email Security Trends – Updated 2025-12-08
 
 ## 📰 Hacker News
+- [Ask HN: Who else got pwned by the Next.js RCE?](https://news.ycombinator.com/item?id=46184163) — 2025-12-07T19:09
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
 - [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
@@ -20,7 +21,6 @@
 - [Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors](https://jumpstartups.gumroad.com/l/ai-email-security-database) — 2025-11-04T15:33
 - [MongoDB cloud accepted an email with .con for 7 years before locking my account](https://news.ycombinator.com/item?id=45807789) — 2025-11-04T05:56
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
-- [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/) — 2025-10-27T17:14
 
 ## 📰 Proofpoint
 - [Yippee-ki-yay, cybercriminals!](https://www.proofpoint.com/us/newsroom/news/yippee-ki-yay-cybercriminals) — 02 Dec 2025 15:0
