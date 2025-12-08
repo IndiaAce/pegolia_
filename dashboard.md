@@ -23,6 +23,7 @@
 - [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
 
 ## 📰 Proofpoint
+- [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
 - [Yippee-ki-yay, cybercriminals!](https://www.proofpoint.com/us/newsroom/news/yippee-ki-yay-cybercriminals) — 02 Dec 2025 15:0
 - [Proofpoint Named a Leader in 2025 Gartner Magic Quadrant for Email Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-2025-gartner-magic-quadrant-email-security) — 01 Dec 2025 19:4
 - [Proofpoint Appoints Chief Marketing Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-chief-marketing-officer) — 01 Dec 2025 08:0
@@ -32,5 +33,4 @@
 - [Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally) — 18 Nov 2025 12:0
 - [Operation Endgame targets malware networks in global crackdown](https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown) — 13 Nov 2025 15:2
 - [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4
-- [How crooks use IT to enable cargo theft](https://www.proofpoint.com/us/newsroom/news/how-crooks-use-it-enable-cargo-theft) — 04 Nov 2025 13:4
 
