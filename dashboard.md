@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-08
+# 🛡️ Email Security Trends – Updated 2025-12-09
 
 ## 📰 Hacker News
 - [Ask HN: Who else got pwned by the Next.js RCE?](https://news.ycombinator.com/item?id=46184163) — 2025-12-07T19:09
