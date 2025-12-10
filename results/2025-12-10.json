@@ -91,12 +91,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: HCB Mobile \u2013\u00a0financial app built by 17 y/o, processing $6M/month",
-    "link": "https://hackclub.com/fiscal-sponsorship/mobile/",
-    "published": "2025-12-03T04:20:44Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
     "link": "https://news.ycombinator.com/item?id=46086571",
     "published": "2025-11-29T10:42:00Z"
@@ -178,5 +172,11 @@
     "title": "MongoDB cloud accepted an email with .con for 7 years before locking my account",
     "link": "https://news.ycombinator.com/item?id=45807789",
     "published": "2025-11-04T05:56:01Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Hack Any Outlook Account in Firebase Apps \u2013 Zero-Click Email Verification",
+    "link": "https://news.ycombinator.com/item?id=45728529",
+    "published": "2025-10-28T02:01:23Z"
   }
 ]
