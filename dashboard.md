@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-09
+# 🛡️ Email Security Trends – Updated 2025-12-10
 
 ## 📰 Hacker News
 - [Founders How do you keep your business strategy,tech stack aligned as you scale?](https://news.ycombinator.com/item?id=46203994) — 2025-12-09T12:03
