@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Transactional Email with a Stripe-like CLI",
+    "link": "https://ahasend.com",
+    "published": "2025-12-10T16:42:51Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Founders How do you keep your business strategy,tech stack aligned as you scale?",
     "link": "https://news.ycombinator.com/item?id=46203994",
     "published": "2025-12-09T12:03:18Z"
@@ -172,11 +178,5 @@
     "title": "MongoDB cloud accepted an email with .con for 7 years before locking my account",
     "link": "https://news.ycombinator.com/item?id=45807789",
     "published": "2025-11-04T05:56:01Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Hack Any Outlook Account in Firebase Apps \u2013 Zero-Click Email Verification",
-    "link": "https://news.ycombinator.com/item?id=45728529",
-    "published": "2025-10-28T02:01:23Z"
   }
 ]

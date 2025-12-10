@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-12-10
 
 ## 📰 Hacker News
+- [Show HN: Transactional Email with a Stripe-like CLI](https://ahasend.com) — 2025-12-10T16:42
 - [Founders How do you keep your business strategy,tech stack aligned as you scale?](https://news.ycombinator.com/item?id=46203994) — 2025-12-09T12:03
 - [Ask HN: Who else got pwned by the Next.js RCE?](https://news.ycombinator.com/item?id=46184163) — 2025-12-07T19:09
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
@@ -20,7 +21,6 @@
 - [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
 - [Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors](https://jumpstartups.gumroad.com/l/ai-email-security-database) — 2025-11-04T15:33
 - [MongoDB cloud accepted an email with .con for 7 years before locking my account](https://news.ycombinator.com/item?id=45807789) — 2025-11-04T05:56
-- [Hack Any Outlook Account in Firebase Apps – Zero-Click Email Verification](https://news.ycombinator.com/item?id=45728529) — 2025-10-28T02:01
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
