@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-10
+# 🛡️ Email Security Trends – Updated 2025-12-11
 
 ## 📰 Hacker News
 - [Show HN: Transactional Email with a Stripe-like CLI](https://ahasend.com) — 2025-12-10T16:42
