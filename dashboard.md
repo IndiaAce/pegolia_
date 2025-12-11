@@ -7,6 +7,7 @@
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
 - [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
+- [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/) — 2025-12-03T04:20
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
@@ -20,7 +21,6 @@
 - [Show HN: Never miss another critical iOS security update again](https://earlynotify.com) — 2025-11-08T14:40
 - [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
 - [Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors](https://jumpstartups.gumroad.com/l/ai-email-security-database) — 2025-11-04T15:33
-- [MongoDB cloud accepted an email with .con for 7 years before locking my account](https://news.ycombinator.com/item?id=45807789) — 2025-11-04T05:56
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1

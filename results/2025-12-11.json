@@ -97,6 +97,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: HCB Mobile \u2013\u00a0financial app built by 17 y/o, processing $6M/month",
+    "link": "https://hackclub.com/fiscal-sponsorship/mobile/",
+    "published": "2025-12-03T04:20:44Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
     "link": "https://news.ycombinator.com/item?id=46086571",
     "published": "2025-11-29T10:42:00Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors",
     "link": "https://jumpstartups.gumroad.com/l/ai-email-security-database",
     "published": "2025-11-04T15:33:46Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "MongoDB cloud accepted an email with .con for 7 years before locking my account",
-    "link": "https://news.ycombinator.com/item?id=45807789",
-    "published": "2025-11-04T05:56:01Z"
   }
 ]
