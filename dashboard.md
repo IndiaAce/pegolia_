@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-12-11
+# 🛡️ Email Security Trends – Updated 2025-12-12
 
 ## 📰 Hacker News
+- [Show HN: Free Security audit that checks what other tools miss](https://domainoptic.com/) — 2025-12-11T18:29
 - [Show HN: Transactional Email with a Stripe-like CLI](https://ahasend.com) — 2025-12-10T16:42
 - [Founders How do you keep your business strategy,tech stack aligned as you scale?](https://news.ycombinator.com/item?id=46203994) — 2025-12-09T12:03
 - [Ask HN: Who else got pwned by the Next.js RCE?](https://news.ycombinator.com/item?id=46184163) — 2025-12-07T19:09
@@ -20,7 +21,6 @@
 - [Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack](https://traclea.com/coming-soon) — 2025-11-10T18:47
 - [Show HN: Never miss another critical iOS security update again](https://earlynotify.com) — 2025-11-08T14:40
 - [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
-- [Show HN: Database of 58 AI-Powered Microsoft 365 Email Security Vendors](https://jumpstartups.gumroad.com/l/ai-email-security-database) — 2025-11-04T15:33
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
