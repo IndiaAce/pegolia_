@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Anyone else doing login-free trials with localStorage tokens?",
+    "link": "https://news.ycombinator.com/item?id=46244742",
+    "published": "2025-12-12T14:58:39Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: DomainOptic \u2013 Free Web Security audit that scans what other tools miss",
+    "link": "https://domainoptic.com/",
+    "published": "2025-12-12T13:56:06Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Toqen \u2013 privacy-first authentication flow with QR and TOTP",
     "link": "https://www.toqen.app/",
     "published": "2025-12-12T07:45:28Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack",
     "link": "https://traclea.com/coming-soon",
     "published": "2025-11-10T18:47:20Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Never miss another critical iOS security update again",
-    "link": "https://earlynotify.com",
-    "published": "2025-11-08T14:40:47Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Federated app store for self-hosted AI agents (Apache-2.0)",
-    "link": "https://github.com/agentsystems/agentsystems",
-    "published": "2025-11-04T18:09:21Z"
   }
 ]

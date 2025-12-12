@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-12-12
 
 ## 📰 Hacker News
+- [Ask HN: Anyone else doing login-free trials with localStorage tokens?](https://news.ycombinator.com/item?id=46244742) — 2025-12-12T14:58
+- [Show HN: DomainOptic – Free Web Security audit that scans what other tools miss](https://domainoptic.com/) — 2025-12-12T13:56
 - [Show HN: Toqen – privacy-first authentication flow with QR and TOTP](https://www.toqen.app/) — 2025-12-12T07:45
 - [Show HN: Free Security audit that checks what other tools miss](https://domainoptic.com/) — 2025-12-11T18:29
 - [Show HN: Transactional Email with a Stripe-like CLI](https://ahasend.com) — 2025-12-10T16:42
@@ -19,8 +21,6 @@
 - [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/) — 2025-11-17T16:33
 - [Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions](https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo) — 2025-11-11T15:08
 - [Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack](https://traclea.com/coming-soon) — 2025-11-10T18:47
-- [Show HN: Never miss another critical iOS security update again](https://earlynotify.com) — 2025-11-08T14:40
-- [Show HN: Federated app store for self-hosted AI agents (Apache-2.0)](https://github.com/agentsystems/agentsystems) — 2025-11-04T18:09
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
