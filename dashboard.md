@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-12
+# 🛡️ Email Security Trends – Updated 2025-12-13
 
 ## 📰 Hacker News
 - [Ask HN: Anyone else doing login-free trials with localStorage tokens?](https://news.ycombinator.com/item?id=46244742) — 2025-12-12T14:58
@@ -11,6 +11,7 @@
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
 - [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
+- [Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month](https://hackclub.com/fiscal-sponsorship/mobile/) — 2025-12-03T04:20
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
@@ -20,7 +21,6 @@
 - [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2025-11-17T19:45
 - [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/) — 2025-11-17T16:33
 - [Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions](https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo) — 2025-11-11T15:08
-- [Show HN: Infostealers in Nov 2025: 183M Gmail, 16B Logins, Nikkei Slack](https://traclea.com/coming-soon) — 2025-11-10T18:47
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
