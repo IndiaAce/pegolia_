@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-13
+# 🛡️ Email Security Trends – Updated 2025-12-14
 
 ## 📰 Hacker News
 - [Ask HN: Anyone else doing login-free trials with localStorage tokens?](https://news.ycombinator.com/item?id=46244742) — 2025-12-12T14:58
