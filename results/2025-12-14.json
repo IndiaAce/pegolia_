@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: What email providers don't recycle email addresses?",
+    "link": "https://news.ycombinator.com/item?id=46262322",
+    "published": "2025-12-14T11:27:17Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Dnsaudit.io \u2013 A Free Advanced DNS Security Scanner for Real-World Risks",
+    "link": "https://dnsaudit.io",
+    "published": "2025-12-14T11:25:16Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: Anyone else doing login-free trials with localStorage tokens?",
     "link": "https://news.ycombinator.com/item?id=46244742",
     "published": "2025-12-12T14:58:39Z"
@@ -121,12 +133,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: HCB Mobile \u2013\u00a0financial app built by 17 y/o, processing $6M/month",
-    "link": "https://hackclub.com/fiscal-sponsorship/mobile/",
-    "published": "2025-12-03T04:20:44Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
     "link": "https://news.ycombinator.com/item?id=46086571",
     "published": "2025-11-29T10:42:00Z"
@@ -172,11 +178,5 @@
     "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
     "link": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
     "published": "2025-11-17T16:33:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Auto-Compare GA4/Amplitude Data Against Log Definitions",
-    "link": "https://chromewebstore.google.com/detail/analytics-data-qa/icopicdkpapbeojapnaplmffgjjhgnjo",
-    "published": "2025-11-11T15:08:20Z"
   }
 ]
