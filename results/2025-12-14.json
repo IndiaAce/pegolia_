@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+    "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+    "published": "2025-12-14T16:06:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Git history knows more than your standup. We built an AI to query it",
+    "link": "https://news.ycombinator.com/item?id=46263486",
+    "published": "2025-12-14T14:57:53Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: What email providers don't recycle email addresses?",
     "link": "https://news.ycombinator.com/item?id=46262322",
     "published": "2025-12-14T11:27:17Z"
@@ -166,17 +178,5 @@
     "title": "Seeking Founding Engineer (CTO Track) \u2013 Secure Digital Communications \u2013 UK Only",
     "link": "https://news.ycombinator.com/item?id=46026431",
     "published": "2025-11-23T19:19:50Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Email Security: Where We Are and What the Future Holds",
-    "link": "https://www.privacyguides.org/articles/2025/11/15/email-security/",
-    "published": "2025-11-17T19:45:33Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
-    "link": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-    "published": "2025-11-17T16:33:02Z"
   }
 ]
