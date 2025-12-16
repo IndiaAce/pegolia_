@@ -4,7 +4,6 @@
 - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) — 2025-12-14T16:06
 - [Git history knows more than your standup. We built an AI to query it](https://news.ycombinator.com/item?id=46263486) — 2025-12-14T14:57
 - [Ask HN: What email providers don't recycle email addresses?](https://news.ycombinator.com/item?id=46262322) — 2025-12-14T11:27
-- [Show HN: Dnsaudit.io – A Free Advanced DNS Security Scanner for Real-World Risks](https://dnsaudit.io) — 2025-12-14T11:25
 - [Ask HN: Anyone else doing login-free trials with localStorage tokens?](https://news.ycombinator.com/item?id=46244742) — 2025-12-12T14:58
 - [Show HN: DomainOptic – Free Web Security audit that scans what other tools miss](https://domainoptic.com/) — 2025-12-12T13:56
 - [Show HN: Toqen – privacy-first authentication flow with QR and TOTP](https://www.toqen.app/) — 2025-12-12T07:45
@@ -21,6 +20,7 @@
 - [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
 - [Ask HN: Do you sanitize secrets before pasting code into ChatGPT?](https://news.ycombinator.com/item?id=46052097) — 2025-11-25T23:27
 - [Seeking Founding Engineer (CTO Track) – Secure Digital Communications – UK Only](https://news.ycombinator.com/item?id=46026431) — 2025-11-23T19:19
+- [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2025-11-17T19:45
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
