@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-15
+# 🛡️ Email Security Trends – Updated 2025-12-16
 
 ## 📰 Hacker News
 - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) — 2025-12-14T16:06
