@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-16
+# 🛡️ Email Security Trends – Updated 2025-12-17
 
 ## 📰 Hacker News
 - [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/) — 2025-12-16T13:58
