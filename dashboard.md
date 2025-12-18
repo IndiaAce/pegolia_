@@ -1,6 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2025-12-18
 
 ## 📰 Hacker News
+- [How to build fast similarity search for email from the ground up](https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/) — 2025-12-18T16:12
+- [Show HN: Open database tracking 77K public DNS servers every 10 minutes](https://dnsdirectory.com/) — 2025-12-18T15:21
+- [Show HN: Desktop app to never miss GitHub security alerts](https://github.com/stephanebouget/github-security-alerts) — 2025-12-18T12:02
 - [Ask HN: Decentralized Auth for Information Exchange?](https://news.ycombinator.com/item?id=46310517) — 2025-12-18T09:19
 - [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/) — 2025-12-16T13:58
 - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) — 2025-12-14T16:06
@@ -18,9 +21,6 @@
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
 - [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
 - [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
-- [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
-- [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
-- [Ask HN: Do you sanitize secrets before pasting code into ChatGPT?](https://news.ycombinator.com/item?id=46052097) — 2025-11-25T23:27
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
