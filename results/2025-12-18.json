@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Decentralized Auth for Information Exchange?",
+    "link": "https://news.ycombinator.com/item?id=46310517",
+    "published": "2025-12-18T09:19:12Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "French Interior Ministry confirms cyberattack on email servers",
     "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
     "published": "2025-12-16T13:58:03Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Do you sanitize secrets before pasting code into ChatGPT?",
     "link": "https://news.ycombinator.com/item?id=46052097",
     "published": "2025-11-25T23:27:57Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Seeking Founding Engineer (CTO Track) \u2013 Secure Digital Communications \u2013 UK Only",
-    "link": "https://news.ycombinator.com/item?id=46026431",
-    "published": "2025-11-23T19:19:50Z"
   }
 ]

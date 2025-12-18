@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2025-12-18
 
 ## 📰 Hacker News
+- [Ask HN: Decentralized Auth for Information Exchange?](https://news.ycombinator.com/item?id=46310517) — 2025-12-18T09:19
 - [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/) — 2025-12-16T13:58
 - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) — 2025-12-14T16:06
 - [Git history knows more than your standup. We built an AI to query it](https://news.ycombinator.com/item?id=46263486) — 2025-12-14T14:57
@@ -20,7 +21,6 @@
 - [CoinTracker Third-party security incident (Mixpanel)](https://news.ycombinator.com/item?id=46065208) — 2025-11-27T03:20
 - [Show HN: Preshiplist – A fast way to ship waitlist websites without headaches](https://www.preshiplist.co/) — 2025-11-26T09:42
 - [Ask HN: Do you sanitize secrets before pasting code into ChatGPT?](https://news.ycombinator.com/item?id=46052097) — 2025-11-25T23:27
-- [Seeking Founding Engineer (CTO Track) – Secure Digital Communications – UK Only](https://news.ycombinator.com/item?id=46026431) — 2025-11-23T19:19
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
