@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-18
+# 🛡️ Email Security Trends – Updated 2025-12-19
 
 ## 📰 Hacker News
 - [How to build fast similarity search for email from the ground up](https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/) — 2025-12-18T16:12
