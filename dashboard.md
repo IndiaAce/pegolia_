@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2025-12-19
 
 ## 📰 Hacker News
+- [Show HN: MephistoMail – RAM-only ephemeral email with client-side privacy tools](https://www.mephistomail.site/) — 2025-12-19T03:45
+- [Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response](https://news.ycombinator.com/item?id=46321594) — 2025-12-19T02:17
 - [How to build fast similarity search for email from the ground up](https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/) — 2025-12-18T16:12
 - [Show HN: Open database tracking 77K public DNS servers every 10 minutes](https://dnsdirectory.com/) — 2025-12-18T15:21
 - [Show HN: Desktop app to never miss GitHub security alerts](https://github.com/stephanebouget/github-security-alerts) — 2025-12-18T12:02
@@ -19,8 +21,6 @@
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
 - [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
-- [Security Layer 4.0 – First semantic firewall blocks malicious intent"](https://news.ycombinator.com/item?id=46086571) — 2025-11-29T10:42
-- [Tell HN: OpenAI Security Incident with PII](https://news.ycombinator.com/item?id=46069064) — 2025-11-27T13:31
 
 ## 📰 Proofpoint
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1

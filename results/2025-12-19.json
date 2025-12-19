@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: MephistoMail \u2013 RAM-only ephemeral email with client-side privacy tools",
+    "link": "https://www.mephistomail.site/",
+    "published": "2025-12-19T03:45:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response",
+    "link": "https://news.ycombinator.com/item?id=46321594",
+    "published": "2025-12-19T02:17:01Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "How to build fast similarity search for email from the ground up",
     "link": "https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/",
     "published": "2025-12-18T16:12:14Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)",
     "link": "https://sidepay.app/",
     "published": "2025-12-03T15:00:05Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
-    "link": "https://news.ycombinator.com/item?id=46086571",
-    "published": "2025-11-29T10:42:00Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tell HN: OpenAI Security Incident with PII",
-    "link": "https://news.ycombinator.com/item?id=46069064",
-    "published": "2025-11-27T13:31:36Z"
   }
 ]
