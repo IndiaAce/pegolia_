@@ -91,12 +91,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Ask HN: Decentralized Auth for Information Exchange?",
-    "link": "https://news.ycombinator.com/item?id=46310517",
-    "published": "2025-12-18T09:19:12Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "French Interior Ministry confirms cyberattack on email servers",
     "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
     "published": "2025-12-16T13:58:03Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)",
     "link": "https://sidepay.app/",
     "published": "2025-12-03T15:00:05Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
+    "link": "https://news.ycombinator.com/item?id=46086571",
+    "published": "2025-11-29T10:42:00Z"
   }
 ]
