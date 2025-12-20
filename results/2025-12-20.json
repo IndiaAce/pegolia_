@@ -1,6 +1,30 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
+    "link": "https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks",
+    "published": "19 Dec 2025 16:49:21"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "State-linked and criminal hackers use device code phishing against M365 users",
+    "link": "https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users",
+    "published": "19 Dec 2025 16:47:57"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Three ways teams can tackle Iran\u2019s tangled web of state-sponsored espionage",
+    "link": "https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage",
+    "published": "17 Dec 2025 16:50:35"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint CEO On Closing \u2018Watershed\u2019 $1.8B Hornetsecurity Deal, IPO Plans",
+    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-closing-watershed-18b-hornetsecurity-deal-ipo-plans",
+    "published": "08 Dec 2025 16:51:56"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Completes Acquisition of Hornetsecurity",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity",
     "published": "08 Dec 2025 09:15:01"
@@ -34,30 +58,6 @@
     "title": "Crime Rings Enlist Hackers to Hijack Trucks",
     "link": "https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks",
     "published": "25 Nov 2025 19:47:04"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "The 10 Hottest Cybersecurity Products Of 2025",
-    "link": "https://www.proofpoint.com/us/newsroom/news/10-hottest-cybersecurity-products-2025",
-    "published": "21 Nov 2025 14:59:30"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally",
-    "published": "18 Nov 2025 12:02:37"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Operation Endgame targets malware networks in global crackdown",
-    "link": "https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown",
-    "published": "13 Nov 2025 15:21:30"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Iran's Elusive \"SmudgedSerpent' APT Phishes Influential US Policy Wonks",
-    "link": "https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks",
-    "published": "05 Nov 2025 13:41:37"
   },
   {
     "source": "Hacker News",

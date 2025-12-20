@@ -23,14 +23,14 @@
 - [Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)](https://sidepay.app/) — 2025-12-03T15:00
 
 ## 📰 Proofpoint
+- [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
+- [State-linked and criminal hackers use device code phishing against M365 users](https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users) — 19 Dec 2025 16:4
+- [Three ways teams can tackle Iran’s tangled web of state-sponsored espionage](https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage) — 17 Dec 2025 16:5
+- [Proofpoint CEO On Closing ‘Watershed’ $1.8B Hornetsecurity Deal, IPO Plans](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-closing-watershed-18b-hornetsecurity-deal-ipo-plans) — 08 Dec 2025 16:5
 - [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
 - [Yippee-ki-yay, cybercriminals!](https://www.proofpoint.com/us/newsroom/news/yippee-ki-yay-cybercriminals) — 02 Dec 2025 15:0
 - [Proofpoint Named a Leader in 2025 Gartner Magic Quadrant for Email Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-2025-gartner-magic-quadrant-email-security) — 01 Dec 2025 19:4
 - [Proofpoint Appoints Chief Marketing Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-chief-marketing-officer) — 01 Dec 2025 08:0
 - [How to Stay Vigilant During End-of-Year Online Scams This Holiday Season](https://www.proofpoint.com/us/newsroom/news/how-stay-vigilant-during-end-year-online-scams-holiday-season) — 27 Nov 2025 18:2
 - [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
-- [The 10 Hottest Cybersecurity Products Of 2025](https://www.proofpoint.com/us/newsroom/news/10-hottest-cybersecurity-products-2025) — 21 Nov 2025 14:5
-- [Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally) — 18 Nov 2025 12:0
-- [Operation Endgame targets malware networks in global crackdown](https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown) — 13 Nov 2025 15:2
-- [Iran's Elusive "SmudgedSerpent' APT Phishes Influential US Policy Wonks](https://www.proofpoint.com/us/newsroom/news/irans-elusive-smudgedserpent-apt-phishes-influential-us-policy-wonks) — 05 Nov 2025 13:4
 
