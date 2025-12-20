@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-19
+# 🛡️ Email Security Trends – Updated 2025-12-20
 
 ## 📰 Hacker News
 - [Show HN: MephistoMail – RAM-only ephemeral email with client-side privacy tools](https://www.mephistomail.site/) — 2025-12-19T03:45
