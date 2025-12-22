@@ -1,0 +1,182 @@
+[
+  {
+    "source": "Proofpoint",
+    "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
+    "link": "https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks",
+    "published": "19 Dec 2025 16:49:21"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "State-linked and criminal hackers use device code phishing against M365 users",
+    "link": "https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users",
+    "published": "19 Dec 2025 16:47:57"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Three ways teams can tackle Iran\u2019s tangled web of state-sponsored espionage",
+    "link": "https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage",
+    "published": "17 Dec 2025 16:50:35"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint CEO On Closing \u2018Watershed\u2019 $1.8B Hornetsecurity Deal, IPO Plans",
+    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-closing-watershed-18b-hornetsecurity-deal-ipo-plans",
+    "published": "08 Dec 2025 16:51:56"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint Completes Acquisition of Hornetsecurity",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity",
+    "published": "08 Dec 2025 09:15:01"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Yippee-ki-yay, cybercriminals!",
+    "link": "https://www.proofpoint.com/us/newsroom/news/yippee-ki-yay-cybercriminals",
+    "published": "02 Dec 2025 15:00:48"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint Named a Leader in 2025 Gartner Magic Quadrant for Email Security",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-2025-gartner-magic-quadrant-email-security",
+    "published": "01 Dec 2025 19:45:19"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint Appoints Chief Marketing Officer",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-chief-marketing-officer",
+    "published": "01 Dec 2025 08:00:00"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "How to Stay Vigilant During End-of-Year Online Scams This Holiday Season",
+    "link": "https://www.proofpoint.com/us/newsroom/news/how-stay-vigilant-during-end-year-online-scams-holiday-season",
+    "published": "27 Nov 2025 18:26:07"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Crime Rings Enlist Hackers to Hijack Trucks",
+    "link": "https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks",
+    "published": "25 Nov 2025 19:47:04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: MephistoMail \u2013 RAM-only ephemeral email with client-side privacy tools",
+    "link": "https://www.mephistomail.site/",
+    "published": "2025-12-19T03:45:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response",
+    "link": "https://news.ycombinator.com/item?id=46321594",
+    "published": "2025-12-19T02:17:01Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to build fast similarity search for email from the ground up",
+    "link": "https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/",
+    "published": "2025-12-18T16:12:14Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Open database tracking 77K public DNS servers every 10 minutes",
+    "link": "https://dnsdirectory.com/",
+    "published": "2025-12-18T15:21:04Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Desktop app to never miss GitHub security alerts",
+    "link": "https://github.com/stephanebouget/github-security-alerts",
+    "published": "2025-12-18T12:02:51Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "French Interior Ministry confirms cyberattack on email servers",
+    "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
+    "published": "2025-12-16T13:58:03Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+    "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+    "published": "2025-12-14T16:06:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Git history knows more than your standup. We built an AI to query it",
+    "link": "https://news.ycombinator.com/item?id=46263486",
+    "published": "2025-12-14T14:57:53Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: What email providers don't recycle email addresses?",
+    "link": "https://news.ycombinator.com/item?id=46262322",
+    "published": "2025-12-14T11:27:17Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Anyone else doing login-free trials with localStorage tokens?",
+    "link": "https://news.ycombinator.com/item?id=46244742",
+    "published": "2025-12-12T14:58:39Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: DomainOptic \u2013 Free Web Security audit that scans what other tools miss",
+    "link": "https://domainoptic.com/",
+    "published": "2025-12-12T13:56:06Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Toqen \u2013 privacy-first authentication flow with QR and TOTP",
+    "link": "https://www.toqen.app/",
+    "published": "2025-12-12T07:45:28Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Free Security audit that checks what other tools miss",
+    "link": "https://domainoptic.com/",
+    "published": "2025-12-11T18:29:01Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Transactional Email with a Stripe-like CLI",
+    "link": "https://ahasend.com",
+    "published": "2025-12-10T16:42:51Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Founders How do you keep your business strategy,tech stack aligned as you scale?",
+    "link": "https://news.ycombinator.com/item?id=46203994",
+    "published": "2025-12-09T12:03:18Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Who else got pwned by the Next.js RCE?",
+    "link": "https://news.ycombinator.com/item?id=46184163",
+    "published": "2025-12-07T19:09:12Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built a free security scanner for your domain",
+    "link": "https://deft.is/",
+    "published": "2025-12-04T10:15:51Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Nerve \u2013 The AI Chief of Staff that does your actual work",
+    "link": "https://www.usenerve.com",
+    "published": "2025-12-03T18:10:05Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)",
+    "link": "https://sidepay.app/",
+    "published": "2025-12-03T15:00:05Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Security Layer 4.0 \u2013 First semantic firewall blocks malicious intent\"",
+    "link": "https://news.ycombinator.com/item?id=46086571",
+    "published": "2025-11-29T10:42:00Z"
+  }
+]
