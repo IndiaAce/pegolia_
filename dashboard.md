@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-22
+# 🛡️ Email Security Trends – Updated 2025-12-23
 
 ## 📰 Hacker News
 - [German Federal Office for Information Security (BSI) examines 12 email clients [pdf]](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/E-Mail-Programme.html) — 2025-12-22T06:18
