@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Are they trying to hack me?",
+    "link": "https://news.ycombinator.com/item?id=46366296",
+    "published": "2025-12-23T15:52:36Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "German Federal Office for Information Security (BSI) examines 12 email clients [pdf]",
     "link": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/E-Mail-Programme.html",
     "published": "2025-12-22T06:18:33Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Nerve \u2013 The AI Chief of Staff that does your actual work",
     "link": "https://www.usenerve.com",
     "published": "2025-12-03T18:10:05Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A $20/year invoicing tool for solo developers (simple, fast, no bloat)",
-    "link": "https://sidepay.app/",
-    "published": "2025-12-03T15:00:05Z"
   }
 ]
