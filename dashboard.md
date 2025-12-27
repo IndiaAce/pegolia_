@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-26
+# 🛡️ Email Security Trends – Updated 2025-12-27
 
 ## 📰 Hacker News
 - [Ask HN: Are they trying to hack me?](https://news.ycombinator.com/item?id=46366296) — 2025-12-23T15:52
