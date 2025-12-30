@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2025-12-29
+# 🛡️ Email Security Trends – Updated 2025-12-30
 
 ## 📰 Hacker News
+- [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2025-12-29T22:46
 - [Ask HN: Are they trying to hack me?](https://news.ycombinator.com/item?id=46366296) — 2025-12-23T15:52
 - [German Federal Office for Information Security (BSI) examines 12 email clients [pdf]](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/E-Mail-Programme.html) — 2025-12-22T06:18
 - [Show HN: MephistoMail – RAM-only ephemeral email with client-side privacy tools](https://www.mephistomail.site/) — 2025-12-19T03:45
@@ -20,7 +21,6 @@
 - [Founders How do you keep your business strategy,tech stack aligned as you scale?](https://news.ycombinator.com/item?id=46203994) — 2025-12-09T12:03
 - [Ask HN: Who else got pwned by the Next.js RCE?](https://news.ycombinator.com/item?id=46184163) — 2025-12-07T19:09
 - [Show HN: I built a free security scanner for your domain](https://deft.is/) — 2025-12-04T10:15
-- [Show HN: Nerve – The AI Chief of Staff that does your actual work](https://www.usenerve.com) — 2025-12-03T18:10
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
