@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2025-12-30
+# 🛡️ Email Security Trends – Updated 2025-12-31
 
 ## 📰 Hacker News
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2025-12-29T22:46
