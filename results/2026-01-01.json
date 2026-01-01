@@ -61,12 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Axion One OS",
-    "link": "https://news.ycombinator.com/item?id=46449441",
-    "published": "2025-12-31T23:29:06Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Shardium \u2013 open-source \"Dead Man's Switch\" for crypto inheritance",
     "link": "https://www.shardium.xyz/",
     "published": "2025-12-29T22:46:50Z"
@@ -178,5 +172,11 @@
     "title": "Ask HN: Who else got pwned by the Next.js RCE?",
     "link": "https://news.ycombinator.com/item?id=46184163",
     "published": "2025-12-07T19:09:12Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built a free security scanner for your domain",
+    "link": "https://deft.is/",
+    "published": "2025-12-04T10:15:51Z"
   }
 ]
