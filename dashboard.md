@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-01-02
+# 🛡️ Email Security Trends – Updated 2026-01-03
 
 ## 📰 Hacker News
+- [Show HN: Open-source AI workflows with read-only auth scopes](https://www.youtube.com/watch?v=cmQvmla8sl0) — 2026-01-02T22:16
 - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46466285) — 2026-01-02T16:17
 - [Show HN: GuardSSL-Open Source SSL Certificate Monitoring Tool](https://guardssl.info) — 2026-01-01T14:08
 - [Axion One OS](https://news.ycombinator.com/item?id=46449441) — 2025-12-31T23:29
@@ -20,7 +21,6 @@
 - [Show HN: DomainOptic – Free Web Security audit that scans what other tools miss](https://domainoptic.com/) — 2025-12-12T13:56
 - [Show HN: Toqen – privacy-first authentication flow with QR and TOTP](https://www.toqen.app/) — 2025-12-12T07:45
 - [Show HN: Free Security audit that checks what other tools miss](https://domainoptic.com/) — 2025-12-11T18:29
-- [Show HN: Transactional Email with a Stripe-like CLI](https://ahasend.com) — 2025-12-10T16:42
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
