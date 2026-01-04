@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Shardium \u2013 open-source \"Dead Man's Switch\" for crypto inheritance",
+    "link": "https://www.shardium.xyz/",
+    "published": "2026-01-04T00:38:23Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Sitewatch \u2013 fast checks for SSL, DNS, HTTP status, and security headers",
     "link": "https://sitewatch.io/",
     "published": "2026-01-03T20:08:36Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Toqen \u2013 privacy-first authentication flow with QR and TOTP",
     "link": "https://www.toqen.app/",
     "published": "2025-12-12T07:45:28Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Free Security audit that checks what other tools miss",
-    "link": "https://domainoptic.com/",
-    "published": "2025-12-11T18:29:01Z"
   }
 ]
