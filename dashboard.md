@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-04
+# 🛡️ Email Security Trends – Updated 2026-01-05
 
 ## 📰 Hacker News
 - [Show HN: A real-time alert system for cam models – security review welcome](https://news.ycombinator.com/item?id=46486535) — 2026-01-04T09:56
