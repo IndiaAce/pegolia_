@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-05
 
 ## 📰 Hacker News
+- [One dashboard for all your Git repos – no GitHub knowledge required](https://news.ycombinator.com/item?id=46498661) — 2026-01-05T13:46
 - [Show HN: A real-time alert system for cam models – security review welcome](https://news.ycombinator.com/item?id=46486535) — 2026-01-04T09:56
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2026-01-04T00:38
 - [Show HN: Sitewatch – fast checks for SSL, DNS, HTTP status, and security headers](https://sitewatch.io/) — 2026-01-03T20:08
@@ -20,7 +21,6 @@
 - [Git history knows more than your standup. We built an AI to query it](https://news.ycombinator.com/item?id=46263486) — 2025-12-14T14:57
 - [Ask HN: What email providers don't recycle email addresses?](https://news.ycombinator.com/item?id=46262322) — 2025-12-14T11:27
 - [Ask HN: Anyone else doing login-free trials with localStorage tokens?](https://news.ycombinator.com/item?id=46244742) — 2025-12-12T14:58
-- [Show HN: DomainOptic – Free Web Security audit that scans what other tools miss](https://domainoptic.com/) — 2025-12-12T13:56
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4

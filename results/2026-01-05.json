@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "One dashboard for all your Git repos \u2013 no GitHub knowledge required",
+    "link": "https://news.ycombinator.com/item?id=46498661",
+    "published": "2026-01-05T13:46:07Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: A real-time alert system for cam models \u2013 security review welcome",
     "link": "https://news.ycombinator.com/item?id=46486535",
     "published": "2026-01-04T09:56:11Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Anyone else doing login-free trials with localStorage tokens?",
     "link": "https://news.ycombinator.com/item?id=46244742",
     "published": "2025-12-12T14:58:39Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: DomainOptic \u2013 Free Web Security audit that scans what other tools miss",
-    "link": "https://domainoptic.com/",
-    "published": "2025-12-12T13:56:06Z"
   }
 ]
