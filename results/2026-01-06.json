@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Continuous Rotating 4096-Bit Post-Quantum Encryption \u2013 Data Useless If Stolen",
+    "link": "https://news.ycombinator.com/item?id=46515608",
+    "published": "2026-01-06T17:40:57Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: DDL to Data \u2013 Generate realistic test data from SQL schemas",
+    "link": "https://news.ycombinator.com/item?id=46511578",
+    "published": "2026-01-06T12:47:23Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Dev visibility for non-technical founders",
     "link": "https://news.ycombinator.com/item?id=46510984",
     "published": "2026-01-06T11:13:18Z"
@@ -166,17 +178,5 @@
     "title": "French Interior Ministry confirms cyberattack on email servers",
     "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
     "published": "2025-12-16T13:58:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
-    "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
-    "published": "2025-12-14T16:06:46Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Git history knows more than your standup. We built an AI to query it",
-    "link": "https://news.ycombinator.com/item?id=46263486",
-    "published": "2025-12-14T14:57:53Z"
   }
 ]

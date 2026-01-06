@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-01-06
 
 ## 📰 Hacker News
+- [Continuous Rotating 4096-Bit Post-Quantum Encryption – Data Useless If Stolen](https://news.ycombinator.com/item?id=46515608) — 2026-01-06T17:40
+- [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578) — 2026-01-06T12:47
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46510984) — 2026-01-06T11:13
 - [Dev team visibility for non-technical founders](https://news.ycombinator.com/item?id=46502385) — 2026-01-05T18:09
 - [One dashboard for all your Git repos – no GitHub knowledge required](https://news.ycombinator.com/item?id=46498661) — 2026-01-05T13:46
@@ -19,8 +21,6 @@
 - [Show HN: Open database tracking 77K public DNS servers every 10 minutes](https://dnsdirectory.com/) — 2025-12-18T15:21
 - [Show HN: Desktop app to never miss GitHub security alerts](https://github.com/stephanebouget/github-security-alerts) — 2025-12-18T12:02
 - [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/) — 2025-12-16T13:58
-- [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) — 2025-12-14T16:06
-- [Git history knows more than your standup. We built an AI to query it](https://news.ycombinator.com/item?id=46263486) — 2025-12-14T14:57
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
