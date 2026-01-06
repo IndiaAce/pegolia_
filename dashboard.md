@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-01-05
+# 🛡️ Email Security Trends – Updated 2026-01-06
 
 ## 📰 Hacker News
+- [Dev team visibility for non-technical founders](https://news.ycombinator.com/item?id=46502385) — 2026-01-05T18:09
 - [One dashboard for all your Git repos – no GitHub knowledge required](https://news.ycombinator.com/item?id=46498661) — 2026-01-05T13:46
 - [Show HN: A real-time alert system for cam models – security review welcome](https://news.ycombinator.com/item?id=46486535) — 2026-01-04T09:56
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2026-01-04T00:38
@@ -20,7 +21,6 @@
 - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) — 2025-12-14T16:06
 - [Git history knows more than your standup. We built an AI to query it](https://news.ycombinator.com/item?id=46263486) — 2025-12-14T14:57
 - [Ask HN: What email providers don't recycle email addresses?](https://news.ycombinator.com/item?id=46262322) — 2025-12-14T11:27
-- [Ask HN: Anyone else doing login-free trials with localStorage tokens?](https://news.ycombinator.com/item?id=46244742) — 2025-12-12T14:58
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
