@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-07
 
 ## 📰 Hacker News
-- [Why does the Android Gmail app have no app-level lock? a security flaw](https://issuetracker.google.com/issues/473851443) — 2026-01-07T02:10
+- [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46524859) — 2026-01-07T10:52
 - [Continuous Rotating 4096-Bit Post-Quantum Encryption – Data Useless If Stolen](https://news.ycombinator.com/item?id=46515608) — 2026-01-06T17:40
 - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578) — 2026-01-06T12:47
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46510984) — 2026-01-06T11:13
