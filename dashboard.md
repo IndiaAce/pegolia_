@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-07
 
 ## 📰 Hacker News
+- [Why does the Android Gmail app have no app-level lock? a security flaw](https://issuetracker.google.com/issues/473851443) — 2026-01-07T02:10
 - [Continuous Rotating 4096-Bit Post-Quantum Encryption – Data Useless If Stolen](https://news.ycombinator.com/item?id=46515608) — 2026-01-06T17:40
 - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578) — 2026-01-06T12:47
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46510984) — 2026-01-06T11:13
@@ -20,7 +21,6 @@
 - [How to build fast similarity search for email from the ground up](https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/) — 2025-12-18T16:12
 - [Show HN: Open database tracking 77K public DNS servers every 10 minutes](https://dnsdirectory.com/) — 2025-12-18T15:21
 - [Show HN: Desktop app to never miss GitHub security alerts](https://github.com/stephanebouget/github-security-alerts) — 2025-12-18T12:02
-- [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/) — 2025-12-16T13:58
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
