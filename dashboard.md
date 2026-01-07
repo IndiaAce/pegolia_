@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-06
+# 🛡️ Email Security Trends – Updated 2026-01-07
 
 ## 📰 Hacker News
 - [Continuous Rotating 4096-Bit Post-Quantum Encryption – Data Useless If Stolen](https://news.ycombinator.com/item?id=46515608) — 2026-01-06T17:40
@@ -9,7 +9,7 @@
 - [Show HN: A real-time alert system for cam models – security review welcome](https://news.ycombinator.com/item?id=46486535) — 2026-01-04T09:56
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2026-01-04T00:38
 - [Show HN: Sitewatch – fast checks for SSL, DNS, HTTP status, and security headers](https://sitewatch.io/) — 2026-01-03T20:08
-- [Show HN: Open-source AI workflows with read-only auth scopes](https://www.youtube.com/watch?v=cmQvmla8sl0) — 2026-01-02T22:16
+- [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer) — 2026-01-02T22:16
 - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46466285) — 2026-01-02T16:17
 - [Show HN: GuardSSL-Open Source SSL Certificate Monitoring Tool](https://guardssl.info) — 2026-01-01T14:08
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2025-12-29T22:46
