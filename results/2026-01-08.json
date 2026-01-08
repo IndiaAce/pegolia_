@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Founders can now chat with their Git history",
+    "link": "https://news.ycombinator.com/item?id=46539662",
+    "published": "2026-01-08T11:07:17Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sync your emails, calendars, and contacts securely with Proton in one click",
+    "link": "https://proton.me/easyswitch",
+    "published": "2026-01-08T10:00:23Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Dev visibility for non-technical founders",
     "link": "https://news.ycombinator.com/item?id=46524859",
     "published": "2026-01-07T10:52:16Z"
@@ -166,17 +178,5 @@
     "title": "How to build fast similarity search for email from the ground up",
     "link": "https://sublime.security/blog/how-to-build-fast-similarity-search-for-email-from-the-ground-up/",
     "published": "2025-12-18T16:12:14Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Open database tracking 77K public DNS servers every 10 minutes",
-    "link": "https://dnsdirectory.com/",
-    "published": "2025-12-18T15:21:04Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Desktop app to never miss GitHub security alerts",
-    "link": "https://github.com/stephanebouget/github-security-alerts",
-    "published": "2025-12-18T12:02:51Z"
   }
 ]
