@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-07
+# 🛡️ Email Security Trends – Updated 2026-01-08
 
 ## 📰 Hacker News
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46524859) — 2026-01-07T10:52
