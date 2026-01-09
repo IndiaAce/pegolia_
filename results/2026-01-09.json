@@ -61,12 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Beam \u2013 The most private way to share files",
-    "link": "https://news.ycombinator.com/item?id=46550178",
-    "published": "2026-01-09T04:50:26Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Remotedays \u2013 Cross-border remote work compliance for EU companies",
     "link": "https://news.ycombinator.com/item?id=46546117",
     "published": "2026-01-08T20:37:48Z"
@@ -82,12 +76,6 @@
     "title": "Show HN: Founders can now chat with their Git history",
     "link": "https://news.ycombinator.com/item?id=46539662",
     "published": "2026-01-08T11:07:17Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sync your emails, calendars, and contacts securely with Proton in one click",
-    "link": "https://proton.me/easyswitch",
-    "published": "2026-01-08T10:00:23Z"
   },
   {
     "source": "Hacker News",
@@ -178,5 +166,17 @@
     "title": "German Federal Office for Information Security (BSI) examines 12 email clients [pdf]",
     "link": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/E-Mail-Programme.html",
     "published": "2025-12-22T06:18:33Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: MephistoMail \u2013 RAM-only ephemeral email with client-side privacy tools",
+    "link": "https://www.mephistomail.site/",
+    "published": "2025-12-19T03:45:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response",
+    "link": "https://news.ycombinator.com/item?id=46321594",
+    "published": "2025-12-19T02:17:01Z"
   }
 ]

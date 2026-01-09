@@ -1,11 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2026-01-09
 
 ## 📰 Hacker News
-- [Show HN: Beam – The most private way to share files](https://news.ycombinator.com/item?id=46550178) — 2026-01-09T04:50
 - [Show HN: Remotedays – Cross-border remote work compliance for EU companies](https://news.ycombinator.com/item?id=46546117) — 2026-01-08T20:37
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46545681) — 2026-01-08T19:59
 - [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46539662) — 2026-01-08T11:07
-- [Sync your emails, calendars, and contacts securely with Proton in one click](https://proton.me/easyswitch) — 2026-01-08T10:00
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46524859) — 2026-01-07T10:52
 - [Continuous Rotating 4096-Bit Post-Quantum Encryption – Data Useless If Stolen](https://news.ycombinator.com/item?id=46515608) — 2026-01-06T17:40
 - [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578) — 2026-01-06T12:47
@@ -21,6 +19,8 @@
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2025-12-29T22:46
 - [Ask HN: Are they trying to hack me?](https://news.ycombinator.com/item?id=46366296) — 2025-12-23T15:52
 - [German Federal Office for Information Security (BSI) examines 12 email clients [pdf]](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/E-Mail-Programme.html) — 2025-12-22T06:18
+- [Show HN: MephistoMail – RAM-only ephemeral email with client-side privacy tools](https://www.mephistomail.site/) — 2025-12-19T03:45
+- [Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response](https://news.ycombinator.com/item?id=46321594) — 2025-12-19T02:17
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
