@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-09
 
 ## 📰 Hacker News
+- [Show HN: The dev dashboard I built for my non-technical co-founder](https://news.ycombinator.com/item?id=46553238) — 2026-01-09T12:38
 - [Show HN: Remotedays – Cross-border remote work compliance for EU companies](https://news.ycombinator.com/item?id=46546117) — 2026-01-08T20:37
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46545681) — 2026-01-08T19:59
 - [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46539662) — 2026-01-08T11:07
@@ -20,7 +21,6 @@
 - [Ask HN: Are they trying to hack me?](https://news.ycombinator.com/item?id=46366296) — 2025-12-23T15:52
 - [German Federal Office for Information Security (BSI) examines 12 email clients [pdf]](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/E-Mail-Programme.html) — 2025-12-22T06:18
 - [Show HN: MephistoMail – RAM-only ephemeral email with client-side privacy tools](https://www.mephistomail.site/) — 2025-12-19T03:45
-- [Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response](https://news.ycombinator.com/item?id=46321594) — 2025-12-19T02:17
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4

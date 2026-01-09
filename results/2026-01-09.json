@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: The dev dashboard I built for my non-technical co-founder",
+    "link": "https://news.ycombinator.com/item?id=46553238",
+    "published": "2026-01-09T12:38:30Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Remotedays \u2013 Cross-border remote work compliance for EU companies",
     "link": "https://news.ycombinator.com/item?id=46546117",
     "published": "2026-01-08T20:37:48Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: MephistoMail \u2013 RAM-only ephemeral email with client-side privacy tools",
     "link": "https://www.mephistomail.site/",
     "published": "2025-12-19T03:45:42Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response",
-    "link": "https://news.ycombinator.com/item?id=46321594",
-    "published": "2025-12-19T02:17:01Z"
   }
 ]
