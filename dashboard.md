@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-09
+# 🛡️ Email Security Trends – Updated 2026-01-10
 
 ## 📰 Hacker News
 - [Show HN: The dev dashboard I built for my non-technical co-founder](https://news.ycombinator.com/item?id=46553238) — 2026-01-09T12:38
