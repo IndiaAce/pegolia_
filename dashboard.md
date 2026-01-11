@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-01-11
 
 ## 📰 Hacker News
+- [Show HN: Stewardly - tracking software, renewals, ownership, and audit context](https://usestewardly.com/) — 2026-01-11T17:31
+- [Show HN: UebGuard – Email Protection to Stop Phishing Before Users Click](https://www.uebguard.com/) — 2026-01-11T12:14
 - [The Nature of Security Failure](https://news.ycombinator.com/item?id=46570345) — 2026-01-10T22:01
 - [How do you forecast with tiny datasets (2–15M ARR)](https://news.ycombinator.com/item?id=46561245) — 2026-01-10T00:19
 - [Show HN: The dev dashboard I built for my non-technical co-founder](https://news.ycombinator.com/item?id=46553238) — 2026-01-09T12:38
@@ -19,8 +21,6 @@
 - [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer) — 2026-01-02T22:16
 - [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46466285) — 2026-01-02T16:17
 - [Show HN: GuardSSL-Open Source SSL Certificate Monitoring Tool](https://guardssl.info) — 2026-01-01T14:08
-- [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2025-12-29T22:46
-- [Ask HN: Are they trying to hack me?](https://news.ycombinator.com/item?id=46366296) — 2025-12-23T15:52
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
