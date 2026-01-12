@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-12
 
 ## 📰 Hacker News
+- [Show HN: Dev visibility for founders who don't code](https://news.ycombinator.com/item?id=46588951) — 2026-01-12T14:26
 - [Show HN: GAM7 Companion – macOS app that automates Google Workspace admin](https://github.com/halcarrell/gamgui-releases) — 2026-01-12T08:13
 - [Show HN: Stewardly - tracking software, renewals, ownership, and audit context](https://usestewardly.com/) — 2026-01-11T17:31
 - [Show HN: UebGuard – Email Protection to Stop Phishing Before Users Click](https://www.uebguard.com/) — 2026-01-11T12:14
@@ -20,7 +21,6 @@
 - [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2026-01-04T00:38
 - [Show HN: Sitewatch – fast checks for SSL, DNS, HTTP status, and security headers](https://sitewatch.io/) — 2026-01-03T20:08
 - [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer) — 2026-01-02T22:16
-- [Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46466285) — 2026-01-02T16:17
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
