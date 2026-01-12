@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: GAM7 Companion \u2013 macOS app that automates Google Workspace admin",
+    "link": "https://github.com/halcarrell/gamgui-releases",
+    "published": "2026-01-12T08:13:33Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Stewardly - tracking software, renewals, ownership, and audit context",
     "link": "https://usestewardly.com/",
     "published": "2026-01-11T17:31:16Z"
@@ -172,11 +178,5 @@
     "title": "Git analytics that works across GitHub, GitLab, and Bitbucket",
     "link": "https://news.ycombinator.com/item?id=46466285",
     "published": "2026-01-02T16:17:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: GuardSSL-Open Source SSL Certificate Monitoring Tool",
-    "link": "https://guardssl.info",
-    "published": "2026-01-01T14:08:25Z"
   }
 ]
