@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-11
+# 🛡️ Email Security Trends – Updated 2026-01-12
 
 ## 📰 Hacker News
 - [Show HN: Stewardly - tracking software, renewals, ownership, and audit context](https://usestewardly.com/) — 2026-01-11T17:31
