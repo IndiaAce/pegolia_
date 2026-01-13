@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Living with LLMs Everywhere \u2013 How Ambient LLMs Negate Security Policy",
+    "link": "https://news.ycombinator.com/item?id=46596317",
+    "published": "2026-01-13T01:21:16Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Dev visibility for founders who don't code",
     "link": "https://news.ycombinator.com/item?id=46588951",
     "published": "2026-01-12T14:26:50Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Sitewatch \u2013 fast checks for SSL, DNS, HTTP status, and security headers",
     "link": "https://sitewatch.io/",
     "published": "2026-01-03T20:08:36Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Open-source AI workflows with read-only auth scopes",
-    "link": "https://github.com/seer-engg/seer",
-    "published": "2026-01-02T22:16:12Z"
   }
 ]
