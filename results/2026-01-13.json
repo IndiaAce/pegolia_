@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Building this platform for CTO's/devs/founders",
+    "link": "https://news.ycombinator.com/item?id=46599021",
+    "published": "2026-01-13T09:52:36Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Living with LLMs Everywhere \u2013 How Ambient LLMs Negate Security Policy",
     "link": "https://news.ycombinator.com/item?id=46596317",
     "published": "2026-01-13T01:21:16Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Shardium \u2013 open-source \"Dead Man's Switch\" for crypto inheritance",
     "link": "https://www.shardium.xyz/",
     "published": "2026-01-04T00:38:23Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Sitewatch \u2013 fast checks for SSL, DNS, HTTP status, and security headers",
-    "link": "https://sitewatch.io/",
-    "published": "2026-01-03T20:08:36Z"
   }
 ]
