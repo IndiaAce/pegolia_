@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Gh Account Permabanned \u2013 Help?",
+    "link": "https://news.ycombinator.com/item?id=46602838",
+    "published": "2026-01-13T16:06:07Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Building this platform for CTO's/devs/founders",
     "link": "https://news.ycombinator.com/item?id=46599021",
     "published": "2026-01-13T09:52:36Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: A real-time alert system for cam models \u2013 security review welcome",
     "link": "https://news.ycombinator.com/item?id=46486535",
     "published": "2026-01-04T09:56:11Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Shardium \u2013 open-source \"Dead Man's Switch\" for crypto inheritance",
-    "link": "https://www.shardium.xyz/",
-    "published": "2026-01-04T00:38:23Z"
   }
 ]

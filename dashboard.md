@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-13
 
 ## 📰 Hacker News
+- [Gh Account Permabanned – Help?](https://news.ycombinator.com/item?id=46602838) — 2026-01-13T16:06
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46599021) — 2026-01-13T09:52
 - [Living with LLMs Everywhere – How Ambient LLMs Negate Security Policy](https://news.ycombinator.com/item?id=46596317) — 2026-01-13T01:21
 - [Show HN: Dev visibility for founders who don't code](https://news.ycombinator.com/item?id=46588951) — 2026-01-12T14:26
@@ -20,7 +21,6 @@
 - [Dev team visibility for non-technical founders](https://news.ycombinator.com/item?id=46502385) — 2026-01-05T18:09
 - [One dashboard for all your Git repos – no GitHub knowledge required](https://news.ycombinator.com/item?id=46498661) — 2026-01-05T13:46
 - [Show HN: A real-time alert system for cam models – security review welcome](https://news.ycombinator.com/item?id=46486535) — 2026-01-04T09:56
-- [Show HN: Shardium – open-source "Dead Man's Switch" for crypto inheritance](https://www.shardium.xyz/) — 2026-01-04T00:38
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
