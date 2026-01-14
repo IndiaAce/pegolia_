@@ -61,6 +61,30 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: What shipped this week? now you can just ask",
+    "link": "https://news.ycombinator.com/item?id=46614884",
+    "published": "2026-01-14T11:35:47Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: AI second brain without headaches",
+    "link": "https://www.remio.ai",
+    "published": "2026-01-14T10:16:45Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Visibility and Controls for Browser Agents (ContextFort YC S25)",
+    "link": "https://contextfort.ai/",
+    "published": "2026-01-14T09:22:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Abuse Signals API \u2013 deterministic domain/email abuse indicators",
+    "link": "https://github.com/ulissse/abusesignalsapi-examples",
+    "published": "2026-01-14T09:03:31Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Ask your repos what shipped in plain English",
     "link": "https://news.ycombinator.com/item?id=46607161",
     "published": "2026-01-13T20:11:26Z"
@@ -154,29 +178,5 @@
     "title": "Continuous Rotating 4096-Bit Post-Quantum Encryption \u2013 Data Useless If Stolen",
     "link": "https://news.ycombinator.com/item?id=46515608",
     "published": "2026-01-06T17:40:57Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: DDL to Data \u2013 Generate realistic test data from SQL schemas",
-    "link": "https://news.ycombinator.com/item?id=46511578",
-    "published": "2026-01-06T12:47:23Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Dev visibility for non-technical founders",
-    "link": "https://news.ycombinator.com/item?id=46510984",
-    "published": "2026-01-06T11:13:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Dev team visibility for non-technical founders",
-    "link": "https://news.ycombinator.com/item?id=46502385",
-    "published": "2026-01-05T18:09:58Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One dashboard for all your Git repos \u2013 no GitHub knowledge required",
-    "link": "https://news.ycombinator.com/item?id=46498661",
-    "published": "2026-01-05T13:46:07Z"
   }
 ]

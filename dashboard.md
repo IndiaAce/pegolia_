@@ -1,6 +1,10 @@
 # 🛡️ Email Security Trends – Updated 2026-01-14
 
 ## 📰 Hacker News
+- [Show HN: What shipped this week? now you can just ask](https://news.ycombinator.com/item?id=46614884) — 2026-01-14T11:35
+- [Show HN: AI second brain without headaches](https://www.remio.ai) — 2026-01-14T10:16
+- [Show HN: Visibility and Controls for Browser Agents (ContextFort YC S25)](https://contextfort.ai/) — 2026-01-14T09:22
+- [Show HN: Abuse Signals API – deterministic domain/email abuse indicators](https://github.com/ulissse/abusesignalsapi-examples) — 2026-01-14T09:03
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46607161) — 2026-01-13T20:11
 - [Gh Account Permabanned – Help?](https://news.ycombinator.com/item?id=46602838) — 2026-01-13T16:06
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46599021) — 2026-01-13T09:52
@@ -17,10 +21,6 @@
 - [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46539662) — 2026-01-08T11:07
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46524859) — 2026-01-07T10:52
 - [Continuous Rotating 4096-Bit Post-Quantum Encryption – Data Useless If Stolen](https://news.ycombinator.com/item?id=46515608) — 2026-01-06T17:40
-- [Show HN: DDL to Data – Generate realistic test data from SQL schemas](https://news.ycombinator.com/item?id=46511578) — 2026-01-06T12:47
-- [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46510984) — 2026-01-06T11:13
-- [Dev team visibility for non-technical founders](https://news.ycombinator.com/item?id=46502385) — 2026-01-05T18:09
-- [One dashboard for all your Git repos – no GitHub knowledge required](https://news.ycombinator.com/item?id=46498661) — 2026-01-05T13:46
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
