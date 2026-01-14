@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-01-13
+# 🛡️ Email Security Trends – Updated 2026-01-14
 
 ## 📰 Hacker News
+- [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46607161) — 2026-01-13T20:11
 - [Gh Account Permabanned – Help?](https://news.ycombinator.com/item?id=46602838) — 2026-01-13T16:06
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46599021) — 2026-01-13T09:52
 - [Living with LLMs Everywhere – How Ambient LLMs Negate Security Policy](https://news.ycombinator.com/item?id=46596317) — 2026-01-13T01:21
@@ -20,7 +21,6 @@
 - [Dev visibility for non-technical founders](https://news.ycombinator.com/item?id=46510984) — 2026-01-06T11:13
 - [Dev team visibility for non-technical founders](https://news.ycombinator.com/item?id=46502385) — 2026-01-05T18:09
 - [One dashboard for all your Git repos – no GitHub knowledge required](https://news.ycombinator.com/item?id=46498661) — 2026-01-05T13:46
-- [Show HN: A real-time alert system for cam models – security review welcome](https://news.ycombinator.com/item?id=46486535) — 2026-01-04T09:56
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
