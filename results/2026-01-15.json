@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Getmaapp/signal-WASM v0.1.0 \u2013 Signal Protocol for the Web",
+    "link": "https://github.com/getmaapp/signal-wasm",
+    "published": "2026-01-15T09:11:27Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: What shipped this week? now you can just ask",
     "link": "https://news.ycombinator.com/item?id=46614884",
     "published": "2026-01-14T11:35:47Z"
@@ -76,12 +82,6 @@
     "title": "Show HN: ContextFort \u2013 Visibility and controls for browser agents",
     "link": "https://contextfort.ai/",
     "published": "2026-01-14T09:22:42Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Abuse Signals API \u2013 deterministic domain/email abuse indicators",
-    "link": "https://github.com/ulissse/abusesignalsapi-examples",
-    "published": "2026-01-14T09:03:31Z"
   },
   {
     "source": "Hacker News",
