@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-14
+# 🛡️ Email Security Trends – Updated 2026-01-15
 
 ## 📰 Hacker News
 - [Show HN: What shipped this week? now you can just ask](https://news.ycombinator.com/item?id=46614884) — 2026-01-14T11:35
