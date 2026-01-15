@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Azurite \u2013 Triage Linear and GitHub issues using MCP (Deck of Cards UI)",
+    "link": "https://azurite-labs.vercel.app/",
+    "published": "2026-01-15T14:33:18Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Building dev visibility for non-technical founders and stakeholders",
+    "link": "https://news.ycombinator.com/item?id=46632693",
+    "published": "2026-01-15T14:04:53Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Getmaapp/signal-WASM v0.1.0 \u2013 Signal Protocol for the Web",
     "link": "https://github.com/getmaapp/signal-wasm",
     "published": "2026-01-15T09:11:27Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Founders can now chat with their Git history",
     "link": "https://news.ycombinator.com/item?id=46539662",
     "published": "2026-01-08T11:07:17Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Dev visibility for non-technical founders",
-    "link": "https://news.ycombinator.com/item?id=46524859",
-    "published": "2026-01-07T10:52:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Continuous Rotating 4096-Bit Post-Quantum Encryption \u2013 Data Useless If Stolen",
-    "link": "https://news.ycombinator.com/item?id=46515608",
-    "published": "2026-01-06T17:40:57Z"
   }
 ]
