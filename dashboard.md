@@ -3,7 +3,7 @@
 ## 📰 Hacker News
 - [Show HN: What shipped this week? now you can just ask](https://news.ycombinator.com/item?id=46614884) — 2026-01-14T11:35
 - [Show HN: AI second brain without headaches](https://www.remio.ai) — 2026-01-14T10:16
-- [Show HN: Visibility and Controls for Browser Agents (ContextFort YC S25)](https://contextfort.ai/) — 2026-01-14T09:22
+- [Show HN: ContextFort – Visibility and controls for browser agents](https://contextfort.ai/) — 2026-01-14T09:22
 - [Show HN: Abuse Signals API – deterministic domain/email abuse indicators](https://github.com/ulissse/abusesignalsapi-examples) — 2026-01-14T09:03
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46607161) — 2026-01-13T20:11
 - [Gh Account Permabanned – Help?](https://news.ycombinator.com/item?id=46602838) — 2026-01-13T16:06
