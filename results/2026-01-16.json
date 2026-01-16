@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Investor asks \"what did engineering ship?\"",
+    "link": "https://news.ycombinator.com/item?id=46645416",
+    "published": "2026-01-16T11:34:20Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Azurite \u2013 Triage Linear and GitHub issues using MCP (Deck of Cards UI)",
     "link": "https://azurite-labs.vercel.app/",
     "published": "2026-01-15T14:33:18Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Building this platform for CTO's/devs/founders",
     "link": "https://news.ycombinator.com/item?id=46545681",
     "published": "2026-01-08T19:59:39Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Founders can now chat with their Git history",
-    "link": "https://news.ycombinator.com/item?id=46539662",
-    "published": "2026-01-08T11:07:17Z"
   }
 ]
