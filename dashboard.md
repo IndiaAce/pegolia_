@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-16
+# 🛡️ Email Security Trends – Updated 2026-01-17
 
 ## 📰 Hacker News
 - [Show HN: Azurite – Triage Linear and GitHub issues using MCP (Deck of Cards UI)](https://azurite-labs.vercel.app/) — 2026-01-15T14:33
