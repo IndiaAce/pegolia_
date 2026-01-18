@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?",
+    "link": "https://news.ycombinator.com/item?id=46665414",
+    "published": "2026-01-18T06:53:55Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: DefendFlow Domain Security Board \u2013 live scans of popular sites",
     "link": "https://news.ycombinator.com/item?id=46663763",
     "published": "2026-01-18T00:56:33Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Remotedays \u2013 Cross-border remote work compliance for EU companies",
     "link": "https://news.ycombinator.com/item?id=46546117",
     "published": "2026-01-08T20:37:48Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Building this platform for CTO's/devs/founders",
-    "link": "https://news.ycombinator.com/item?id=46545681",
-    "published": "2026-01-08T19:59:39Z"
   }
 ]

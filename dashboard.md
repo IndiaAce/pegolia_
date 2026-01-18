@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-18
 
 ## 📰 Hacker News
+- [Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?](https://news.ycombinator.com/item?id=46665414) — 2026-01-18T06:53
 - [Show HN: DefendFlow Domain Security Board – live scans of popular sites](https://news.ycombinator.com/item?id=46663763) — 2026-01-18T00:56
 - [Zero-knowledge encrypted notepad, no account, no ads](https://news.ycombinator.com/item?id=46661664) — 2026-01-17T20:21
 - [Show HN: Building dev visibility for non-technical founders and stakeholders](https://news.ycombinator.com/item?id=46632693) — 2026-01-15T14:04
@@ -20,7 +21,6 @@
 - [How do you forecast with tiny datasets (2–15M ARR)](https://news.ycombinator.com/item?id=46561245) — 2026-01-10T00:19
 - [Show HN: The dev dashboard I built for my non-technical co-founder](https://news.ycombinator.com/item?id=46553238) — 2026-01-09T12:38
 - [Show HN: Remotedays – Cross-border remote work compliance for EU companies](https://news.ycombinator.com/item?id=46546117) — 2026-01-08T20:37
-- [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46545681) — 2026-01-08T19:59
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
