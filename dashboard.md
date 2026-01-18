@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-18
 
 ## 📰 Hacker News
+- [Show HN: DefendFlow Domain Security Board – live scans of popular sites](https://news.ycombinator.com/item?id=46663763) — 2026-01-18T00:56
 - [Zero-knowledge encrypted notepad, no account, no ads](https://news.ycombinator.com/item?id=46661664) — 2026-01-17T20:21
 - [Show HN: Building dev visibility for non-technical founders and stakeholders](https://news.ycombinator.com/item?id=46632693) — 2026-01-15T14:04
 - [Show HN: Getmaapp/signal-WASM v0.1.0 – Signal Protocol for the Web](https://github.com/getmaapp/signal-wasm) — 2026-01-15T09:11
@@ -20,7 +21,6 @@
 - [Show HN: The dev dashboard I built for my non-technical co-founder](https://news.ycombinator.com/item?id=46553238) — 2026-01-09T12:38
 - [Show HN: Remotedays – Cross-border remote work compliance for EU companies](https://news.ycombinator.com/item?id=46546117) — 2026-01-08T20:37
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46545681) — 2026-01-08T19:59
-- [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46539662) — 2026-01-08T11:07
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4

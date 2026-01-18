@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: DefendFlow Domain Security Board \u2013 live scans of popular sites",
+    "link": "https://news.ycombinator.com/item?id=46663763",
+    "published": "2026-01-18T00:56:33Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Zero-knowledge encrypted notepad, no account, no ads",
     "link": "https://news.ycombinator.com/item?id=46661664",
     "published": "2026-01-17T20:21:47Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Building this platform for CTO's/devs/founders",
     "link": "https://news.ycombinator.com/item?id=46545681",
     "published": "2026-01-08T19:59:39Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Founders can now chat with their Git history",
-    "link": "https://news.ycombinator.com/item?id=46539662",
-    "published": "2026-01-08T11:07:17Z"
   }
 ]
