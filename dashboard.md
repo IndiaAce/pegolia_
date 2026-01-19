@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-18
+# 🛡️ Email Security Trends – Updated 2026-01-19
 
 ## 📰 Hacker News
 - [Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?](https://news.ycombinator.com/item?id=46665414) — 2026-01-18T06:53
