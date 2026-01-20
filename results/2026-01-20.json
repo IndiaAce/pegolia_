@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Built Gitmore so non-technical founders can understand dev progress",
+    "link": "https://news.ycombinator.com/item?id=46690297",
+    "published": "2026-01-20T10:30:54Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Document Copy Planner \u2013 plan safe offline copies of your documents",
     "link": "https://proofpocket.com/doc-copy-planner-app",
     "published": "2026-01-19T07:55:29Z"
@@ -172,11 +178,5 @@
     "title": "How do you forecast with tiny datasets (2\u201315M ARR)",
     "link": "https://news.ycombinator.com/item?id=46561245",
     "published": "2026-01-10T00:19:31Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: The dev dashboard I built for my non-technical co-founder",
-    "link": "https://news.ycombinator.com/item?id=46553238",
-    "published": "2026-01-09T12:38:30Z"
   }
 ]

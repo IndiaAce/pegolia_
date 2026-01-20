@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-20
 
 ## 📰 Hacker News
+- [Show HN: Built Gitmore so non-technical founders can understand dev progress](https://news.ycombinator.com/item?id=46690297) — 2026-01-20T10:30
 - [Show HN: Document Copy Planner – plan safe offline copies of your documents](https://proofpocket.com/doc-copy-planner-app) — 2026-01-19T07:55
 - [Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?](https://news.ycombinator.com/item?id=46665414) — 2026-01-18T06:53
 - [Show HN: DefendFlow Domain Security Board – live scans of popular sites](https://news.ycombinator.com/item?id=46663763) — 2026-01-18T00:56
@@ -20,7 +21,6 @@
 - [Show HN: UebGuard – Email Protection to Stop Phishing Before Users Click](https://www.uebguard.com/) — 2026-01-11T12:14
 - [The Nature of Security Failure](https://news.ycombinator.com/item?id=46570345) — 2026-01-10T22:01
 - [How do you forecast with tiny datasets (2–15M ARR)](https://news.ycombinator.com/item?id=46561245) — 2026-01-10T00:19
-- [Show HN: The dev dashboard I built for my non-technical co-founder](https://news.ycombinator.com/item?id=46553238) — 2026-01-09T12:38
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
