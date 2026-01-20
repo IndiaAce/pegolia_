@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-19
+# 🛡️ Email Security Trends – Updated 2026-01-20
 
 ## 📰 Hacker News
 - [Show HN: Document Copy Planner – plan safe offline copies of your documents](https://proofpocket.com/doc-copy-planner-app) — 2026-01-19T07:55
