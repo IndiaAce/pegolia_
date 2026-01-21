@@ -1,8 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-01-21
 
 ## 📰 Hacker News
+- [LastPass Users Targeted with Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/) — 2026-01-21T17:58
 - [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46697077) — 2026-01-20T20:06
-- [Show HN: Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46692373) — 2026-01-20T14:51
 - [Show HN: Built Gitmore so non-technical founders can understand dev progress](https://news.ycombinator.com/item?id=46690297) — 2026-01-20T10:30
 - [Show HN: Document Copy Planner – plan safe offline copies of your documents](https://proofpocket.com/doc-copy-planner-app) — 2026-01-19T07:55
 - [Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?](https://news.ycombinator.com/item?id=46665414) — 2026-01-18T06:53
