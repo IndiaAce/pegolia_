@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-01-20
+# 🛡️ Email Security Trends – Updated 2026-01-21
 
 ## 📰 Hacker News
+- [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46697077) — 2026-01-20T20:06
 - [Show HN: Git analytics that works across GitHub, GitLab, and Bitbucket](https://news.ycombinator.com/item?id=46692373) — 2026-01-20T14:51
 - [Show HN: Built Gitmore so non-technical founders can understand dev progress](https://news.ycombinator.com/item?id=46690297) — 2026-01-20T10:30
 - [Show HN: Document Copy Planner – plan safe offline copies of your documents](https://proofpocket.com/doc-copy-planner-app) — 2026-01-19T07:55
@@ -20,7 +21,6 @@
 - [Show HN: GAM7 Companion – macOS app that automates Google Workspace admin](https://github.com/halcarrell/gamgui-releases) — 2026-01-12T08:13
 - [Show HN: Stewardly - tracking software, renewals, ownership, and audit context](https://usestewardly.com/) — 2026-01-11T17:31
 - [Show HN: UebGuard – Email Protection to Stop Phishing Before Users Click](https://www.uebguard.com/) — 2026-01-11T12:14
-- [The Nature of Security Failure](https://news.ycombinator.com/item?id=46570345) — 2026-01-10T22:01
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
