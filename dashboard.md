@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-21
+# 🛡️ Email Security Trends – Updated 2026-01-22
 
 ## 📰 Hacker News
 - [LastPass Users Targeted with Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/) — 2026-01-21T17:58
