@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Founders can now chat with their Git history",
+    "link": "https://news.ycombinator.com/item?id=46719553",
+    "published": "2026-01-22T14:19:14Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "LastPass Users Targeted with Backup-Themed Phishing Emails",
     "link": "https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/",
     "published": "2026-01-21T17:58:36Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Stewardly - tracking software, renewals, ownership, and audit context",
     "link": "https://usestewardly.com/",
     "published": "2026-01-11T17:31:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: UebGuard \u2013 Email Protection to Stop Phishing Before Users Click",
-    "link": "https://www.uebguard.com/",
-    "published": "2026-01-11T12:14:42Z"
   }
 ]

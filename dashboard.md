@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-22
 
 ## 📰 Hacker News
+- [Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46719553) — 2026-01-22T14:19
 - [LastPass Users Targeted with Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/) — 2026-01-21T17:58
 - [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46697077) — 2026-01-20T20:06
 - [Show HN: Built Gitmore so non-technical founders can understand dev progress](https://news.ycombinator.com/item?id=46690297) — 2026-01-20T10:30
@@ -20,7 +21,6 @@
 - [Show HN: Dev visibility for founders who don't code](https://news.ycombinator.com/item?id=46588951) — 2026-01-12T14:26
 - [Show HN: GAM7 Companion – macOS app that automates Google Workspace admin](https://github.com/halcarrell/gamgui-releases) — 2026-01-12T08:13
 - [Show HN: Stewardly - tracking software, renewals, ownership, and audit context](https://usestewardly.com/) — 2026-01-11T17:31
-- [Show HN: UebGuard – Email Protection to Stop Phishing Before Users Click](https://www.uebguard.com/) — 2026-01-11T12:14
 
 ## 📰 Proofpoint
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
