@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Ask your repos what shipped in plain English",
+    "link": "https://news.ycombinator.com/item?id=46733063",
+    "published": "2026-01-23T14:42:49Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "We got an AI agent to read a config file and email it to an external address",
     "link": "https://news.ycombinator.com/item?id=46725158",
     "published": "2026-01-22T21:09:09Z"
@@ -172,11 +178,5 @@
     "title": "Living with LLMs Everywhere \u2013 How Ambient LLMs Negate Security Policy",
     "link": "https://news.ycombinator.com/item?id=46596317",
     "published": "2026-01-13T01:21:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Dev visibility for founders who don't code",
-    "link": "https://news.ycombinator.com/item?id=46588951",
-    "published": "2026-01-12T14:26:50Z"
   }
 ]
