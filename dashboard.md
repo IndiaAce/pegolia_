@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-24
 
 ## 📰 Hacker News
+- [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645) — 2026-01-24T02:59
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46733063) — 2026-01-23T14:42
 - [We got an AI agent to read a config file and email it to an external address](https://news.ycombinator.com/item?id=46725158) — 2026-01-22T21:09
 - [Show HN: We tested AI agents with 214 attacks that don't require jailbreaking](https://news.ycombinator.com/item?id=46725025) — 2026-01-22T20:56
@@ -20,17 +21,16 @@
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46607161) — 2026-01-13T20:11
 - [Gh Account Permabanned – Help?](https://news.ycombinator.com/item?id=46602838) — 2026-01-13T16:06
 - [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46599021) — 2026-01-13T09:52
-- [Living with LLMs Everywhere – How Ambient LLMs Negate Security Policy](https://news.ycombinator.com/item?id=46596317) — 2026-01-13T01:21
 
 ## 📰 Proofpoint
+- [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
+- [CEO Outlook 2026: Sumit Dhawan](https://www.proofpoint.com/us/newsroom/news/ceo-outlook-2026-sumit-dhawan) — 13 Jan 2026 18:5
+- [Venezuela Raid Highlights Cyber Vulnerability of Critical Infrastructure](https://www.proofpoint.com/us/newsroom/news/venezuela-raid-highlights-cyber-vulnerability-critical-infrastructure) — 08 Jan 2026 19:0
+- [Agentic AI Exposes New Cybersecurity Risks for Enterprises](https://www.proofpoint.com/us/newsroom/news/agentic-ai-exposes-new-cybersecurity-risks-enterprises) — 05 Jan 2026 18:5
+- [How Hackers And Cargo Thieves Orchestrated The Great Massachusetts Lobster Heist](https://www.proofpoint.com/us/newsroom/news/how-hackers-and-cargo-thieves-orchestrated-great-massachusetts-lobster-heist) — 01 Jan 2026 19:0
+- [State-linked and criminal hackers use device code phishing against M365 users](https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users-0) — 19 Dec 2025 19:0
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
 - [State-linked and criminal hackers use device code phishing against M365 users](https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users) — 19 Dec 2025 16:4
 - [Three ways teams can tackle Iran’s tangled web of state-sponsored espionage](https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage) — 17 Dec 2025 16:5
 - [Proofpoint CEO On Closing ‘Watershed’ $1.8B Hornetsecurity Deal, IPO Plans](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-closing-watershed-18b-hornetsecurity-deal-ipo-plans) — 08 Dec 2025 16:5
-- [Proofpoint Completes Acquisition of Hornetsecurity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity) — 08 Dec 2025 09:1
-- [Yippee-ki-yay, cybercriminals!](https://www.proofpoint.com/us/newsroom/news/yippee-ki-yay-cybercriminals) — 02 Dec 2025 15:0
-- [Proofpoint Named a Leader in 2025 Gartner Magic Quadrant for Email Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-leader-2025-gartner-magic-quadrant-email-security) — 01 Dec 2025 19:4
-- [Proofpoint Appoints Chief Marketing Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-appoints-chief-marketing-officer) — 01 Dec 2025 08:0
-- [How to Stay Vigilant During End-of-Year Online Scams This Holiday Season](https://www.proofpoint.com/us/newsroom/news/how-stay-vigilant-during-end-year-online-scams-holiday-season) — 27 Nov 2025 18:2
-- [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) — 25 Nov 2025 19:4
 
