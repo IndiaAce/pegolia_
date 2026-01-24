@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-01-24
 
 ## 📰 Hacker News
+- [Show HN: Kloak – a privacy-first Discord alternative with no email or passwords](https://kloak.app/) — 2026-01-24T16:54
+- [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46743894) — 2026-01-24T14:34
 - [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645) — 2026-01-24T02:59
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46733063) — 2026-01-23T14:42
 - [We got an AI agent to read a config file and email it to an external address](https://news.ycombinator.com/item?id=46725158) — 2026-01-22T21:09
@@ -19,8 +21,6 @@
 - [Show HN: AI second brain without headaches](https://www.remio.ai) — 2026-01-14T10:16
 - [Show HN: ContextFort – Visibility and controls for browser agents](https://contextfort.ai/) — 2026-01-14T09:22
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46607161) — 2026-01-13T20:11
-- [Gh Account Permabanned – Help?](https://news.ycombinator.com/item?id=46602838) — 2026-01-13T16:06
-- [Show HN: Building this platform for CTO's/devs/founders](https://news.ycombinator.com/item?id=46599021) — 2026-01-13T09:52
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5

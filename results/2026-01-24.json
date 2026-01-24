@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Kloak \u2013 a privacy-first Discord alternative with no email or passwords",
+    "link": "https://kloak.app/",
+    "published": "2026-01-24T16:54:51Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Ask your repos what shipped in plain English",
+    "link": "https://news.ycombinator.com/item?id=46743894",
+    "published": "2026-01-24T14:34:16Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: How are you enforcing permissions for AI agent tool calls in production?",
     "link": "https://news.ycombinator.com/item?id=46740645",
     "published": "2026-01-24T02:59:42Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Ask your repos what shipped in plain English",
     "link": "https://news.ycombinator.com/item?id=46607161",
     "published": "2026-01-13T20:11:26Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Gh Account Permabanned \u2013 Help?",
-    "link": "https://news.ycombinator.com/item?id=46602838",
-    "published": "2026-01-13T16:06:07Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Building this platform for CTO's/devs/founders",
-    "link": "https://news.ycombinator.com/item?id=46599021",
-    "published": "2026-01-13T09:52:36Z"
   }
 ]
