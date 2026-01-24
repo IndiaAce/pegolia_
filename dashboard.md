@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-23
+# 🛡️ Email Security Trends – Updated 2026-01-24
 
 ## 📰 Hacker News
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46733063) — 2026-01-23T14:42
