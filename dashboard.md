@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-24
+# 🛡️ Email Security Trends – Updated 2026-01-25
 
 ## 📰 Hacker News
 - [Show HN: Kloak – a privacy-first Discord alternative with no email or passwords](https://kloak.app/) — 2026-01-24T16:54
