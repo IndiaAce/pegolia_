@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-01-25
+# 🛡️ Email Security Trends – Updated 2026-01-26
 
 ## 📰 Hacker News
+- [Show HN: Sentinel – Zero-trust governance for AI Agents](https://github.com/azdhril/Sentinel) — 2026-01-25T21:19
 - [Show HN: Kloak – a privacy-first Discord alternative with no email or passwords](https://kloak.app/) — 2026-01-24T16:54
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46743894) — 2026-01-24T14:34
 - [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645) — 2026-01-24T02:59
@@ -20,7 +21,6 @@
 - [Show HN: What shipped this week? now you can just ask](https://news.ycombinator.com/item?id=46614884) — 2026-01-14T11:35
 - [Show HN: AI second brain without headaches](https://www.remio.ai) — 2026-01-14T10:16
 - [Show HN: ContextFort – Visibility and controls for browser agents](https://contextfort.ai/) — 2026-01-14T09:22
-- [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46607161) — 2026-01-13T20:11
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
