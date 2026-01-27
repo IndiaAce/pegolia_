@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-26
+# 🛡️ Email Security Trends – Updated 2026-01-27
 
 ## 📰 Hacker News
 - [Show HN: Sentinel – Zero-trust governance for AI Agents](https://github.com/azdhril/Sentinel) — 2026-01-25T21:19
