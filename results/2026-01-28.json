@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I built a loyalty card app that doesn't track you or require Google",
+    "link": "https://cardaris.app",
+    "published": "2026-01-28T14:19:51Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Sentinel \u2013 Zero-trust governance for AI Agents",
     "link": "https://github.com/azdhril/Sentinel",
     "published": "2026-01-25T21:19:16Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: AI second brain without headaches",
     "link": "https://www.remio.ai",
     "published": "2026-01-14T10:16:45Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: ContextFort \u2013 Visibility and controls for browser agents",
-    "link": "https://contextfort.ai/",
-    "published": "2026-01-14T09:22:42Z"
   }
 ]
