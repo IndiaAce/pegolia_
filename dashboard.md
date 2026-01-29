@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-28
+# 🛡️ Email Security Trends – Updated 2026-01-29
 
 ## 📰 Hacker News
 - [Show HN: I built a loyalty card app that doesn't track you or require Google](https://cardaris.app) — 2026-01-28T14:19
