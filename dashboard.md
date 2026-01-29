@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-01-29
 
 ## 📰 Hacker News
+- [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2026-01-29T17:39
+- [Show HN: Hyperterse – a super fast runtime to connect your data to your agents](https://github.com/hyperterse/hyperterse) — 2026-01-29T16:24
 - [Show HN: I built a loyalty card app that doesn't track you or require Google](https://cardaris.app) — 2026-01-28T14:19
 - [Show HN: Sentinel – Zero-trust governance for AI Agents](https://github.com/azdhril/Sentinel) — 2026-01-25T21:19
 - [Show HN: Kloak – a privacy-first Discord alternative with no email or passwords](https://kloak.app/) — 2026-01-24T16:54
@@ -19,8 +21,6 @@
 - [Zero-knowledge encrypted notepad, no account, no ads](https://news.ycombinator.com/item?id=46661664) — 2026-01-17T20:21
 - [Show HN: Building dev visibility for non-technical founders and stakeholders](https://news.ycombinator.com/item?id=46632693) — 2026-01-15T14:04
 - [Show HN: Getmaapp/signal-WASM v0.1.0 – Signal Protocol for the Web](https://github.com/getmaapp/signal-wasm) — 2026-01-15T09:11
-- [Show HN: What shipped this week? now you can just ask](https://news.ycombinator.com/item?id=46614884) — 2026-01-14T11:35
-- [Show HN: AI second brain without headaches](https://www.remio.ai) — 2026-01-14T10:16
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
