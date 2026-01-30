@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-29
+# 🛡️ Email Security Trends – Updated 2026-01-30
 
 ## 📰 Hacker News
 - [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2026-01-29T17:39
