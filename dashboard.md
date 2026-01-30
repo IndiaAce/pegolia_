@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-01-30
 
 ## 📰 Hacker News
+- [Show HN: I made a dev tool that helps vibecoders to AVOID security issues](https://vibeshield.tech/) — 2026-01-30T04:58
 - [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2026-01-29T17:39
 - [Show HN: Hyperterse – a super fast runtime to connect your data to your agents](https://github.com/hyperterse/hyperterse) — 2026-01-29T16:24
 - [Show HN: I built a loyalty card app that doesn't track you or require Google](https://cardaris.app) — 2026-01-28T14:19
@@ -20,7 +21,6 @@
 - [Show HN: DefendFlow Domain Security Board – live scans of popular sites](https://news.ycombinator.com/item?id=46663763) — 2026-01-18T00:56
 - [Zero-knowledge encrypted notepad, no account, no ads](https://news.ycombinator.com/item?id=46661664) — 2026-01-17T20:21
 - [Show HN: Building dev visibility for non-technical founders and stakeholders](https://news.ycombinator.com/item?id=46632693) — 2026-01-15T14:04
-- [Show HN: Getmaapp/signal-WASM v0.1.0 – Signal Protocol for the Web](https://github.com/getmaapp/signal-wasm) — 2026-01-15T09:11
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
