@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: UCPtools \u2013 Check if AI shopping agents can find your store",
+    "link": "https://ucptools.dev",
+    "published": "2026-02-01T11:58:09Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: I made a dev tool that helps vibecoders to AVOID security issues",
     "link": "https://vibeshield.tech/",
     "published": "2026-01-30T04:58:43Z"
@@ -172,11 +178,5 @@
     "title": "Zero-knowledge encrypted notepad, no account, no ads",
     "link": "https://news.ycombinator.com/item?id=46661664",
     "published": "2026-01-17T20:21:47Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Building dev visibility for non-technical founders and stakeholders",
-    "link": "https://news.ycombinator.com/item?id=46632693",
-    "published": "2026-01-15T14:04:53Z"
   }
 ]

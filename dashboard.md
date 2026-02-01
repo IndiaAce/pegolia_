@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-01
 
 ## 📰 Hacker News
+- [Show HN: UCPtools – Check if AI shopping agents can find your store](https://ucptools.dev) — 2026-02-01T11:58
 - [Show HN: I made a dev tool that helps vibecoders to AVOID security issues](https://vibeshield.tech/) — 2026-01-30T04:58
 - [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2026-01-29T17:39
 - [Show HN: Hyperterse – a super fast runtime to connect your data to your agents](https://github.com/hyperterse/hyperterse) — 2026-01-29T16:24
@@ -20,7 +21,6 @@
 - [Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?](https://news.ycombinator.com/item?id=46665414) — 2026-01-18T06:53
 - [Show HN: DefendFlow Domain Security Board – live scans of popular sites](https://news.ycombinator.com/item?id=46663763) — 2026-01-18T00:56
 - [Zero-knowledge encrypted notepad, no account, no ads](https://news.ycombinator.com/item?id=46661664) — 2026-01-17T20:21
-- [Show HN: Building dev visibility for non-technical founders and stakeholders](https://news.ycombinator.com/item?id=46632693) — 2026-01-15T14:04
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
