@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-01-31
+# 🛡️ Email Security Trends – Updated 2026-02-01
 
 ## 📰 Hacker News
 - [Show HN: I made a dev tool that helps vibecoders to AVOID security issues](https://vibeshield.tech/) — 2026-01-30T04:58
