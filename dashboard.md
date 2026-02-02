@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-01
+# 🛡️ Email Security Trends – Updated 2026-02-02
 
 ## 📰 Hacker News
 - [Show HN: UCPtools – Check if AI shopping agents can find your store](https://ucptools.dev) — 2026-02-01T11:58
