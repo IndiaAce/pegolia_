@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Sidebrain \u2013 Cloud AI assistant with persistent memory (web+Telegram)",
+    "link": "https://sidebra.in/",
+    "published": "2026-02-03T14:02:40Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: ClawGuardian \u2013 Security Plugin for OpenClaw",
     "link": "https://github.com/superglue-ai/clawguardian",
     "published": "2026-02-02T19:35:25Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?",
     "link": "https://news.ycombinator.com/item?id=46665414",
     "published": "2026-01-18T06:53:55Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: DefendFlow Domain Security Board \u2013 live scans of popular sites",
-    "link": "https://news.ycombinator.com/item?id=46663763",
-    "published": "2026-01-18T00:56:33Z"
   }
 ]
