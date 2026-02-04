@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email",
+    "link": "https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email",
+    "published": "2026-02-04T02:04:48Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Sidebrain \u2013 Cloud AI assistant with persistent memory (web+Telegram)",
     "link": "https://sidebra.in/",
     "published": "2026-02-03T14:02:40Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Document Copy Planner \u2013 plan safe offline copies of your documents",
     "link": "https://proofpocket.com/doc-copy-planner-app",
     "published": "2026-01-19T07:55:29Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?",
-    "link": "https://news.ycombinator.com/item?id=46665414",
-    "published": "2026-01-18T06:53:55Z"
   }
 ]

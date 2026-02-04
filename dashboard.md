@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-04
 
 ## 📰 Hacker News
+- [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
 - [Show HN: Sidebrain – Cloud AI assistant with persistent memory (web+Telegram)](https://sidebra.in/) — 2026-02-03T14:02
 - [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
 - [Show HN: UCPtools – Check if AI shopping agents can find your store](https://ucptools.dev) — 2026-02-01T11:58
@@ -20,7 +21,6 @@
 - [Show HN: Founders can now chat with their Git history](https://news.ycombinator.com/item?id=46697077) — 2026-01-20T20:06
 - [Show HN: Built Gitmore so non-technical founders can understand dev progress](https://news.ycombinator.com/item?id=46690297) — 2026-01-20T10:30
 - [Show HN: Document Copy Planner – plan safe offline copies of your documents](https://proofpocket.com/doc-copy-planner-app) — 2026-01-19T07:55
-- [Ask HN: Why is Google tolerating impersonation of Gmail from it's own domain?](https://news.ycombinator.com/item?id=46665414) — 2026-01-18T06:53
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
