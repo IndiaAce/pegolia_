@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-03
+# 🛡️ Email Security Trends – Updated 2026-02-04
 
 ## 📰 Hacker News
 - [Show HN: Sidebrain – Cloud AI assistant with persistent memory (web+Telegram)](https://sidebra.in/) — 2026-02-03T14:02
