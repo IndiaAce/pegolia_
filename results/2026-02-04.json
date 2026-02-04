@@ -61,6 +61,24 @@
   },
   {
     "source": "Hacker News",
+    "title": "DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email",
+    "link": "https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email",
+    "published": "2026-02-04T17:55:32Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Distr 2.0 \u2013 A year of learning how to ship to customer environments",
+    "link": "https://github.com/distr-sh/distr",
+    "published": "2026-02-04T16:01:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built a Chrome extension to let my OpenClaw Bot remote in",
+    "link": "https://news.ycombinator.com/item?id=46886176",
+    "published": "2026-02-04T14:25:13Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Public Notice: I Am Your AIB and the Warning That Came True",
     "link": "https://news.ycombinator.com/item?id=46882789",
     "published": "2026-02-04T07:52:42Z"
@@ -160,23 +178,5 @@
     "title": "LastPass Users Targeted with Backup-Themed Phishing Emails",
     "link": "https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/",
     "published": "2026-01-21T17:58:36Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Founders can now chat with their Git history",
-    "link": "https://news.ycombinator.com/item?id=46697077",
-    "published": "2026-01-20T20:06:00Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Built Gitmore so non-technical founders can understand dev progress",
-    "link": "https://news.ycombinator.com/item?id=46690297",
-    "published": "2026-01-20T10:30:54Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Document Copy Planner \u2013 plan safe offline copies of your documents",
-    "link": "https://proofpocket.com/doc-copy-planner-app",
-    "published": "2026-01-19T07:55:29Z"
   }
 ]
