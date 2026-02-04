@@ -1,8 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-02-04
 
 ## 📰 Hacker News
+- [Public Notice: I Am Your AIB and the Warning That Came True](https://news.ycombinator.com/item?id=46882789) — 2026-02-04T07:52
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
-- [Show HN: Sidebrain – Cloud AI assistant with persistent memory (web+Telegram)](https://sidebra.in/) — 2026-02-03T14:02
 - [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
 - [Show HN: UCPtools – Check if AI shopping agents can find your store](https://ucptools.dev) — 2026-02-01T11:58
 - [Show HN: I made a dev tool that helps vibecoders to AVOID security issues](https://vibeshield.tech/) — 2026-01-30T04:58
