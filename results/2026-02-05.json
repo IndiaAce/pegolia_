@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes",
+    "link": "https://getrelay.sh/",
+    "published": "2026-02-05T16:58:05Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "I Built a Claude Code Plugin That Detects and Blocks It Before Changes Happen",
     "link": "https://news.ycombinator.com/item?id=46897408",
     "published": "2026-02-05T08:56:25Z"
@@ -172,11 +178,5 @@
     "title": "We got an AI agent to read a config file and email it to an external address",
     "link": "https://news.ycombinator.com/item?id=46725158",
     "published": "2026-01-22T21:09:09Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: We tested AI agents with 214 attacks that don't require jailbreaking",
-    "link": "https://news.ycombinator.com/item?id=46725025",
-    "published": "2026-01-22T20:56:17Z"
   }
 ]
