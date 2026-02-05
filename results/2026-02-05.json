@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "I Built a Claude Code Plugin That Detects and Blocks It Before Changes Happen",
+    "link": "https://news.ycombinator.com/item?id=46897408",
+    "published": "2026-02-05T08:56:25Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Viberails \u2013 Easy AI Audit and Control",
     "link": "https://www.viberails.io/",
     "published": "2026-02-04T19:16:02Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: We tested AI agents with 214 attacks that don't require jailbreaking",
     "link": "https://news.ycombinator.com/item?id=46725025",
     "published": "2026-01-22T20:56:17Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Founders can now chat with their Git history",
-    "link": "https://news.ycombinator.com/item?id=46719553",
-    "published": "2026-01-22T14:19:14Z"
   }
 ]
