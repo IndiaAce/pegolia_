@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-05
+# 🛡️ Email Security Trends – Updated 2026-02-06
 
 ## 📰 Hacker News
 - [Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes](https://getrelay.sh/) — 2026-02-05T16:58
