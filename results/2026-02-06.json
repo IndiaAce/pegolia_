@@ -91,6 +91,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I built a Chrome extension to let my OpenClaw Bot remote in",
+    "link": "https://news.ycombinator.com/item?id=46886176",
+    "published": "2026-02-04T14:25:13Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Public Notice: I Am Your AIB and the Warning That Came True",
     "link": "https://news.ycombinator.com/item?id=46882789",
     "published": "2026-02-04T07:52:42Z"
@@ -172,11 +178,5 @@
     "title": "We got an AI agent to read a config file and email it to an external address",
     "link": "https://news.ycombinator.com/item?id=46725158",
     "published": "2026-01-22T21:09:09Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: We tested AI agents with 214 attacks that don't require jailbreaking",
-    "link": "https://news.ycombinator.com/item?id=46725025",
-    "published": "2026-01-22T20:56:17Z"
   }
 ]
