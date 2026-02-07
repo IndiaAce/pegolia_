@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Non-profit, volunteers run org needs CRM. Is Odoo Community a good sol.?",
+    "link": "https://news.ycombinator.com/item?id=46920322",
+    "published": "2026-02-07T01:17:41Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Flickr discloses potential data breach exposing users' names, emails",
     "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
     "published": "2026-02-06T18:13:57Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: How are you enforcing permissions for AI agent tool calls in production?",
     "link": "https://news.ycombinator.com/item?id=46740645",
     "published": "2026-01-24T02:59:42Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Ask your repos what shipped in plain English",
-    "link": "https://news.ycombinator.com/item?id=46733063",
-    "published": "2026-01-23T14:42:49Z"
   }
 ]
