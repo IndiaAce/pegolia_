@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-02-06
+# 🛡️ Email Security Trends – Updated 2026-02-07
 
 ## 📰 Hacker News
+- [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/) — 2026-02-06T18:13
 - [Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes](https://getrelay.sh/) — 2026-02-05T16:58
 - [I Built a Claude Code Plugin That Detects and Blocks It Before Changes Happen](https://news.ycombinator.com/item?id=46897408) — 2026-02-05T08:56
 - [Show HN: Viberails – Easy AI Audit and Control](https://www.viberails.io/) — 2026-02-04T19:16
@@ -20,7 +21,6 @@
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46743894) — 2026-01-24T14:34
 - [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645) — 2026-01-24T02:59
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46733063) — 2026-01-23T14:42
-- [We got an AI agent to read a config file and email it to an external address](https://news.ycombinator.com/item?id=46725158) — 2026-01-22T21:09
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
