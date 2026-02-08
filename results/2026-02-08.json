@@ -103,12 +103,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: I built a Chrome extension to let my OpenClaw Bot remote in",
-    "link": "https://news.ycombinator.com/item?id=46886176",
-    "published": "2026-02-04T14:25:13Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Public Notice: I Am Your AIB and the Warning That Came True",
     "link": "https://news.ycombinator.com/item?id=46882789",
     "published": "2026-02-04T07:52:42Z"
@@ -178,5 +172,11 @@
     "title": "Ask HN: How are you enforcing permissions for AI agent tool calls in production?",
     "link": "https://news.ycombinator.com/item?id=46740645",
     "published": "2026-01-24T02:59:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Ask your repos what shipped in plain English",
+    "link": "https://news.ycombinator.com/item?id=46733063",
+    "published": "2026-01-23T14:42:49Z"
   }
 ]

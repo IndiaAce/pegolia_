@@ -8,7 +8,6 @@
 - [Show HN: Viberails – Easy AI Audit and Control](https://www.viberails.io/) — 2026-02-04T19:16
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T17:55
 - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-04T16:01
-- [Show HN: I built a Chrome extension to let my OpenClaw Bot remote in](https://news.ycombinator.com/item?id=46886176) — 2026-02-04T14:25
 - [Public Notice: I Am Your AIB and the Warning That Came True](https://news.ycombinator.com/item?id=46882789) — 2026-02-04T07:52
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
 - [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
@@ -21,6 +20,7 @@
 - [Show HN: Kloak – a privacy-first Discord alternative with no email or passwords](https://kloak.app/) — 2026-01-24T16:54
 - [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46743894) — 2026-01-24T14:34
 - [Ask HN: How are you enforcing permissions for AI agent tool calls in production?](https://news.ycombinator.com/item?id=46740645) — 2026-01-24T02:59
+- [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46733063) — 2026-01-23T14:42
 
 ## 📰 Proofpoint
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
