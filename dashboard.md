@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-08
+# 🛡️ Email Security Trends – Updated 2026-02-09
 
 ## 📰 Hacker News
 - [Ask HN: Non-profit, volunteers run org needs CRM. Is Odoo Community a good sol.?](https://news.ycombinator.com/item?id=46920322) — 2026-02-07T01:17
