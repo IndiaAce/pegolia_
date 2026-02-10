@@ -1,8 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-02-10
 
 ## 📰 Hacker News
+- [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-10T12:19
 - [Show HN: Airut – Sandboxed Claude Code sessions over email](https://github.com/airutorg/airut) — 2026-02-09T17:04
-- [Show HN: Claude-Pipe – A 1k LOC Bridge from Claude Code to Telegram/Discord](https://github.com/georgi/claude-pipe) — 2026-02-09T13:12
 - [Ask HN: Non-profit, volunteers run org needs CRM. Is Odoo Community a good sol.?](https://news.ycombinator.com/item?id=46920322) — 2026-02-07T01:17
 - [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/) — 2026-02-06T18:13
 - [Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes](https://getrelay.sh/) — 2026-02-05T16:58
