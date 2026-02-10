@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-09
+# 🛡️ Email Security Trends – Updated 2026-02-10
 
 ## 📰 Hacker News
 - [Show HN: Airut – Sandboxed Claude Code sessions over email](https://github.com/airutorg/airut) — 2026-02-09T17:04
