@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-02-10
+# 🛡️ Email Security Trends – Updated 2026-02-11
 
 ## 📰 Hacker News
+- [A new modular security and system‑monitoring suite (feedback welcome)](https://news.ycombinator.com/item?id=46968325) — 2026-02-10T23:08
 - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-10T12:19
 - [Show HN: Airut – Sandboxed Claude Code sessions over email](https://github.com/airutorg/airut) — 2026-02-09T17:04
 - [Ask HN: Non-profit, volunteers run org needs CRM. Is Odoo Community a good sol.?](https://news.ycombinator.com/item?id=46920322) — 2026-02-07T01:17
@@ -10,6 +11,7 @@
 - [Show HN: Viberails – Easy AI Audit and Control](https://www.viberails.io/) — 2026-02-04T19:16
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T17:55
 - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-04T16:01
+- [Show HN: I built a Chrome extension to let my OpenClaw Bot remote in](https://news.ycombinator.com/item?id=46886176) — 2026-02-04T14:25
 - [Public Notice: I Am Your AIB and the Warning That Came True](https://news.ycombinator.com/item?id=46882789) — 2026-02-04T07:52
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
 - [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
@@ -19,10 +21,10 @@
 - [Show HN: Hyperterse – a super fast runtime to connect your data to your agents](https://github.com/hyperterse/hyperterse) — 2026-01-29T16:24
 - [Show HN: I built a loyalty card app that doesn't track you or require Google](https://cardaris.app) — 2026-01-28T14:19
 - [Show HN: Sentinel – Zero-trust governance for AI Agents](https://github.com/azdhril/Sentinel) — 2026-01-25T21:19
-- [Show HN: Kloak – a privacy-first Discord alternative with no email or passwords](https://kloak.app/) — 2026-01-24T16:54
-- [Show HN: Ask your repos what shipped in plain English](https://news.ycombinator.com/item?id=46743894) — 2026-01-24T14:34
 
 ## 📰 Proofpoint
+- [Hackers Recruit Unhappy Insiders to Bypass Data Security](https://www.proofpoint.com/us/newsroom/news/hackers-recruit-unhappy-insiders-bypass-data-security) — 02 Feb 2026 16:0
+- [TA584 threat actor leverages Tsundere Bot and XWorm for network access](https://www.proofpoint.com/us/newsroom/news/ta584-threat-actor-leverages-tsundere-bot-and-xworm-network-access) — 29 Jan 2026 16:0
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
 - [CEO Outlook 2026: Sumit Dhawan](https://www.proofpoint.com/us/newsroom/news/ceo-outlook-2026-sumit-dhawan) — 13 Jan 2026 18:5
 - [Venezuela Raid Highlights Cyber Vulnerability of Critical Infrastructure](https://www.proofpoint.com/us/newsroom/news/venezuela-raid-highlights-cyber-vulnerability-critical-infrastructure) — 08 Jan 2026 19:0
@@ -31,6 +33,4 @@
 - [State-linked and criminal hackers use device code phishing against M365 users](https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users-0) — 19 Dec 2025 19:0
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
 - [State-linked and criminal hackers use device code phishing against M365 users](https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users) — 19 Dec 2025 16:4
-- [Three ways teams can tackle Iran’s tangled web of state-sponsored espionage](https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage) — 17 Dec 2025 16:5
-- [Proofpoint CEO On Closing ‘Watershed’ $1.8B Hornetsecurity Deal, IPO Plans](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-closing-watershed-18b-hornetsecurity-deal-ipo-plans) — 08 Dec 2025 16:5
 
