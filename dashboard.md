@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-12
 
 ## 📰 Hacker News
+- [Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven](https://raxit.ai/assessment) — 2026-02-12T03:38
 - [Show HN: I built simple browser tools bcoz I'm tired of everything becoming SaaS](https://bitlist.io/) — 2026-02-11T16:17
 - [Show HN: I built an AI executive assistant you use through iMessage](https://getattache.com/) — 2026-02-11T16:09
 - [Divexa: The High-Tech Architecture of a 'Pig Butchering' Scam](https://news.ycombinator.com/item?id=46974046) — 2026-02-11T12:22
@@ -20,7 +21,6 @@
 - [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
 - [Show HN: UCPtools – Check if AI shopping agents can find your store](https://ucptools.dev) — 2026-02-01T11:58
 - [Show HN: I made a dev tool that helps vibecoders to AVOID security issues](https://vibeshield.tech/) — 2026-01-30T04:58
-- [Email Security: Where We Are and What the Future Holds](https://www.privacyguides.org/articles/2025/11/15/email-security/) — 2026-01-29T17:39
 
 ## 📰 Proofpoint
 - [Hackers Recruit Unhappy Insiders to Bypass Data Security](https://www.proofpoint.com/us/newsroom/news/hackers-recruit-unhappy-insiders-bypass-data-security) — 02 Feb 2026 16:0
