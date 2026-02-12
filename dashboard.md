@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-11
+# 🛡️ Email Security Trends – Updated 2026-02-12
 
 ## 📰 Hacker News
 - [Show HN: I built simple browser tools bcoz I'm tired of everything becoming SaaS](https://bitlist.io/) — 2026-02-11T16:17
