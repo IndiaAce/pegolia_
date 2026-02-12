@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across",
+    "published": "12 Feb 2026 07:16:45"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Hackers Recruit Unhappy Insiders to Bypass Data Security",
     "link": "https://www.proofpoint.com/us/newsroom/news/hackers-recruit-unhappy-insiders-bypass-data-security",
     "published": "02 Feb 2026 16:03:03"
@@ -54,10 +60,16 @@
     "published": "19 Dec 2025 16:49:21"
   },
   {
-    "source": "Proofpoint",
-    "title": "State-linked and criminal hackers use device code phishing against M365 users",
-    "link": "https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users",
-    "published": "19 Dec 2025 16:47:57"
+    "source": "Hacker News",
+    "title": "Camera based true random number generator Beta",
+    "link": "https://news.ycombinator.com/item?id=46988432",
+    "published": "2026-02-12T13:13:02Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Mail Server Builder \u2013 Deploy a Full Mail Server on Ubuntu from Windows",
+    "link": "https://buy-source-code.com/apps/mail-server-builder/",
+    "published": "2026-02-12T12:25:58Z"
   },
   {
     "source": "Hacker News",
@@ -76,12 +88,6 @@
     "title": "Show HN: I built an AI executive assistant you use through iMessage",
     "link": "https://getattache.com/",
     "published": "2026-02-11T16:09:05Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Divexa: The High-Tech Architecture of a 'Pig Butchering' Scam",
-    "link": "https://news.ycombinator.com/item?id=46974046",
-    "published": "2026-02-11T12:22:53Z"
   },
   {
     "source": "Hacker News",
@@ -142,12 +148,6 @@
     "title": "Show HN: Distr 2.0 \u2013 A year of learning how to ship to customer environments",
     "link": "https://github.com/distr-sh/distr",
     "published": "2026-02-04T16:01:46Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a Chrome extension to let my OpenClaw Bot remote in",
-    "link": "https://news.ycombinator.com/item?id=46886176",
-    "published": "2026-02-04T14:25:13Z"
   },
   {
     "source": "Hacker News",
