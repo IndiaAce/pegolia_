@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-13
 
 ## 📰 Hacker News
+- [Moltis: Rust based AI assistant with memory, tools, and self-extending skills](https://www.moltis.org) — 2026-02-12T19:15
 - [Camera based true random number generator Beta](https://news.ycombinator.com/item?id=46988432) — 2026-02-12T13:13
 - [Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows](https://buy-source-code.com/apps/mail-server-builder/) — 2026-02-12T12:25
 - [Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven](https://raxit.ai/assessment) — 2026-02-12T03:38
@@ -20,7 +21,6 @@
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
 - [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
 - [Show HN: UCPtools – Check if AI shopping agents can find your store](https://ucptools.dev) — 2026-02-01T11:58
-- [Show HN: I made a dev tool that helps vibecoders to AVOID security issues](https://vibeshield.tech/) — 2026-01-30T04:58
 
 ## 📰 Proofpoint
 - [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1

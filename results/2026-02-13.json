@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Moltis: Rust based AI assistant with memory, tools, and self-extending skills",
+    "link": "https://www.moltis.org",
+    "published": "2026-02-12T19:15:21Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Camera based true random number generator Beta",
     "link": "https://news.ycombinator.com/item?id=46988432",
     "published": "2026-02-12T13:13:02Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: UCPtools \u2013 Check if AI shopping agents can find your store",
     "link": "https://ucptools.dev",
     "published": "2026-02-01T11:58:09Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I made a dev tool that helps vibecoders to AVOID security issues",
-    "link": "https://vibeshield.tech/",
-    "published": "2026-01-30T04:58:43Z"
   }
 ]
