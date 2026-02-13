@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-12
+# 🛡️ Email Security Trends – Updated 2026-02-13
 
 ## 📰 Hacker News
 - [Camera based true random number generator Beta](https://news.ycombinator.com/item?id=46988432) — 2026-02-12T13:13
