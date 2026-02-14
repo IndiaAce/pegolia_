@@ -1,8 +1,9 @@
-# 🛡️ Email Security Trends – Updated 2026-02-13
+# 🛡️ Email Security Trends – Updated 2026-02-14
 
 ## 📰 Hacker News
+- [Show HN: Kintsugi – A desktop app for reviewing Claude Code sessions](https://events.sonarsource.com/kintsugi/) — 2026-02-13T18:54
 - [Closed –> Traced –> Closed: Did a Tech Giant Panic over an HTTP/2 200 OK Bypass?](https://news.ycombinator.com/item?id=47000551) — 2026-02-13T08:56
-- [Moltis: Rust based AI assistant with memory, tools, and self-extending skills](https://www.moltis.org) — 2026-02-12T19:15
+- [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org) — 2026-02-12T19:15
 - [Camera based true random number generator Beta](https://news.ycombinator.com/item?id=46988432) — 2026-02-12T13:13
 - [Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows](https://buy-source-code.com/apps/mail-server-builder/) — 2026-02-12T12:25
 - [Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven](https://raxit.ai/assessment) — 2026-02-12T03:38
@@ -20,7 +21,6 @@
 - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-04T16:01
 - [Public Notice: I Am Your AIB and the Warning That Came True](https://news.ycombinator.com/item?id=46882789) — 2026-02-04T07:52
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
-- [Show HN: ClawGuardian – Security Plugin for OpenClaw](https://github.com/superglue-ai/clawguardian) — 2026-02-02T19:35
 
 ## 📰 Proofpoint
 - [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1
