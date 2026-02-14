@@ -23,6 +23,8 @@
 - [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T02:04
 
 ## 📰 Proofpoint
+- [Proofpoint Expands AI Security Offerings With Acuvity Acquisition](https://www.proofpoint.com/us/newsroom/news/proofpoint-expands-ai-security-offerings-acuvity-acquisition) — 12 Feb 2026 16:2
+- [Proofpoint acquires Acuvity to tackle the security risks of agentic AI](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquires-acuvity-tackle-security-risks-agentic-ai) — 12 Feb 2026 16:1
 - [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1
 - [Hackers Recruit Unhappy Insiders to Bypass Data Security](https://www.proofpoint.com/us/newsroom/news/hackers-recruit-unhappy-insiders-bypass-data-security) — 02 Feb 2026 16:0
 - [TA584 threat actor leverages Tsundere Bot and XWorm for network access](https://www.proofpoint.com/us/newsroom/news/ta584-threat-actor-leverages-tsundere-bot-and-xworm-network-access) — 29 Jan 2026 16:0
@@ -31,6 +33,4 @@
 - [Venezuela Raid Highlights Cyber Vulnerability of Critical Infrastructure](https://www.proofpoint.com/us/newsroom/news/venezuela-raid-highlights-cyber-vulnerability-critical-infrastructure) — 08 Jan 2026 19:0
 - [Agentic AI Exposes New Cybersecurity Risks for Enterprises](https://www.proofpoint.com/us/newsroom/news/agentic-ai-exposes-new-cybersecurity-risks-enterprises) — 05 Jan 2026 18:5
 - [How Hackers And Cargo Thieves Orchestrated The Great Massachusetts Lobster Heist](https://www.proofpoint.com/us/newsroom/news/how-hackers-and-cargo-thieves-orchestrated-great-massachusetts-lobster-heist) — 01 Jan 2026 19:0
-- [State-linked and criminal hackers use device code phishing against M365 users](https://www.proofpoint.com/us/newsroom/news/state-linked-and-criminal-hackers-use-device-code-phishing-against-m365-users-0) — 19 Dec 2025 19:0
-- [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.proofpoint.com/us/newsroom/news/microsoft-365-accounts-targeted-wave-oauth-phishing-attacks) — 19 Dec 2025 16:4
 
