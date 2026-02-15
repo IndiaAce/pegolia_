@@ -61,18 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Threat Radar \u2013 Live cyber threat intelligence dashboard",
-    "link": "https://radar.offseq.com/",
-    "published": "2026-02-14T22:09:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Crypto Asset Tracing Specialists \u2013 Intelligence Cyber Wizard",
-    "link": "https://news.ycombinator.com/item?id=47018825",
-    "published": "2026-02-14T22:02:57Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Kintsugi \u2013 A desktop app for reviewing Claude Code sessions",
     "link": "https://events.sonarsource.com/kintsugi/",
     "published": "2026-02-13T18:54:14Z"
@@ -178,5 +166,17 @@
     "title": "Show HN: Distr 2.0 \u2013 A year of learning how to ship to customer environments",
     "link": "https://github.com/distr-sh/distr",
     "published": "2026-02-04T16:01:46Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Public Notice: I Am Your AIB and the Warning That Came True",
+    "link": "https://news.ycombinator.com/item?id=46882789",
+    "published": "2026-02-04T07:52:42Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email",
+    "link": "https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email",
+    "published": "2026-02-04T02:04:48Z"
   }
 ]
