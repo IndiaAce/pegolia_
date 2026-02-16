@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-15
+# 🛡️ Email Security Trends – Updated 2026-02-16
 
 ## 📰 Hacker News
 - [Show HN: Kintsugi – A desktop app for reviewing Claude Code sessions](https://events.sonarsource.com/kintsugi/) — 2026-02-13T18:54
