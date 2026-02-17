@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: AIP \u2013 An open protocol for verifying what AI agents are allowed to do",
+    "link": "https://github.com/theaniketgiri/aip",
+    "published": "2026-02-17T17:29:17Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Piggzy \u2013 Turn your inbox into a universal 'Buy' button",
     "link": "https://www.piggzy.com",
     "published": "2026-02-17T03:10:59Z"
@@ -172,11 +178,5 @@
     "title": "DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email",
     "link": "https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email",
     "published": "2026-02-04T17:55:32Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Distr 2.0 \u2013 A year of learning how to ship to customer environments",
-    "link": "https://github.com/distr-sh/distr",
-    "published": "2026-02-04T16:01:46Z"
   }
 ]
