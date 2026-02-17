@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-16
+# 🛡️ Email Security Trends – Updated 2026-02-17
 
 ## 📰 Hacker News
 - [Show HN: Gulama – Security-first open-source AI agent (OpenClaw alternative)](https://github.com/san-techie21/gulama-bot) — 2026-02-16T07:27
