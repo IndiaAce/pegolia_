@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Piggzy \u2013 Turn your inbox into a universal 'Buy' button",
+    "link": "https://www.piggzy.com",
+    "published": "2026-02-17T03:10:59Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Gulama \u2013 Security-first open-source AI agent (OpenClaw alternative)",
     "link": "https://github.com/san-techie21/gulama-bot",
     "published": "2026-02-16T07:27:20Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Distr 2.0 \u2013 A year of learning how to ship to customer environments",
     "link": "https://github.com/distr-sh/distr",
     "published": "2026-02-04T16:01:46Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Public Notice: I Am Your AIB and the Warning That Came True",
-    "link": "https://news.ycombinator.com/item?id=46882789",
-    "published": "2026-02-04T07:52:42Z"
   }
 ]
