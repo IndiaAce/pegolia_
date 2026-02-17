@@ -23,6 +23,7 @@
 - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-04T16:01
 
 ## 📰 Proofpoint
+- [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5
 - [Proofpoint Expands AI Security Offerings With Acuvity Acquisition](https://www.proofpoint.com/us/newsroom/news/proofpoint-expands-ai-security-offerings-acuvity-acquisition) — 12 Feb 2026 16:2
 - [Proofpoint acquires Acuvity to tackle the security risks of agentic AI](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquires-acuvity-tackle-security-risks-agentic-ai) — 12 Feb 2026 16:1
 - [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1
@@ -32,5 +33,4 @@
 - [CEO Outlook 2026: Sumit Dhawan](https://www.proofpoint.com/us/newsroom/news/ceo-outlook-2026-sumit-dhawan) — 13 Jan 2026 18:5
 - [Venezuela Raid Highlights Cyber Vulnerability of Critical Infrastructure](https://www.proofpoint.com/us/newsroom/news/venezuela-raid-highlights-cyber-vulnerability-critical-infrastructure) — 08 Jan 2026 19:0
 - [Agentic AI Exposes New Cybersecurity Risks for Enterprises](https://www.proofpoint.com/us/newsroom/news/agentic-ai-exposes-new-cybersecurity-risks-enterprises) — 05 Jan 2026 18:5
-- [How Hackers And Cargo Thieves Orchestrated The Great Massachusetts Lobster Heist](https://www.proofpoint.com/us/newsroom/news/how-hackers-and-cargo-thieves-orchestrated-great-massachusetts-lobster-heist) — 01 Jan 2026 19:0
 
