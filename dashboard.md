@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-02-17
+# 🛡️ Email Security Trends – Updated 2026-02-18
 
 ## 📰 Hacker News
+- [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
 - [Show HN: AIP – An open protocol for verifying what AI agents are allowed to do](https://github.com/theaniketgiri/aip) — 2026-02-17T17:29
 - [Show HN: Piggzy – Turn your inbox into a universal 'Buy' button](https://www.piggzy.com) — 2026-02-17T03:10
 - [Show HN: Gulama – Security-first open-source AI agent (OpenClaw alternative)](https://github.com/san-techie21/gulama-bot) — 2026-02-16T07:27
@@ -20,7 +21,6 @@
 - [Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes](https://getrelay.sh/) — 2026-02-05T16:58
 - [I Built a Claude Code Plugin That Detects and Blocks It Before Changes Happen](https://news.ycombinator.com/item?id=46897408) — 2026-02-05T08:56
 - [Show HN: Viberails – Easy AI Audit and Control](https://www.viberails.io/) — 2026-02-04T19:16
-- [DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email](https://newrepublic.com/post/206088/homeland-security-67-year-old-us-citizen-criticized-email) — 2026-02-04T17:55
 
 ## 📰 Proofpoint
 - [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5
