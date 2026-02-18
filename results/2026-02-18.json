@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Axon \u2013 Agentic AI with mandatory user approval and audit logging",
+    "link": "https://github.com/NeuroVexon/axon-community",
+    "published": "2026-02-18T16:22:16Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: AI pentester \u2013 verified exploits, $999/assessment",
     "link": "https://news.ycombinator.com/item?id=47056759",
     "published": "2026-02-18T03:23:08Z"
@@ -172,11 +178,5 @@
     "title": "Flickr discloses potential data breach exposing users' names, emails",
     "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
     "published": "2026-02-06T18:13:57Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes",
-    "link": "https://getrelay.sh/",
-    "published": "2026-02-05T16:58:05Z"
   }
 ]
