@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-02-18
 
 ## 📰 Hacker News
+- [Show HN: AI pentester – verified exploits, $999/assessment](https://news.ycombinator.com/item?id=47056759) — 2026-02-18T03:23
+- [Show HN: Scanward – Free domain security scanner (SSL, DNS, headers, email auth)](https://scanward.com/) — 2026-02-18T01:31
 - [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
 - [Show HN: AIP – An open protocol for verifying what AI agents are allowed to do](https://github.com/theaniketgiri/aip) — 2026-02-17T17:29
 - [Show HN: Piggzy – Turn your inbox into a universal 'Buy' button](https://www.piggzy.com) — 2026-02-17T03:10
@@ -19,8 +21,6 @@
 - [Ask HN: Non-profit, volunteers run org needs CRM. Is Odoo Community a good sol.?](https://news.ycombinator.com/item?id=46920322) — 2026-02-07T01:17
 - [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/) — 2026-02-06T18:13
 - [Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes](https://getrelay.sh/) — 2026-02-05T16:58
-- [I Built a Claude Code Plugin That Detects and Blocks It Before Changes Happen](https://news.ycombinator.com/item?id=46897408) — 2026-02-05T08:56
-- [Show HN: Viberails – Easy AI Audit and Control](https://www.viberails.io/) — 2026-02-04T19:16
 
 ## 📰 Proofpoint
 - [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5
