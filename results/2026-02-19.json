@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Sayou \u2013 Open-source Dropbox for AI agents",
+    "link": "https://news.ycombinator.com/item?id=47070584",
+    "published": "2026-02-19T06:31:51Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Axon \u2013 Agentic AI with mandatory user approval and audit logging",
     "link": "https://github.com/NeuroVexon/axon-community",
     "published": "2026-02-18T16:22:16Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Non-profit, volunteers run org needs CRM. Is Odoo Community a good sol.?",
     "link": "https://news.ycombinator.com/item?id=46920322",
     "published": "2026-02-07T01:17:41Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Flickr discloses potential data breach exposing users' names, emails",
-    "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
-    "published": "2026-02-06T18:13:57Z"
   }
 ]
