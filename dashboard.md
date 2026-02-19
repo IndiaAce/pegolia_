@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-18
+# 🛡️ Email Security Trends – Updated 2026-02-19
 
 ## 📰 Hacker News
 - [Show HN: Axon – Agentic AI with mandatory user approval and audit logging](https://github.com/NeuroVexon/axon-community) — 2026-02-18T16:22
