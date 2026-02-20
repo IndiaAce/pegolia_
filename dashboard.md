@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-19
+# 🛡️ Email Security Trends – Updated 2026-02-20
 
 ## 📰 Hacker News
 - [Building an automated pre-launch technical auditor](https://news.ycombinator.com/item?id=47073562) — 2026-02-19T13:34
