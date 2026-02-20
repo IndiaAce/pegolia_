@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-02-20
 
 ## 📰 Hacker News
+- [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488) — 2026-02-20T09:02
+- [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865) — 2026-02-20T07:33
 - [Building an automated pre-launch technical auditor](https://news.ycombinator.com/item?id=47073562) — 2026-02-19T13:34
 - [Sayou – Open-source Dropbox for AI agents](https://news.ycombinator.com/item?id=47070584) — 2026-02-19T06:31
 - [Show HN: Axon – Agentic AI with mandatory user approval and audit logging](https://github.com/NeuroVexon/axon-community) — 2026-02-18T16:22
@@ -19,8 +21,6 @@
 - [Show HN: I built simple browser tools bcoz I'm tired of everything becoming SaaS](https://bitlist.io/) — 2026-02-11T16:17
 - [Show HN: I built an AI executive assistant you use through iMessage](https://getattache.com/) — 2026-02-11T16:09
 - [A new modular security and system‑monitoring suite (feedback welcome)](https://news.ycombinator.com/item?id=46968325) — 2026-02-10T23:08
-- [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr) — 2026-02-10T12:19
-- [Show HN: Airut – Sandboxed Claude Code sessions over email](https://github.com/airutorg/airut) — 2026-02-09T17:04
 
 ## 📰 Proofpoint
 - [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5

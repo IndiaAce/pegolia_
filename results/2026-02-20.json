@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Regulated Crypto Investigation Team \u2013 Intelligence Cyber Wizard Services",
+    "link": "https://news.ycombinator.com/item?id=47085488",
+    "published": "2026-02-20T09:02:54Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Regulated Crypto Investigation Team \u2013 Intelligence Cyber Wizard Services",
+    "link": "https://news.ycombinator.com/item?id=47084865",
+    "published": "2026-02-20T07:33:13Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Building an automated pre-launch technical auditor",
     "link": "https://news.ycombinator.com/item?id=47073562",
     "published": "2026-02-19T13:34:18Z"
@@ -166,17 +178,5 @@
     "title": "A new modular security and system\u2011monitoring suite (feedback welcome)",
     "link": "https://news.ycombinator.com/item?id=46968325",
     "published": "2026-02-10T23:08:46Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Distr 2.0 \u2013 A year of learning how to ship to customer environments",
-    "link": "https://github.com/distr-sh/distr",
-    "published": "2026-02-10T12:19:23Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Airut \u2013 Sandboxed Claude Code sessions over email",
-    "link": "https://github.com/airutorg/airut",
-    "published": "2026-02-09T17:04:14Z"
   }
 ]
