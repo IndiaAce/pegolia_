@@ -23,14 +23,14 @@
 - [A new modular security and system‑monitoring suite (feedback welcome)](https://news.ycombinator.com/item?id=46968325) — 2026-02-10T23:08
 
 ## 📰 Proofpoint
+- [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
 - [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5
+- [Proofpoint aims to protect partners in channel revamp](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp) — 17 Feb 2026 09:0
+- [Proofpoint Boosts Deal Protection, Profitability With Launch Of New Partner Program](https://www.proofpoint.com/us/newsroom/news/proofpoint-boosts-deal-protection-profitability-launch-new-partner-program) — 17 Feb 2026 09:0
 - [Proofpoint Expands AI Security Offerings With Acuvity Acquisition](https://www.proofpoint.com/us/newsroom/news/proofpoint-expands-ai-security-offerings-acuvity-acquisition) — 12 Feb 2026 16:2
 - [Proofpoint acquires Acuvity to tackle the security risks of agentic AI](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquires-acuvity-tackle-security-risks-agentic-ai) — 12 Feb 2026 16:1
 - [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1
 - [Hackers Recruit Unhappy Insiders to Bypass Data Security](https://www.proofpoint.com/us/newsroom/news/hackers-recruit-unhappy-insiders-bypass-data-security) — 02 Feb 2026 16:0
 - [TA584 threat actor leverages Tsundere Bot and XWorm for network access](https://www.proofpoint.com/us/newsroom/news/ta584-threat-actor-leverages-tsundere-bot-and-xworm-network-access) — 29 Jan 2026 16:0
 - [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
-- [CEO Outlook 2026: Sumit Dhawan](https://www.proofpoint.com/us/newsroom/news/ceo-outlook-2026-sumit-dhawan) — 13 Jan 2026 18:5
-- [Venezuela Raid Highlights Cyber Vulnerability of Critical Infrastructure](https://www.proofpoint.com/us/newsroom/news/venezuela-raid-highlights-cyber-vulnerability-critical-infrastructure) — 08 Jan 2026 19:0
-- [Agentic AI Exposes New Cybersecurity Risks for Enterprises](https://www.proofpoint.com/us/newsroom/news/agentic-ai-exposes-new-cybersecurity-risks-enterprises) — 05 Jan 2026 18:5
 
