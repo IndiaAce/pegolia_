@@ -61,6 +61,24 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Airut \u2013 Sandboxed Claude Code over Email and Slack",
+    "link": "https://github.com/airutorg/airut",
+    "published": "2026-02-21T15:39:03Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: MailCat \u2013 Email service for AI agents (open-source)",
+    "link": "https://github.com/apidog/mailcat",
+    "published": "2026-02-21T14:36:35Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)",
+    "link": "https://github.com/BlazeHexaScan/HexaScan",
+    "published": "2026-02-21T13:39:51Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: I bought Big Interview's .ai domain to roast their negligence",
     "link": "https://biginterview.ai/",
     "published": "2026-02-21T12:01:00Z"
@@ -160,23 +178,5 @@
     "title": "Show HN: Moltis \u2013 AI assistant with memory, tools, and self-extending skills",
     "link": "https://www.moltis.org",
     "published": "2026-02-12T19:15:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Camera based true random number generator Beta",
-    "link": "https://news.ycombinator.com/item?id=46988432",
-    "published": "2026-02-12T13:13:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Mail Server Builder \u2013 Deploy a Full Mail Server on Ubuntu from Windows",
-    "link": "https://buy-source-code.com/apps/mail-server-builder/",
-    "published": "2026-02-12T12:25:58Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven",
-    "link": "https://raxit.ai/assessment",
-    "published": "2026-02-12T03:38:29Z"
   }
 ]
