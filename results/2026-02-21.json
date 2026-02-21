@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Stop Pasting Credentials in Slack",
+    "link": "https://www.usevaultlink.com/",
+    "published": "2026-02-21T05:02:27Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Reddit Ads support is leaking PII and actively crossing user sessions",
     "link": "https://news.ycombinator.com/item?id=47092914",
     "published": "2026-02-20T19:45:40Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: I built simple browser tools bcoz I'm tired of everything becoming SaaS",
     "link": "https://bitlist.io/",
     "published": "2026-02-11T16:17:37Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built an AI executive assistant you use through iMessage",
-    "link": "https://getattache.com/",
-    "published": "2026-02-11T16:09:05Z"
   }
 ]

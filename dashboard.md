@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-21
 
 ## 📰 Hacker News
+- [Show HN: Stop Pasting Credentials in Slack](https://www.usevaultlink.com/) — 2026-02-21T05:02
 - [Reddit Ads support is leaking PII and actively crossing user sessions](https://news.ycombinator.com/item?id=47092914) — 2026-02-20T19:45
 - [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488) — 2026-02-20T09:02
 - [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865) — 2026-02-20T07:33
@@ -20,7 +21,6 @@
 - [Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows](https://buy-source-code.com/apps/mail-server-builder/) — 2026-02-12T12:25
 - [Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven](https://raxit.ai/assessment) — 2026-02-12T03:38
 - [Show HN: I built simple browser tools bcoz I'm tired of everything becoming SaaS](https://bitlist.io/) — 2026-02-11T16:17
-- [Show HN: I built an AI executive assistant you use through iMessage](https://getattache.com/) — 2026-02-11T16:09
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
