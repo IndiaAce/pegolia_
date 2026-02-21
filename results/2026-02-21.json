@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I bought Big Interview's .ai domain to roast their negligence",
+    "link": "https://biginterview.ai/",
+    "published": "2026-02-21T12:01:00Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Stop Pasting Credentials in Slack",
     "link": "https://www.usevaultlink.com/",
     "published": "2026-02-21T05:02:27Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven",
     "link": "https://raxit.ai/assessment",
     "published": "2026-02-12T03:38:29Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built simple browser tools bcoz I'm tired of everything becoming SaaS",
-    "link": "https://bitlist.io/",
-    "published": "2026-02-11T16:17:37Z"
   }
 ]
