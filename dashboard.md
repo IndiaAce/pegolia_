@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-21
+# 🛡️ Email Security Trends – Updated 2026-02-22
 
 ## 📰 Hacker News
 - [Show HN: Airut – Sandboxed Claude Code over Email and Slack](https://github.com/airutorg/airut) — 2026-02-21T15:39
