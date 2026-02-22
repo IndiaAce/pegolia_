@@ -1,11 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-02-22
 
 ## 📰 Hacker News
-- [Show HN: Airut – Sandboxed Claude Code over Email and Slack](https://github.com/airutorg/airut) — 2026-02-21T15:39
-- [Show HN: MailCat – Email service for AI agents (open-source)](https://github.com/apidog/mailcat) — 2026-02-21T14:36
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
-- [Show HN: Stop Pasting Credentials in Slack](https://www.usevaultlink.com/) — 2026-02-21T05:02
 - [Reddit Ads support is leaking PII and actively crossing user sessions](https://news.ycombinator.com/item?id=47092914) — 2026-02-20T19:45
 - [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488) — 2026-02-20T09:02
 - [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865) — 2026-02-20T07:33
@@ -21,6 +18,9 @@
 - [Show HN: Kintsugi – A desktop app for reviewing Claude Code sessions](https://events.sonarsource.com/kintsugi/) — 2026-02-13T18:54
 - [Closed –> Traced –> Closed: Did a Tech Giant Panic over an HTTP/2 200 OK Bypass?](https://news.ycombinator.com/item?id=47000551) — 2026-02-13T08:56
 - [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org) — 2026-02-12T19:15
+- [Camera based true random number generator Beta](https://news.ycombinator.com/item?id=46988432) — 2026-02-12T13:13
+- [Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows](https://buy-source-code.com/apps/mail-server-builder/) — 2026-02-12T12:25
+- [Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven](https://raxit.ai/assessment) — 2026-02-12T03:38
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
