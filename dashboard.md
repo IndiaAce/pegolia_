@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-23
+# 🛡️ Email Security Trends – Updated 2026-02-24
 
 ## 📰 Hacker News
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
