@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Enseal \u2013 Stop pasting secrets into Slack .env sharing from the terminal",
+    "link": "https://github.com/FlerAlex/enseal",
+    "published": "2026-02-24T02:15:13Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)",
     "link": "https://github.com/BlazeHexaScan/HexaScan",
     "published": "2026-02-21T13:39:51Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Mail Server Builder \u2013 Deploy a Full Mail Server on Ubuntu from Windows",
     "link": "https://buy-source-code.com/apps/mail-server-builder/",
     "published": "2026-02-12T12:25:58Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven",
-    "link": "https://raxit.ai/assessment",
-    "published": "2026-02-12T03:38:29Z"
   }
 ]

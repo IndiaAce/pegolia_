@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-24
 
 ## 📰 Hacker News
+- [Show HN: Enseal – Stop pasting secrets into Slack .env sharing from the terminal](https://github.com/FlerAlex/enseal) — 2026-02-24T02:15
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
 - [Reddit Ads support is leaking PII and actively crossing user sessions](https://news.ycombinator.com/item?id=47092914) — 2026-02-20T19:45
@@ -20,7 +21,6 @@
 - [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org) — 2026-02-12T19:15
 - [Camera based true random number generator Beta](https://news.ycombinator.com/item?id=46988432) — 2026-02-12T13:13
 - [Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows](https://buy-source-code.com/apps/mail-server-builder/) — 2026-02-12T12:25
-- [Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven](https://raxit.ai/assessment) — 2026-02-12T03:38
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
