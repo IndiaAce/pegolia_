@@ -1,6 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2026-02-24
 
 ## 📰 Hacker News
+- [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
+- [1Password pricing increasing up to 33% in March](https://news.ycombinator.com/item?id=47139951) — 2026-02-24T17:33
+- [Show HN: BitClaw – A self-upgrading AI agent in 1,500 lines of code](https://github.com/NickTikhonov/bitclaw) — 2026-02-24T13:01
 - [Show HN: Enseal – Stop pasting secrets into Slack .env sharing from the terminal](https://github.com/FlerAlex/enseal) — 2026-02-24T02:15
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
@@ -18,9 +21,6 @@
 - [Show HN: Gulama – Security-first open-source AI agent (OpenClaw alternative)](https://github.com/san-techie21/gulama-bot) — 2026-02-16T07:27
 - [Show HN: Kintsugi – A desktop app for reviewing Claude Code sessions](https://events.sonarsource.com/kintsugi/) — 2026-02-13T18:54
 - [Closed –> Traced –> Closed: Did a Tech Giant Panic over an HTTP/2 200 OK Bypass?](https://news.ycombinator.com/item?id=47000551) — 2026-02-13T08:56
-- [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org) — 2026-02-12T19:15
-- [Camera based true random number generator Beta](https://news.ycombinator.com/item?id=46988432) — 2026-02-12T13:13
-- [Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows](https://buy-source-code.com/apps/mail-server-builder/) — 2026-02-12T12:25
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1

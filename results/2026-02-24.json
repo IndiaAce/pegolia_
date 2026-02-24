@@ -61,6 +61,24 @@
   },
   {
     "source": "Hacker News",
+    "title": "1Password Raising Prices ~33%",
+    "link": "https://news.ycombinator.com/item?id=47140133",
+    "published": "2026-02-24T17:47:56Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "1Password pricing increasing up to 33% in March",
+    "link": "https://news.ycombinator.com/item?id=47139951",
+    "published": "2026-02-24T17:33:37Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: BitClaw \u2013 A self-upgrading AI agent in 1,500 lines of code",
+    "link": "https://github.com/NickTikhonov/bitclaw",
+    "published": "2026-02-24T13:01:08Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Enseal \u2013 Stop pasting secrets into Slack .env sharing from the terminal",
     "link": "https://github.com/FlerAlex/enseal",
     "published": "2026-02-24T02:15:13Z"
@@ -160,23 +178,5 @@
     "title": "Closed \u2013> Traced \u2013> Closed: Did a Tech Giant Panic over an HTTP/2 200 OK Bypass?",
     "link": "https://news.ycombinator.com/item?id=47000551",
     "published": "2026-02-13T08:56:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Moltis \u2013 AI assistant with memory, tools, and self-extending skills",
-    "link": "https://www.moltis.org",
-    "published": "2026-02-12T19:15:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Camera based true random number generator Beta",
-    "link": "https://news.ycombinator.com/item?id=46988432",
-    "published": "2026-02-12T13:13:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Mail Server Builder \u2013 Deploy a Full Mail Server on Ubuntu from Windows",
-    "link": "https://buy-source-code.com/apps/mail-server-builder/",
-    "published": "2026-02-12T12:25:58Z"
   }
 ]
