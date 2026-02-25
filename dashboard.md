@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-25
 
 ## 📰 Hacker News
-- [SaaS Is Dead. I Buried It in 15 Days. Here's the Proof](https://news.ycombinator.com/item?id=47147778) — 2026-02-25T05:43
+- [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
 - [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
 - [1Password pricing increasing up to 33% in March](https://news.ycombinator.com/item?id=47139951) — 2026-02-24T17:33
 - [Show HN: BitClaw – A self-upgrading AI agent in 1,500 lines of code](https://github.com/NickTikhonov/bitclaw) — 2026-02-24T13:01
