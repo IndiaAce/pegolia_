@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-02-24
+# 🛡️ Email Security Trends – Updated 2026-02-25
 
 ## 📰 Hacker News
 - [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
