@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "SaaS Is Dead. I Buried It in 15 Days. Here's the Proof",
+    "link": "https://news.ycombinator.com/item?id=47147778",
+    "published": "2026-02-25T05:43:55Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "1Password Raising Prices ~33%",
     "link": "https://news.ycombinator.com/item?id=47140133",
     "published": "2026-02-24T17:47:56Z"
@@ -82,6 +88,12 @@
     "title": "Show HN: Enseal \u2013 Stop pasting secrets into Slack .env sharing from the terminal",
     "link": "https://github.com/FlerAlex/enseal",
     "published": "2026-02-24T02:15:13Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: MailCat \u2013 Email service for AI agents (open-source)",
+    "link": "https://github.com/apidog/mailcat",
+    "published": "2026-02-21T14:36:35Z"
   },
   {
     "source": "Hacker News",
@@ -166,17 +178,5 @@
     "title": "Show HN: Gulama \u2013 Security-first open-source AI agent (OpenClaw alternative)",
     "link": "https://github.com/san-techie21/gulama-bot",
     "published": "2026-02-16T07:27:20Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Kintsugi \u2013 A desktop app for reviewing Claude Code sessions",
-    "link": "https://events.sonarsource.com/kintsugi/",
-    "published": "2026-02-13T18:54:14Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Closed \u2013> Traced \u2013> Closed: Did a Tech Giant Panic over an HTTP/2 200 OK Bypass?",
-    "link": "https://news.ycombinator.com/item?id=47000551",
-    "published": "2026-02-13T08:56:16Z"
   }
 ]
