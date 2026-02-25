@@ -91,6 +91,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Aeterna \u2013 Self-hosted dead man's switch",
+    "link": "https://github.com/alpyxn/aeterna",
+    "published": "2026-02-22T19:52:59Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: MailCat \u2013 Email service for AI agents (open-source)",
     "link": "https://github.com/apidog/mailcat",
     "published": "2026-02-21T14:36:35Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Piggzy \u2013 Turn your inbox into a universal 'Buy' button",
     "link": "https://www.piggzy.com",
     "published": "2026-02-17T03:10:59Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Gulama \u2013 Security-first open-source AI agent (OpenClaw alternative)",
-    "link": "https://github.com/san-techie21/gulama-bot",
-    "published": "2026-02-16T07:27:20Z"
   }
 ]

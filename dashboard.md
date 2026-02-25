@@ -6,6 +6,7 @@
 - [1Password pricing increasing up to 33% in March](https://news.ycombinator.com/item?id=47139951) — 2026-02-24T17:33
 - [Show HN: BitClaw – A self-upgrading AI agent in 1,500 lines of code](https://github.com/NickTikhonov/bitclaw) — 2026-02-24T13:01
 - [Show HN: Enseal – Stop pasting secrets into Slack .env sharing from the terminal](https://github.com/FlerAlex/enseal) — 2026-02-24T02:15
+- [Show HN: Aeterna – Self-hosted dead man's switch](https://github.com/alpyxn/aeterna) — 2026-02-22T19:52
 - [Show HN: MailCat – Email service for AI agents (open-source)](https://github.com/apidog/mailcat) — 2026-02-21T14:36
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
@@ -20,7 +21,6 @@
 - [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
 - [Show HN: AIP – An open protocol for verifying what AI agents are allowed to do](https://github.com/theaniketgiri/aip) — 2026-02-17T17:29
 - [Show HN: Piggzy – Turn your inbox into a universal 'Buy' button](https://www.piggzy.com) — 2026-02-17T03:10
-- [Show HN: Gulama – Security-first open-source AI agent (OpenClaw alternative)](https://github.com/san-techie21/gulama-bot) — 2026-02-16T07:27
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
