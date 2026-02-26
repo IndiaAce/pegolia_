@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-02-25
+# 🛡️ Email Security Trends – Updated 2026-02-26
 
 ## 📰 Hacker News
+- [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
 - [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
 - [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
 - [1Password pricing increasing up to 33% in March](https://news.ycombinator.com/item?id=47139951) — 2026-02-24T17:33
@@ -20,7 +21,6 @@
 - [Show HN: Scanward – Free domain security scanner (SSL, DNS, headers, email auth)](https://scanward.com/) — 2026-02-18T01:31
 - [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
 - [Show HN: AIP – An open protocol for verifying what AI agents are allowed to do](https://github.com/theaniketgiri/aip) — 2026-02-17T17:29
-- [Show HN: Piggzy – Turn your inbox into a universal 'Buy' button](https://www.piggzy.com) — 2026-02-17T03:10
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
