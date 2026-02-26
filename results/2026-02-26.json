@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: MVAR \u2013 Deterministic sink enforcement for AI agent",
+    "link": "https://github.com/mvar-security/mvar",
+    "published": "2026-02-26T14:57:23Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Mockingjay \u2013 Video recorder that encrypts and uploads as you record",
+    "link": "https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261",
+    "published": "2026-02-26T12:15:14Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: EloPhanto \u2013 AI agent that runs locally",
     "link": "https://github.com/elophanto/EloPhanto",
     "published": "2026-02-25T21:16:55Z"
@@ -100,12 +112,6 @@
     "title": "Show HN: Aeterna \u2013 Self-hosted dead man's switch",
     "link": "https://github.com/alpyxn/aeterna",
     "published": "2026-02-22T19:52:59Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: MailCat \u2013 Email service for AI agents (open-source)",
-    "link": "https://github.com/apidog/mailcat",
-    "published": "2026-02-21T14:36:35Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: FolioDoc \u2013 I built a tool to stop chasing clients for documents",
     "link": "https://news.ycombinator.com/item?id=47053991",
     "published": "2026-02-17T21:56:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: AIP \u2013 An open protocol for verifying what AI agents are allowed to do",
-    "link": "https://github.com/theaniketgiri/aip",
-    "published": "2026-02-17T17:29:17Z"
   }
 ]

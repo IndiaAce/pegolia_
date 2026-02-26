@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-02-26
 
 ## 📰 Hacker News
+- [Show HN: MVAR – Deterministic sink enforcement for AI agent](https://github.com/mvar-security/mvar) — 2026-02-26T14:57
+- [Show HN: Mockingjay – Video recorder that encrypts and uploads as you record](https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261) — 2026-02-26T12:15
 - [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
 - [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
 - [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
@@ -8,7 +10,6 @@
 - [Show HN: BitClaw – A self-upgrading AI agent in 1,500 lines of code](https://github.com/NickTikhonov/bitclaw) — 2026-02-24T13:01
 - [Show HN: Enseal – Stop pasting secrets into Slack .env sharing from the terminal](https://github.com/FlerAlex/enseal) — 2026-02-24T02:15
 - [Show HN: Aeterna – Self-hosted dead man's switch](https://github.com/alpyxn/aeterna) — 2026-02-22T19:52
-- [Show HN: MailCat – Email service for AI agents (open-source)](https://github.com/apidog/mailcat) — 2026-02-21T14:36
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
 - [Reddit Ads support is leaking PII and actively crossing user sessions](https://news.ycombinator.com/item?id=47092914) — 2026-02-20T19:45
@@ -20,7 +21,6 @@
 - [Show HN: AI pentester – verified exploits, $999/assessment](https://news.ycombinator.com/item?id=47056759) — 2026-02-18T03:23
 - [Show HN: Scanward – Free domain security scanner (SSL, DNS, headers, email auth)](https://scanward.com/) — 2026-02-18T01:31
 - [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
-- [Show HN: AIP – An open protocol for verifying what AI agents are allowed to do](https://github.com/theaniketgiri/aip) — 2026-02-17T17:29
 
 ## 📰 Proofpoint
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
