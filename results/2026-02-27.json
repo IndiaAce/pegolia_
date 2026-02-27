@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security",
+    "published": "26 Feb 2026 14:38:07"
+  },
+  {
+    "source": "Proofpoint",
     "title": "The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100",
     "link": "https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100",
     "published": "18 Feb 2026 09:14:00"
@@ -54,10 +60,10 @@
     "published": "29 Jan 2026 16:04:21"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader",
-    "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader",
-    "published": "15 Jan 2026 18:56:21"
+    "source": "Hacker News",
+    "title": "How do you catch schema drift and security gaps in Firestore?",
+    "link": "https://news.ycombinator.com/item?id=47179989",
+    "published": "2026-02-27T12:56:58Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: Scanward \u2013 Free domain security scanner (SSL, DNS, headers, email auth)",
     "link": "https://scanward.com/",
     "published": "2026-02-18T01:31:50Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: FolioDoc \u2013 I built a tool to stop chasing clients for documents",
-    "link": "https://news.ycombinator.com/item?id=47053991",
-    "published": "2026-02-17T21:56:43Z"
   }
 ]

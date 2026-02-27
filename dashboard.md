@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-02-27
 
 ## 📰 Hacker News
+- [How do you catch schema drift and security gaps in Firestore?](https://news.ycombinator.com/item?id=47179989) — 2026-02-27T12:56
 - [Show HN: MVAR – Deterministic sink enforcement for AI agent](https://github.com/mvar-security/mvar) — 2026-02-26T14:57
 - [Show HN: Mockingjay – Video recorder that encrypts and uploads as you record](https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261) — 2026-02-26T12:15
 - [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
@@ -20,9 +21,9 @@
 - [Show HN: Axon – Agentic AI with mandatory user approval and audit logging](https://github.com/NeuroVexon/axon-community) — 2026-02-18T16:22
 - [Show HN: AI pentester – verified exploits, $999/assessment](https://news.ycombinator.com/item?id=47056759) — 2026-02-18T03:23
 - [Show HN: Scanward – Free domain security scanner (SSL, DNS, headers, email auth)](https://scanward.com/) — 2026-02-18T01:31
-- [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
 
 ## 📰 Proofpoint
+- [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
 - [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
 - [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5
 - [Proofpoint aims to protect partners in channel revamp](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp) — 17 Feb 2026 09:0
@@ -32,5 +33,4 @@
 - [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1
 - [Hackers Recruit Unhappy Insiders to Bypass Data Security](https://www.proofpoint.com/us/newsroom/news/hackers-recruit-unhappy-insiders-bypass-data-security) — 02 Feb 2026 16:0
 - [TA584 threat actor leverages Tsundere Bot and XWorm for network access](https://www.proofpoint.com/us/newsroom/news/ta584-threat-actor-leverages-tsundere-bot-and-xworm-network-access) — 29 Jan 2026 16:0
-- [Proofpoint: The $12B Deal Behind an AI-Driven Cybersecurity Leader](https://www.proofpoint.com/us/newsroom/news/proofpoint-12b-deal-behind-ai-driven-cybersecurity-leader) — 15 Jan 2026 18:5
 
