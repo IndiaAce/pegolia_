@@ -2,7 +2,6 @@
 
 ## 📰 Hacker News
 - [How do you catch schema drift and security gaps in Firestore?](https://news.ycombinator.com/item?id=47179989) — 2026-02-27T12:56
-- [Show HN: MVAR – Deterministic sink enforcement for AI agent](https://github.com/mvar-security/mvar) — 2026-02-26T14:57
 - [Show HN: Mockingjay – Video recorder that encrypts and uploads as you record](https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261) — 2026-02-26T12:15
 - [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
 - [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
@@ -21,6 +20,7 @@
 - [Show HN: Axon – Agentic AI with mandatory user approval and audit logging](https://github.com/NeuroVexon/axon-community) — 2026-02-18T16:22
 - [Show HN: AI pentester – verified exploits, $999/assessment](https://news.ycombinator.com/item?id=47056759) — 2026-02-18T03:23
 - [Show HN: Scanward – Free domain security scanner (SSL, DNS, headers, email auth)](https://scanward.com/) — 2026-02-18T01:31
+- [Show HN: FolioDoc – I built a tool to stop chasing clients for documents](https://news.ycombinator.com/item?id=47053991) — 2026-02-17T21:56
 
 ## 📰 Proofpoint
 - [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3

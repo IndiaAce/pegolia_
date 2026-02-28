@@ -67,12 +67,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: MVAR \u2013 Deterministic sink enforcement for AI agent",
-    "link": "https://github.com/mvar-security/mvar",
-    "published": "2026-02-26T14:57:23Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Mockingjay \u2013 Video recorder that encrypts and uploads as you record",
     "link": "https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261",
     "published": "2026-02-26T12:15:14Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: Scanward \u2013 Free domain security scanner (SSL, DNS, headers, email auth)",
     "link": "https://scanward.com/",
     "published": "2026-02-18T01:31:50Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: FolioDoc \u2013 I built a tool to stop chasing clients for documents",
+    "link": "https://news.ycombinator.com/item?id=47053991",
+    "published": "2026-02-17T21:56:43Z"
   }
 ]
