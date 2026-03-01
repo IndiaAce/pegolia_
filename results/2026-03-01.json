@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: TheAgentMail \u2013 email for AI agents with karma-based spam prevention",
+    "link": "https://theagentmail.net/",
+    "published": "2026-03-01T13:57:48Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: ClawNet \u2013 Agent-first communication infrastructure (email, DMs, feed)",
     "link": "https://clwnt.com",
     "published": "2026-02-28T22:36:20Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: AI pentester \u2013 verified exploits, $999/assessment",
     "link": "https://news.ycombinator.com/item?id=47056759",
     "published": "2026-02-18T03:23:08Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Scanward \u2013 Free domain security scanner (SSL, DNS, headers, email auth)",
-    "link": "https://scanward.com/",
-    "published": "2026-02-18T01:31:50Z"
   }
 ]
