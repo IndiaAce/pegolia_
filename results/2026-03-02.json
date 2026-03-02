@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Sutra.team \u2013 The First OS for Autonomous Agents",
+    "link": "https://www.sutra.team/",
+    "published": "2026-03-02T14:00:56Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: TheAgentMail \u2013 email for AI agents with karma-based spam prevention",
     "link": "https://theagentmail.net/",
     "published": "2026-03-01T13:57:48Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Axon \u2013 Agentic AI with mandatory user approval and audit logging",
     "link": "https://github.com/NeuroVexon/axon-community",
     "published": "2026-02-18T16:22:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: AI pentester \u2013 verified exploits, $999/assessment",
-    "link": "https://news.ycombinator.com/item?id=47056759",
-    "published": "2026-02-18T03:23:08Z"
   }
 ]

@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-02
 
 ## 📰 Hacker News
+- [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
 - [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
 - [How do you catch schema drift and security gaps in Firestore?](https://news.ycombinator.com/item?id=47179989) — 2026-02-27T12:56
@@ -20,7 +21,6 @@
 - [Building an automated pre-launch technical auditor](https://news.ycombinator.com/item?id=47073562) — 2026-02-19T13:34
 - [Sayou – Open-source Dropbox for AI agents](https://news.ycombinator.com/item?id=47070584) — 2026-02-19T06:31
 - [Show HN: Axon – Agentic AI with mandatory user approval and audit logging](https://github.com/NeuroVexon/axon-community) — 2026-02-18T16:22
-- [Show HN: AI pentester – verified exploits, $999/assessment](https://news.ycombinator.com/item?id=47056759) — 2026-02-18T03:23
 
 ## 📰 Proofpoint
 - [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
