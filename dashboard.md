@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-01
+# 🛡️ Email Security Trends – Updated 2026-03-02
 
 ## 📰 Hacker News
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
