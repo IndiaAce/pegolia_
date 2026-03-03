@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-03
 
 ## 📰 Hacker News
+- [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing, Self-Evolving](https://news.ycombinator.com/item?id=47230379) — 2026-03-03T10:01
 - [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
 - [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
@@ -20,9 +21,9 @@
 - [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865) — 2026-02-20T07:33
 - [Building an automated pre-launch technical auditor](https://news.ycombinator.com/item?id=47073562) — 2026-02-19T13:34
 - [Sayou – Open-source Dropbox for AI agents](https://news.ycombinator.com/item?id=47070584) — 2026-02-19T06:31
-- [Show HN: Axon – Agentic AI with mandatory user approval and audit logging](https://github.com/NeuroVexon/axon-community) — 2026-02-18T16:22
 
 ## 📰 Proofpoint
+- [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
 - [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
 - [Proofpoint Aims to Accelerate AI Security Growth](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-accelerate-ai-security-growth) — 24 Feb 2026 11:3
 - [Don’t trust TrustConnect: This fake remote support tool only helps hackers](https://www.proofpoint.com/us/newsroom/news/dont-trust-trustconnect-fake-remote-support-tool-only-helps-hackers) — 20 Feb 2026 11:3
@@ -32,5 +33,4 @@
 - [Proofpoint Boosts Deal Protection, Profitability With Launch Of New Partner Program](https://www.proofpoint.com/us/newsroom/news/proofpoint-boosts-deal-protection-profitability-launch-new-partner-program) — 17 Feb 2026 09:0
 - [Proofpoint Expands AI Security Offerings With Acuvity Acquisition](https://www.proofpoint.com/us/newsroom/news/proofpoint-expands-ai-security-offerings-acuvity-acquisition) — 12 Feb 2026 16:2
 - [Proofpoint acquires Acuvity to tackle the security risks of agentic AI](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquires-acuvity-tackle-security-risks-agentic-ai) — 12 Feb 2026 16:1
-- [Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across) — 12 Feb 2026 07:1
 

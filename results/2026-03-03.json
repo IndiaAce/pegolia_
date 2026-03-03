@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium",
+    "published": "03 Mar 2026 14:56:03"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security",
     "published": "26 Feb 2026 14:38:07"
@@ -54,10 +60,10 @@
     "published": "12 Feb 2026 16:11:28"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across",
-    "published": "12 Feb 2026 07:16:45"
+    "source": "Hacker News",
+    "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing, Self-Evolving",
+    "link": "https://news.ycombinator.com/item?id=47230379",
+    "published": "2026-03-03T10:01:51Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Sayou \u2013 Open-source Dropbox for AI agents",
     "link": "https://news.ycombinator.com/item?id=47070584",
     "published": "2026-02-19T06:31:51Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Axon \u2013 Agentic AI with mandatory user approval and audit logging",
-    "link": "https://github.com/NeuroVexon/axon-community",
-    "published": "2026-02-18T16:22:16Z"
   }
 ]
