@@ -1,6 +1,10 @@
 # 🛡️ Email Security Trends – Updated 2026-03-03
 
 ## 📰 Hacker News
+- [Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call](https://github.com/emailens/engine) — 2026-03-03T15:46
+- [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
+- [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
+- [Show HN: An AI Tutor for Kids with Visualisations](https://www.wizkidaitutor.com) — 2026-03-03T14:22
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing, Self-Evolving](https://news.ycombinator.com/item?id=47230379) — 2026-03-03T10:01
 - [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
@@ -17,10 +21,6 @@
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
 - [Reddit Ads support is leaking PII and actively crossing user sessions](https://news.ycombinator.com/item?id=47092914) — 2026-02-20T19:45
-- [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488) — 2026-02-20T09:02
-- [Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865) — 2026-02-20T07:33
-- [Building an automated pre-launch technical auditor](https://news.ycombinator.com/item?id=47073562) — 2026-02-19T13:34
-- [Sayou – Open-source Dropbox for AI agents](https://news.ycombinator.com/item?id=47070584) — 2026-02-19T06:31
 
 ## 📰 Proofpoint
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5

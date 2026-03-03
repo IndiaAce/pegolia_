@@ -61,6 +61,30 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call",
+    "link": "https://github.com/emailens/engine",
+    "published": "2026-03-03T15:46:12Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: ScopeGate \u2013 Granular permission gateway for AI agents (MCP, open-core)",
+    "link": "https://scopegate.dev",
+    "published": "2026-03-03T15:16:00Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing\\Self-Evolving",
+    "link": "https://news.ycombinator.com/item?id=47233452",
+    "published": "2026-03-03T15:03:02Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: An AI Tutor for Kids with Visualisations",
+    "link": "https://www.wizkidaitutor.com",
+    "published": "2026-03-03T14:22:01Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing, Self-Evolving",
     "link": "https://news.ycombinator.com/item?id=47230379",
     "published": "2026-03-03T10:01:51Z"
@@ -154,29 +178,5 @@
     "title": "Reddit Ads support is leaking PII and actively crossing user sessions",
     "link": "https://news.ycombinator.com/item?id=47092914",
     "published": "2026-02-20T19:45:40Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Regulated Crypto Investigation Team \u2013 Intelligence Cyber Wizard Services",
-    "link": "https://news.ycombinator.com/item?id=47085488",
-    "published": "2026-02-20T09:02:54Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Regulated Crypto Investigation Team \u2013 Intelligence Cyber Wizard Services",
-    "link": "https://news.ycombinator.com/item?id=47084865",
-    "published": "2026-02-20T07:33:13Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Building an automated pre-launch technical auditor",
-    "link": "https://news.ycombinator.com/item?id=47073562",
-    "published": "2026-02-19T13:34:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sayou \u2013 Open-source Dropbox for AI agents",
-    "link": "https://news.ycombinator.com/item?id=47070584",
-    "published": "2026-02-19T06:31:51Z"
   }
 ]
