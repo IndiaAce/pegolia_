@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-02
+# 🛡️ Email Security Trends – Updated 2026-03-03
 
 ## 📰 Hacker News
 - [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
