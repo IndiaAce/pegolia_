@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-03
+# 🛡️ Email Security Trends – Updated 2026-03-04
 
 ## 📰 Hacker News
 - [Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call](https://github.com/emailens/engine) — 2026-03-03T15:46
