@@ -1,8 +1,11 @@
 # 🛡️ Email Security Trends – Updated 2026-03-04
 
 ## 📰 Hacker News
+- [Show HN: Epupp – Live, REPL-driven, browser tampering](https://github.com/PEZ/epupp) — 2026-03-04T16:35
+- [Show HN: DailyStack – Aggregate your work tools into a 5-minute morning brief](https://dailystack.ai/) — 2026-03-04T14:17
+- [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
+- [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
-- [Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call](https://github.com/emailens/engine) — 2026-03-03T15:46
 - [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
 - [Show HN: An AI Tutor for Kids with Visualisations](https://www.wizkidaitutor.com) — 2026-03-03T14:22
@@ -18,9 +21,6 @@
 - [1Password pricing increasing up to 33% in March](https://news.ycombinator.com/item?id=47139951) — 2026-02-24T17:33
 - [Show HN: BitClaw – A self-upgrading AI agent in 1,500 lines of code](https://github.com/NickTikhonov/bitclaw) — 2026-02-24T13:01
 - [Show HN: Enseal – Stop pasting secrets into Slack .env sharing from the terminal](https://github.com/FlerAlex/enseal) — 2026-02-24T02:15
-- [Show HN: Aeterna – Self-hosted dead man's switch](https://github.com/alpyxn/aeterna) — 2026-02-22T19:52
-- [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
-- [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
 
 ## 📰 Proofpoint
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5

@@ -61,15 +61,33 @@
   },
   {
     "source": "Hacker News",
-    "title": "We built high speed threat hunting for email security",
-    "link": "https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/",
-    "published": "2026-03-04T02:27:14Z"
+    "title": "Show HN: Epupp \u2013 Live, REPL-driven, browser tampering",
+    "link": "https://github.com/PEZ/epupp",
+    "published": "2026-03-04T16:35:26Z"
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call",
-    "link": "https://github.com/emailens/engine",
-    "published": "2026-03-03T15:46:12Z"
+    "title": "Show HN: DailyStack \u2013 Aggregate your work tools into a 5-minute morning brief",
+    "link": "https://dailystack.ai/",
+    "published": "2026-03-04T14:17:00Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: VantageKit \u2013 a lightweight data room with staging, analytics, & AI Q&A",
+    "link": "https://www.vantagekit.com/en",
+    "published": "2026-03-04T14:15:09Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: SaaS Forge \u2013 Open-Source SaaS Boilerplate Generator",
+    "link": "https://github.com/anoopkarnik/saas-forge",
+    "published": "2026-03-04T13:15:19Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "We built high speed threat hunting for email security",
+    "link": "https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/",
+    "published": "2026-03-04T02:27:14Z"
   },
   {
     "source": "Hacker News",
@@ -160,23 +178,5 @@
     "title": "Show HN: Enseal \u2013 Stop pasting secrets into Slack .env sharing from the terminal",
     "link": "https://github.com/FlerAlex/enseal",
     "published": "2026-02-24T02:15:13Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Aeterna \u2013 Self-hosted dead man's switch",
-    "link": "https://github.com/alpyxn/aeterna",
-    "published": "2026-02-22T19:52:59Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)",
-    "link": "https://github.com/BlazeHexaScan/HexaScan",
-    "published": "2026-02-21T13:39:51Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I bought Big Interview's .ai domain to roast their negligence",
-    "link": "https://biginterview.ai/",
-    "published": "2026-02-21T12:01:00Z"
   }
 ]
