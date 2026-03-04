@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-04
 
 ## 📰 Hacker News
+- [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
 - [Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call](https://github.com/emailens/engine) — 2026-03-03T15:46
 - [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
@@ -20,7 +21,6 @@
 - [Show HN: Aeterna – Self-hosted dead man's switch](https://github.com/alpyxn/aeterna) — 2026-02-22T19:52
 - [Show HN: HexaScan:Open-Source Monitoring(PageSpeed,Critical Flows,SEO,Security)](https://github.com/BlazeHexaScan/HexaScan) — 2026-02-21T13:39
 - [Show HN: I bought Big Interview's .ai domain to roast their negligence](https://biginterview.ai/) — 2026-02-21T12:01
-- [Reddit Ads support is leaking PII and actively crossing user sessions](https://news.ycombinator.com/item?id=47092914) — 2026-02-20T19:45
 
 ## 📰 Proofpoint
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5

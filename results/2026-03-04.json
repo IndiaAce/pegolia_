@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "We built high speed threat hunting for email security",
+    "link": "https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/",
+    "published": "2026-03-04T02:27:14Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call",
     "link": "https://github.com/emailens/engine",
     "published": "2026-03-03T15:46:12Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: I bought Big Interview's .ai domain to roast their negligence",
     "link": "https://biginterview.ai/",
     "published": "2026-02-21T12:01:00Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reddit Ads support is leaking PII and actively crossing user sessions",
-    "link": "https://news.ycombinator.com/item?id=47092914",
-    "published": "2026-02-20T19:45:40Z"
   }
 ]
