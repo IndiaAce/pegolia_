@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Selva \u2013 Amazon for AI Agents",
+    "link": "https://www.useselva.com/",
+    "published": "2026-03-05T16:47:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
     "published": "2026-03-04T20:39:30Z"
@@ -172,11 +178,5 @@
     "title": "1Password Raising Prices ~33%",
     "link": "https://news.ycombinator.com/item?id=47140133",
     "published": "2026-02-24T17:47:56Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1Password pricing increasing up to 33% in March",
-    "link": "https://news.ycombinator.com/item?id=47139951",
-    "published": "2026-02-24T17:33:37Z"
   }
 ]
