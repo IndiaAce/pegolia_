@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-03-04
+# 🛡️ Email Security Trends – Updated 2026-03-05
 
 ## 📰 Hacker News
+- [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/) — 2026-03-04T20:39
+- [Show HN: AutoManus MCP Server – create a sales rep agent from Claude in 1 min [video]](https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37) — 2026-03-04T18:19
 - [Show HN: Epupp – Live, REPL-driven, browser tampering](https://github.com/PEZ/epupp) — 2026-03-04T16:35
 - [Show HN: DailyStack – Aggregate your work tools into a 5-minute morning brief](https://dailystack.ai/) — 2026-03-04T14:17
 - [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
@@ -19,8 +21,6 @@
 - [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
 - [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
 - [1Password pricing increasing up to 33% in March](https://news.ycombinator.com/item?id=47139951) — 2026-02-24T17:33
-- [Show HN: BitClaw – A self-upgrading AI agent in 1,500 lines of code](https://github.com/NickTikhonov/bitclaw) — 2026-02-24T13:01
-- [Show HN: Enseal – Stop pasting secrets into Slack .env sharing from the terminal](https://github.com/FlerAlex/enseal) — 2026-02-24T02:15
 
 ## 📰 Proofpoint
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
