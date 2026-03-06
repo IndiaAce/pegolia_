@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-05
+# 🛡️ Email Security Trends – Updated 2026-03-06
 
 ## 📰 Hacker News
 - [Show HN: Selva – Amazon for AI Agents](https://www.useselva.com/) — 2026-03-05T16:47
@@ -9,6 +9,7 @@
 - [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
 - [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
+- [Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call](https://github.com/emailens/engine) — 2026-03-03T15:46
 - [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
 - [Show HN: An AI Tutor for Kids with Visualisations](https://www.wizkidaitutor.com) — 2026-03-03T14:22
@@ -17,10 +18,9 @@
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
 - [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
 - [How do you catch schema drift and security gaps in Firestore?](https://news.ycombinator.com/item?id=47179989) — 2026-02-27T12:56
+- [Show HN: MVAR – Deterministic sink enforcement for AI agent](https://github.com/mvar-security/mvar) — 2026-02-26T14:57
 - [Show HN: Mockingjay – Video recorder that encrypts and uploads as you record](https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261) — 2026-02-26T12:15
 - [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
-- [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
-- [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
 
 ## 📰 Proofpoint
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
