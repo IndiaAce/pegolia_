@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Why is integrating external partners to Jira so hard?",
+    "link": "https://news.ycombinator.com/item?id=47269793",
+    "published": "2026-03-06T01:48:43Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Selva \u2013 Amazon for AI Agents",
     "link": "https://www.useselva.com/",
     "published": "2026-03-05T16:47:42Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Mockingjay \u2013 Video recorder that encrypts and uploads as you record",
     "link": "https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261",
     "published": "2026-02-26T12:15:14Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: EloPhanto \u2013 AI agent that runs locally",
-    "link": "https://github.com/elophanto/EloPhanto",
-    "published": "2026-02-25T21:16:55Z"
   }
 ]
