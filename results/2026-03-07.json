@@ -61,9 +61,21 @@
   },
   {
     "source": "Hacker News",
+    "title": "Way to Use AI for Coding",
+    "link": "https://news.ycombinator.com/item?id=47285319",
+    "published": "2026-03-07T07:23:30Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: Why is integrating external partners to Jira so hard?",
     "link": "https://news.ycombinator.com/item?id=47269793",
     "published": "2026-03-06T01:48:43Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Selva \u2013 Amazon for AI Agents",
+    "link": "https://www.useselva.com/",
+    "published": "2026-03-05T16:47:42Z"
   },
   {
     "source": "Hacker News",
@@ -76,6 +88,12 @@
     "title": "Show HN: AutoManus MCP Server \u2013 create a sales rep agent from Claude in 1 min [video]",
     "link": "https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37",
     "published": "2026-03-04T18:19:30Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Epupp \u2013 Live, REPL-driven, browser tampering",
+    "link": "https://github.com/PEZ/epupp",
+    "published": "2026-03-04T16:35:26Z"
   },
   {
     "source": "Hacker News",
@@ -100,6 +118,12 @@
     "title": "We built high speed threat hunting for email security",
     "link": "https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/",
     "published": "2026-03-04T02:27:14Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Open-sourced an email QA lib 8 checks across 12 clients in 1 audit call",
+    "link": "https://github.com/emailens/engine",
+    "published": "2026-03-03T15:46:12Z"
   },
   {
     "source": "Hacker News",
@@ -151,32 +175,8 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Mockingjay \u2013 Video recorder that encrypts and uploads as you record",
-    "link": "https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261",
-    "published": "2026-02-26T12:15:14Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: EloPhanto \u2013 AI agent that runs locally",
-    "link": "https://github.com/elophanto/EloPhanto",
-    "published": "2026-02-25T21:16:55Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: ClawMoat \u2013 Open-source runtime security for AI agents (zero deps, <1ms)",
-    "link": "https://github.com/darfaz/clawmoat",
-    "published": "2026-02-25T07:31:07Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1Password Raising Prices ~33%",
-    "link": "https://news.ycombinator.com/item?id=47140133",
-    "published": "2026-02-24T17:47:56Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1Password pricing increasing up to 33% in March",
-    "link": "https://news.ycombinator.com/item?id=47139951",
-    "published": "2026-02-24T17:33:37Z"
+    "title": "Show HN: MVAR \u2013 Deterministic sink enforcement for AI agent",
+    "link": "https://github.com/mvar-security/mvar",
+    "published": "2026-02-26T14:57:23Z"
   }
 ]
