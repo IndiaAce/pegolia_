@@ -73,12 +73,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Selva \u2013 Amazon for AI Agents",
-    "link": "https://www.useselva.com/",
-    "published": "2026-03-05T16:47:42Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
     "published": "2026-03-04T20:39:30Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: MVAR \u2013 Deterministic sink enforcement for AI agent",
     "link": "https://github.com/mvar-security/mvar",
     "published": "2026-02-26T14:57:23Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Mockingjay \u2013 Video recorder that encrypts and uploads as you record",
+    "link": "https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261",
+    "published": "2026-02-26T12:15:14Z"
   }
 ]
