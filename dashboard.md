@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-03-09
+# 🛡️ Email Security Trends – Updated 2026-03-10
 
 ## 📰 Hacker News
+- [Energy-based Model (EBM) for enterprise AI security Ship it or keep tuning?](https://news.ycombinator.com/item?id=47315770) — 2026-03-09T21:25
 - [Way to Use AI for Coding](https://news.ycombinator.com/item?id=47285319) — 2026-03-07T07:23
 - [Ask HN: Why is integrating external partners to Jira so hard?](https://news.ycombinator.com/item?id=47269793) — 2026-03-06T01:48
 - [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/) — 2026-03-04T20:39
@@ -20,7 +21,6 @@
 - [Show HN: Mockingjay – Video recorder that encrypts and uploads as you record](https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261) — 2026-02-26T12:15
 - [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
 - [Show HN: ClawMoat – Open-source runtime security for AI agents (zero deps, <1ms)](https://github.com/darfaz/clawmoat) — 2026-02-25T07:31
-- [1Password Raising Prices ~33%](https://news.ycombinator.com/item?id=47140133) — 2026-02-24T17:47
 
 ## 📰 Proofpoint
 - [Microsoft Helps Bust Global Hacking Service](https://www.proofpoint.com/us/newsroom/news/microsoft-helps-bust-global-hacking-service) — 04 Mar 2026 13:4
