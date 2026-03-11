@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-10
+# 🛡️ Email Security Trends – Updated 2026-03-11
 
 ## 📰 Hacker News
 - [Ask HN: 1 Hash/Sec paced PoW making 51% attacks impossible – seeking engineers](https://news.ycombinator.com/item?id=47325020) — 2026-03-10T15:57
