@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-03-11
 
 ## 📰 Hacker News
+- [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
+- [Show HN: Paperweight, local-first inbox scanner to manage your digital footprint](https://github.com/wslyvh/paperweight) — 2026-03-11T13:15
 - [Ask HN: 1 Hash/Sec paced PoW making 51% attacks impossible – seeking engineers](https://news.ycombinator.com/item?id=47325020) — 2026-03-10T15:57
 - [Energy-based Model (EBM) for enterprise AI security Ship it or keep tuning?](https://news.ycombinator.com/item?id=47315770) — 2026-03-09T21:25
 - [Way to Use AI for Coding](https://news.ycombinator.com/item?id=47285319) — 2026-03-07T07:23
@@ -19,8 +21,6 @@
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
 - [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
 - [How do you catch schema drift and security gaps in Firestore?](https://news.ycombinator.com/item?id=47179989) — 2026-02-27T12:56
-- [Show HN: Mockingjay – Video recorder that encrypts and uploads as you record](https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261) — 2026-02-26T12:15
-- [Show HN: EloPhanto – AI agent that runs locally](https://github.com/elophanto/EloPhanto) — 2026-02-25T21:16
 
 ## 📰 Proofpoint
 - [Microsoft Helps Bust Global Hacking Service](https://www.proofpoint.com/us/newsroom/news/microsoft-helps-bust-global-hacking-service) — 04 Mar 2026 13:4
