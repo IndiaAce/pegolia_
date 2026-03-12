@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-11
+# 🛡️ Email Security Trends – Updated 2026-03-12
 
 ## 📰 Hacker News
 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
