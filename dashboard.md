@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-13
 
 ## 📰 Hacker News
+- [Proton's Swiss Myth: US Jurisdiction via Cloudflare and FAA Arbitration Clauses](https://news.ycombinator.com/item?id=47364922) — 2026-03-13T14:25
 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
 - [Show HN: Paperweight, local-first inbox scanner to manage your digital footprint](https://github.com/wslyvh/paperweight) — 2026-03-11T13:15
 - [Ask HN: 1 Hash/Sec paced PoW making 51% attacks impossible – seeking engineers](https://news.ycombinator.com/item?id=47325020) — 2026-03-10T15:57
@@ -20,7 +21,6 @@
 - [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
 - [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
 - [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
-- [How do you catch schema drift and security gaps in Firestore?](https://news.ycombinator.com/item?id=47179989) — 2026-02-27T12:56
 
 ## 📰 Proofpoint
 - [Microsoft Helps Bust Global Hacking Service](https://www.proofpoint.com/us/newsroom/news/microsoft-helps-bust-global-hacking-service) — 04 Mar 2026 13:4

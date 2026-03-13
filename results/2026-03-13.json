@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Proton's Swiss Myth: US Jurisdiction via Cloudflare and FAA Arbitration Clauses",
+    "link": "https://news.ycombinator.com/item?id=47364922",
+    "published": "2026-03-13T14:25:16Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Klaus \u2013 OpenClaw on a VM, batteries included",
     "link": "https://klausai.com/",
     "published": "2026-03-11T15:54:23Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: ClawNet \u2013 Agent-first communication infrastructure (email, DMs, feed)",
     "link": "https://clwnt.com",
     "published": "2026-02-28T22:36:20Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How do you catch schema drift and security gaps in Firestore?",
-    "link": "https://news.ycombinator.com/item?id=47179989",
-    "published": "2026-02-27T12:56:58Z"
   }
 ]
