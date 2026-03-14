@@ -1,7 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-14
 
 ## 📰 Hacker News
-- [Proton's Swiss Myth: US Jurisdiction via Cloudflare and FAA Arbitration Clauses](https://news.ycombinator.com/item?id=47364922) — 2026-03-13T14:25
+- [Trump now Selling National Security Briefing Membership](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) — 2026-03-14T01:43
 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
 - [Show HN: Paperweight, local-first inbox scanner to manage your digital footprint](https://github.com/wslyvh/paperweight) — 2026-03-11T13:15
 - [Ask HN: 1 Hash/Sec paced PoW making 51% attacks impossible – seeking engineers](https://news.ycombinator.com/item?id=47325020) — 2026-03-10T15:57
