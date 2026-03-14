@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: AgentArmor \u2013 open-source 8-layer security framework for AI agents",
+    "link": "https://github.com/Agastya910/agentarmor",
+    "published": "2026-03-14T09:44:36Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Contribute to an Open-Source Project",
+    "link": "https://news.ycombinator.com/item?id=47373821",
+    "published": "2026-03-14T06:07:53Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Trump now Selling National Security Briefing Membership",
     "link": "https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier",
     "published": "2026-03-14T01:43:36Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: Sutra.team \u2013 The First OS for Autonomous Agents",
     "link": "https://www.sutra.team/",
     "published": "2026-03-02T14:00:56Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: TheAgentMail \u2013 email for AI agents with karma-based spam prevention",
-    "link": "https://theagentmail.net/",
-    "published": "2026-03-01T13:57:48Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: ClawNet \u2013 Agent-first communication infrastructure (email, DMs, feed)",
-    "link": "https://clwnt.com",
-    "published": "2026-02-28T22:36:20Z"
   }
 ]

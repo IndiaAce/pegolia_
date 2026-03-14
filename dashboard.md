@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-03-14
 
 ## 📰 Hacker News
+- [Show HN: AgentArmor – open-source 8-layer security framework for AI agents](https://github.com/Agastya910/agentarmor) — 2026-03-14T09:44
+- [Contribute to an Open-Source Project](https://news.ycombinator.com/item?id=47373821) — 2026-03-14T06:07
 - [Trump now Selling National Security Briefing Membership](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) — 2026-03-14T01:43
 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
 - [Show HN: Paperweight, local-first inbox scanner to manage your digital footprint](https://github.com/wslyvh/paperweight) — 2026-03-11T13:15
@@ -19,8 +21,6 @@
 - [Show HN: An AI Tutor for Kids with Visualisations](https://www.wizkidaitutor.com) — 2026-03-03T14:22
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing, Self-Evolving](https://news.ycombinator.com/item?id=47230379) — 2026-03-03T10:01
 - [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
-- [Show HN: TheAgentMail – email for AI agents with karma-based spam prevention](https://theagentmail.net/) — 2026-03-01T13:57
-- [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
 
 ## 📰 Proofpoint
 - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
