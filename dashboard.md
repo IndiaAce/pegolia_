@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-13
+# 🛡️ Email Security Trends – Updated 2026-03-14
 
 ## 📰 Hacker News
 - [Proton's Swiss Myth: US Jurisdiction via Cloudflare and FAA Arbitration Clauses](https://news.ycombinator.com/item?id=47364922) — 2026-03-13T14:25
@@ -23,6 +23,9 @@
 - [Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)](https://clwnt.com) — 2026-02-28T22:36
 
 ## 📰 Proofpoint
+- [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
+- [Pro-Iran hackers claim cyberattack on major US medical device maker](https://www.proofpoint.com/us/newsroom/news/pro-iran-hackers-claim-cyberattack-major-us-medical-device-maker) — 11 Mar 2026 15:1
+- [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.proofpoint.com/us/newsroom/news/tycoon-2fa-goes-boom-europol-vendors-bust-phishing-platform) — 05 Mar 2026 15:1
 - [Microsoft Helps Bust Global Hacking Service](https://www.proofpoint.com/us/newsroom/news/microsoft-helps-bust-global-hacking-service) — 04 Mar 2026 13:4
 - [Global coalition dismantles Tycoon 2FA phishing kit](https://www.proofpoint.com/us/newsroom/news/global-coalition-dismantles-tycoon-2fa-phishing-kit) — 04 Mar 2026 13:4
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
@@ -30,7 +33,4 @@
 - [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
 - [Proofpoint Aims to Accelerate AI Security Growth](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-accelerate-ai-security-growth) — 24 Feb 2026 11:3
 - [Don’t trust TrustConnect: This fake remote support tool only helps hackers](https://www.proofpoint.com/us/newsroom/news/dont-trust-trustconnect-fake-remote-support-tool-only-helps-hackers) — 20 Feb 2026 11:3
-- [The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100](https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100) — 18 Feb 2026 09:1
-- [Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network) — 17 Feb 2026 09:5
-- [Proofpoint aims to protect partners in channel revamp](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp) — 17 Feb 2026 09:0
 
