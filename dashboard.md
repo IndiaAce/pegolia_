@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-03-15
 
 ## 📰 Hacker News
+- [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
+- [Show HN: OpenClaw-superpowers – Self-modifying skill library for OpenClaw agents](https://github.com/ArchieIndian/openclaw-superpowers) — 2026-03-15T06:27
 - [Show HN: Iris – first MCP-native eval and observability tool for AI agents](https://github.com/iris-eval/mcp-server) — 2026-03-14T18:36
 - [Show HN: AgentArmor – open-source 8-layer security framework for AI agents](https://github.com/Agastya910/agentarmor) — 2026-03-14T09:44
 - [Contribute to an Open-Source Project](https://news.ycombinator.com/item?id=47373821) — 2026-03-14T06:07
@@ -19,8 +21,6 @@
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
 - [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
-- [Show HN: An AI Tutor for Kids with Visualisations](https://www.wizkidaitutor.com) — 2026-03-03T14:22
-- [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing, Self-Evolving](https://news.ycombinator.com/item?id=47230379) — 2026-03-03T10:01
 
 ## 📰 Proofpoint
 - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1

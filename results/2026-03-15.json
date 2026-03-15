@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Zirco.ai \u2013 AI employee for dental front desk operations",
+    "link": "https://news.ycombinator.com/item?id=47385090",
+    "published": "2026-03-15T07:30:26Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: OpenClaw-superpowers \u2013 Self-modifying skill library for OpenClaw agents",
+    "link": "https://github.com/ArchieIndian/openclaw-superpowers",
+    "published": "2026-03-15T06:27:17Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Iris \u2013 first MCP-native eval and observability tool for AI agents",
     "link": "https://github.com/iris-eval/mcp-server",
     "published": "2026-03-14T18:36:44Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing\\Self-Evolving",
     "link": "https://news.ycombinator.com/item?id=47233452",
     "published": "2026-03-03T15:03:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: An AI Tutor for Kids with Visualisations",
-    "link": "https://www.wizkidaitutor.com",
-    "published": "2026-03-03T14:22:01Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing, Self-Evolving",
-    "link": "https://news.ycombinator.com/item?id=47230379",
-    "published": "2026-03-03T10:01:51Z"
   }
 ]
