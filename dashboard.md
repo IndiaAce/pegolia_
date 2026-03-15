@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-03-14
+# 🛡️ Email Security Trends – Updated 2026-03-15
 
 ## 📰 Hacker News
+- [Show HN: Iris – first MCP-native eval and observability tool for AI agents](https://github.com/iris-eval/mcp-server) — 2026-03-14T18:36
 - [Show HN: AgentArmor – open-source 8-layer security framework for AI agents](https://github.com/Agastya910/agentarmor) — 2026-03-14T09:44
 - [Contribute to an Open-Source Project](https://news.ycombinator.com/item?id=47373821) — 2026-03-14T06:07
 - [Trump now Selling National Security Briefing Membership](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) — 2026-03-14T01:43
@@ -20,7 +21,6 @@
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
 - [Show HN: An AI Tutor for Kids with Visualisations](https://www.wizkidaitutor.com) — 2026-03-03T14:22
 - [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing, Self-Evolving](https://news.ycombinator.com/item?id=47230379) — 2026-03-03T10:01
-- [Show HN: Sutra.team – The First OS for Autonomous Agents](https://www.sutra.team/) — 2026-03-02T14:00
 
 ## 📰 Proofpoint
 - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
