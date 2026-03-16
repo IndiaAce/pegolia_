@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-15
+# 🛡️ Email Security Trends – Updated 2026-03-16
 
 ## 📰 Hacker News
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
