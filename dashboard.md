@@ -23,6 +23,7 @@
 - [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 
 ## 📰 Proofpoint
+- [Proofpoint Unveils Industry’s Newest Intent-Based AI Security Solution to Protect Enterprise AI Agents](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-industrys-newest-intent-based-ai-security-solution) — 17 Mar 2026 04:0
 - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
 - [Pro-Iran hackers claim cyberattack on major US medical device maker](https://www.proofpoint.com/us/newsroom/news/pro-iran-hackers-claim-cyberattack-major-us-medical-device-maker) — 11 Mar 2026 15:1
 - [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.proofpoint.com/us/newsroom/news/tycoon-2fa-goes-boom-europol-vendors-bust-phishing-platform) — 05 Mar 2026 15:1
@@ -32,5 +33,4 @@
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV & IRL](https://www.proofpoint.com/us/newsroom/news/life-mirrors-art-ransomware-hits-hospitals-tv-irl) — 27 Feb 2026 13:4
 - [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
 - [Proofpoint Aims to Accelerate AI Security Growth](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-accelerate-ai-security-growth) — 24 Feb 2026 11:3
-- [Don’t trust TrustConnect: This fake remote support tool only helps hackers](https://www.proofpoint.com/us/newsroom/news/dont-trust-trustconnect-fake-remote-support-tool-only-helps-hackers) — 20 Feb 2026 11:3
 
