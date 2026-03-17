@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-16
+# 🛡️ Email Security Trends – Updated 2026-03-17
 
 ## 📰 Hacker News
 - [Show HN: Snippets – AI-first legacy app: Record messages, deliver years later](https://mysnippets.com) — 2026-03-16T13:33
