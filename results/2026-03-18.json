@@ -61,12 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: Snippets \u2013 AI-first legacy app: Record messages, deliver years later",
-    "link": "https://mysnippets.com",
-    "published": "2026-03-16T13:33:03Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Zirco.ai \u2013 AI employee for dental front desk operations",
     "link": "https://news.ycombinator.com/item?id=47385090",
     "published": "2026-03-15T07:30:26Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: ScopeGate \u2013 Granular permission gateway for AI agents (MCP, open-core)",
     "link": "https://scopegate.dev",
     "published": "2026-03-03T15:16:00Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I Built Systems AGI \u2013 1600 Verticals, Self-Healing\\Self-Evolving",
+    "link": "https://news.ycombinator.com/item?id=47233452",
+    "published": "2026-03-03T15:03:02Z"
   }
 ]
