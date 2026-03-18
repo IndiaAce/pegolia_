@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-18
 
 ## 📰 Hacker News
+- [Show HN: Lukan – An open-source agentic workstation in a single Rust binary](https://lukan.ai) — 2026-03-18T15:14
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
 - [Show HN: OpenClaw-superpowers – Self-modifying skill library for OpenClaw agents](https://github.com/ArchieIndian/openclaw-superpowers) — 2026-03-15T06:27
 - [Show HN: Iris – first MCP-native eval and observability tool for AI agents](https://github.com/iris-eval/mcp-server) — 2026-03-14T18:36
@@ -20,7 +21,6 @@
 - [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
 - [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
-- [Show HN: I Built Systems AGI – 1600 Verticals, Self-Healing\Self-Evolving](https://news.ycombinator.com/item?id=47233452) — 2026-03-03T15:03
 
 ## 📰 Proofpoint
 - [Proofpoint Unveils Industry’s Newest Intent-Based AI Security Solution to Protect Enterprise AI Agents](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-industrys-newest-intent-based-ai-security-solution) — 17 Mar 2026 04:0
