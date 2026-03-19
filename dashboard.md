@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-19
 
 ## 📰 Hacker News
+- [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
 - [Some thoughts on security after ten years of qmail 1.0 [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2026-03-18T19:11
 - [Show HN: Lukan – An open-source agentic workstation in a single Rust binary](https://lukan.ai) — 2026-03-18T15:14
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
@@ -20,7 +21,6 @@
 - [Show HN: DailyStack – Aggregate your work tools into a 5-minute morning brief](https://dailystack.ai/) — 2026-03-04T14:17
 - [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
 - [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
-- [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
 
 ## 📰 Proofpoint
 - [Proofpoint Pursues FedRAMP High Authorization Process for Collaboration Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-pursues-fedramp-high-authorization-process-collaboration-security) — 18 Mar 2026 12:3
