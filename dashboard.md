@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-03-18
+# 🛡️ Email Security Trends – Updated 2026-03-19
 
 ## 📰 Hacker News
+- [Some thoughts on security after ten years of qmail 1.0 [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2026-03-18T19:11
 - [Show HN: Lukan – An open-source agentic workstation in a single Rust binary](https://lukan.ai) — 2026-03-18T15:14
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
 - [Show HN: OpenClaw-superpowers – Self-modifying skill library for OpenClaw agents](https://github.com/ArchieIndian/openclaw-superpowers) — 2026-03-15T06:27
@@ -20,9 +21,9 @@
 - [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
 - [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
-- [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 
 ## 📰 Proofpoint
+- [Proofpoint Pursues FedRAMP High Authorization Process for Collaboration Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-pursues-fedramp-high-authorization-process-collaboration-security) — 18 Mar 2026 12:3
 - [Proofpoint Unveils Industry’s Newest Intent-Based AI Security Solution to Protect Enterprise AI Agents](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-industrys-newest-intent-based-ai-security-solution) — 17 Mar 2026 04:0
 - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
 - [Pro-Iran hackers claim cyberattack on major US medical device maker](https://www.proofpoint.com/us/newsroom/news/pro-iran-hackers-claim-cyberattack-major-us-medical-device-maker) — 11 Mar 2026 15:1
@@ -32,5 +33,4 @@
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV & IRL](https://www.proofpoint.com/us/newsroom/news/life-mirrors-art-ransomware-hits-hospitals-tv-irl) — 27 Feb 2026 13:4
 - [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
-- [Proofpoint Aims to Accelerate AI Security Growth](https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-accelerate-ai-security-growth) — 24 Feb 2026 11:3
 
