@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Declaration of Emil Michael: Anthropic poses security risks",
+    "link": "https://www.courtlistener.com/docket/72379655/96/3/anthropic-pbc-v-us-department-of-war/",
+    "published": "2026-03-21T05:23:39Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Email to registered companies about the WebFiling security issue",
     "link": "https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue",
     "published": "2026-03-19T10:29:27Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: SaaS Forge \u2013 Open-Source SaaS Boilerplate Generator",
     "link": "https://github.com/anoopkarnik/saas-forge",
     "published": "2026-03-04T13:15:19Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We built high speed threat hunting for email security",
-    "link": "https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/",
-    "published": "2026-03-04T02:27:14Z"
   }
 ]
