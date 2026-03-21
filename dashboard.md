@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-20
+# 🛡️ Email Security Trends – Updated 2026-03-21
 
 ## 📰 Hacker News
 - [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
