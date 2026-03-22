@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-21
+# 🛡️ Email Security Trends – Updated 2026-03-22
 
 ## 📰 Hacker News
 - [Declaration of Emil Michael: Anthropic poses security risks](https://www.courtlistener.com/docket/72379655/96/3/anthropic-pbc-v-us-department-of-war/) — 2026-03-21T05:23
