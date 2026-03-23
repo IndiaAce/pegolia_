@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-23
 
 ## 📰 Hacker News
+- [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
 - [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
 - [Show HN: OpenClaw-superpowers – Self-modifying skill library for OpenClaw agents](https://github.com/ArchieIndian/openclaw-superpowers) — 2026-03-15T06:27
@@ -20,7 +21,6 @@
 - [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
 - [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
-- [Show HN: ScopeGate – Granular permission gateway for AI agents (MCP, open-core)](https://scopegate.dev) — 2026-03-03T15:16
 
 ## 📰 Proofpoint
 - [Proofpoint Pursues FedRAMP High Authorization Process for Collaboration Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-pursues-fedramp-high-authorization-process-collaboration-security) — 18 Mar 2026 12:3
