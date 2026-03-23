@@ -23,6 +23,7 @@
 - [We built high speed threat hunting for email security](https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/) — 2026-03-04T02:27
 
 ## 📰 Proofpoint
+- [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5
 - [Proofpoint Pursues FedRAMP High Authorization Process for Collaboration Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-pursues-fedramp-high-authorization-process-collaboration-security) — 18 Mar 2026 12:3
 - [Proofpoint Unveils Industry’s Newest Intent-Based AI Security Solution to Protect Enterprise AI Agents](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-industrys-newest-intent-based-ai-security-solution) — 17 Mar 2026 04:0
 - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
@@ -32,5 +33,4 @@
 - [Global coalition dismantles Tycoon 2FA phishing kit](https://www.proofpoint.com/us/newsroom/news/global-coalition-dismantles-tycoon-2fa-phishing-kit) — 04 Mar 2026 13:4
 - [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV & IRL](https://www.proofpoint.com/us/newsroom/news/life-mirrors-art-ransomware-hits-hospitals-tv-irl) — 27 Feb 2026 13:4
-- [Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security) — 26 Feb 2026 14:3
 
