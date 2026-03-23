@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Flowroute locked my account after passing identity verification, won't say why",
+    "link": "https://news.ycombinator.com/item?id=47490967",
+    "published": "2026-03-23T15:37:08Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: A New Social Network Called Plasas",
     "link": "https://plasas.com",
     "published": "2026-03-23T01:21:47Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: SaaS Forge \u2013 Open-Source SaaS Boilerplate Generator",
     "link": "https://github.com/anoopkarnik/saas-forge",
     "published": "2026-03-04T13:15:19Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We built high speed threat hunting for email security",
-    "link": "https://sublime.security/blog/how-we-built-high-speed-threat-hunting-for-email-security/",
-    "published": "2026-03-04T02:27:14Z"
   }
 ]
