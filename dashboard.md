@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-23
+# 🛡️ Email Security Trends – Updated 2026-03-24
 
 ## 📰 Hacker News
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
