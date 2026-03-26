@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-03-25
+# 🛡️ Email Security Trends – Updated 2026-03-26
 
 ## 📰 Hacker News
+- [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
 - [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
 - [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
@@ -20,7 +21,6 @@
 - [Show HN: AutoManus MCP Server – create a sales rep agent from Claude in 1 min [video]](https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37) — 2026-03-04T18:19
 - [Show HN: DailyStack – Aggregate your work tools into a 5-minute morning brief](https://dailystack.ai/) — 2026-03-04T14:17
 - [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
-- [Show HN: SaaS Forge – Open-Source SaaS Boilerplate Generator](https://github.com/anoopkarnik/saas-forge) — 2026-03-04T13:15
 
 ## 📰 Proofpoint
 - [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5
