@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-27
+# 🛡️ Email Security Trends – Updated 2026-03-28
 
 ## 📰 Hacker News
 - [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
