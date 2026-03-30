@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-29
+# 🛡️ Email Security Trends – Updated 2026-03-30
 
 ## 📰 Hacker News
 - [Ask HN: "Claws" and Human-in-the-Loop Safety](https://news.ycombinator.com/item?id=47557998) — 2026-03-28T20:46
