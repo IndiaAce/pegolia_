@@ -1,7 +1,6 @@
 # 🛡️ Email Security Trends – Updated 2026-03-30
 
 ## 📰 Hacker News
-- [Ask HN: "Claws" and Human-in-the-Loop Safety](https://news.ycombinator.com/item?id=47557998) — 2026-03-28T20:46
 - [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
 - [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
@@ -21,6 +20,7 @@
 - [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/) — 2026-03-04T20:39
 - [Show HN: AutoManus MCP Server – create a sales rep agent from Claude in 1 min [video]](https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37) — 2026-03-04T18:19
 - [Show HN: DailyStack – Aggregate your work tools into a 5-minute morning brief](https://dailystack.ai/) — 2026-03-04T14:17
+- [Show HN: VantageKit – a lightweight data room with staging, analytics, & AI Q&A](https://www.vantagekit.com/en) — 2026-03-04T14:15
 
 ## 📰 Proofpoint
 - [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5
