@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: AgentLair \u2013 Give your AI agent an email identity and credential vault",
+    "link": "https://agentlair.dev/",
+    "published": "2026-03-30T12:11:03Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Do you give OpenClaw access to your personal accounts?",
     "link": "https://news.ycombinator.com/item?id=47522387",
     "published": "2026-03-25T20:00:18Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: DailyStack \u2013 Aggregate your work tools into a 5-minute morning brief",
     "link": "https://dailystack.ai/",
     "published": "2026-03-04T14:17:00Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: VantageKit \u2013 a lightweight data room with staging, analytics, & AI Q&A",
-    "link": "https://www.vantagekit.com/en",
-    "published": "2026-03-04T14:15:09Z"
   }
 ]
