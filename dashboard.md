@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-30
+# 🛡️ Email Security Trends – Updated 2026-03-31
 
 ## 📰 Hacker News
 - [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
