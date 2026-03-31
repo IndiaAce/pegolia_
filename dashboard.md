@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-31
 
 ## 📰 Hacker News
+- [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/) — 2026-03-31T09:32
 - [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
 - [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
@@ -20,7 +21,6 @@
 - [Ask HN: Why is integrating external partners to Jira so hard?](https://news.ycombinator.com/item?id=47269793) — 2026-03-06T01:48
 - [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/) — 2026-03-04T20:39
 - [Show HN: AutoManus MCP Server – create a sales rep agent from Claude in 1 min [video]](https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37) — 2026-03-04T18:19
-- [Show HN: DailyStack – Aggregate your work tools into a 5-minute morning brief](https://dailystack.ai/) — 2026-03-04T14:17
 
 ## 📰 Proofpoint
 - [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5
