@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-03-31
 
 ## 📰 Hacker News
+- [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 - [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/) — 2026-03-31T09:32
 - [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
 - [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
@@ -20,7 +21,6 @@
 - [Way to Use AI for Coding](https://news.ycombinator.com/item?id=47285319) — 2026-03-07T07:23
 - [Ask HN: Why is integrating external partners to Jira so hard?](https://news.ycombinator.com/item?id=47269793) — 2026-03-06T01:48
 - [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/) — 2026-03-04T20:39
-- [Show HN: AutoManus MCP Server – create a sales rep agent from Claude in 1 min [video]](https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37) — 2026-03-04T18:19
 
 ## 📰 Proofpoint
 - [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5

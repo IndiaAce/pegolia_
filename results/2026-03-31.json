@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
+    "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
+    "published": "2026-03-31T13:16:17Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
     "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
     "published": "2026-03-31T09:32:18Z"
@@ -172,11 +178,5 @@
     "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
     "published": "2026-03-04T20:39:30Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: AutoManus MCP Server \u2013 create a sales rep agent from Claude in 1 min [video]",
-    "link": "https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=37",
-    "published": "2026-03-04T18:19:30Z"
   }
 ]
