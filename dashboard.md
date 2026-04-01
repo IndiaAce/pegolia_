@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-04-01
 
 ## 📰 Hacker News
+- [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
 - [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 - [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/) — 2026-03-31T09:32
 - [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
@@ -20,7 +21,6 @@
 - [Energy-based Model (EBM) for enterprise AI security Ship it or keep tuning?](https://news.ycombinator.com/item?id=47315770) — 2026-03-09T21:25
 - [Way to Use AI for Coding](https://news.ycombinator.com/item?id=47285319) — 2026-03-07T07:23
 - [Ask HN: Why is integrating external partners to Jira so hard?](https://news.ycombinator.com/item?id=47269793) — 2026-03-06T01:48
-- [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/) — 2026-03-04T20:39
 
 ## 📰 Proofpoint
 - [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5

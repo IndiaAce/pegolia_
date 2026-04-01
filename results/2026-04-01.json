@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
+    "link": "https://news.ycombinator.com/item?id=47597591",
+    "published": "2026-04-01T06:34:03Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
     "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
     "published": "2026-03-31T13:16:17Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Why is integrating external partners to Jira so hard?",
     "link": "https://news.ycombinator.com/item?id=47269793",
     "published": "2026-03-06T01:48:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
-    "published": "2026-03-04T20:39:30Z"
   }
 ]
