@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-03-31
+# 🛡️ Email Security Trends – Updated 2026-04-01
 
 ## 📰 Hacker News
 - [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
