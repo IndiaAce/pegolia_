@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: PGP Made Convenient",
+    "link": "https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp",
+    "published": "2026-04-02T13:31:11Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
     "link": "https://news.ycombinator.com/item?id=47597591",
     "published": "2026-04-01T06:34:03Z"
@@ -172,11 +178,5 @@
     "title": "Way to Use AI for Coding",
     "link": "https://news.ycombinator.com/item?id=47285319",
     "published": "2026-03-07T07:23:30Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why is integrating external partners to Jira so hard?",
-    "link": "https://news.ycombinator.com/item?id=47269793",
-    "published": "2026-03-06T01:48:43Z"
   }
 ]
