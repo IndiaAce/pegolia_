@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-01
+# 🛡️ Email Security Trends – Updated 2026-04-02
 
 ## 📰 Hacker News
 - [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
