@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-02
+# 🛡️ Email Security Trends – Updated 2026-04-03
 
 ## 📰 Hacker News
 - [Show HN: PGP Made Convenient](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) — 2026-04-02T13:31
