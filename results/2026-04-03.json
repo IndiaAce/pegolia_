@@ -115,6 +115,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Lukan \u2013 An open-source agentic workstation in a single Rust binary",
+    "link": "https://lukan.ai",
+    "published": "2026-03-18T15:14:57Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Zirco.ai \u2013 AI employee for dental front desk operations",
     "link": "https://news.ycombinator.com/item?id=47385090",
     "published": "2026-03-15T07:30:26Z"
@@ -172,11 +178,5 @@
     "title": "Energy-based Model (EBM) for enterprise AI security Ship it or keep tuning?",
     "link": "https://news.ycombinator.com/item?id=47315770",
     "published": "2026-03-09T21:25:30Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Way to Use AI for Coding",
-    "link": "https://news.ycombinator.com/item?id=47285319",
-    "published": "2026-03-07T07:23:30Z"
   }
 ]
