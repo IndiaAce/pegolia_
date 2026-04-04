@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-03
+# 🛡️ Email Security Trends – Updated 2026-04-04
 
 ## 📰 Hacker News
 - [Show HN: PGP Made Convenient](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) — 2026-04-02T13:31
@@ -23,14 +23,14 @@
 - [Energy-based Model (EBM) for enterprise AI security Ship it or keep tuning?](https://news.ycombinator.com/item?id=47315770) — 2026-03-09T21:25
 
 ## 📰 Proofpoint
+- [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
+- [Axios Future of Cybersecurity: Russians suspected of using iPhone spyware](https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware) — 31 Mar 2026 11:2
+- [15 Top Cybersecurity CEOs On The Future Of AI Agents: RSAC 2026](https://www.proofpoint.com/us/newsroom/news/15-top-cybersecurity-ceos-future-ai-agents-rsac-2026) — 30 Mar 2026 11:2
+- [How AI Agents Are Redefining the Insider Risk Threat Model](https://www.proofpoint.com/us/newsroom/news/how-ai-agents-are-redefining-insider-risk-threat-model) — 27 Mar 2026 11:2
+- [5 Ways To Protect Enterprise Value During A Merger Or Acquisition](https://www.proofpoint.com/us/newsroom/news/5-ways-protect-enterprise-value-during-merger-or-acquisition) — 25 Mar 2026 11:1
+- [Sumit Dhawan on the importance of intent-based AI security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-importance-intent-based-ai-security) — 24 Mar 2026 11:2
+- [20 Coolest AI And Security Products At RSAC 2026](https://www.proofpoint.com/us/newsroom/news/20-coolest-ai-and-security-products-rsac-2026) — 24 Mar 2026 11:1
 - [Proofpoint Redefines Email and Data Security for the Agentic Workspace](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace) — 23 Mar 2026 06:5
 - [Proofpoint Pursues FedRAMP High Authorization Process for Collaboration Security](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-pursues-fedramp-high-authorization-process-collaboration-security) — 18 Mar 2026 12:3
 - [Proofpoint Unveils Industry’s Newest Intent-Based AI Security Solution to Protect Enterprise AI Agents](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-unveils-industrys-newest-intent-based-ai-security-solution) — 17 Mar 2026 04:0
-- [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war) — 11 Mar 2026 15:1
-- [Pro-Iran hackers claim cyberattack on major US medical device maker](https://www.proofpoint.com/us/newsroom/news/pro-iran-hackers-claim-cyberattack-major-us-medical-device-maker) — 11 Mar 2026 15:1
-- [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.proofpoint.com/us/newsroom/news/tycoon-2fa-goes-boom-europol-vendors-bust-phishing-platform) — 05 Mar 2026 15:1
-- [Microsoft Helps Bust Global Hacking Service](https://www.proofpoint.com/us/newsroom/news/microsoft-helps-bust-global-hacking-service) — 04 Mar 2026 13:4
-- [Global coalition dismantles Tycoon 2FA phishing kit](https://www.proofpoint.com/us/newsroom/news/global-coalition-dismantles-tycoon-2fa-phishing-kit) — 04 Mar 2026 13:4
-- [Proofpoint Launches AI-Enabled Discovery & Archive Suite for Small to Medium Businesses](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-ai-enabled-discovery-archive-suite-small-medium) — 03 Mar 2026 14:5
-- [Life Mirrors Art: Ransomware Hits Hospitals on TV & IRL](https://www.proofpoint.com/us/newsroom/news/life-mirrors-art-ransomware-hits-hospitals-tv-irl) — 27 Feb 2026 13:4
 
