@@ -10,7 +10,6 @@
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
 - [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
 - [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
-- [Show HN: Lukan – An open-source agentic workstation in a single Rust binary](https://lukan.ai) — 2026-03-18T15:14
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
 - [Show HN: OpenClaw-superpowers – Self-modifying skill library for OpenClaw agents](https://github.com/ArchieIndian/openclaw-superpowers) — 2026-03-15T06:27
 - [Show HN: Iris – first MCP-native eval and observability tool for AI agents](https://github.com/iris-eval/mcp-server) — 2026-03-14T18:36
@@ -21,6 +20,7 @@
 - [Show HN: Paperweight, local-first inbox scanner to manage your digital footprint](https://github.com/wslyvh/paperweight) — 2026-03-11T13:15
 - [Ask HN: 1 Hash/Sec paced PoW making 51% attacks impossible – seeking engineers](https://news.ycombinator.com/item?id=47325020) — 2026-03-10T15:57
 - [Energy-based Model (EBM) for enterprise AI security Ship it or keep tuning?](https://news.ycombinator.com/item?id=47315770) — 2026-03-09T21:25
+- [Way to Use AI for Coding](https://news.ycombinator.com/item?id=47285319) — 2026-03-07T07:23
 
 ## 📰 Proofpoint
 - [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
