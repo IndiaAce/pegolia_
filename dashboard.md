@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-06
+# 🛡️ Email Security Trends – Updated 2026-04-07
 
 ## 📰 Hacker News
 - [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
