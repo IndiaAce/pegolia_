@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: The AI Software Factory",
+    "link": "https://gethuman.sh/",
+    "published": "2026-04-07T12:56:30Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: Google bot suspended our startup's email with 0 human recourse",
     "link": "https://news.ycombinator.com/item?id=47663132",
     "published": "2026-04-06T16:31:36Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Paperweight, local-first inbox scanner to manage your digital footprint",
     "link": "https://github.com/wslyvh/paperweight",
     "published": "2026-03-11T13:15:51Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: 1 Hash/Sec paced PoW making 51% attacks impossible \u2013 seeking engineers",
-    "link": "https://news.ycombinator.com/item?id=47325020",
-    "published": "2026-03-10T15:57:52Z"
   }
 ]
