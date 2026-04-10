@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-09
+# 🛡️ Email Security Trends – Updated 2026-04-10
 
 ## 📰 Hacker News
 - [Show HN: The AI Software Factory](https://gethuman.sh/) — 2026-04-07T12:56
