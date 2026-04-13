@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Zero-identity messaging app with physics-based post-quantum encryption",
+    "link": "https://news.ycombinator.com/item?id=47751692",
+    "published": "2026-04-13T13:29:14Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: The AI Software Factory",
     "link": "https://gethuman.sh/",
     "published": "2026-04-07T12:56:30Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Klaus \u2013 OpenClaw on a VM, batteries included",
     "link": "https://klausai.com/",
     "published": "2026-03-11T15:54:23Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Paperweight, local-first inbox scanner to manage your digital footprint",
-    "link": "https://github.com/wslyvh/paperweight",
-    "published": "2026-03-11T13:15:51Z"
   }
 ]

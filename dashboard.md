@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-04-13
 
 ## 📰 Hacker News
+- [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 - [Show HN: The AI Software Factory](https://gethuman.sh/) — 2026-04-07T12:56
 - [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
 - [Upwork Inc. violates its own DMARC and SPF policy](https://news.ycombinator.com/item?id=47659603) — 2026-04-06T11:37
@@ -20,7 +21,6 @@
 - [Contribute to an Open-Source Project](https://news.ycombinator.com/item?id=47373821) — 2026-03-14T06:07
 - [Trump now Selling National Security Briefing Membership](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) — 2026-03-14T01:43
 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
-- [Show HN: Paperweight, local-first inbox scanner to manage your digital footprint](https://github.com/wslyvh/paperweight) — 2026-03-11T13:15
 
 ## 📰 Proofpoint
 - [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
