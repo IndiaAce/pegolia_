@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-13
+# 🛡️ Email Security Trends – Updated 2026-04-14
 
 ## 📰 Hacker News
 - [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
