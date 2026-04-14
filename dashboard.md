@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-04-14
 
 ## 📰 Hacker News
+- [Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.](https://news.ycombinator.com/item?id=47767928) — 2026-04-14T16:40
 - [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 - [Show HN: The AI Software Factory](https://gethuman.sh/) — 2026-04-07T12:56
 - [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
@@ -20,7 +21,6 @@
 - [Show HN: AgentArmor – open-source 8-layer security framework for AI agents](https://github.com/Agastya910/agentarmor) — 2026-03-14T09:44
 - [Contribute to an Open-Source Project](https://news.ycombinator.com/item?id=47373821) — 2026-03-14T06:07
 - [Trump now Selling National Security Briefing Membership](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) — 2026-03-14T01:43
-- [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/) — 2026-03-11T15:54
 
 ## 📰 Proofpoint
 - [FIFA World Cup 2026: More than One-Third of Official Partners Expose the Public to the Risk of Email Fraud](https://www.proofpoint.com/us/newsroom/press-releases/fifa-world-cup-2026-more-one-third-official-partners-expose-public-risk) — 14 Apr 2026 08:4
