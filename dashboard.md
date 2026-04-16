@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-15
+# 🛡️ Email Security Trends – Updated 2026-04-16
 
 ## 📰 Hacker News
 - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/) — 2026-04-14T20:42
