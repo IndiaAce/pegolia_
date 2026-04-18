@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-04-17
+# 🛡️ Email Security Trends – Updated 2026-04-18
 
 ## 📰 Hacker News
+- [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
+- [Claude Code is unable to respond to this request](https://news.ycombinator.com/item?id=47809543) — 2026-04-17T19:19
 - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/) — 2026-04-14T20:42
 - [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796) — 2026-04-14T18:56
@@ -19,8 +21,6 @@
 - [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
 - [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
 - [Zirco.ai – AI employee for dental front desk operations](https://news.ycombinator.com/item?id=47385090) — 2026-03-15T07:30
-- [Show HN: OpenClaw-superpowers – Self-modifying skill library for OpenClaw agents](https://github.com/ArchieIndian/openclaw-superpowers) — 2026-03-15T06:27
-- [Show HN: Iris – first MCP-native eval and observability tool for AI agents](https://github.com/iris-eval/mcp-server) — 2026-03-14T18:36
 
 ## 📰 Proofpoint
 - [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
