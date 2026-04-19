@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-18
+# 🛡️ Email Security Trends – Updated 2026-04-19
 
 ## 📰 Hacker News
 - [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
