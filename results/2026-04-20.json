@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Made a highly organised email client with prompt-free AI within",
+    "link": "https://news.ycombinator.com/item?id=47835218",
+    "published": "2026-04-20T14:48:50Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: Security Incident at Porter (YC S20)",
     "link": "https://news.ycombinator.com/item?id=47811132",
     "published": "2026-04-17T22:09:28Z"
@@ -172,11 +178,5 @@
     "title": "Email to registered companies about the WebFiling security issue",
     "link": "https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue",
     "published": "2026-03-19T10:29:27Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Zirco.ai \u2013 AI employee for dental front desk operations",
-    "link": "https://news.ycombinator.com/item?id=47385090",
-    "published": "2026-03-15T07:30:26Z"
   }
 ]
