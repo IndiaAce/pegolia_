@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-23
+# 🛡️ Email Security Trends – Updated 2026-04-24
 
 ## 📰 Hacker News
 - [Show HN: Made a highly organised email client with prompt-free AI within](https://news.ycombinator.com/item?id=47835218) — 2026-04-20T14:48
