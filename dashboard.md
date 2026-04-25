@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-04-25
 
 ## 📰 Hacker News
+- [Show HN: I built a free email security checker for small businesses](https://shielddeskhq.com/checker) — 2026-04-25T13:41
 - [Show HN: Lilo – a self-hosted, open-source intelligent personal OS](https://github.com/abi/lilo) — 2026-04-24T19:46
 - [Show HN: Made a highly organised email client with prompt-free AI within](https://news.ycombinator.com/item?id=47835218) — 2026-04-20T14:48
 - [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
@@ -20,7 +21,6 @@
 - [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
 - [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
-- [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
 
 ## 📰 Proofpoint
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3

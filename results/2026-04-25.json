@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I built a free email security checker for small businesses",
+    "link": "https://shielddeskhq.com/checker",
+    "published": "2026-04-25T13:41:38Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Lilo \u2013 a self-hosted, open-source intelligent personal OS",
     "link": "https://github.com/abi/lilo",
     "published": "2026-04-24T19:46:30Z"
@@ -172,11 +178,5 @@
     "title": "Flowroute locked my account after passing identity verification, won't say why",
     "link": "https://news.ycombinator.com/item?id=47490967",
     "published": "2026-03-23T15:37:08Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A New Social Network Called Plasas",
-    "link": "https://plasas.com",
-    "published": "2026-03-23T01:21:47Z"
   }
 ]
