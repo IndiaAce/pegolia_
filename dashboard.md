@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-04-24
+# 🛡️ Email Security Trends – Updated 2026-04-25
 
 ## 📰 Hacker News
+- [Show HN: Lilo – a self-hosted, open-source intelligent personal OS](https://github.com/abi/lilo) — 2026-04-24T19:46
 - [Show HN: Made a highly organised email client with prompt-free AI within](https://news.ycombinator.com/item?id=47835218) — 2026-04-20T14:48
 - [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
 - [Claude Code is unable to respond to this request](https://news.ycombinator.com/item?id=47809543) — 2026-04-17T19:19
@@ -20,9 +21,9 @@
 - [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
 - [Flowroute locked my account after passing identity verification, won't say why](https://news.ycombinator.com/item?id=47490967) — 2026-03-23T15:37
 - [Show HN: A New Social Network Called Plasas](https://plasas.com) — 2026-03-23T01:21
-- [Email to registered companies about the WebFiling security issue](https://www.gov.uk/government/publications/email-to-registered-companies-about-the-webfiling-security-issue/email-to-registered-companies-about-the-webfiling-security-issue) — 2026-03-19T10:29
 
 ## 📰 Proofpoint
+- [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
 - [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
 - [Sumit Dhawan on NYSE Floor Talk | Proofpoint AI Security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-nyse-floor-talk-proofpoint-ai-security) — 15 Apr 2026 16:4
 - [FIFA World Cup 2026: More than One-Third of Official Partners Expose the Public to the Risk of Email Fraud](https://www.proofpoint.com/us/newsroom/press-releases/fifa-world-cup-2026-more-one-third-official-partners-expose-public-risk) — 14 Apr 2026 08:4
@@ -32,5 +33,4 @@
 - [Axios Future of Cybersecurity: Russians suspected of using iPhone spyware](https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware) — 31 Mar 2026 11:2
 - [15 Top Cybersecurity CEOs On The Future Of AI Agents: RSAC 2026](https://www.proofpoint.com/us/newsroom/news/15-top-cybersecurity-ceos-future-ai-agents-rsac-2026) — 30 Mar 2026 11:2
 - [How AI Agents Are Redefining the Insider Risk Threat Model](https://www.proofpoint.com/us/newsroom/news/how-ai-agents-are-redefining-insider-risk-threat-model) — 27 Mar 2026 11:2
-- [5 Ways To Protect Enterprise Value During A Merger Or Acquisition](https://www.proofpoint.com/us/newsroom/news/5-ways-protect-enterprise-value-during-merger-or-acquisition) — 25 Mar 2026 11:1
 
