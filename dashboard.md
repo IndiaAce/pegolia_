@@ -25,6 +25,7 @@
 ## 📰 Proofpoint
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
 - [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
+- [Freight Hacker Wields Code-Signing Service to Evade Defenses](https://www.proofpoint.com/us/newsroom/news/freight-hacker-wields-code-signing-service-evade-defenses) — 16 Apr 2026 11:1
 - [Sumit Dhawan on NYSE Floor Talk | Proofpoint AI Security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-nyse-floor-talk-proofpoint-ai-security) — 15 Apr 2026 16:4
 - [FIFA World Cup 2026: More than One-Third of Official Partners Expose the Public to the Risk of Email Fraud](https://www.proofpoint.com/us/newsroom/press-releases/fifa-world-cup-2026-more-one-third-official-partners-expose-public-risk) — 14 Apr 2026 08:4
 - [Microsoft 365 mailbox rules abused for exfiltration, persistence](https://www.proofpoint.com/us/newsroom/news/microsoft-365-mailbox-rules-abused-exfiltration-persistence) — 13 Apr 2026 16:4
@@ -32,5 +33,4 @@
 - [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
 - [Axios Future of Cybersecurity: Russians suspected of using iPhone spyware](https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware) — 31 Mar 2026 11:2
 - [15 Top Cybersecurity CEOs On The Future Of AI Agents: RSAC 2026](https://www.proofpoint.com/us/newsroom/news/15-top-cybersecurity-ceos-future-ai-agents-rsac-2026) — 30 Mar 2026 11:2
-- [How AI Agents Are Redefining the Insider Risk Threat Model](https://www.proofpoint.com/us/newsroom/news/how-ai-agents-are-redefining-insider-risk-threat-model) — 27 Mar 2026 11:2
 
