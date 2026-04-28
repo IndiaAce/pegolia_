@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-27
+# 🛡️ Email Security Trends – Updated 2026-04-28
 
 ## 📰 Hacker News
 - [Show HN: A privacy first companion AI](https://www.friendai.pro) — 2026-04-25T22:36
@@ -24,6 +24,7 @@
 
 ## 📰 Proofpoint
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
+- [Proofpoint CEO on AI Security Innovations | Nasdaq at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-ai-security-innovations-nasdaq-rsac-2026) — 22 Apr 2026 11:1
 - [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
 - [Freight Hacker Wields Code-Signing Service to Evade Defenses](https://www.proofpoint.com/us/newsroom/news/freight-hacker-wields-code-signing-service-evade-defenses) — 16 Apr 2026 11:1
 - [Sumit Dhawan on NYSE Floor Talk | Proofpoint AI Security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-nyse-floor-talk-proofpoint-ai-security) — 15 Apr 2026 16:4
@@ -32,5 +33,4 @@
 - [How AI is getting better at finding security holes](https://www.proofpoint.com/us/newsroom/news/how-ai-getting-better-finding-security-holes) — 11 Apr 2026 16:4
 - [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
 - [Axios Future of Cybersecurity: Russians suspected of using iPhone spyware](https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware) — 31 Mar 2026 11:2
-- [15 Top Cybersecurity CEOs On The Future Of AI Agents: RSAC 2026](https://www.proofpoint.com/us/newsroom/news/15-top-cybersecurity-ceos-future-ai-agents-rsac-2026) — 30 Mar 2026 11:2
 
