@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai",
+    "published": "28 Apr 2026 08:34:13"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Clear market trend for software providers to help with AI: Proofpoint CEO",
     "link": "https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo",
     "published": "23 Apr 2026 16:31:49"
@@ -54,10 +60,10 @@
     "published": "01 Apr 2026 11:24:39"
   },
   {
-    "source": "Proofpoint",
-    "title": "Axios Future of Cybersecurity: Russians suspected of using iPhone spyware",
-    "link": "https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware",
-    "published": "31 Mar 2026 11:26:47"
+    "source": "Hacker News",
+    "title": "Show HN: Scan your OSS projects for vulnerabilities",
+    "link": "https://console.zeroquarry.com/",
+    "published": "2026-04-28T09:56:19Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: AgentLair \u2013 Give your AI agent an email identity and credential vault",
     "link": "https://agentlair.dev/",
     "published": "2026-03-30T12:11:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Do you give OpenClaw access to your personal accounts?",
-    "link": "https://news.ycombinator.com/item?id=47522387",
-    "published": "2026-03-25T20:00:18Z"
   }
 ]

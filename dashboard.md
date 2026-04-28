@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-04-28
 
 ## 📰 Hacker News
+- [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
 - [Show HN: A privacy first companion AI](https://www.friendai.pro) — 2026-04-25T22:36
 - [Show HN: I built a free email security checker for small businesses](https://shielddeskhq.com/checker) — 2026-04-25T13:41
 - [Show HN: Lilo – a self-hosted, open-source intelligent personal OS](https://github.com/abi/lilo) — 2026-04-24T19:46
@@ -20,9 +21,9 @@
 - [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 - [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/) — 2026-03-31T09:32
 - [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
-- [Do you give OpenClaw access to your personal accounts?](https://news.ycombinator.com/item?id=47522387) — 2026-03-25T20:00
 
 ## 📰 Proofpoint
+- [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
 - [Proofpoint CEO on AI Security Innovations | Nasdaq at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-ai-security-innovations-nasdaq-rsac-2026) — 22 Apr 2026 11:1
 - [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
@@ -32,5 +33,4 @@
 - [Microsoft 365 mailbox rules abused for exfiltration, persistence](https://www.proofpoint.com/us/newsroom/news/microsoft-365-mailbox-rules-abused-exfiltration-persistence) — 13 Apr 2026 16:4
 - [How AI is getting better at finding security holes](https://www.proofpoint.com/us/newsroom/news/how-ai-getting-better-finding-security-holes) — 11 Apr 2026 16:4
 - [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
-- [Axios Future of Cybersecurity: Russians suspected of using iPhone spyware](https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware) — 31 Mar 2026 11:2
 
