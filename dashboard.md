@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-28
+# 🛡️ Email Security Trends – Updated 2026-04-29
 
 ## 📰 Hacker News
 - [Show HN: Integrations gateway for agents with 2FA for destructive ops (OSS)](https://github.com/yakkomajuri/agentport) — 2026-04-28T14:24
