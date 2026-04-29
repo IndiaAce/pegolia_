@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Platform Engineer (Security), DevSecOps Engineer and Full-Stack Product Engineer",
+    "link": "https://news.ycombinator.com/item?id=47952022",
+    "published": "2026-04-29T18:01:58Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: AgentPort \u2013 Open-source Security Gateway For Agents",
+    "link": "https://agentport.sh/",
+    "published": "2026-04-29T16:33:38Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Integrations gateway for agents with 2FA for destructive ops (OSS)",
     "link": "https://github.com/yakkomajuri/agentport",
     "published": "2026-04-28T14:24:48Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
     "link": "https://news.ycombinator.com/item?id=47597591",
     "published": "2026-04-01T06:34:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
-    "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
-    "published": "2026-03-31T13:16:17Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
-    "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
-    "published": "2026-03-31T09:32:18Z"
   }
 ]
