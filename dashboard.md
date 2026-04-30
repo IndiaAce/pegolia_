@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-04-29
+# 🛡️ Email Security Trends – Updated 2026-04-30
 
 ## 📰 Hacker News
 - [Platform Engineer (Security), DevSecOps Engineer and Full-Stack Product Engineer](https://news.ycombinator.com/item?id=47952022) — 2026-04-29T18:01
