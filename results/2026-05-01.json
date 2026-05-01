@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: AgentPort \u2013 Open-source Security Gateway For Agents",
+    "link": "https://agentport.sh/",
+    "published": "2026-04-29T16:33:38Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Scan your OSS projects for vulnerabilities",
     "link": "https://console.zeroquarry.com/",
     "published": "2026-04-28T09:56:19Z"
@@ -172,11 +178,5 @@
     "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
     "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
     "published": "2026-03-31T09:32:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: AgentLair \u2013 Give your AI agent an email identity and credential vault",
-    "link": "https://agentlair.dev/",
-    "published": "2026-03-30T12:11:03Z"
   }
 ]

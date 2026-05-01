@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-01
 
 ## 📰 Hacker News
+- [Show HN: AgentPort – Open-source Security Gateway For Agents](https://agentport.sh/) — 2026-04-29T16:33
 - [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
 - [Show HN: A privacy first companion AI](https://www.friendai.pro) — 2026-04-25T22:36
 - [Show HN: I built a free email security checker for small businesses](https://shielddeskhq.com/checker) — 2026-04-25T13:41
@@ -20,7 +21,6 @@
 - [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
 - [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 - [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/) — 2026-03-31T09:32
-- [Show HN: AgentLair – Give your AI agent an email identity and credential vault](https://agentlair.dev/) — 2026-03-30T12:11
 
 ## 📰 Proofpoint
 - [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
