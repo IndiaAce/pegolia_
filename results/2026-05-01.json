@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: GitLeak \u2013 A GitHub OSINT tool for emails, timezones, and activity",
+    "link": "https://gitleak.io",
+    "published": "2026-05-01T14:48:20Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: AgentPort \u2013 Open-source Security Gateway For Agents",
     "link": "https://agentport.sh/",
     "published": "2026-04-29T16:33:38Z"
@@ -172,11 +178,5 @@
     "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
     "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
     "published": "2026-03-31T13:16:17Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
-    "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
-    "published": "2026-03-31T09:32:18Z"
   }
 ]
