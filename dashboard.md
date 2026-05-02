@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-01
+# 🛡️ Email Security Trends – Updated 2026-05-02
 
 ## 📰 Hacker News
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
@@ -23,6 +23,8 @@
 - [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 
 ## 📰 Proofpoint
+- [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector) — 29 Apr 2026 11:5
+- [AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants](https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants) — 28 Apr 2026 12:0
 - [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
 - [Proofpoint CEO on AI Security Innovations | Nasdaq at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-ai-security-innovations-nasdaq-rsac-2026) — 22 Apr 2026 11:1
@@ -31,6 +33,4 @@
 - [Sumit Dhawan on NYSE Floor Talk | Proofpoint AI Security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-nyse-floor-talk-proofpoint-ai-security) — 15 Apr 2026 16:4
 - [FIFA World Cup 2026: More than One-Third of Official Partners Expose the Public to the Risk of Email Fraud](https://www.proofpoint.com/us/newsroom/press-releases/fifa-world-cup-2026-more-one-third-official-partners-expose-public-risk) — 14 Apr 2026 08:4
 - [Microsoft 365 mailbox rules abused for exfiltration, persistence](https://www.proofpoint.com/us/newsroom/news/microsoft-365-mailbox-rules-abused-exfiltration-persistence) — 13 Apr 2026 16:4
-- [How AI is getting better at finding security holes](https://www.proofpoint.com/us/newsroom/news/how-ai-getting-better-finding-security-holes) — 11 Apr 2026 16:4
-- [AI Security Risks: Proofpoint CSO Ryan Kalember, Live at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-security-risks-proofpoint-cso-ryan-kalember-live-rsac-2026) — 01 Apr 2026 11:2
 
