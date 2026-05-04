@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-03
+# 🛡️ Email Security Trends – Updated 2026-05-04
 
 ## 📰 Hacker News
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
