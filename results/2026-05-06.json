@@ -73,6 +73,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Integrations gateway for agents with 2FA for destructive ops (OSS)",
+    "link": "https://github.com/yakkomajuri/agentport",
+    "published": "2026-04-28T14:24:48Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Scan your OSS projects for vulnerabilities",
     "link": "https://console.zeroquarry.com/",
     "published": "2026-04-28T09:56:19Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
     "link": "https://news.ycombinator.com/item?id=47597591",
     "published": "2026-04-01T06:34:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
-    "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
-    "published": "2026-03-31T13:16:17Z"
   }
 ]
