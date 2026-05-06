@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Prism \u2013 Self-hosted notification gateway for privacy",
+    "link": "https://github.com/lone-cloud/prism",
+    "published": "2026-05-06T18:20:39Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: GitLeak \u2013 A GitHub OSINT tool for emails, timezones, and activity",
     "link": "https://gitleak.io",
     "published": "2026-05-01T14:48:20Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: PGP Made Convenient",
     "link": "https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp",
     "published": "2026-04-02T13:31:11Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
-    "link": "https://news.ycombinator.com/item?id=47597591",
-    "published": "2026-04-01T06:34:03Z"
   }
 ]

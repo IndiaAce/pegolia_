@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-06
 
 ## 📰 Hacker News
+- [Show HN: Prism – Self-hosted notification gateway for privacy](https://github.com/lone-cloud/prism) — 2026-05-06T18:20
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
 - [Show HN: AgentPort – Open-source Security Gateway For Agents](https://agentport.sh/) — 2026-04-29T16:33
 - [Show HN: Integrations gateway for agents with 2FA for destructive ops (OSS)](https://github.com/yakkomajuri/agentport) — 2026-04-28T14:24
@@ -20,7 +21,6 @@
 - [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
 - [Upwork Inc. violates its own DMARC and SPF policy](https://news.ycombinator.com/item?id=47659603) — 2026-04-06T11:37
 - [Show HN: PGP Made Convenient](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) — 2026-04-02T13:31
-- [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
 
 ## 📰 Proofpoint
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
