@@ -23,6 +23,7 @@
 - [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
 
 ## 📰 Proofpoint
+- [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector) — 29 Apr 2026 11:5
 - [AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants](https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants) — 28 Apr 2026 12:0
 - [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
@@ -32,5 +33,4 @@
 - [Freight Hacker Wields Code-Signing Service to Evade Defenses](https://www.proofpoint.com/us/newsroom/news/freight-hacker-wields-code-signing-service-evade-defenses) — 16 Apr 2026 11:1
 - [Sumit Dhawan on NYSE Floor Talk | Proofpoint AI Security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-nyse-floor-talk-proofpoint-ai-security) — 15 Apr 2026 16:4
 - [FIFA World Cup 2026: More than One-Third of Official Partners Expose the Public to the Risk of Email Fraud](https://www.proofpoint.com/us/newsroom/press-releases/fifa-world-cup-2026-more-one-third-official-partners-expose-public-risk) — 14 Apr 2026 08:4
-- [Microsoft 365 mailbox rules abused for exfiltration, persistence](https://www.proofpoint.com/us/newsroom/news/microsoft-365-mailbox-rules-abused-exfiltration-persistence) — 13 Apr 2026 16:4
 
