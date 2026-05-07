@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-06
+# 🛡️ Email Security Trends – Updated 2026-05-07
 
 ## 📰 Hacker News
 - [Show HN: Prism – Self-hosted notification gateway for privacy](https://github.com/lone-cloud/prism) — 2026-05-06T18:20
