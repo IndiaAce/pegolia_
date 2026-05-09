@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-08
+# 🛡️ Email Security Trends – Updated 2026-05-09
 
 ## 📰 Hacker News
 - [Show HN: Prism – Self-hosted notification gateway (Signal, Telegram, WebPush)](https://github.com/lone-cloud/prism) — 2026-05-08T17:50
@@ -24,13 +24,13 @@
 
 ## 📰 Proofpoint
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
+- [AI and the New Threat Landscape | Sumit Dhawan with NightDragon | RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-and-new-threat-landscape-sumit-dhawan-nightdragon-rsac-2026) — 05 May 2026 15:3
+- [The Most Powerful Women Of The Channel 2026: Power 100](https://www.proofpoint.com/us/newsroom/news/most-powerful-women-channel-2026-power-100) — 04 May 2026 15:3
+- [AI Security Gaps Create New MSSP Opportunity: Proofpoint](https://www.proofpoint.com/us/newsroom/news/ai-security-gaps-create-new-mssp-opportunity-proofpoint) — 30 Apr 2026 15:3
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector) — 29 Apr 2026 11:5
 - [AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants](https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants) — 28 Apr 2026 12:0
 - [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
 - [Proofpoint CEO on AI Security Innovations | Nasdaq at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-ai-security-innovations-nasdaq-rsac-2026) — 22 Apr 2026 11:1
 - [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
-- [Freight Hacker Wields Code-Signing Service to Evade Defenses](https://www.proofpoint.com/us/newsroom/news/freight-hacker-wields-code-signing-service-evade-defenses) — 16 Apr 2026 11:1
-- [Sumit Dhawan on NYSE Floor Talk | Proofpoint AI Security](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-nyse-floor-talk-proofpoint-ai-security) — 15 Apr 2026 16:4
-- [FIFA World Cup 2026: More than One-Third of Official Partners Expose the Public to the Risk of Email Fraud](https://www.proofpoint.com/us/newsroom/press-releases/fifa-world-cup-2026-more-one-third-official-partners-expose-public-risk) — 14 Apr 2026 08:4
 
