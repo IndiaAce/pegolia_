@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-09
+# 🛡️ Email Security Trends – Updated 2026-05-10
 
 ## 📰 Hacker News
 - [Phishing Arena – multi-agent LLM tournament to study adversarial email security](https://github.com/Krabby24/phishing-arena) — 2026-05-08T12:54
