@@ -1,7 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2026-05-10
 
 ## 📰 Hacker News
+- [Show HN: Prism – Self-hosted notification gateway (Signal, Telegram, WebPush)](https://github.com/lone-cloud/prism) — 2026-05-08T17:50
 - [Phishing Arena – multi-agent LLM tournament to study adversarial email security](https://github.com/Krabby24/phishing-arena) — 2026-05-08T12:54
+- [Show HN: Prism – Self-hosted notification gateway for privacy](https://github.com/lone-cloud/prism) — 2026-05-06T18:20
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
 - [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
 - [Show HN: A privacy first companion AI](https://www.friendai.pro) — 2026-04-25T22:36
@@ -19,8 +21,6 @@
 - [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
 - [Upwork Inc. violates its own DMARC and SPF policy](https://news.ycombinator.com/item?id=47659603) — 2026-04-06T11:37
 - [Show HN: PGP Made Convenient](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) — 2026-04-02T13:31
-- [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
-- [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 
 ## 📰 Proofpoint
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
