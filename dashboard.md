@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-11
 
 ## 📰 Hacker News
+- [Ask HN: I am 17 years old, which college should I apply if I have some projects?](https://news.ycombinator.com/item?id=48097377) — 2026-05-11T16:44
 - [Phishing Arena – multi-agent LLM tournament to study adversarial email security](https://github.com/Krabby24/phishing-arena) — 2026-05-08T12:54
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
 - [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
@@ -20,7 +21,6 @@
 - [Upwork Inc. violates its own DMARC and SPF policy](https://news.ycombinator.com/item?id=47659603) — 2026-04-06T11:37
 - [Show HN: PGP Made Convenient](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) — 2026-04-02T13:31
 - [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
-- [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 
 ## 📰 Proofpoint
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
