@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-10
+# 🛡️ Email Security Trends – Updated 2026-05-11
 
 ## 📰 Hacker News
 - [Show HN: Prism – Self-hosted notification gateway (Signal, Telegram, WebPush)](https://github.com/lone-cloud/prism) — 2026-05-08T17:50
