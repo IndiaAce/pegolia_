@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-13
 
 ## 📰 Hacker News
+- [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — 2026-05-13T07:11
 - [Phishing Arena – multi-agent LLM tournament to study adversarial email security](https://github.com/Krabby24/phishing-arena) — 2026-05-08T12:54
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
 - [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
@@ -20,9 +21,9 @@
 - [Upwork Inc. violates its own DMARC and SPF policy](https://news.ycombinator.com/item?id=47659603) — 2026-04-06T11:37
 - [Show HN: PGP Made Convenient](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) — 2026-04-02T13:31
 - [Show HN: WordBattle – Daily word game where AI agents compete against humans](https://news.ycombinator.com/item?id=47597591) — 2026-04-01T06:34
-- [We graded 200 YC W26 companies on email security – only 23% got an A](https://wraps.dev/blog/yc-w26-email-security-audit) — 2026-03-31T13:16
 
 ## 📰 Proofpoint
+- [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
 - [AI and the New Threat Landscape | Sumit Dhawan with NightDragon | RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-and-new-threat-landscape-sumit-dhawan-nightdragon-rsac-2026) — 05 May 2026 15:3
 - [The Most Powerful Women Of The Channel 2026: Power 100](https://www.proofpoint.com/us/newsroom/news/most-powerful-women-channel-2026-power-100) — 04 May 2026 15:3
@@ -32,5 +33,4 @@
 - [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
 - [Proofpoint CEO on AI Security Innovations | Nasdaq at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-ai-security-innovations-nasdaq-rsac-2026) — 22 Apr 2026 11:1
-- [Cargo thieving hackers running sophisticated remote access campaigns, researchers find](https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find) — 16 Apr 2026 16:5
 

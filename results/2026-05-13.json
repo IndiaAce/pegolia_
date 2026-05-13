@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total",
+    "published": "12 May 2026 22:00:00"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern",
     "published": "06 May 2026 06:26:29"
@@ -54,10 +60,10 @@
     "published": "22 Apr 2026 11:19:52"
   },
   {
-    "source": "Proofpoint",
-    "title": "Cargo thieving hackers running sophisticated remote access campaigns, researchers find",
-    "link": "https://www.proofpoint.com/us/newsroom/news/cargo-thieving-hackers-running-sophisticated-remote-access-campaigns-researchers-find",
-    "published": "16 Apr 2026 16:50:17"
+    "source": "Hacker News",
+    "title": "SecurityBaseline.eu",
+    "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+    "published": "2026-05-13T07:11:17Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
     "link": "https://news.ycombinator.com/item?id=47597591",
     "published": "2026-04-01T06:34:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
-    "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
-    "published": "2026-03-31T13:16:17Z"
   }
 ]
