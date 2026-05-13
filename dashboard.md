@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-12
+# 🛡️ Email Security Trends – Updated 2026-05-13
 
 ## 📰 Hacker News
 - [Ask HN: I am 17 years old, which college should I apply if I have some projects?](https://news.ycombinator.com/item?id=48097377) — 2026-05-11T16:44
