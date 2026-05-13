@@ -61,12 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Ask HN: I am 17 years old, which college should I apply if I have some projects?",
-    "link": "https://news.ycombinator.com/item?id=48097377",
-    "published": "2026-05-11T16:44:04Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Phishing Arena \u2013 multi-agent LLM tournament to study adversarial email security",
     "link": "https://github.com/Krabby24/phishing-arena",
     "published": "2026-05-08T12:54:01Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: WordBattle \u2013 Daily word game where AI agents compete against humans",
     "link": "https://news.ycombinator.com/item?id=47597591",
     "published": "2026-04-01T06:34:03Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "We graded 200 YC W26 companies on email security \u2013 only 23% got an A",
+    "link": "https://wraps.dev/blog/yc-w26-email-security-audit",
+    "published": "2026-03-31T13:16:17Z"
   }
 ]
