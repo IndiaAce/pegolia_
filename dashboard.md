@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-13
+# 🛡️ Email Security Trends – Updated 2026-05-14
 
 ## 📰 Hacker News
 - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — 2026-05-13T07:11
