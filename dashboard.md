@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-15
+# 🛡️ Email Security Trends – Updated 2026-05-16
 
 ## 📰 Hacker News
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
@@ -24,6 +24,7 @@
 
 ## 📰 Proofpoint
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
+- [The spy who logged me in.](https://www.proofpoint.com/us/newsroom/news/spy-who-logged-me) — 09 May 2026 15:2
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
 - [AI and the New Threat Landscape | Sumit Dhawan with NightDragon | RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-and-new-threat-landscape-sumit-dhawan-nightdragon-rsac-2026) — 05 May 2026 15:3
 - [The Most Powerful Women Of The Channel 2026: Power 100](https://www.proofpoint.com/us/newsroom/news/most-powerful-women-channel-2026-power-100) — 04 May 2026 15:3
@@ -32,5 +33,4 @@
 - [AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants](https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants) — 28 Apr 2026 12:0
 - [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
 - [Clear market trend for software providers to help with AI: Proofpoint CEO](https://www.proofpoint.com/us/newsroom/news/clear-market-trend-software-providers-help-ai-proofpoint-ceo) — 23 Apr 2026 16:3
-- [Proofpoint CEO on AI Security Innovations | Nasdaq at RSAC 2026](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-ai-security-innovations-nasdaq-rsac-2026) — 22 Apr 2026 11:1
 
