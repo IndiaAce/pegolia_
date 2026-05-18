@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-17
+# 🛡️ Email Security Trends – Updated 2026-05-18
 
 ## 📰 Hacker News
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
