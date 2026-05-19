@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-19
 
 ## 📰 Hacker News
+- [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
 - [Show HN: I realized job search is basically an email problem so I built JobBox](https://www.jobbox.cc) — 2026-05-14T15:03
 - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — 2026-05-13T07:11
@@ -20,7 +21,6 @@
 - [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 - [Show HN: The AI Software Factory](https://gethuman.sh/) — 2026-04-07T12:56
 - [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
-- [Upwork Inc. violates its own DMARC and SPF policy](https://news.ycombinator.com/item?id=47659603) — 2026-04-06T11:37
 
 ## 📰 Proofpoint
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
