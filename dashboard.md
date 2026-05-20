@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-05-19
+# 🛡️ Email Security Trends – Updated 2026-05-20
 
 ## 📰 Hacker News
+- [Show HN: Crowdsourced tracker for what each Windows/M365 update breaks](https://win-update-tracker.vercel.app/) — 2026-05-19T20:51
 - [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
 - [Show HN: I realized job search is basically an email problem so I built JobBox](https://www.jobbox.cc) — 2026-05-14T15:03
@@ -20,7 +21,6 @@
 - [Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.](https://news.ycombinator.com/item?id=47767928) — 2026-04-14T16:40
 - [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 - [Show HN: The AI Software Factory](https://gethuman.sh/) — 2026-04-07T12:56
-- [Tell HN: Google bot suspended our startup's email with 0 human recourse](https://news.ycombinator.com/item?id=47663132) — 2026-04-06T16:31
 
 ## 📰 Proofpoint
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
