@@ -91,6 +91,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: I am 17 years old, which college should I apply if I have some projects?",
+    "link": "https://news.ycombinator.com/item?id=48097377",
+    "published": "2026-05-11T16:44:04Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Phishing Arena \u2013 multi-agent LLM tournament to study adversarial email security",
     "link": "https://github.com/Krabby24/phishing-arena",
     "published": "2026-05-08T12:54:01Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Zero-identity messaging app with physics-based post-quantum encryption",
     "link": "https://news.ycombinator.com/item?id=47751692",
     "published": "2026-04-13T13:29:14Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: The AI Software Factory",
-    "link": "https://gethuman.sh/",
-    "published": "2026-04-07T12:56:30Z"
   }
 ]
