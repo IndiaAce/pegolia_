@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-20
+# 🛡️ Email Security Trends – Updated 2026-05-21
 
 ## 📰 Hacker News
 - [Show HN: Crowdsourced tracker for what each Windows/M365 update breaks](https://win-update-tracker.vercel.app/) — 2026-05-19T20:51
