@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-22
 
 ## 📰 Hacker News
+- [Show HN: LocalPanel – Manage any SSH server from Mac/Windows, no server agents](https://news.ycombinator.com/item?id=48235412) — 2026-05-22T13:12
 - [Show HN: Crowdsourced tracker for what each Windows/M365 update breaks](https://win-update-tracker.vercel.app/) — 2026-05-19T20:51
 - [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
@@ -20,7 +21,6 @@
 - [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796) — 2026-04-14T18:56
 - [Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.](https://news.ycombinator.com/item?id=47767928) — 2026-04-14T16:40
-- [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 
 ## 📰 Proofpoint
 - [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
