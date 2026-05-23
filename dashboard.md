@@ -7,7 +7,6 @@
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
 - [Show HN: I realized job search is basically an email problem so I built JobBox](https://www.jobbox.cc) — 2026-05-14T15:03
 - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — 2026-05-13T07:11
-- [Ask HN: I am 17 years old, which college should I apply if I have some projects?](https://news.ycombinator.com/item?id=48097377) — 2026-05-11T16:44
 - [Phishing Arena – multi-agent LLM tournament to study adversarial email security](https://github.com/Krabby24/phishing-arena) — 2026-05-08T12:54
 - [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
 - [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
@@ -21,6 +20,7 @@
 - [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796) — 2026-04-14T18:56
 - [Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.](https://news.ycombinator.com/item?id=47767928) — 2026-04-14T16:40
+- [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 
 ## 📰 Proofpoint
 - [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
