@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-22
+# 🛡️ Email Security Trends – Updated 2026-05-23
 
 ## 📰 Hacker News
 - [Show HN: LocalPanel – Manage any SSH server from Mac/Windows, no server agents](https://news.ycombinator.com/item?id=48235412) — 2026-05-22T13:12
