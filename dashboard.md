@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-05-24
 
 ## 📰 Hacker News
+- [State Explosion Security Problem in AI-Era Software Supply Chains](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue) — 2026-05-24T09:43
 - [Show HN: LocalPanel – Manage any SSH server from Mac/Windows, no server agents](https://news.ycombinator.com/item?id=48235412) — 2026-05-22T13:12
 - [Show HN: Crowdsourced tracker for what each Windows/M365 update breaks](https://win-update-tracker.vercel.app/) — 2026-05-19T20:51
 - [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
@@ -20,7 +21,6 @@
 - [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796) — 2026-04-14T18:56
 - [Tell HN: GitHub might have been leaking your webhook secrets. Check your emails.](https://news.ycombinator.com/item?id=47767928) — 2026-04-14T16:40
-- [Show HN: Zero-identity messaging app with physics-based post-quantum encryption](https://news.ycombinator.com/item?id=47751692) — 2026-04-13T13:29
 
 ## 📰 Proofpoint
 - [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
