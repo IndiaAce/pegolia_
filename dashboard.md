@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-24
+# 🛡️ Email Security Trends – Updated 2026-05-25
 
 ## 📰 Hacker News
 - [Thousands of Miles, 100 No's, and Our First User](https://news.ycombinator.com/item?id=48257336) — 2026-05-24T13:59
