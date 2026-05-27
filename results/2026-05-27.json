@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations",
+    "published": "27 May 2026 08:07:39"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and",
     "published": "21 May 2026 16:34:27"
@@ -52,12 +58,6 @@
     "title": "AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants",
     "link": "https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants",
     "published": "28 Apr 2026 12:01:12"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai",
-    "published": "28 Apr 2026 08:34:13"
   },
   {
     "source": "Hacker News",

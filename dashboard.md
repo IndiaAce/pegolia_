@@ -23,6 +23,7 @@
 - [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 
 ## 📰 Proofpoint
+- [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
 - [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
 - [The spy who logged me in.](https://www.proofpoint.com/us/newsroom/news/spy-who-logged-me) — 09 May 2026 15:2
@@ -32,5 +33,4 @@
 - [AI Security Gaps Create New MSSP Opportunity: Proofpoint](https://www.proofpoint.com/us/newsroom/news/ai-security-gaps-create-new-mssp-opportunity-proofpoint) — 30 Apr 2026 15:3
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector) — 29 Apr 2026 11:5
 - [AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants](https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants) — 28 Apr 2026 12:0
-- [Proofpoint Research Reveals Half of Global Organizations Experienced AI Incidents Despite Having AI Security Controls in Place](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-reveals-half-global-organizations-experienced-ai) — 28 Apr 2026 08:3
 
