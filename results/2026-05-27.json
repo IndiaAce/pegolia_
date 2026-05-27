@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+    "link": "https://github.com/craigmccaskill/posthorn",
+    "published": "2026-05-27T04:26:26Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Thousands of Miles, 100 No's, and Our First User",
     "link": "https://news.ycombinator.com/item?id=48257336",
     "published": "2026-05-24T13:59:07Z"
@@ -172,11 +178,5 @@
     "title": "GitHub gave webhook secrets away in webhook call",
     "link": "https://news.ycombinator.com/item?id=47770975",
     "published": "2026-04-14T20:22:20Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tell HN: Fiverr left customer files public and searchable",
-    "link": "https://news.ycombinator.com/item?id=47769796",
-    "published": "2026-04-14T18:56:40Z"
   }
 ]
