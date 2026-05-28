@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-27
+# 🛡️ Email Security Trends – Updated 2026-05-28
 
 ## 📰 Hacker News
 - [Show HN: Posthorn, self-hosted mail gateway](https://github.com/craigmccaskill/posthorn) — 2026-05-27T04:26
