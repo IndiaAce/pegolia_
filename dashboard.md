@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-05-29
+# 🛡️ Email Security Trends – Updated 2026-05-30
 
 ## 📰 Hacker News
+- [FYI: Dreamina is shady; do not use](https://news.ycombinator.com/item?id=48327706) — 2026-05-29T18:56
 - [Show HN: Posthorn, self-hosted mail gateway](https://github.com/craigmccaskill/posthorn) — 2026-05-27T04:26
 - [Thousands of Miles, 100 No's, and Our First User](https://news.ycombinator.com/item?id=48257336) — 2026-05-24T13:59
 - [State Explosion Security Problem in AI-Era Software Supply Chains](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue) — 2026-05-24T09:43
@@ -20,10 +21,10 @@
 - [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
 - [Claude Code is unable to respond to this request](https://news.ycombinator.com/item?id=47809543) — 2026-04-17T19:19
 - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/) — 2026-04-14T20:42
-- [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
+- [Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks](https://www.proofpoint.com/us/newsroom/news/verizon-dbir-healthcare-fends-increased-social-engineering-attacks) — 22 May 2026 14:3
 - [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
 - [The spy who logged me in.](https://www.proofpoint.com/us/newsroom/news/spy-who-logged-me) — 09 May 2026 15:2
@@ -32,5 +33,4 @@
 - [The Most Powerful Women Of The Channel 2026: Power 100](https://www.proofpoint.com/us/newsroom/news/most-powerful-women-channel-2026-power-100) — 04 May 2026 15:3
 - [AI Security Gaps Create New MSSP Opportunity: Proofpoint](https://www.proofpoint.com/us/newsroom/news/ai-security-gaps-create-new-mssp-opportunity-proofpoint) — 30 Apr 2026 15:3
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector) — 29 Apr 2026 11:5
-- [AI-Era Threats Spread Beyond Email Into SaaS, Collaboration Apps, and AI Assistants](https://www.proofpoint.com/us/newsroom/news/ai-era-threats-spread-beyond-email-saas-collaboration-apps-and-ai-assistants) — 28 Apr 2026 12:0
 
