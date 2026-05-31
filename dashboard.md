@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-05-30
+# 🛡️ Email Security Trends – Updated 2026-05-31
 
 ## 📰 Hacker News
 - [FYI: Dreamina is shady; do not use](https://news.ycombinator.com/item?id=48327706) — 2026-05-29T18:56
