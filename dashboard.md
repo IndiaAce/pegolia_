@@ -1,7 +1,6 @@
 # 🛡️ Email Security Trends – Updated 2026-05-31
 
 ## 📰 Hacker News
-- [FYI: Dreamina is shady; do not use](https://news.ycombinator.com/item?id=48327706) — 2026-05-29T18:56
 - [Show HN: Posthorn, self-hosted mail gateway](https://github.com/craigmccaskill/posthorn) — 2026-05-27T04:26
 - [Thousands of Miles, 100 No's, and Our First User](https://news.ycombinator.com/item?id=48257336) — 2026-05-24T13:59
 - [State Explosion Security Problem in AI-Era Software Supply Chains](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue) — 2026-05-24T09:43
@@ -21,6 +20,7 @@
 - [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
 - [Claude Code is unable to respond to this request](https://news.ycombinator.com/item?id=47809543) — 2026-04-17T19:19
 - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/) — 2026-04-14T20:42
+- [GitHub gave webhook secrets away in webhook call](https://news.ycombinator.com/item?id=47770975) — 2026-04-14T20:22
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
