@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "FYI: Dreamina is shady; do not use",
+    "link": "https://news.ycombinator.com/item?id=48327706",
+    "published": "2026-05-29T18:56:40Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Posthorn, self-hosted mail gateway",
     "link": "https://github.com/craigmccaskill/posthorn",
     "published": "2026-05-27T04:26:26Z"
@@ -172,11 +178,5 @@
     "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
     "link": "https://mrdns.com/",
     "published": "2026-04-14T20:42:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GitHub gave webhook secrets away in webhook call",
-    "link": "https://news.ycombinator.com/item?id=47770975",
-    "published": "2026-04-14T20:22:20Z"
   }
 ]
