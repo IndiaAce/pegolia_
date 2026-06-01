@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Non-profit school possibly hacked, locked out of Google Workspace.",
+    "link": "https://news.ycombinator.com/item?id=48357674",
+    "published": "2026-06-01T14:57:49Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane",
     "link": "https://dmarcguard.io/blog/nis2-email-security/",
     "published": "2026-06-01T13:41:09Z"
@@ -172,11 +178,5 @@
     "title": "Tell HN: Security Incident at Porter (YC S20)",
     "link": "https://news.ycombinator.com/item?id=47811132",
     "published": "2026-04-17T22:09:28Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Claude Code is unable to respond to this request",
-    "link": "https://news.ycombinator.com/item?id=47809543",
-    "published": "2026-04-17T19:19:16Z"
   }
 ]
