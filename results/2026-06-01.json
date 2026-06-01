@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane",
+    "link": "https://dmarcguard.io/blog/nis2-email-security/",
+    "published": "2026-06-01T13:41:09Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "FYI: Dreamina is shady; do not use",
     "link": "https://news.ycombinator.com/item?id=48327706",
     "published": "2026-05-29T18:56:40Z"
@@ -172,11 +178,5 @@
     "title": "Claude Code is unable to respond to this request",
     "link": "https://news.ycombinator.com/item?id=47809543",
     "published": "2026-04-17T19:19:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
-    "link": "https://mrdns.com/",
-    "published": "2026-04-14T20:42:21Z"
   }
 ]
