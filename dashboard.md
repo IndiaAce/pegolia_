@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-01
+# 🛡️ Email Security Trends – Updated 2026-06-02
 
 ## 📰 Hacker News
 - [Ask HN: Non-profit school possibly hacked, locked out of Google Workspace.](https://news.ycombinator.com/item?id=48357674) — 2026-06-01T14:57
