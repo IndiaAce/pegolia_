@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-06-02
+# 🛡️ Email Security Trends – Updated 2026-06-03
 
 ## 📰 Hacker News
+- [Show HN: Junco, turn newsletters into short audio episodes](https://www.tryjunco.com/) — 2026-06-02T23:00
+- [Show HN: Clor – give your agent claws](https://clor.com/) — 2026-06-02T19:53
 - [Ask HN: Non-profit school possibly hacked, locked out of Google Workspace.](https://news.ycombinator.com/item?id=48357674) — 2026-06-01T14:57
 - [NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane](https://dmarcguard.io/blog/nis2-email-security/) — 2026-06-01T13:41
 - [Show HN: Posthorn, self-hosted mail gateway](https://github.com/craigmccaskill/posthorn) — 2026-05-27T04:26
@@ -19,8 +21,6 @@
 - [Show HN: I built a free email security checker for small businesses](https://shielddeskhq.com/checker) — 2026-04-25T13:41
 - [Show HN: Lilo – a self-hosted, open-source intelligent personal OS](https://github.com/abi/lilo) — 2026-04-24T19:46
 - [Show HN: Made a highly organised email client with prompt-free AI within](https://news.ycombinator.com/item?id=47835218) — 2026-04-20T14:48
-- [Tell HN: Security Incident at Porter (YC S20)](https://news.ycombinator.com/item?id=47811132) — 2026-04-17T22:09
-- [Claude Code is unable to respond to this request](https://news.ycombinator.com/item?id=47809543) — 2026-04-17T19:19
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
