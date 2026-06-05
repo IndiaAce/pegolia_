@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-04
+# 🛡️ Email Security Trends – Updated 2026-06-05
 
 ## 📰 Hacker News
 - [Show HN: Junco, turn newsletters into short audio episodes](https://www.tryjunco.com/) — 2026-06-02T23:00
