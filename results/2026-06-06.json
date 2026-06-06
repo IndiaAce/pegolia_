@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "I built an email agent to triage bogus security reports",
+    "link": "https://opencomputer.dev/blog/email-security-triage-agent/",
+    "published": "2026-06-06T00:24:38Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Junco, turn newsletters into short audio episodes",
     "link": "https://www.tryjunco.com/",
     "published": "2026-06-02T23:00:10Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Lilo \u2013 a self-hosted, open-source intelligent personal OS",
     "link": "https://github.com/abi/lilo",
     "published": "2026-04-24T19:46:30Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Made a highly organised email client with prompt-free AI within",
-    "link": "https://news.ycombinator.com/item?id=47835218",
-    "published": "2026-04-20T14:48:50Z"
   }
 ]

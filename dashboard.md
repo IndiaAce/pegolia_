@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-06-06
 
 ## 📰 Hacker News
+- [I built an email agent to triage bogus security reports](https://opencomputer.dev/blog/email-security-triage-agent/) — 2026-06-06T00:24
 - [Show HN: Junco, turn newsletters into short audio episodes](https://www.tryjunco.com/) — 2026-06-02T23:00
 - [Show HN: Clor – give your agent claws](https://clor.com/) — 2026-06-02T19:53
 - [Ask HN: Non-profit school possibly hacked, locked out of Google Workspace.](https://news.ycombinator.com/item?id=48357674) — 2026-06-01T14:57
@@ -20,7 +21,6 @@
 - [Show HN: A privacy first companion AI](https://www.friendai.pro) — 2026-04-25T22:36
 - [Show HN: I built a free email security checker for small businesses](https://shielddeskhq.com/checker) — 2026-04-25T13:41
 - [Show HN: Lilo – a self-hosted, open-source intelligent personal OS](https://github.com/abi/lilo) — 2026-04-24T19:46
-- [Show HN: Made a highly organised email client with prompt-free AI within](https://news.ycombinator.com/item?id=47835218) — 2026-04-20T14:48
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
