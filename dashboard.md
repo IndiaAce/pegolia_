@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-06
+# 🛡️ Email Security Trends – Updated 2026-06-07
 
 ## 📰 Hacker News
 - [I built an email agent to triage bogus security reports](https://opencomputer.dev/blog/email-security-triage-agent/) — 2026-06-06T00:24
