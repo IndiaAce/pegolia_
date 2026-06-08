@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-06-08
 
 ## 📰 Hacker News
+- [Does the Web Use DNSSEC and Email Authentication? Scanning TopM Domains](https://www.pwndefend.com/2026/06/06/email-and-domain-security/) — 2026-06-08T00:41
 - [I built an email agent to triage bogus security reports](https://opencomputer.dev/blog/email-security-triage-agent/) — 2026-06-06T00:24
 - [Show HN: Junco, turn newsletters into short audio episodes](https://www.tryjunco.com/) — 2026-06-02T23:00
 - [Show HN: Clor – give your agent claws](https://clor.com/) — 2026-06-02T19:53
@@ -20,7 +21,6 @@
 - [Show HN: Scan your OSS projects for vulnerabilities](https://console.zeroquarry.com/) — 2026-04-28T09:56
 - [Show HN: A privacy first companion AI](https://www.friendai.pro) — 2026-04-25T22:36
 - [Show HN: I built a free email security checker for small businesses](https://shielddeskhq.com/checker) — 2026-04-25T13:41
-- [Show HN: Lilo – a self-hosted, open-source intelligent personal OS](https://github.com/abi/lilo) — 2026-04-24T19:46
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0

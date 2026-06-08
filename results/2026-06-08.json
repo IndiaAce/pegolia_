@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Does the Web Use DNSSEC and Email Authentication? Scanning TopM Domains",
+    "link": "https://www.pwndefend.com/2026/06/06/email-and-domain-security/",
+    "published": "2026-06-08T00:41:23Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "I built an email agent to triage bogus security reports",
     "link": "https://opencomputer.dev/blog/email-security-triage-agent/",
     "published": "2026-06-06T00:24:38Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: I built a free email security checker for small businesses",
     "link": "https://shielddeskhq.com/checker",
     "published": "2026-04-25T13:41:38Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Lilo \u2013 a self-hosted, open-source intelligent personal OS",
-    "link": "https://github.com/abi/lilo",
-    "published": "2026-04-24T19:46:30Z"
   }
 ]
