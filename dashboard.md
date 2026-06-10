@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-09
+# 🛡️ Email Security Trends – Updated 2026-06-10
 
 ## 📰 Hacker News
 - [Does the Web Use DNSSEC and Email Authentication? Scanning TopM Domains](https://www.pwndefend.com/2026/06/06/email-and-domain-security/) — 2026-06-08T00:41
