@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-10
+# 🛡️ Email Security Trends – Updated 2026-06-11
 
 ## 📰 Hacker News
 - [Show HN: A tool to analyze and manage sosreports](https://sos-vault.com/login) — 2026-06-10T10:27
