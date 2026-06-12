@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: StackScope \u2013 I crawled over 40k indie launches to see what they ship",
+    "link": "https://stackscope.dev/",
+    "published": "2026-06-12T15:26:12Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: A tool to analyze and manage sosreports",
     "link": "https://sos-vault.com/login",
     "published": "2026-06-10T10:27:32Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Scan your OSS projects for vulnerabilities",
     "link": "https://console.zeroquarry.com/",
     "published": "2026-04-28T09:56:19Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A privacy first companion AI",
-    "link": "https://www.friendai.pro",
-    "published": "2026-04-25T22:36:49Z"
   }
 ]
