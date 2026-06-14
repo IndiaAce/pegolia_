@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-13
+# 🛡️ Email Security Trends – Updated 2026-06-14
 
 ## 📰 Hacker News
 - [Ask HN: Phishing from 646-257-4500](https://news.ycombinator.com/item?id=48510035) — 2026-06-12T22:12
