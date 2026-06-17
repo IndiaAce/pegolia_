@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-06-16
+# 🛡️ Email Security Trends – Updated 2026-06-17
 
 ## 📰 Hacker News
+- [Assess the security of email communication between providers](https://mecsa.jrc.ec.europa.eu/) — 2026-06-16T20:04
 - [Ask HN: Phishing from 646-257-4500](https://news.ycombinator.com/item?id=48510035) — 2026-06-12T22:12
 - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/) — 2026-06-12T15:26
 - [Show HN: A tool to analyze and manage sosreports](https://sos-vault.com/login) — 2026-06-10T10:27
@@ -20,7 +21,6 @@
 - [Show HN: I realized job search is basically an email problem so I built JobBox](https://www.jobbox.cc) — 2026-05-14T15:03
 - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — 2026-05-13T07:11
 - [Phishing Arena – multi-agent LLM tournament to study adversarial email security](https://github.com/Krabby24/phishing-arena) — 2026-05-08T12:54
-- [Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity](https://gitleak.io) — 2026-05-01T14:48
 
 ## 📰 Proofpoint
 - [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
