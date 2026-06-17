@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Hextrap \u2013 Package Firewall with OPA Policies and MCP Support",
+    "link": "https://hextrap.com/products/firewall/",
+    "published": "2026-06-17T13:11:25Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Assess the security of email communication between providers",
     "link": "https://mecsa.jrc.ec.europa.eu/",
     "published": "2026-06-16T20:04:57Z"
@@ -172,11 +178,5 @@
     "title": "SecurityBaseline.eu",
     "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
     "published": "2026-05-13T07:11:17Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Phishing Arena \u2013 multi-agent LLM tournament to study adversarial email security",
-    "link": "https://github.com/Krabby24/phishing-arena",
-    "published": "2026-05-08T12:54:01Z"
   }
 ]
