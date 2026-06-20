@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-19
+# 🛡️ Email Security Trends – Updated 2026-06-20
 
 ## 📰 Hacker News
 - [Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support](https://hextrap.com/products/firewall/) — 2026-06-17T13:11
