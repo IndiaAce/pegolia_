@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-06-20
+# 🛡️ Email Security Trends – Updated 2026-06-21
 
 ## 📰 Hacker News
+- [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
 - [Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support](https://hextrap.com/products/firewall/) — 2026-06-17T13:11
 - [Assess the security of email communication between providers](https://mecsa.jrc.ec.europa.eu/) — 2026-06-16T20:04
 - [Ask HN: Phishing from 646-257-4500](https://news.ycombinator.com/item?id=48510035) — 2026-06-12T22:12
@@ -20,7 +21,6 @@
 - [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
 - [Show HN: I realized job search is basically an email problem so I built JobBox](https://www.jobbox.cc) — 2026-05-14T15:03
-- [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — 2026-05-13T07:11
 
 ## 📰 Proofpoint
 - [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
