@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-06-23
 
 ## 📰 Hacker News
+- [Show HN: Publish.my – Static hosting where the AI agent is the customer](https://publish.my/) — 2026-06-23T15:12
 - [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
 - [Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support](https://hextrap.com/products/firewall/) — 2026-06-17T13:11
 - [Assess the security of email communication between providers](https://mecsa.jrc.ec.europa.eu/) — 2026-06-16T20:04
@@ -20,7 +21,6 @@
 - [Show HN: Crowdsourced tracker for what each Windows/M365 update breaks](https://win-update-tracker.vercel.app/) — 2026-05-19T20:51
 - [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
 - [Show HN: A DNS Security Audit Tool](https://dns-audit.com/) — 2026-05-14T15:11
-- [Show HN: I realized job search is basically an email problem so I built JobBox](https://www.jobbox.cc) — 2026-05-14T15:03
 
 ## 📰 Proofpoint
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3

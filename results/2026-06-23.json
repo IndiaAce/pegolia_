@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Publish.my \u2013 Static hosting where the AI agent is the customer",
+    "link": "https://publish.my/",
+    "published": "2026-06-23T15:12:15Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Email client focused on reducing phishing risk and inbox overload",
     "link": "https://clutterstrike.com/",
     "published": "2026-06-20T18:49:28Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: A DNS Security Audit Tool",
     "link": "https://dns-audit.com/",
     "published": "2026-05-14T15:11:29Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I realized job search is basically an email problem so I built JobBox",
-    "link": "https://www.jobbox.cc",
-    "published": "2026-05-14T15:03:17Z"
   }
 ]
