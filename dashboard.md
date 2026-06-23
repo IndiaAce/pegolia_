@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-22
+# 🛡️ Email Security Trends – Updated 2026-06-23
 
 ## 📰 Hacker News
 - [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
