@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-23
+# 🛡️ Email Security Trends – Updated 2026-06-24
 
 ## 📰 Hacker News
 - [Show HN: Publish.my – Static hosting where the AI agent is the customer](https://publish.my/) — 2026-06-23T15:12
