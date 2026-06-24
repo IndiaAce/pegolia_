@@ -24,6 +24,7 @@
 
 ## 📰 Proofpoint
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
+- [OpenAI Lets Cyber Vendors Embed GPT-5.5 in Defenses](https://www.proofpoint.com/us/newsroom/news/openai-lets-cyber-vendors-embed-gpt-55-defenses) — 22 Jun 2026 09:2
 - [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
 - [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://www.proofpoint.com/us/newsroom/news/china-linked-ta4922-expands-phishing-attacks-uk-germany-italy-and-south-africa) — 04 Jun 2026 15:3
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
@@ -32,5 +33,4 @@
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
 - [The spy who logged me in.](https://www.proofpoint.com/us/newsroom/news/spy-who-logged-me) — 09 May 2026 15:2
 - [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
-- [AI and the New Threat Landscape | Sumit Dhawan with NightDragon | RSAC 2026](https://www.proofpoint.com/us/newsroom/news/ai-and-new-threat-landscape-sumit-dhawan-nightdragon-rsac-2026) — 05 May 2026 15:3
 
