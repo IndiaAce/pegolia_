@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-27
+# 🛡️ Email Security Trends – Updated 2026-06-28
 
 ## 📰 Hacker News
 - [Roblox parental controls are a dystopian security disaster](https://news.ycombinator.com/item?id=48690591) — 2026-06-26T19:02
