@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Data breach exposes up to 14.2M email logins at six ISPs",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+    "published": "2026-06-29T14:27:35Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built Exfault, agentic mobile app pentesting tool",
+    "link": "https://www.exfault.com/",
+    "published": "2026-06-29T13:47:07Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Roblox parental controls are a dystopian security disaster",
     "link": "https://news.ycombinator.com/item?id=48690591",
     "published": "2026-06-26T19:02:06Z"
@@ -166,17 +178,5 @@
     "title": "Show HN: LocalPanel \u2013 Manage any SSH server from Mac/Windows, no server agents",
     "link": "https://news.ycombinator.com/item?id=48235412",
     "published": "2026-05-22T13:12:14Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Crowdsourced tracker for what each Windows/M365 update breaks",
-    "link": "https://win-update-tracker.vercel.app/",
-    "published": "2026-05-19T20:51:00Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: MailSec \u2013 Free email security audit API (one curl, eight checks)",
-    "link": "https://fivetag.systems/mailsec/playground/",
-    "published": "2026-05-19T17:09:24Z"
   }
 ]

@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-06-29
 
 ## 📰 Hacker News
+- [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/) — 2026-06-29T14:27
+- [Show HN: I built Exfault, agentic mobile app pentesting tool](https://www.exfault.com/) — 2026-06-29T13:47
 - [Roblox parental controls are a dystopian security disaster](https://news.ycombinator.com/item?id=48690591) — 2026-06-26T19:02
 - [Show HN: Publish.my – Static hosting where the AI agent is the customer](https://publish.my/) — 2026-06-23T15:12
 - [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
@@ -19,8 +21,6 @@
 - [Thousands of Miles, 100 No's, and Our First User](https://news.ycombinator.com/item?id=48257336) — 2026-05-24T13:59
 - [State Explosion Security Problem in AI-Era Software Supply Chains](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue) — 2026-05-24T09:43
 - [Show HN: LocalPanel – Manage any SSH server from Mac/Windows, no server agents](https://news.ycombinator.com/item?id=48235412) — 2026-05-22T13:12
-- [Show HN: Crowdsourced tracker for what each Windows/M365 update breaks](https://win-update-tracker.vercel.app/) — 2026-05-19T20:51
-- [Show HN: MailSec – Free email security audit API (one curl, eight checks)](https://fivetag.systems/mailsec/playground/) — 2026-05-19T17:09
 
 ## 📰 Proofpoint
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
