@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-29
+# 🛡️ Email Security Trends – Updated 2026-06-30
 
 ## 📰 Hacker News
 - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/) — 2026-06-29T14:27
