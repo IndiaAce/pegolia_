@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-06-30
+# 🛡️ Email Security Trends – Updated 2026-07-01
 
 ## 📰 Hacker News
 - [Show HN: Obvelum – an anonymous hiring portal where companies apply to you](https://www.obvelum.com/) — 2026-06-30T15:04
