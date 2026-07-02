@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-07-02
 
 ## 📰 Hacker News
+- [Read the Emails Revealing How Anthropic's Pentagon Relationship Fell Apart](https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd) — 2026-07-02T15:40
 - [Show HN: Obvelum – an anonymous hiring portal where companies apply to you](https://www.obvelum.com/) — 2026-06-30T15:04
 - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/) — 2026-06-29T14:27
 - [Show HN: I built Exfault, agentic mobile app pentesting tool](https://www.exfault.com/) — 2026-06-29T13:47
@@ -20,7 +21,6 @@
 - [NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane](https://dmarcguard.io/blog/nis2-email-security/) — 2026-06-01T13:41
 - [Show HN: Posthorn, self-hosted mail gateway](https://github.com/craigmccaskill/posthorn) — 2026-05-27T04:26
 - [Thousands of Miles, 100 No's, and Our First User](https://news.ycombinator.com/item?id=48257336) — 2026-05-24T13:59
-- [State Explosion Security Problem in AI-Era Software Supply Chains](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue) — 2026-05-24T09:43
 
 ## 📰 Proofpoint
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
