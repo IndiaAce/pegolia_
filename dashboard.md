@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-02
+# 🛡️ Email Security Trends – Updated 2026-07-03
 
 ## 📰 Hacker News
 - [Read the Emails Revealing How Anthropic's Pentagon Relationship Fell Apart](https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd) — 2026-07-02T15:40
@@ -23,6 +23,8 @@
 - [Thousands of Miles, 100 No's, and Our First User](https://news.ycombinator.com/item?id=48257336) — 2026-05-24T13:59
 
 ## 📰 Proofpoint
+- [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
+- [Defending the Authentication Flow: Device Code Phishing with Selena Larson](https://www.proofpoint.com/us/newsroom/news/defending-authentication-flow-device-code-phishing-selena-larson) — 30 Jun 2026 15:3
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
 - [OpenAI Lets Cyber Vendors Embed GPT-5.5 in Defenses](https://www.proofpoint.com/us/newsroom/news/openai-lets-cyber-vendors-embed-gpt-55-defenses) — 22 Jun 2026 09:2
 - [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
@@ -31,6 +33,4 @@
 - [Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks](https://www.proofpoint.com/us/newsroom/news/verizon-dbir-healthcare-fends-increased-social-engineering-attacks) — 22 May 2026 14:3
 - [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
 - [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
-- [The spy who logged me in.](https://www.proofpoint.com/us/newsroom/news/spy-who-logged-me) — 09 May 2026 15:2
-- [Proofpoint Establishes Innovation Precedent for Source-Agnostic Modern Enterprise Investigations](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-establishes-innovation-precedent-source-agnostic-modern) — 06 May 2026 06:2
 
