@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-03
+# 🛡️ Email Security Trends – Updated 2026-07-04
 
 ## 📰 Hacker News
 - [Read the Emails Revealing How Anthropic's Pentagon Relationship Fell Apart](https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd) — 2026-07-02T15:40
