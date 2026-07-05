@@ -63,6 +63,12 @@
     "source": "Hacker News",
     "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
     "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
+    "published": "2026-07-05T06:26:38Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
+    "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
     "published": "2026-07-04T17:01:39Z"
   },
   {
@@ -172,11 +178,5 @@
     "title": "NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane",
     "link": "https://dmarcguard.io/blog/nis2-email-security/",
     "published": "2026-06-01T13:41:09Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Posthorn, self-hosted mail gateway",
-    "link": "https://github.com/craigmccaskill/posthorn",
-    "published": "2026-05-27T04:26:26Z"
   }
 ]
