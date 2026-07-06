@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-07-06
 
 ## 📰 Hacker News
+- [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
 - [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
 - [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-04T17:01
 - [Read the Emails Revealing How Anthropic's Pentagon Relationship Fell Apart](https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd) — 2026-07-02T15:40
@@ -20,7 +21,6 @@
 - [Show HN: Junco, turn newsletters into short audio episodes](https://www.tryjunco.com/) — 2026-06-02T23:00
 - [Show HN: Clor – give your agent claws](https://clor.com/) — 2026-06-02T19:53
 - [Ask HN: Non-profit school possibly hacked, locked out of Google Workspace.](https://news.ycombinator.com/item?id=48357674) — 2026-06-01T14:57
-- [NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane](https://dmarcguard.io/blog/nis2-email-security/) — 2026-06-01T13:41
 
 ## 📰 Proofpoint
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3

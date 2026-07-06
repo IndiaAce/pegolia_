@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Are there good security benchmarks for LLMs?",
+    "link": "https://news.ycombinator.com/item?id=48803408",
+    "published": "2026-07-06T11:53:55Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
     "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
     "published": "2026-07-05T06:26:38Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Non-profit school possibly hacked, locked out of Google Workspace.",
     "link": "https://news.ycombinator.com/item?id=48357674",
     "published": "2026-06-01T14:57:49Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NIS2 Email Security: Mapping Article 21 Controls to DMARC, MTA-STS, and Dane",
-    "link": "https://dmarcguard.io/blog/nis2-email-security/",
-    "published": "2026-06-01T13:41:09Z"
   }
 ]
