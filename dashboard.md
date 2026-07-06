@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-05
+# 🛡️ Email Security Trends – Updated 2026-07-06
 
 ## 📰 Hacker News
 - [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
