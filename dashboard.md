@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-08
+# 🛡️ Email Security Trends – Updated 2026-07-09
 
 ## 📰 Hacker News
 - [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
