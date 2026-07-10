@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-07-09
+# 🛡️ Email Security Trends – Updated 2026-07-10
 
 ## 📰 Hacker News
+- [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
 - [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
 - [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
@@ -20,7 +21,6 @@
 - [Does the Web Use DNSSEC and Email Authentication? Scanning TopM Domains](https://www.pwndefend.com/2026/06/06/email-and-domain-security/) — 2026-06-08T00:41
 - [I built an email agent to triage bogus security reports](https://opencomputer.dev/blog/email-security-triage-agent/) — 2026-06-06T00:24
 - [Show HN: Junco, turn newsletters into short audio episodes](https://www.tryjunco.com/) — 2026-06-02T23:00
-- [Show HN: Clor – give your agent claws](https://clor.com/) — 2026-06-02T19:53
 
 ## 📰 Proofpoint
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
