@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Request for Senior Developer and Senior Cybersecurity",
+    "link": "https://news.ycombinator.com/item?id=48862083",
+    "published": "2026-07-10T16:24:18Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Request for a Cybersecurity and Senior Developer",
     "link": "https://news.ycombinator.com/item?id=48852607",
     "published": "2026-07-09T21:29:59Z"
@@ -172,11 +178,5 @@
     "title": "I built an email agent to triage bogus security reports",
     "link": "https://opencomputer.dev/blog/email-security-triage-agent/",
     "published": "2026-06-06T00:24:38Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Junco, turn newsletters into short audio episodes",
-    "link": "https://www.tryjunco.com/",
-    "published": "2026-06-02T23:00:10Z"
   }
 ]
