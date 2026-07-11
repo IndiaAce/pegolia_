@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-10
+# 🛡️ Email Security Trends – Updated 2026-07-11
 
 ## 📰 Hacker News
 - [Request for Senior Developer and Senior Cybersecurity](https://news.ycombinator.com/item?id=48862083) — 2026-07-10T16:24
