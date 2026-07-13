@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-12
+# 🛡️ Email Security Trends – Updated 2026-07-13
 
 ## 📰 Hacker News
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
