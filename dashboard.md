@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-07-13
 
 ## 📰 Hacker News
+- [SVIEW – 100M Large-Scale Grid & SQLite-free Pivot on an 11yo laptop](https://news.ycombinator.com/item?id=48892881) — 2026-07-13T14:03
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
@@ -20,7 +21,6 @@
 - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/) — 2026-06-12T15:26
 - [Show HN: A tool to analyze and manage sosreports](https://sos-vault.com/login) — 2026-06-10T10:27
 - [Does the Web Use DNSSEC and Email Authentication? Scanning TopM Domains](https://www.pwndefend.com/2026/06/06/email-and-domain-security/) — 2026-06-08T00:41
-- [I built an email agent to triage bogus security reports](https://opencomputer.dev/blog/email-security-triage-agent/) — 2026-06-06T00:24
 
 ## 📰 Proofpoint
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
