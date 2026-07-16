@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-07-16
 
 ## 📰 Hacker News
+- [Show HN: Enhanced YARA to detect threats in JavaScript using context and content](https://github.com/rishi-sekantsec/sekant-intercept-js) — 2026-07-16T09:33
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
@@ -20,7 +21,6 @@
 - [Ask HN: Phishing from 646-257-4500](https://news.ycombinator.com/item?id=48510035) — 2026-06-12T22:12
 - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/) — 2026-06-12T15:26
 - [Show HN: A tool to analyze and manage sosreports](https://sos-vault.com/login) — 2026-06-10T10:27
-- [Does the Web Use DNSSEC and Email Authentication? Scanning TopM Domains](https://www.pwndefend.com/2026/06/06/email-and-domain-security/) — 2026-06-08T00:41
 
 ## 📰 Proofpoint
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
