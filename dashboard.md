@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-15
+# 🛡️ Email Security Trends – Updated 2026-07-16
 
 ## 📰 Hacker News
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
