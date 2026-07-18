@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-17
+# 🛡️ Email Security Trends – Updated 2026-07-18
 
 ## 📰 Hacker News
 - [Show HN: Enhanced YARA to detect threats in JavaScript using context and content](https://github.com/rishi-sekantsec/sekant-intercept-js) — 2026-07-16T09:33
@@ -23,6 +23,9 @@
 - [Show HN: A tool to analyze and manage sosreports](https://sos-vault.com/login) — 2026-06-10T10:27
 
 ## 📰 Proofpoint
+- [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials) — 14 Jul 2026 13:3
+- [Hackers find a new trick to collect Microsoft Entra user data without raising red flags](https://www.proofpoint.com/us/newsroom/news/hackers-find-new-trick-collect-microsoft-entra-user-data-without-raising-red-flags) — 13 Jul 2026 13:3
+- [Suspected Chinese snoops caught breaking into universities' Roundcube mailservers](https://www.proofpoint.com/us/newsroom/news/suspected-chinese-snoops-caught-breaking-universities-roundcube-mailservers) — 08 Jul 2026 13:3
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
 - [Defending the Authentication Flow: Device Code Phishing with Selena Larson](https://www.proofpoint.com/us/newsroom/news/defending-authentication-flow-device-code-phishing-selena-larson) — 30 Jun 2026 15:3
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
@@ -30,7 +33,4 @@
 - [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
 - [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://www.proofpoint.com/us/newsroom/news/china-linked-ta4922-expands-phishing-attacks-uk-germany-italy-and-south-africa) — 04 Jun 2026 15:3
 - [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
-- [Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks](https://www.proofpoint.com/us/newsroom/news/verizon-dbir-healthcare-fends-increased-social-engineering-attacks) — 22 May 2026 14:3
-- [Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and) — 21 May 2026 16:3
-- [Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total) — 12 May 2026 22:0
 
