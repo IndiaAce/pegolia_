@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-19
+# 🛡️ Email Security Trends – Updated 2026-07-20
 
 ## 📰 Hacker News
 - [Show HN: Enhanced YARA to detect threats in JavaScript using context and content](https://github.com/rishi-sekantsec/sekant-intercept-js) — 2026-07-16T09:33
