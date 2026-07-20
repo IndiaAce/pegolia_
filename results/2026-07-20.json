@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: DeepSQL \u2013 A self-hostable AI DBA agent for Postgres and MySQL",
+    "link": "https://deepsql.ai/",
+    "published": "2026-07-20T15:32:20Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "GitHub's 2FA is to become mandatory on September 2, 2026",
     "link": "https://news.ycombinator.com/item?id=48976781",
     "published": "2026-07-20T10:24:02Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Phishing from 646-257-4500",
     "link": "https://news.ycombinator.com/item?id=48510035",
     "published": "2026-06-12T22:12:09Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: StackScope \u2013 I crawled over 40k indie launches to see what they ship",
-    "link": "https://stackscope.dev/",
-    "published": "2026-06-12T15:26:12Z"
   }
 ]
