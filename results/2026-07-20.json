@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "GitHub's 2FA is to become mandatory on September 2, 2026",
+    "link": "https://news.ycombinator.com/item?id=48976781",
+    "published": "2026-07-20T10:24:02Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Enhanced YARA to detect threats in JavaScript using context and content",
     "link": "https://github.com/rishi-sekantsec/sekant-intercept-js",
     "published": "2026-07-16T09:33:10Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: StackScope \u2013 I crawled over 40k indie launches to see what they ship",
     "link": "https://stackscope.dev/",
     "published": "2026-06-12T15:26:12Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A tool to analyze and manage sosreports",
-    "link": "https://sos-vault.com/login",
-    "published": "2026-06-10T10:27:32Z"
   }
 ]

@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-07-20
 
 ## 📰 Hacker News
+- [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781) — 2026-07-20T10:24
 - [Show HN: Enhanced YARA to detect threats in JavaScript using context and content](https://github.com/rishi-sekantsec/sekant-intercept-js) — 2026-07-16T09:33
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
@@ -20,7 +21,6 @@
 - [Assess the security of email communication between providers](https://mecsa.jrc.ec.europa.eu/) — 2026-06-16T20:04
 - [Ask HN: Phishing from 646-257-4500](https://news.ycombinator.com/item?id=48510035) — 2026-06-12T22:12
 - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/) — 2026-06-12T15:26
-- [Show HN: A tool to analyze and manage sosreports](https://sos-vault.com/login) — 2026-06-10T10:27
 
 ## 📰 Proofpoint
 - [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials) — 14 Jul 2026 13:3
