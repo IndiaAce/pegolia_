@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made",
+    "published": "22 Jul 2026 06:06:41"
+  },
+  {
+    "source": "Proofpoint",
     "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
     "link": "https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials",
     "published": "14 Jul 2026 13:36:51"
@@ -52,12 +58,6 @@
     "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
     "link": "https://www.proofpoint.com/us/newsroom/news/china-linked-ta4922-expands-phishing-attacks-uk-germany-italy-and-south-africa",
     "published": "04 Jun 2026 15:35:27"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations",
-    "published": "27 May 2026 08:07:39"
   },
   {
     "source": "Hacker News",

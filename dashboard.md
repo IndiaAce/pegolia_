@@ -23,6 +23,7 @@
 - [Assess the security of email communication between providers](https://mecsa.jrc.ec.europa.eu/) — 2026-06-16T20:04
 
 ## 📰 Proofpoint
+- [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
 - [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials) — 14 Jul 2026 13:3
 - [Hackers find a new trick to collect Microsoft Entra user data without raising red flags](https://www.proofpoint.com/us/newsroom/news/hackers-find-new-trick-collect-microsoft-entra-user-data-without-raising-red-flags) — 13 Jul 2026 13:3
 - [Suspected Chinese snoops caught breaking into universities' Roundcube mailservers](https://www.proofpoint.com/us/newsroom/news/suspected-chinese-snoops-caught-breaking-universities-roundcube-mailservers) — 08 Jul 2026 13:3
@@ -32,5 +33,4 @@
 - [OpenAI Lets Cyber Vendors Embed GPT-5.5 in Defenses](https://www.proofpoint.com/us/newsroom/news/openai-lets-cyber-vendors-embed-gpt-55-defenses) — 22 Jun 2026 09:2
 - [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
 - [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://www.proofpoint.com/us/newsroom/news/china-linked-ta4922-expands-phishing-attacks-uk-germany-italy-and-south-africa) — 04 Jun 2026 15:3
-- [Proofpoint Introduces Active Exploits Protection to Help Organizations Prioritize Vulnerability Patching for Real-World Attacks in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-active-exploits-protection-help-organizations) — 27 May 2026 08:0
 
