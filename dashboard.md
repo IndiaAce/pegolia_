@@ -2,7 +2,7 @@
 
 ## 📰 Hacker News
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
-- [Show HN: DeepSQL – A self-hostable AI DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
+- [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
 - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781) — 2026-07-20T10:24
 - [Show HN: Enhanced YARA to detect threats in JavaScript using context and content](https://github.com/rishi-sekantsec/sekant-intercept-js) — 2026-07-16T09:33
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
