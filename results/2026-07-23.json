@@ -91,6 +91,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "SVIEW \u2013 100M Large-Scale Grid & SQLite-free Pivot on an 11yo laptop",
+    "link": "https://news.ycombinator.com/item?id=48892881",
+    "published": "2026-07-13T14:03:21Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Sanbox, batteries included sandboxes for AI agents",
     "link": "https://sanbox.cloud",
     "published": "2026-07-12T10:16:21Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Hextrap \u2013 Package Firewall with OPA Policies and MCP Support",
     "link": "https://hextrap.com/products/firewall/",
     "published": "2026-06-17T13:11:25Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Assess the security of email communication between providers",
-    "link": "https://mecsa.jrc.ec.europa.eu/",
-    "published": "2026-06-16T20:04:57Z"
   }
 ]

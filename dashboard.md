@@ -6,6 +6,7 @@
 - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781) — 2026-07-20T10:24
 - [Show HN: Enhanced YARA to detect threats in JavaScript using context and content](https://github.com/rishi-sekantsec/sekant-intercept-js) — 2026-07-16T09:33
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
+- [SVIEW – 100M Large-Scale Grid & SQLite-free Pivot on an 11yo laptop](https://news.ycombinator.com/item?id=48892881) — 2026-07-13T14:03
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
@@ -20,7 +21,6 @@
 - [Show HN: Publish.my – Static hosting where the AI agent is the customer](https://publish.my/) — 2026-06-23T15:12
 - [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
 - [Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support](https://hextrap.com/products/firewall/) — 2026-06-17T13:11
-- [Assess the security of email communication between providers](https://mecsa.jrc.ec.europa.eu/) — 2026-06-16T20:04
 
 ## 📰 Proofpoint
 - [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
