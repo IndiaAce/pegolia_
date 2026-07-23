@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-22
+# 🛡️ Email Security Trends – Updated 2026-07-23
 
 ## 📰 Hacker News
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
