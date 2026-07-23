@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+    "link": "https://github.com/onecli/onecli",
+    "published": "2026-07-23T15:42:40Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Ekko \u2013 post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
     "link": "https://useekko.app/",
     "published": "2026-07-21T00:39:22Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Email client focused on reducing phishing risk and inbox overload",
     "link": "https://clutterstrike.com/",
     "published": "2026-06-20T18:49:28Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Hextrap \u2013 Package Firewall with OPA Policies and MCP Support",
-    "link": "https://hextrap.com/products/firewall/",
-    "published": "2026-06-17T13:11:25Z"
   }
 ]
