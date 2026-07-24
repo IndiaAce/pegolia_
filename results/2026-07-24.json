@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Krypter \u2013 simple offline message and file encryption mobile app",
+    "link": "https://news.ycombinator.com/item?id=49032780",
+    "published": "2026-07-24T08:31:49Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
     "link": "https://github.com/onecli/onecli",
     "published": "2026-07-23T15:42:40Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Email client focused on reducing phishing risk and inbox overload",
     "link": "https://clutterstrike.com/",
     "published": "2026-06-20T18:49:28Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Hextrap \u2013 Package Firewall with OPA Policies and MCP Support",
-    "link": "https://hextrap.com/products/firewall/",
-    "published": "2026-06-17T13:11:25Z"
   }
 ]

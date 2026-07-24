@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-07-24
 
 ## 📰 Hacker News
+- [Show HN: Krypter – simple offline message and file encryption mobile app](https://news.ycombinator.com/item?id=49032780) — 2026-07-24T08:31
 - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli) — 2026-07-23T15:42
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
 - [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
@@ -20,7 +21,6 @@
 - [Roblox parental controls are a dystopian security disaster](https://news.ycombinator.com/item?id=48690591) — 2026-06-26T19:02
 - [Show HN: Publish.my – Static hosting where the AI agent is the customer](https://publish.my/) — 2026-06-23T15:12
 - [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
-- [Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support](https://hextrap.com/products/firewall/) — 2026-06-17T13:11
 
 ## 📰 Proofpoint
 - [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
