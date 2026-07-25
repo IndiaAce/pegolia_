@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-24
+# 🛡️ Email Security Trends – Updated 2026-07-25
 
 ## 📰 Hacker News
 - [Show HN: Krypter – simple offline message and file encryption mobile app](https://news.ycombinator.com/item?id=49032780) — 2026-07-24T08:31
@@ -23,6 +23,9 @@
 - [Show HN: Email client focused on reducing phishing risk and inbox overload](https://clutterstrike.com/) — 2026-06-20T18:49
 
 ## 📰 Proofpoint
+- [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes) — 23 Jul 2026 16:1
+- [US and allies say Russian hackers stole emails without social engineering](https://www.proofpoint.com/us/newsroom/news/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering) — 23 Jul 2026 16:0
+- [If you pay a hacker’s ransom, chances are that they’ll come back for more](https://www.proofpoint.com/us/newsroom/news/if-you-pay-hackers-ransom-chances-are-theyll-come-back-more) — 22 Jul 2026 16:1
 - [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
 - [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials) — 14 Jul 2026 13:3
 - [Hackers find a new trick to collect Microsoft Entra user data without raising red flags](https://www.proofpoint.com/us/newsroom/news/hackers-find-new-trick-collect-microsoft-entra-user-data-without-raising-red-flags) — 13 Jul 2026 13:3
@@ -30,7 +33,4 @@
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
 - [Defending the Authentication Flow: Device Code Phishing with Selena Larson](https://www.proofpoint.com/us/newsroom/news/defending-authentication-flow-device-code-phishing-selena-larson) — 30 Jun 2026 15:3
 - [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
-- [OpenAI Lets Cyber Vendors Embed GPT-5.5 in Defenses](https://www.proofpoint.com/us/newsroom/news/openai-lets-cyber-vendors-embed-gpt-55-defenses) — 22 Jun 2026 09:2
-- [Suspected North Korean actors use fake ‘coding assignments’ to steal crypto](https://www.proofpoint.com/us/newsroom/news/suspected-north-korean-actors-use-fake-coding-assignments-steal-crypto) — 09 Jun 2026 15:2
-- [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://www.proofpoint.com/us/newsroom/news/china-linked-ta4922-expands-phishing-attacks-uk-germany-italy-and-south-africa) — 04 Jun 2026 15:3
 
