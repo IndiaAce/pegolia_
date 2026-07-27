@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-07-26
+# 🛡️ Email Security Trends – Updated 2026-07-27
 
 ## 📰 Hacker News
 - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli) — 2026-07-23T15:42
