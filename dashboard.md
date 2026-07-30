@@ -5,6 +5,7 @@
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 - [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
+- [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli) — 2026-07-23T15:42
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
 - [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
 - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781) — 2026-07-20T10:24
@@ -20,7 +21,6 @@
 - [Show HN: Obvelum – an anonymous hiring portal where companies apply to you](https://www.obvelum.com/) — 2026-06-30T15:04
 - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/) — 2026-06-29T14:27
 - [Show HN: I built Exfault, agentic mobile app pentesting tool](https://www.exfault.com/) — 2026-06-29T13:47
-- [Roblox parental controls are a dystopian security disaster](https://news.ycombinator.com/item?id=48690591) — 2026-06-26T19:02
 
 ## 📰 Proofpoint
 - [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes) — 23 Jul 2026 16:1
