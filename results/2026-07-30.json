@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
+    "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
+    "published": "2026-07-30T16:07:06Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
     "link": "https://echologue.com/",
     "published": "2026-07-29T12:43:36Z"
@@ -172,11 +178,5 @@
     "title": "Data breach exposes up to 14.2M email logins at six ISPs",
     "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
     "published": "2026-06-29T14:27:35Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built Exfault, agentic mobile app pentesting tool",
-    "link": "https://www.exfault.com/",
-    "published": "2026-06-29T13:47:07Z"
   }
 ]
