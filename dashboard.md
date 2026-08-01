@@ -23,6 +23,8 @@
 - [Show HN: I built Exfault, agentic mobile app pentesting tool](https://www.exfault.com/) — 2026-06-29T13:47
 
 ## 📰 Proofpoint
+- [Max-severity Exchange server flaw under active exploitation by Kremlin hackers](https://www.proofpoint.com/us/newsroom/news/max-severity-exchange-server-flaw-under-active-exploitation-kremlin-hackers) — 30 Jul 2026 19:0
+- [New warnings that Russian operatives are targeting the emails of US nuclear scientists and defense contractors](https://www.proofpoint.com/us/newsroom/news/new-warnings-russian-operatives-are-targeting-emails-us-nuclear-scientists-and-defense) — 23 Jul 2026 18:5
 - [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes) — 23 Jul 2026 16:1
 - [US and allies say Russian hackers stole emails without social engineering](https://www.proofpoint.com/us/newsroom/news/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering) — 23 Jul 2026 16:0
 - [If you pay a hacker’s ransom, chances are that they’ll come back for more](https://www.proofpoint.com/us/newsroom/news/if-you-pay-hackers-ransom-chances-are-theyll-come-back-more) — 22 Jul 2026 16:1
@@ -31,6 +33,4 @@
 - [Hackers find a new trick to collect Microsoft Entra user data without raising red flags](https://www.proofpoint.com/us/newsroom/news/hackers-find-new-trick-collect-microsoft-entra-user-data-without-raising-red-flags) — 13 Jul 2026 13:3
 - [Suspected Chinese snoops caught breaking into universities' Roundcube mailservers](https://www.proofpoint.com/us/newsroom/news/suspected-chinese-snoops-caught-breaking-universities-roundcube-mailservers) — 08 Jul 2026 13:3
 - [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
-- [Defending the Authentication Flow: Device Code Phishing with Selena Larson](https://www.proofpoint.com/us/newsroom/news/defending-authentication-flow-device-code-phishing-selena-larson) — 30 Jun 2026 15:3
-- [Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible) — 22 Jun 2026 10:3
 

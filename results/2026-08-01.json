@@ -1,6 +1,18 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+    "link": "https://www.proofpoint.com/us/newsroom/news/max-severity-exchange-server-flaw-under-active-exploitation-kremlin-hackers",
+    "published": "30 Jul 2026 19:01:12"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "New warnings that Russian operatives are targeting the emails of US nuclear scientists and defense contractors",
+    "link": "https://www.proofpoint.com/us/newsroom/news/new-warnings-russian-operatives-are-targeting-emails-us-nuclear-scientists-and-defense",
+    "published": "23 Jul 2026 18:59:25"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
     "link": "https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes",
     "published": "23 Jul 2026 16:13:08"
@@ -46,18 +58,6 @@
     "title": "New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams",
     "link": "https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams",
     "published": "01 Jul 2026 15:34:00"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Defending the Authentication Flow: Device Code Phishing with Selena Larson",
-    "link": "https://www.proofpoint.com/us/newsroom/news/defending-authentication-flow-device-code-phishing-selena-larson",
-    "published": "30 Jun 2026 15:35:04"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Proofpoint Joins the OpenAI Daybreak Cyber Partner Program to Advance Responsible AI-Powered Cyber Defense",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-openai-daybreak-cyber-partner-program-advance-responsible",
-    "published": "22 Jun 2026 10:31:52"
   },
   {
     "source": "Hacker News",
