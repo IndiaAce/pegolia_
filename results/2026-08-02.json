@@ -91,6 +91,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+    "link": "https://github.com/onecli/onecli",
+    "published": "2026-07-23T15:42:40Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Ekko \u2013 post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
     "link": "https://useekko.app/",
     "published": "2026-07-21T00:39:22Z"
@@ -172,11 +178,5 @@
     "title": "Data breach exposes up to 14.2M email logins at six ISPs",
     "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
     "published": "2026-06-29T14:27:35Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built Exfault, agentic mobile app pentesting tool",
-    "link": "https://www.exfault.com/",
-    "published": "2026-06-29T13:47:07Z"
   }
 ]
