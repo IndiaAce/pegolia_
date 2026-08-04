@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-03
+# 🛡️ Email Security Trends – Updated 2026-08-04
 
 ## 📰 Hacker News
 - [Russian spies take their half-click email attack from Zimbra to Outlook](https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033) — 2026-07-30T16:07
