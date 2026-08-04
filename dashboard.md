@@ -23,6 +23,8 @@
 - [Show HN: I built Exfault, agentic mobile app pentesting tool](https://www.exfault.com/) — 2026-06-29T13:47
 
 ## 📰 Proofpoint
+- [Proofpoint Joins Google Unified Security Recommended Program to Help Organizations Defend Against Today’s Most Sophisticated Threats](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-google-unified-security-recommended-program-help) — 04 Aug 2026 10:5
+- [Proofpoint Launches OEM Program to Help Security Providers Embed Trusted Threat Intelligence and Detection Capabilities](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-oem-program-help-security-providers-embed-trusted-threat) — 04 Aug 2026 09:0
 - [Max-severity Exchange server flaw under active exploitation by Kremlin hackers](https://www.proofpoint.com/us/newsroom/news/max-severity-exchange-server-flaw-under-active-exploitation-kremlin-hackers) — 30 Jul 2026 19:0
 - [New warnings that Russian operatives are targeting the emails of US nuclear scientists and defense contractors](https://www.proofpoint.com/us/newsroom/news/new-warnings-russian-operatives-are-targeting-emails-us-nuclear-scientists-and-defense) — 23 Jul 2026 18:5
 - [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes) — 23 Jul 2026 16:1
@@ -31,6 +33,4 @@
 - [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
 - [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials) — 14 Jul 2026 13:3
 - [Hackers find a new trick to collect Microsoft Entra user data without raising red flags](https://www.proofpoint.com/us/newsroom/news/hackers-find-new-trick-collect-microsoft-entra-user-data-without-raising-red-flags) — 13 Jul 2026 13:3
-- [Suspected Chinese snoops caught breaking into universities' Roundcube mailservers](https://www.proofpoint.com/us/newsroom/news/suspected-chinese-snoops-caught-breaking-universities-roundcube-mailservers) — 08 Jul 2026 13:3
-- [New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams](https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams) — 01 Jul 2026 15:3
 
