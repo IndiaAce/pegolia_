@@ -1,7 +1,6 @@
-# 🛡️ Email Security Trends – Updated 2026-08-06
+# 🛡️ Email Security Trends – Updated 2026-08-07
 
 ## 📰 Hacker News
-- [Discord Support System is protecting the Hackers](https://news.ycombinator.com/item?id=49200069) — 2026-08-06T17:57
 - [Russian spies take their half-click email attack from Zimbra to Outlook](https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033) — 2026-07-30T16:07
 - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/) — 2026-07-29T12:43
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
@@ -21,6 +20,7 @@
 - [Read the Emails Revealing How Anthropic's Pentagon Relationship Fell Apart](https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd) — 2026-07-02T15:40
 - [Show HN: Obvelum – an anonymous hiring portal where companies apply to you](https://www.obvelum.com/) — 2026-06-30T15:04
 - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/) — 2026-06-29T14:27
+- [Show HN: I built Exfault, agentic mobile app pentesting tool](https://www.exfault.com/) — 2026-06-29T13:47
 
 ## 📰 Proofpoint
 - [Proofpoint Joins Google Unified Security Recommended Program to Help Organizations Defend Against Today’s Most Sophisticated Threats](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-google-unified-security-recommended-program-help) — 04 Aug 2026 10:5
