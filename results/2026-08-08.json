@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Salestrics \u2013 An open MCP server and CRM for AI-native revenue teams",
+    "link": "https://www.salestrics.com/",
+    "published": "2026-08-08T01:32:41Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
     "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
     "published": "2026-07-30T16:07:06Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Obvelum \u2013 an anonymous hiring portal where companies apply to you",
     "link": "https://www.obvelum.com/",
     "published": "2026-06-30T15:04:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Data breach exposes up to 14.2M email logins at six ISPs",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-    "published": "2026-06-29T14:27:35Z"
   }
 ]
