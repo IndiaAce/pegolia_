@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-09
+# 🛡️ Email Security Trends – Updated 2026-08-10
 
 ## 📰 Hacker News
 - [Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams](https://www.salestrics.com/) — 2026-08-08T01:32
