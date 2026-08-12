@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-11
+# 🛡️ Email Security Trends – Updated 2026-08-12
 
 ## 📰 Hacker News
 - [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
