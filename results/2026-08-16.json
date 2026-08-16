@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "A leaked Composio key returned live Gmail, GitHub and CircleCI tokens",
+    "link": "https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms",
+    "published": "2026-08-16T06:38:31Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Tmail \u2013 The Mailbox You Own",
     "link": "https://news.ycombinator.com/item?id=49304043",
     "published": "2026-08-14T20:19:14Z"
@@ -172,11 +178,5 @@
     "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
     "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
     "published": "2026-07-04T17:01:39Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Read the Emails Revealing How Anthropic's Pentagon Relationship Fell Apart",
-    "link": "https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd",
-    "published": "2026-07-02T15:40:57Z"
   }
 ]
