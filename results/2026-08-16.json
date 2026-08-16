@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: A punch clock to help with hourly household workers",
+    "link": "https://www.punchy.live/",
+    "published": "2026-08-16T15:38:34Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "A leaked Composio key returned live Gmail, GitHub and CircleCI tokens",
     "link": "https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms",
     "published": "2026-08-16T06:38:31Z"
@@ -172,11 +178,5 @@
     "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
     "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
     "published": "2026-07-05T06:26:38Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
-    "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
-    "published": "2026-07-04T17:01:39Z"
   }
 ]

@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-08-16
 
 ## 📰 Hacker News
+- [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
 - [A leaked Composio key returned live Gmail, GitHub and CircleCI tokens](https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms) — 2026-08-16T06:38
 - [Show HN: Tmail – The Mailbox You Own](https://news.ycombinator.com/item?id=49304043) — 2026-08-14T20:19
 - [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
@@ -20,7 +21,6 @@
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
 - [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
 - [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
-- [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-04T17:01
 
 ## 📰 Proofpoint
 - [Russian hackers can steal emails without a click](https://www.proofpoint.com/us/newsroom/news/russian-hackers-can-steal-emails-without-click) — 07 Aug 2026 15:0
