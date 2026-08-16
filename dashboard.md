@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-15
+# 🛡️ Email Security Trends – Updated 2026-08-16
 
 ## 📰 Hacker News
 - [Show HN: Tmail – The Mailbox You Own](https://news.ycombinator.com/item?id=49304043) — 2026-08-14T20:19
