@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-16
+# 🛡️ Email Security Trends – Updated 2026-08-17
 
 ## 📰 Hacker News
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
