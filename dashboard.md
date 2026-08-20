@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-19
+# 🛡️ Email Security Trends – Updated 2026-08-20
 
 ## 📰 Hacker News
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
