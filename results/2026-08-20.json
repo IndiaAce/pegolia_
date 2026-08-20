@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: testmagic.link \u2013 Zero-setup magic link testing for coding agents",
+    "link": "https://testmagic.link",
+    "published": "2026-08-20T13:08:03Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
     "link": "https://github.com/onecli/onecli",
     "published": "2026-08-19T16:29:02Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: Are there good security benchmarks for LLMs?",
     "link": "https://news.ycombinator.com/item?id=48803408",
     "published": "2026-07-06T11:53:55Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email",
-    "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
-    "published": "2026-07-05T06:26:38Z"
   }
 ]

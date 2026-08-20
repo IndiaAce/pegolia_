@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-08-20
 
 ## 📰 Hacker News
+- [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
 - [A leaked Composio key returned live Gmail, GitHub and CircleCI tokens](https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms) — 2026-08-16T06:38
@@ -20,7 +21,6 @@
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
 - [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
-- [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
 
 ## 📰 Proofpoint
 - [Russian hackers can steal emails without a click](https://www.proofpoint.com/us/newsroom/news/russian-hackers-can-steal-emails-without-click) — 07 Aug 2026 15:0
