@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-08-20
+# 🛡️ Email Security Trends – Updated 2026-08-21
 
 ## 📰 Hacker News
+- [Show HN: We Added Notion Calendar to *Superhuman for iMessage](https://news.ycombinator.com/item?id=49378903) — 2026-08-20T19:17
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
@@ -20,7 +21,6 @@
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
-- [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
 
 ## 📰 Proofpoint
 - [Russian hackers can steal emails without a click](https://www.proofpoint.com/us/newsroom/news/russian-hackers-can-steal-emails-without-click) — 07 Aug 2026 15:0
