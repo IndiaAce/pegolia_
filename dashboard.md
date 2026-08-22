@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-21
+# 🛡️ Email Security Trends – Updated 2026-08-22
 
 ## 📰 Hacker News
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
@@ -23,6 +23,7 @@
 - [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
 
 ## 📰 Proofpoint
+- [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
 - [Russian hackers can steal emails without a click](https://www.proofpoint.com/us/newsroom/news/russian-hackers-can-steal-emails-without-click) — 07 Aug 2026 15:0
 - [Proofpoint Joins Google Unified Security Recommended Program to Help Organizations Defend Against Today’s Most Sophisticated Threats](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-google-unified-security-recommended-program-help) — 04 Aug 2026 10:5
 - [Proofpoint Launches OEM Program to Help Security Providers Embed Trusted Threat Intelligence and Detection Capabilities](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-oem-program-help-security-providers-embed-trusted-threat) — 04 Aug 2026 09:0
@@ -32,5 +33,4 @@
 - [US and allies say Russian hackers stole emails without social engineering](https://www.proofpoint.com/us/newsroom/news/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering) — 23 Jul 2026 16:0
 - [If you pay a hacker’s ransom, chances are that they’ll come back for more](https://www.proofpoint.com/us/newsroom/news/if-you-pay-hackers-ransom-chances-are-theyll-come-back-more) — 22 Jul 2026 16:1
 - [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
-- [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://www.proofpoint.com/us/newsroom/news/oauth-client-id-spoofing-lets-attackers-validate-stolen-microsoft-entra-credentials) — 14 Jul 2026 13:3
 
