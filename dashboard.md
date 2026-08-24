@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-23
+# 🛡️ Email Security Trends – Updated 2026-08-24
 
 ## 📰 Hacker News
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
