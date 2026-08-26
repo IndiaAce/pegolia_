@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-08-26
 
 ## 📰 Hacker News
+- [Self-Hosting Email: Achieving Proton's Zero-Access with Stalwart and WKD](https://remoterails.com/stalwart-mail-vs-protonmail-a-technical-deep-dive-into-modern-email-security-deliverability/) — 2026-08-26T01:53
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
@@ -20,7 +21,6 @@
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
 - [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
-- [Security Roundup: Apple's Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/) — 2026-07-05T06:26
 
 ## 📰 Proofpoint
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
