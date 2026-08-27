@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-08-27
 
 ## 📰 Hacker News
+- [Ask HN: Dear LinkedIn, do you want to do business, yes or no?](https://news.ycombinator.com/item?id=49464232) — 2026-08-27T13:02
 - [Self-Hosting Email: Achieving Proton's Zero-Access with Stalwart and WKD](https://remoterails.com/stalwart-mail-vs-protonmail-a-technical-deep-dive-into-modern-email-security-deliverability/) — 2026-08-26T01:53
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
@@ -20,7 +21,6 @@
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
 - [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
-- [Ask HN: Are there good security benchmarks for LLMs?](https://news.ycombinator.com/item?id=48803408) — 2026-07-06T11:53
 
 ## 📰 Proofpoint
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
