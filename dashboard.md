@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-27
+# 🛡️ Email Security Trends – Updated 2026-08-28
 
 ## 📰 Hacker News
 - [Ask HN: Dear LinkedIn, do you want to do business, yes or no?](https://news.ycombinator.com/item?id=49464232) — 2026-08-27T13:02
