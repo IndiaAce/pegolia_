@@ -13,6 +13,7 @@
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 - [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
+- [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli) — 2026-07-23T15:42
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
 - [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
 - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781) — 2026-07-20T10:24
@@ -20,7 +21,6 @@
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
-- [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
 
 ## 📰 Proofpoint
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
