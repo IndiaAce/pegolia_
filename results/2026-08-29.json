@@ -133,12 +133,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
-    "link": "https://github.com/onecli/onecli",
-    "published": "2026-07-23T15:42:40Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Ekko \u2013 post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
     "link": "https://useekko.app/",
     "published": "2026-07-21T00:39:22Z"
@@ -178,5 +172,11 @@
     "title": "Request for a Cybersecurity and Senior Developer",
     "link": "https://news.ycombinator.com/item?id=48852607",
     "published": "2026-07-09T21:29:59Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
+    "link": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0",
+    "published": "2026-07-09T13:19:12Z"
   }
 ]
