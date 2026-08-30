@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-08-29
+# 🛡️ Email Security Trends – Updated 2026-08-30
 
 ## 📰 Hacker News
 - [Ask HN: Dear LinkedIn, do you want to do business, yes or no?](https://news.ycombinator.com/item?id=49464232) — 2026-08-27T13:02
@@ -6,6 +6,7 @@
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
+- [Show HN: Tmail – The Mailbox You Own](https://news.ycombinator.com/item?id=49304043) — 2026-08-14T20:19
 - [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
 - [Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams](https://www.salestrics.com/) — 2026-08-08T01:32
 - [Russian spies take their half-click email attack from Zimbra to Outlook](https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033) — 2026-07-30T16:07
@@ -20,7 +21,6 @@
 - [Show HN: OtoDock, run Claude Code and Codex as a team of agents on your server](https://github.com/OtoDock/oto-dock/) — 2026-07-15T16:11
 - [Show HN: Sanbox, batteries included sandboxes for AI agents](https://sanbox.cloud) — 2026-07-12T10:16
 - [Request for a Cybersecurity and Senior Developer](https://news.ycombinator.com/item?id=48852607) — 2026-07-09T21:29
-- [Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger](https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0) — 2026-07-09T13:19
 
 ## 📰 Proofpoint
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
