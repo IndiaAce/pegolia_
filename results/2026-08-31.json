@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+    "link": "https://usealmanac.com/",
+    "published": "2026-08-31T15:34:34Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: What to do when a vendor doesn't respond to security issues?",
     "link": "https://news.ycombinator.com/item?id=49507259",
     "published": "2026-08-31T08:55:36Z"
@@ -172,11 +178,5 @@
     "title": "GitHub's 2FA is to become mandatory on September 2, 2026",
     "link": "https://news.ycombinator.com/item?id=48976781",
     "published": "2026-07-20T10:24:02Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Enhanced YARA to detect threats in JavaScript using context and content",
-    "link": "https://github.com/rishi-sekantsec/sekant-intercept-js",
-    "published": "2026-07-16T09:33:10Z"
   }
 ]
