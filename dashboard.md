@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-08-31
+# 🛡️ Email Security Trends – Updated 2026-09-01
 
 ## 📰 Hacker News
+- [Dropbox Data Breach](https://news.ycombinator.com/item?id=49514427) — 2026-08-31T20:20
 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) — 2026-08-31T15:34
 - [Ask HN: What to do when a vendor doesn't respond to security issues?](https://news.ycombinator.com/item?id=49507259) — 2026-08-31T08:55
 - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails) — 2026-08-31T07:23
@@ -20,7 +21,6 @@
 - [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
 - [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
-- [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781) — 2026-07-20T10:24
 
 ## 📰 Proofpoint
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
