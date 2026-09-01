@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Amazon Is Requiring Passkeys",
+    "link": "https://news.ycombinator.com/item?id=49524246",
+    "published": "2026-09-01T16:27:43Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Dropbox Data Breach",
     "link": "https://news.ycombinator.com/item?id=49514427",
     "published": "2026-08-31T20:20:18Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Ekko \u2013 post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
     "link": "https://useekko.app/",
     "published": "2026-07-21T00:39:22Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
-    "link": "https://deepsql.ai/",
-    "published": "2026-07-20T15:32:20Z"
   }
 ]
