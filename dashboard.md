@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-02
+# 🛡️ Email Security Trends – Updated 2026-09-03
 
 ## 📰 Hacker News
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
