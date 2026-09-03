@@ -2,7 +2,7 @@
 
 ## 📰 Hacker News
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
-- [Dropbox Data Breach](https://news.ycombinator.com/item?id=49514427) — 2026-08-31T20:20
+- [Tell HN: Dropbox Data Breach](https://news.ycombinator.com/item?id=49514427) — 2026-08-31T20:20
 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) — 2026-08-31T15:34
 - [Ask HN: What to do when a vendor doesn't respond to security issues?](https://news.ycombinator.com/item?id=49507259) — 2026-08-31T08:55
 - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails) — 2026-08-31T07:23
@@ -19,8 +19,8 @@
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 - [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
+- [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli) — 2026-07-23T15:42
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
-- [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
 
 ## 📰 Proofpoint
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
