@@ -19,8 +19,8 @@
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 - [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
-- [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli) — 2026-07-23T15:42
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
+- [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
 
 ## 📰 Proofpoint
 - [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak) — 03 Sep 2026 11:5
