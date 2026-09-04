@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-03
+# 🛡️ Email Security Trends – Updated 2026-09-04
 
 ## 📰 Hacker News
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
@@ -23,6 +23,7 @@
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
 
 ## 📰 Proofpoint
+- [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak) — 03 Sep 2026 11:5
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
 - [Russian hackers can steal emails without a click](https://www.proofpoint.com/us/newsroom/news/russian-hackers-can-steal-emails-without-click) — 07 Aug 2026 15:0
 - [Proofpoint Joins Google Unified Security Recommended Program to Help Organizations Defend Against Today’s Most Sophisticated Threats](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-google-unified-security-recommended-program-help) — 04 Aug 2026 10:5
@@ -32,5 +33,4 @@
 - [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes) — 23 Jul 2026 16:1
 - [US and allies say Russian hackers stole emails without social engineering](https://www.proofpoint.com/us/newsroom/news/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering) — 23 Jul 2026 16:0
 - [If you pay a hacker’s ransom, chances are that they’ll come back for more](https://www.proofpoint.com/us/newsroom/news/if-you-pay-hackers-ransom-chances-are-theyll-come-back-more) — 22 Jul 2026 16:1
-- [Proofpoint Research Finds 65% of Organizations Affected by Ransomware Say AI Made Attacks More Effective](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-research-finds-65-organizations-affected-ransomware-say-ai-made) — 22 Jul 2026 06:0
 
