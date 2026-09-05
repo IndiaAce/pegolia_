@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Microsoft says email spammers are adopting ASCII smuggling",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "published": "2026-09-05T06:24:26Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Amazon Is Requiring Passkeys",
     "link": "https://news.ycombinator.com/item?id=49524246",
     "published": "2026-09-01T16:27:43Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Ekko \u2013 post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
     "link": "https://useekko.app/",
     "published": "2026-07-21T00:39:22Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
-    "link": "https://deepsql.ai/",
-    "published": "2026-07-20T15:32:20Z"
   }
 ]

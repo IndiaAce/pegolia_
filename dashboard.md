@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-09-05
 
 ## 📰 Hacker News
+- [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
 - [Tell HN: Dropbox Data Breach](https://news.ycombinator.com/item?id=49514427) — 2026-08-31T20:20
 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) — 2026-08-31T15:34
@@ -20,7 +21,6 @@
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 - [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
 - [Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web](https://useekko.app/) — 2026-07-21T00:39
-- [Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/) — 2026-07-20T15:32
 
 ## 📰 Proofpoint
 - [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak) — 03 Sep 2026 11:5
