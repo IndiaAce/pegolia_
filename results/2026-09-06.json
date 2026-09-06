@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Are we normalizing surveillance in the name of safety?",
+    "link": "https://news.ycombinator.com/item?id=49586069",
+    "published": "2026-09-06T12:48:34Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Microsoft says email spammers are adopting ASCII smuggling",
     "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
     "published": "2026-09-05T06:24:26Z"
@@ -172,11 +178,5 @@
     "title": "How AI is powering business email compromise at scale",
     "link": "https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/",
     "published": "2026-07-28T13:21:16Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Ekko \u2013 post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
-    "link": "https://useekko.app/",
-    "published": "2026-07-21T00:39:22Z"
   }
 ]
