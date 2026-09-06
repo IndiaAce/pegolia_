@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-05
+# 🛡️ Email Security Trends – Updated 2026-09-06
 
 ## 📰 Hacker News
 - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
