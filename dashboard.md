@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-06
+# 🛡️ Email Security Trends – Updated 2026-09-07
 
 ## 📰 Hacker News
 - [Ask HN: Are we normalizing surveillance in the name of safety?](https://news.ycombinator.com/item?id=49586069) — 2026-09-06T12:48
