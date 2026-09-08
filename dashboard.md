@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-09-08
 
 ## 📰 Hacker News
+- [Ask HN: Is there anything worth developing with AI?](https://news.ycombinator.com/item?id=49613990) — 2026-09-08T17:54
 - [Ask HN: Are we normalizing surveillance in the name of safety?](https://news.ycombinator.com/item?id=49586069) — 2026-09-06T12:48
 - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
@@ -20,7 +21,6 @@
 - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/) — 2026-07-29T12:43
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
-- [How AI is powering business email compromise at scale](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/) — 2026-07-28T13:21
 
 ## 📰 Proofpoint
 - [Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo) — 08 Sep 2026 09:3

@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Is there anything worth developing with AI?",
+    "link": "https://news.ycombinator.com/item?id=49613990",
+    "published": "2026-09-08T17:54:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ask HN: Are we normalizing surveillance in the name of safety?",
     "link": "https://news.ycombinator.com/item?id=49586069",
     "published": "2026-09-06T12:48:34Z"
@@ -172,11 +178,5 @@
     "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
     "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
     "published": "2026-07-28T19:29:04Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How AI is powering business email compromise at scale",
-    "link": "https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/",
-    "published": "2026-07-28T13:21:16Z"
   }
 ]
