@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-08
+# 🛡️ Email Security Trends – Updated 2026-09-09
 
 ## 📰 Hacker News
 - [Ask HN: Is there anything worth developing with AI?](https://news.ycombinator.com/item?id=49613990) — 2026-09-08T17:54
