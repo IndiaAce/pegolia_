@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint 2026 Voice of the CISO Report Finds Cyber Resilience Improving, While AI Expands the CISO Mandate",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2026-voice-ciso-report-finds-cyber-resilience-improving-while-ai",
+    "published": "09 Sep 2026 02:03:11"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo",
     "published": "08 Sep 2026 09:30:44"
@@ -54,10 +60,10 @@
     "published": "23 Jul 2026 16:13:08"
   },
   {
-    "source": "Proofpoint",
-    "title": "US and allies say Russian hackers stole emails without social engineering",
-    "link": "https://www.proofpoint.com/us/newsroom/news/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering",
-    "published": "23 Jul 2026 16:09:25"
+    "source": "Hacker News",
+    "title": "Ask HN: What Has Happened to Authentication?",
+    "link": "https://news.ycombinator.com/item?id=49622704",
+    "published": "2026-09-09T07:36:21Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Ask HN: Is paying for a BIMI certificate useful?",
     "link": "https://news.ycombinator.com/item?id=49095637",
     "published": "2026-07-29T10:36:05Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-    "published": "2026-07-28T19:29:04Z"
   }
 ]
