@@ -2,7 +2,6 @@
 
 ## 📰 Hacker News
 - [Ask HN: What Has Happened to Authentication?](https://news.ycombinator.com/item?id=49622704) — 2026-09-09T07:36
-- [Ask HN: Is there anything worth developing with AI?](https://news.ycombinator.com/item?id=49613990) — 2026-09-08T17:54
 - [Ask HN: Are we normalizing surveillance in the name of safety?](https://news.ycombinator.com/item?id=49586069) — 2026-09-06T12:48
 - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
@@ -21,8 +20,10 @@
 - [Russian spies take their half-click email attack from Zimbra to Outlook](https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033) — 2026-07-30T16:07
 - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/) — 2026-07-29T12:43
 - [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
+- [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 
 ## 📰 Proofpoint
+- [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
 - [Proofpoint 2026 Voice of the CISO Report Finds Cyber Resilience Improving, While AI Expands the CISO Mandate](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2026-voice-ciso-report-finds-cyber-resilience-improving-while-ai) — 09 Sep 2026 02:0
 - [Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo) — 08 Sep 2026 09:3
 - [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak) — 03 Sep 2026 11:5
@@ -32,5 +33,4 @@
 - [Proofpoint Launches OEM Program to Help Security Providers Embed Trusted Threat Intelligence and Detection Capabilities](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-oem-program-help-security-providers-embed-trusted-threat) — 04 Aug 2026 09:0
 - [Max-severity Exchange server flaw under active exploitation by Kremlin hackers](https://www.proofpoint.com/us/newsroom/news/max-severity-exchange-server-flaw-under-active-exploitation-kremlin-hackers) — 30 Jul 2026 19:0
 - [New warnings that Russian operatives are targeting the emails of US nuclear scientists and defense contractors](https://www.proofpoint.com/us/newsroom/news/new-warnings-russian-operatives-are-targeting-emails-us-nuclear-scientists-and-defense) — 23 Jul 2026 18:5
-- [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://www.proofpoint.com/us/newsroom/news/russian-espionage-group-exploited-zimbra-zero-day-steal-mail-and-2fa-codes) — 23 Jul 2026 16:1
 
