@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-09
+# 🛡️ Email Security Trends – Updated 2026-09-10
 
 ## 📰 Hacker News
 - [Ask HN: What Has Happened to Authentication?](https://news.ycombinator.com/item?id=49622704) — 2026-09-09T07:36
