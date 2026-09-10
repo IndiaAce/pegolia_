@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-09-10
 
 ## 📰 Hacker News
+- [Show HN: BlindLock – Passwords hidden in a photo, sealed to your TPM/SE](https://blindlock.app/en/) — 2026-09-10T12:41
+- [Show HN: KeepUp – Verified net worth rankings for everyone](https://keepup.finance/) — 2026-09-10T12:37
 - [Ask HN: What Has Happened to Authentication?](https://news.ycombinator.com/item?id=49622704) — 2026-09-09T07:36
 - [Ask HN: Are we normalizing surveillance in the name of safety?](https://news.ycombinator.com/item?id=49586069) — 2026-09-06T12:48
 - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
@@ -19,8 +21,6 @@
 - [Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams](https://www.salestrics.com/) — 2026-08-08T01:32
 - [Russian spies take their half-click email attack from Zimbra to Outlook](https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033) — 2026-07-30T16:07
 - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/) — 2026-07-29T12:43
-- [Ask HN: Is paying for a BIMI certificate useful?](https://news.ycombinator.com/item?id=49095637) — 2026-07-29T10:36
-- [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/) — 2026-07-28T19:29
 
 ## 📰 Proofpoint
 - [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
