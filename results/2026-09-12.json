@@ -79,12 +79,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Ask HN: Is there anything worth developing with AI?",
-    "link": "https://news.ycombinator.com/item?id=49613990",
-    "published": "2026-09-08T17:54:42Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Ask HN: Are we normalizing surveillance in the name of safety?",
     "link": "https://news.ycombinator.com/item?id=49586069",
     "published": "2026-09-06T12:48:34Z"
@@ -178,5 +172,11 @@
     "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
     "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
     "published": "2026-07-30T16:07:06Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
+    "link": "https://echologue.com/",
+    "published": "2026-07-29T12:43:36Z"
   }
 ]
