@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-13
+# 🛡️ Email Security Trends – Updated 2026-09-14
 
 ## 📰 Hacker News
 - [Show HN: I Built a CLI for Proton Mail, Drive, Calendar, Pass and Contacts](https://github.com/roman-16/proton-cli) — 2026-09-13T12:42
