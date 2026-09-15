@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-14
+# 🛡️ Email Security Trends – Updated 2026-09-15
 
 ## 📰 Hacker News
 - [Show HN: BlindLock – Passwords hidden in a photo, sealed to your TPM/SE](https://blindlock.app/en/) — 2026-09-10T12:41
