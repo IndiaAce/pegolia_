@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Cisco email security boxes can be rooted by an email",
+    "link": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604",
+    "published": "2026-09-15T20:07:08Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: BlindLock \u2013 Passwords hidden in a photo, sealed to your TPM/SE",
     "link": "https://blindlock.app/en/",
     "published": "2026-09-10T12:41:03Z"
@@ -172,11 +178,5 @@
     "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
     "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
     "published": "2026-07-30T16:07:06Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
-    "link": "https://echologue.com/",
-    "published": "2026-07-29T12:43:36Z"
   }
 ]
