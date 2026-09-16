@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-15
+# 🛡️ Email Security Trends – Updated 2026-09-16
 
 ## 📰 Hacker News
 - [Cisco email security boxes can be rooted by an email](https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604) — 2026-09-15T20:07
