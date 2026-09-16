@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)",
+    "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX",
+    "published": "2026-09-16T03:36:42Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Cisco email security boxes can be rooted by an email",
     "link": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604",
     "published": "2026-09-15T20:07:08Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Salestrics \u2013 An open MCP server and CRM for AI-native revenue teams",
     "link": "https://www.salestrics.com/",
     "published": "2026-08-08T01:32:41Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
-    "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
-    "published": "2026-07-30T16:07:06Z"
   }
 ]

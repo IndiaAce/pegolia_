@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-09-16
 
 ## 📰 Hacker News
+- [Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX) — 2026-09-16T03:36
 - [Cisco email security boxes can be rooted by an email](https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604) — 2026-09-15T20:07
 - [Show HN: BlindLock – Passwords hidden in a photo, sealed to your TPM/SE](https://blindlock.app/en/) — 2026-09-10T12:41
 - [Show HN: KeepUp – Verified net worth rankings for everyone](https://keepup.finance/) — 2026-09-10T12:37
@@ -20,7 +21,6 @@
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
 - [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
 - [Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams](https://www.salestrics.com/) — 2026-08-08T01:32
-- [Russian spies take their half-click email attack from Zimbra to Outlook](https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033) — 2026-07-30T16:07
 
 ## 📰 Proofpoint
 - [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
