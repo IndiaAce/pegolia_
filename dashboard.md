@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-18
+# 🛡️ Email Security Trends – Updated 2026-09-19
 
 ## 📰 Hacker News
 - [Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX) — 2026-09-16T03:36
