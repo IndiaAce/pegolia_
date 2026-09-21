@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-20
+# 🛡️ Email Security Trends – Updated 2026-09-21
 
 ## 📰 Hacker News
 - [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) — 2026-09-19T23:47
