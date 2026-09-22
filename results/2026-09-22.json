@@ -1,6 +1,18 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era",
+    "published": "22 Sep 2026 11:00:00"
+  },
+  {
+    "source": "Proofpoint",
+    "title": "Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry\u2019s First Unified Agentic System",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security",
+    "published": "22 Sep 2026 11:00:00"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event",
     "published": "21 Sep 2026 11:22:58"
@@ -48,16 +60,10 @@
     "published": "08 Sep 2026 09:30:44"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak",
-    "published": "03 Sep 2026 11:53:38"
-  },
-  {
-    "source": "Proofpoint",
-    "title": "Cybercriminals Turn to Indirect Prompt Injection Attacks",
-    "link": "https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks",
-    "published": "13 Aug 2026 13:25:14"
+    "source": "Hacker News",
+    "title": "Ask HN: Honey Pots in 'who wants to be hired'?",
+    "link": "https://news.ycombinator.com/item?id=49805648",
+    "published": "2026-09-22T18:08:30Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: A punch clock to help with hourly household workers",
     "link": "https://www.punchy.live/",
     "published": "2026-08-16T15:38:34Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Username.md \u2013 a signed, agent-readable identity page you own",
-    "link": "https://username.md/",
-    "published": "2026-08-11T15:54:03Z"
   }
 ]
