@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-21
+# 🛡️ Email Security Trends – Updated 2026-09-22
 
 ## 📰 Hacker News
 - [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) — 2026-09-19T23:47
@@ -23,6 +23,7 @@
 - [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
 
 ## 📰 Proofpoint
+- [Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event) — 21 Sep 2026 11:2
 - [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
 - [Four groups caught using the same Chrome and Windows exploit kit](https://www.proofpoint.com/us/newsroom/news/four-groups-caught-using-same-chrome-and-windows-exploit-kit) — 09 Sep 2026 21:1
 - [CISOs are feeling the security burden of accelerated AI use](https://www.proofpoint.com/us/newsroom/news/cisos-are-feeling-security-burden-accelerated-ai-use) — 09 Sep 2026 21:1
@@ -32,5 +33,4 @@
 - [Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo) — 08 Sep 2026 09:3
 - [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak) — 03 Sep 2026 11:5
 - [Cybercriminals Turn to Indirect Prompt Injection Attacks](https://www.proofpoint.com/us/newsroom/news/cybercriminals-turn-indirect-prompt-injection-attacks) — 13 Aug 2026 13:2
-- [Russian hackers can steal emails without a click](https://www.proofpoint.com/us/newsroom/news/russian-hackers-can-steal-emails-without-click) — 07 Aug 2026 15:0
 
