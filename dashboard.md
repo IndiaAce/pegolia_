@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-23
+# 🛡️ Email Security Trends – Updated 2026-09-24
 
 ## 📰 Hacker News
 - [Ask HN: Honey Pots in 'who wants to be hired'?](https://news.ycombinator.com/item?id=49805648) — 2026-09-22T18:08
