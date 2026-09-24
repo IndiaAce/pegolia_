@@ -2,7 +2,6 @@
 
 ## 📰 Hacker News
 - [Ask HN: Honey Pots in 'who wants to be hired'?](https://news.ycombinator.com/item?id=49805648) — 2026-09-22T18:08
-- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) — 2026-09-19T23:47
 - [Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX) — 2026-09-16T03:36
 - [Cisco email security boxes can be rooted by an email](https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604) — 2026-09-15T20:07
 - [Show HN: BlindLock – Passwords hidden in a photo, sealed to your TPM/SE](https://blindlock.app/en/) — 2026-09-10T12:41
@@ -21,6 +20,7 @@
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
 - [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
+- [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
 
 ## 📰 Proofpoint
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
