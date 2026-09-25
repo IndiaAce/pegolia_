@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-24
+# 🛡️ Email Security Trends – Updated 2026-09-25
 
 ## 📰 Hacker News
 - [Ask HN: Honey Pots in 'who wants to be hired'?](https://news.ycombinator.com/item?id=49805648) — 2026-09-22T18:08
@@ -23,8 +23,8 @@
 - [Show HN: Username.md – a signed, agent-readable identity page you own](https://username.md/) — 2026-08-11T15:54
 
 ## 📰 Proofpoint
-- [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
+- [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
 - [Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event) — 21 Sep 2026 11:2
 - [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
 - [Four groups caught using the same Chrome and Windows exploit kit](https://www.proofpoint.com/us/newsroom/news/four-groups-caught-using-same-chrome-and-windows-exploit-kit) — 09 Sep 2026 21:1
