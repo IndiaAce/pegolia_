@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-09-29
 
 ## 📰 Hacker News
+- [Show HN: I Measured SPF/DKIM/DMARC on 400 French SMB Domains](https://hilarious-starburst-dabca0.netlify.app/barometre-securite-email-fr.html) — 2026-09-29T21:25
 - [SentriSend – Outbound email security gateway to prevent SES bounce bans](https://sentrisend.com/) — 2026-09-29T10:16
 - [Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents](https://omnesis.dev/) — 2026-09-28T13:35
 - [Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX) — 2026-09-16T03:36
@@ -20,7 +21,6 @@
 - [Self-Hosting Email: Achieving Proton's Zero-Access with Stalwart and WKD](https://remoterails.com/stalwart-mail-vs-protonmail-a-technical-deep-dive-into-modern-email-security-deliverability/) — 2026-08-26T01:53
 - [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) — 2026-08-19T16:29
-- [Show HN: A punch clock to help with hourly household workers](https://www.punchy.live/) — 2026-08-16T15:38
 
 ## 📰 Proofpoint
 - [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
