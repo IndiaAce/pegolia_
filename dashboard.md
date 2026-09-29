@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-28
+# 🛡️ Email Security Trends – Updated 2026-09-29
 
 ## 📰 Hacker News
 - [Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents](https://omnesis.dev/) — 2026-09-28T13:35
