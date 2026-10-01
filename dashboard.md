@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-09-30
+# 🛡️ Email Security Trends – Updated 2026-10-01
 
 ## 📰 Hacker News
 - [Show HN: Paperweight – local-first, open-source email cleanup and privacy tool](https://github.com/wslyvh/paperweight) — 2026-09-30T14:36
