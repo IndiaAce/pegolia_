@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "published": "2026-10-01T07:09:06Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Paperweight \u2013 local-first, open-source email cleanup and privacy tool",
     "link": "https://github.com/wslyvh/paperweight",
     "published": "2026-09-30T14:36:58Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: testmagic.link \u2013 Zero-setup magic link testing for coding agents",
     "link": "https://testmagic.link",
     "published": "2026-08-20T13:08:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
-    "link": "https://github.com/onecli/onecli",
-    "published": "2026-08-19T16:29:02Z"
   }
 ]
