@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: SVPN News \u2013 Tracks high-engagement news, filters noise",
+    "link": "https://news.svpn.com/news",
+    "published": "2026-10-01T14:16:18Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Django-modern-rest 0.16.0 release",
+    "link": "https://news.ycombinator.com/item?id=49921982",
+    "published": "2026-10-01T14:14:55Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
     "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
     "published": "2026-10-01T07:09:06Z"
@@ -166,17 +178,5 @@
     "title": "Ask HN: Dear LinkedIn, do you want to do business, yes or no?",
     "link": "https://news.ycombinator.com/item?id=49464232",
     "published": "2026-08-27T13:02:31Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Self-Hosting Email: Achieving Proton's Zero-Access with Stalwart and WKD",
-    "link": "https://remoterails.com/stalwart-mail-vs-protonmail-a-technical-deep-dive-into-modern-email-security-deliverability/",
-    "published": "2026-08-26T01:53:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: testmagic.link \u2013 Zero-setup magic link testing for coding agents",
-    "link": "https://testmagic.link",
-    "published": "2026-08-20T13:08:03Z"
   }
 ]

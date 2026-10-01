@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-10-01
 
 ## 📰 Hacker News
+- [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
+- [Django-modern-rest 0.16.0 release](https://news.ycombinator.com/item?id=49921982) — 2026-10-01T14:14
 - [Attackers have been exploiting critical Zimbra flaw to steal emails](https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/) — 2026-10-01T07:09
 - [Show HN: Paperweight – local-first, open-source email cleanup and privacy tool](https://github.com/wslyvh/paperweight) — 2026-09-30T14:36
 - [SentriSend – Outbound email security gateway to prevent SES bounce bans](https://sentrisend.com/) — 2026-09-29T10:16
@@ -19,8 +21,6 @@
 - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails) — 2026-08-31T07:23
 - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/) — 2026-08-30T13:48
 - [Ask HN: Dear LinkedIn, do you want to do business, yes or no?](https://news.ycombinator.com/item?id=49464232) — 2026-08-27T13:02
-- [Self-Hosting Email: Achieving Proton's Zero-Access with Stalwart and WKD](https://remoterails.com/stalwart-mail-vs-protonmail-a-technical-deep-dive-into-modern-email-security-deliverability/) — 2026-08-26T01:53
-- [Show HN: testmagic.link – Zero-setup magic link testing for coding agents](https://testmagic.link) — 2026-08-20T13:08
 
 ## 📰 Proofpoint
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
