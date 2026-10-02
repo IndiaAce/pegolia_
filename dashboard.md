@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-01
+# 🛡️ Email Security Trends – Updated 2026-10-02
 
 ## 📰 Hacker News
 - [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
