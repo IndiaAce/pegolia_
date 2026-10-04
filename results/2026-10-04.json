@@ -61,12 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]",
-    "link": "https://cr.yp.to/qmail/qmailsec-20071101.pdf",
-    "published": "2026-10-03T12:07:57Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: SVPN News \u2013 Tracks high-engagement news, filters noise",
     "link": "https://news.svpn.com/news",
     "published": "2026-10-01T14:16:18Z"
@@ -178,5 +172,11 @@
     "title": "Brave browser adds email aliases to help users evade tracking",
     "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
     "published": "2026-08-30T13:48:37Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Dear LinkedIn, do you want to do business, yes or no?",
+    "link": "https://news.ycombinator.com/item?id=49464232",
+    "published": "2026-08-27T13:02:31Z"
   }
 ]
