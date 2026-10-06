@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-10-06
 
 ## 📰 Hacker News
+- [Ask HN: My Apple ID Is Locked for a Week, Apple is a Single Point of Failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
 - [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
 - [Django-modern-rest 0.16.0 release](https://news.ycombinator.com/item?id=49921982) — 2026-10-01T14:14
 - [Attackers have been exploiting critical Zimbra flaw to steal emails](https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/) — 2026-10-01T07:09
@@ -20,7 +21,6 @@
 - [Ask HN: What to do when a vendor doesn't respond to security issues?](https://news.ycombinator.com/item?id=49507259) — 2026-08-31T08:55
 - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails) — 2026-08-31T07:23
 - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/) — 2026-08-30T13:48
-- [Ask HN: Dear LinkedIn, do you want to do business, yes or no?](https://news.ycombinator.com/item?id=49464232) — 2026-08-27T13:02
 
 ## 📰 Proofpoint
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0

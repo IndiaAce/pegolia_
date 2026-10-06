@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: My Apple ID Is Locked for a Week, Apple is a Single Point of Failure",
+    "link": "https://news.ycombinator.com/item?id=49976972",
+    "published": "2026-10-06T11:31:35Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: SVPN News \u2013 Tracks high-engagement news, filters noise",
     "link": "https://news.svpn.com/news",
     "published": "2026-10-01T14:16:18Z"
@@ -172,11 +178,5 @@
     "title": "Brave browser adds email aliases to help users evade tracking",
     "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
     "published": "2026-08-30T13:48:37Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Dear LinkedIn, do you want to do business, yes or no?",
-    "link": "https://news.ycombinator.com/item?id=49464232",
-    "published": "2026-08-27T13:02:31Z"
   }
 ]
