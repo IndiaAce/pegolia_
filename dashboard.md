@@ -1,8 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-10-06
+# 🛡️ Email Security Trends – Updated 2026-10-07
 
 ## 📰 Hacker News
 - [Show HN: MailAccess – the true Email OSINT framework](https://mailaccess.pro) — 2026-10-06T12:24
-- [Ask HN: My Apple ID Is Locked for a Week, Apple is a Single Point of Failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
+- [Ask HN: My Apple ID is locked for a week, Apple is a single point of failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
 - [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
 - [Django-modern-rest 0.16.0 release](https://news.ycombinator.com/item?id=49921982) — 2026-10-01T14:14
 - [Attackers have been exploiting critical Zimbra flaw to steal emails](https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/) — 2026-10-01T07:09
