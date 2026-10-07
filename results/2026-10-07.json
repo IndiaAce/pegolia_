@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "UPS Worker Missed Security Email, Letting China Get F-35 Parts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+    "published": "2026-10-07T19:47:33Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: MailAccess \u2013 the true Email OSINT framework",
     "link": "https://mailaccess.pro",
     "published": "2026-10-06T12:24:18Z"
@@ -172,11 +178,5 @@
     "title": "Ask HN: What to do when a vendor doesn't respond to security issues?",
     "link": "https://news.ycombinator.com/item?id=49507259",
     "published": "2026-08-31T08:55:36Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-    "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-    "published": "2026-08-31T07:23:47Z"
   }
 ]

@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-10-07
 
 ## 📰 Hacker News
+- [UPS Worker Missed Security Email, Letting China Get F-35 Parts](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-07T19:47
 - [Show HN: MailAccess – the true Email OSINT framework](https://mailaccess.pro) — 2026-10-06T12:24
 - [Ask HN: My Apple ID is locked for a week, Apple is a single point of failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
 - [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
@@ -20,7 +21,6 @@
 - [Tell HN: Dropbox Data Breach](https://news.ycombinator.com/item?id=49514427) — 2026-08-31T20:20
 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) — 2026-08-31T15:34
 - [Ask HN: What to do when a vendor doesn't respond to security issues?](https://news.ycombinator.com/item?id=49507259) — 2026-08-31T08:55
-- [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails) — 2026-08-31T07:23
 
 ## 📰 Proofpoint
 - [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
