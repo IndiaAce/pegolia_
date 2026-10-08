@@ -1,14 +1,14 @@
 [
   {
     "source": "Proofpoint",
-    "title": "Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry\u2019s First Unified Agentic System",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security",
+    "title": "Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era",
     "published": "22 Sep 2026 11:00:00"
   },
   {
     "source": "Proofpoint",
-    "title": "Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era",
+    "title": "Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry\u2019s First Unified Agentic System",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security",
     "published": "22 Sep 2026 11:00:00"
   },
   {
@@ -58,6 +58,12 @@
     "title": "Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo",
     "published": "08 Sep 2026 09:30:44"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China gets access to stealth coating on F-35 parts [Bloomberg]",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
+    "published": "2026-10-08T07:02:43Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
     "link": "https://usealmanac.com/",
     "published": "2026-08-31T15:34:34Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: What to do when a vendor doesn't respond to security issues?",
-    "link": "https://news.ycombinator.com/item?id=49507259",
-    "published": "2026-08-31T08:55:36Z"
   }
 ]
