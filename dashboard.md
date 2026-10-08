@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-07
+# 🛡️ Email Security Trends – Updated 2026-10-08
 
 ## 📰 Hacker News
 - [UPS Worker Missed Security Email, Letting China Get F-35 Parts](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-07T19:47
