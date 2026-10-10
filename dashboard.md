@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-09
+# 🛡️ Email Security Trends – Updated 2026-10-10
 
 ## 📰 Hacker News
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
@@ -23,14 +23,14 @@
 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) — 2026-08-31T15:34
 
 ## 📰 Proofpoint
+- [Proofpoint on Why AI Security Must Focus on Intent](https://www.proofpoint.com/us/newsroom/news/proofpoint-why-ai-security-must-focus-intent) — 30 Sep 2026 16:1
+- [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://www.proofpoint.com/us/newsroom/news/teamfiltration-campaign-compromises-seven-microsoft-365-accounts-using-default) — 24 Sep 2026 16:1
+- [Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.proofpoint.com/us/newsroom/news/ghost-service-accounts-enable-m365-data-theft-chile) — 24 Sep 2026 16:1
+- [Proofpoint Banks on Intent‑Based Detection](https://www.proofpoint.com/us/newsroom/news/proofpoint-banks-intent-based-detection) — 24 Sep 2026 16:1
+- [Sumit Dhawan | theCUBE + NYSE Wired - Proofpoint Protect 2026](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-thecube-nyse-wired-proofpoint-protect-2026) — 22 Sep 2026 16:1
 - [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
 - [Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event) — 21 Sep 2026 11:2
 - [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
 - [Four groups caught using the same Chrome and Windows exploit kit](https://www.proofpoint.com/us/newsroom/news/four-groups-caught-using-same-chrome-and-windows-exploit-kit) — 09 Sep 2026 21:1
-- [CISOs are feeling the security burden of accelerated AI use](https://www.proofpoint.com/us/newsroom/news/cisos-are-feeling-security-burden-accelerated-ai-use) — 09 Sep 2026 21:1
-- [Chinese espionage groups swarm to exploit triple-link chain of zero-days](https://www.proofpoint.com/us/newsroom/news/chinese-espionage-groups-swarm-exploit-triple-link-chain-zero-days) — 09 Sep 2026 21:1
-- [Proofpoint 2026 Voice of the CISO Report Finds Cyber Resilience Improving, While AI Expands the CISO Mandate](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-2026-voice-ciso-report-finds-cyber-resilience-improving-while-ai) — 09 Sep 2026 02:0
-- [Proofpoint SOC Analyst Agent Uses OpenAI Cyber Models](https://www.proofpoint.com/us/newsroom/news/proofpoint-soc-analyst-agent-uses-openai-cyber-models) — 08 Sep 2026 21:2
-- [Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo) — 08 Sep 2026 09:3
 
