@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-10
+# 🛡️ Email Security Trends – Updated 2026-10-11
 
 ## 📰 Hacker News
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
