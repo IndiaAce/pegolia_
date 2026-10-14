@@ -30,7 +30,7 @@
 - [Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.proofpoint.com/us/newsroom/news/ghost-service-accounts-enable-m365-data-theft-chile) — 24 Sep 2026 16:1
 - [Proofpoint Banks on Intent‑Based Detection](https://www.proofpoint.com/us/newsroom/news/proofpoint-banks-intent-based-detection) — 24 Sep 2026 16:1
 - [Sumit Dhawan | theCUBE + NYSE Wired - Proofpoint Protect 2026](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-thecube-nyse-wired-proofpoint-protect-2026) — 22 Sep 2026 16:1
-- [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
 - [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
+- [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
 - [Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event) — 21 Sep 2026 11:2
 
