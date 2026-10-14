@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-13
+# 🛡️ Email Security Trends – Updated 2026-10-14
 
 ## 📰 Hacker News
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
@@ -24,6 +24,7 @@
 
 ## 📰 Proofpoint
 - [Healthcare Sees No Relief from Cyberattacks Disrupting Patient Care](https://www.proofpoint.com/us/newsroom/press-releases/cyber-insecurity-in-healthcare-report-2026) — 13 Oct 2026 16:0
+- [Healthcare Cyberattacks Hit Harder, Cost More](https://www.proofpoint.com/us/newsroom/news/healthcare-cyberattacks-hit-harder-cost-more) — 13 Oct 2026 15:4
 - [Proofpoint on Why AI Security Must Focus on Intent](https://www.proofpoint.com/us/newsroom/news/proofpoint-why-ai-security-must-focus-intent) — 30 Sep 2026 16:1
 - [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://www.proofpoint.com/us/newsroom/news/teamfiltration-campaign-compromises-seven-microsoft-365-accounts-using-default) — 24 Sep 2026 16:1
 - [Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.proofpoint.com/us/newsroom/news/ghost-service-accounts-enable-m365-data-theft-chile) — 24 Sep 2026 16:1
@@ -32,5 +33,4 @@
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
 - [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
 - [Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event) — 21 Sep 2026 11:2
-- [Proofpoint Expands AI-Powered Investigations to Microsoft 365 and Deepens Insider Risk Visibility into AI Activity](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-expands-ai-powered-investigations-microsoft-365-and-deepens) — 10 Sep 2026 13:2
 
