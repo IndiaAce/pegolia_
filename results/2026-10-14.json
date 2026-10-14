@@ -43,14 +43,14 @@
   },
   {
     "source": "Proofpoint",
-    "title": "Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry\u2019s First Unified Agentic System",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security",
+    "title": "Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era",
     "published": "22 Sep 2026 11:00:00"
   },
   {
     "source": "Proofpoint",
-    "title": "Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era",
+    "title": "Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry\u2019s First Unified Agentic System",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security",
     "published": "22 Sep 2026 11:00:00"
   },
   {
@@ -58,6 +58,12 @@
     "title": "Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event",
     "published": "21 Sep 2026 11:22:58"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+    "published": "2026-10-14T20:54:01Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Tell HN: Dropbox Data Breach",
     "link": "https://news.ycombinator.com/item?id=49514427",
     "published": "2026-08-31T20:20:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-    "link": "https://usealmanac.com/",
-    "published": "2026-08-31T15:34:34Z"
   }
 ]
