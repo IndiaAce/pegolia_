@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-14
+# 🛡️ Email Security Trends – Updated 2026-10-15
 
 ## 📰 Hacker News
 - [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/) — 2026-10-14T20:54
