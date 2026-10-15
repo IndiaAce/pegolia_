@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-10-15
 
 ## 📰 Hacker News
+- [A misbehaving test MCP server for stress-testing your MCP client](https://news.ycombinator.com/item?id=50105780) — 2026-10-15T16:11
 - [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/) — 2026-10-14T20:54
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
 - [UPS Worker Missed Security Email, Letting China Get F-35 Parts](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-07T19:47
@@ -20,9 +21,9 @@
 - [Ask HN: Are we normalizing surveillance in the name of safety?](https://news.ycombinator.com/item?id=49586069) — 2026-09-06T12:48
 - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
-- [Tell HN: Dropbox Data Breach](https://news.ycombinator.com/item?id=49514427) — 2026-08-31T20:20
 
 ## 📰 Proofpoint
+- [Proofpoint to Acquire Varonis in a $6.3 Billion Transaction](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security) — 15 Oct 2026 13:1
 - [Healthcare Sees No Relief from Cyberattacks Disrupting Patient Care](https://www.proofpoint.com/us/newsroom/press-releases/cyber-insecurity-in-healthcare-report-2026) — 13 Oct 2026 16:0
 - [Healthcare Cyberattacks Hit Harder, Cost More](https://www.proofpoint.com/us/newsroom/news/healthcare-cyberattacks-hit-harder-cost-more) — 13 Oct 2026 15:4
 - [Proofpoint on Why AI Security Must Focus on Intent](https://www.proofpoint.com/us/newsroom/news/proofpoint-why-ai-security-must-focus-intent) — 30 Sep 2026 16:1
@@ -32,5 +33,4 @@
 - [Sumit Dhawan | theCUBE + NYSE Wired - Proofpoint Protect 2026](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-thecube-nyse-wired-proofpoint-protect-2026) — 22 Sep 2026 16:1
 - [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
 - [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
-- [Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event) — 21 Sep 2026 11:2
 

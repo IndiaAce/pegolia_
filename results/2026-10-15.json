@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint to Acquire Varonis in a $6.3 Billion Transaction",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security",
+    "published": "15 Oct 2026 13:15:00"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Healthcare Sees No Relief from Cyberattacks Disrupting Patient Care",
     "link": "https://www.proofpoint.com/us/newsroom/press-releases/cyber-insecurity-in-healthcare-report-2026",
     "published": "13 Oct 2026 16:03:59"
@@ -54,10 +60,10 @@
     "published": "22 Sep 2026 11:00:00"
   },
   {
-    "source": "Proofpoint",
-    "title": "Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event",
-    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event",
-    "published": "21 Sep 2026 11:22:58"
+    "source": "Hacker News",
+    "title": "A misbehaving test MCP server for stress-testing your MCP client",
+    "link": "https://news.ycombinator.com/item?id=50105780",
+    "published": "2026-10-15T16:11:41Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Amazon Is Requiring Passkeys",
     "link": "https://news.ycombinator.com/item?id=49524246",
     "published": "2026-09-01T16:27:43Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tell HN: Dropbox Data Breach",
-    "link": "https://news.ycombinator.com/item?id=49514427",
-    "published": "2026-08-31T20:20:18Z"
   }
 ]
