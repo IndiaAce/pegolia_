@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-15
+# 🛡️ Email Security Trends – Updated 2026-10-16
 
 ## 📰 Hacker News
 - [A misbehaving test MCP server for stress-testing your MCP client](https://news.ycombinator.com/item?id=50105780) — 2026-10-15T16:11
@@ -23,14 +23,14 @@
 - [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
 
 ## 📰 Proofpoint
+- [Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal](https://www.proofpoint.com/us/newsroom/news/thoma-bravos-proofpoint-buy-varonis-systems-63-billion-all-cash-deal) — 15 Oct 2026 14:2
+- [Proofpoint to Acquire Varonis in $6.3 Billion Cybersecurity Deal](https://www.proofpoint.com/us/newsroom/news/proofpoint-acquire-varonis-63-billion-cybersecurity-deal) — 15 Oct 2026 14:2
 - [Proofpoint to Acquire Varonis in a $6.3 Billion Transaction](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security) — 15 Oct 2026 13:1
 - [Healthcare Sees No Relief from Cyberattacks Disrupting Patient Care](https://www.proofpoint.com/us/newsroom/press-releases/cyber-insecurity-in-healthcare-report-2026) — 13 Oct 2026 16:0
 - [Healthcare Cyberattacks Hit Harder, Cost More](https://www.proofpoint.com/us/newsroom/news/healthcare-cyberattacks-hit-harder-cost-more) — 13 Oct 2026 15:4
+- [The Hidden AI Security Risks Threatening Businesses](https://www.proofpoint.com/us/newsroom/news/hidden-ai-security-risks-threatening-businesses) — 12 Oct 2026 14:2
 - [Proofpoint on Why AI Security Must Focus on Intent](https://www.proofpoint.com/us/newsroom/news/proofpoint-why-ai-security-must-focus-intent) — 30 Sep 2026 16:1
 - [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://www.proofpoint.com/us/newsroom/news/teamfiltration-campaign-compromises-seven-microsoft-365-accounts-using-default) — 24 Sep 2026 16:1
 - [Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.proofpoint.com/us/newsroom/news/ghost-service-accounts-enable-m365-data-theft-chile) — 24 Sep 2026 16:1
 - [Proofpoint Banks on Intent‑Based Detection](https://www.proofpoint.com/us/newsroom/news/proofpoint-banks-intent-based-detection) — 24 Sep 2026 16:1
-- [Sumit Dhawan | theCUBE + NYSE Wired - Proofpoint Protect 2026](https://www.proofpoint.com/us/newsroom/news/sumit-dhawan-thecube-nyse-wired-proofpoint-protect-2026) — 22 Sep 2026 16:1
-- [Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era) — 22 Sep 2026 11:0
-- [Proofpoint Breaks Down the Divide Between Data Security and AI Security with the Industry’s First Unified Agentic System](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security) — 22 Sep 2026 11:0
 
