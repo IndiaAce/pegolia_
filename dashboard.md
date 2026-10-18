@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-17
+# 🛡️ Email Security Trends – Updated 2026-10-18
 
 ## 📰 Hacker News
 - [A misbehaving test MCP server for stress-testing your MCP client](https://news.ycombinator.com/item?id=50105780) — 2026-10-15T16:11
