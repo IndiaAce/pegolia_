@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Hookgap passive email and website security checks for any domain",
+    "link": "https://hookgap.com/",
+    "published": "2026-10-19T11:20:47Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenCode and OpenAI issue refunds after security breach of OpenCode console",
+    "link": "https://news.ycombinator.com/item?id=50148946",
+    "published": "2026-10-19T06:11:39Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Wix.com blocked account after I transfered .com domain",
     "link": "https://news.ycombinator.com/item?id=50144900",
     "published": "2026-10-18T20:04:11Z"
@@ -166,17 +178,5 @@
     "title": "Ask HN: What Has Happened to Authentication?",
     "link": "https://news.ycombinator.com/item?id=49622704",
     "published": "2026-09-09T07:36:21Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Are we normalizing surveillance in the name of safety?",
-    "link": "https://news.ycombinator.com/item?id=49586069",
-    "published": "2026-09-06T12:48:34Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Microsoft says email spammers are adopting ASCII smuggling",
-    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-    "published": "2026-09-05T06:24:26Z"
   }
 ]
