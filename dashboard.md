@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-10-18
+# 🛡️ Email Security Trends – Updated 2026-10-19
 
 ## 📰 Hacker News
+- [Wix.com blocked account after I transfered .com domain](https://news.ycombinator.com/item?id=50144900) — 2026-10-18T20:04
 - [A misbehaving test MCP server for stress-testing your MCP client](https://news.ycombinator.com/item?id=50105780) — 2026-10-15T16:11
 - [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/) — 2026-10-14T20:54
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
@@ -20,7 +21,6 @@
 - [Ask HN: What Has Happened to Authentication?](https://news.ycombinator.com/item?id=49622704) — 2026-09-09T07:36
 - [Ask HN: Are we normalizing surveillance in the name of safety?](https://news.ycombinator.com/item?id=49586069) — 2026-09-06T12:48
 - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/) — 2026-09-05T06:24
-- [Amazon Is Requiring Passkeys](https://news.ycombinator.com/item?id=49524246) — 2026-09-01T16:27
 
 ## 📰 Proofpoint
 - [Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal) — 16 Oct 2026 15:4
