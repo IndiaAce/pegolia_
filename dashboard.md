@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-10-20
 
 ## 📰 Hacker News
+- [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) — 2026-10-20T14:49
 - [Hookgap passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-19T11:20
 - [OpenCode and OpenAI issue refunds after security breach of OpenCode console](https://news.ycombinator.com/item?id=50148946) — 2026-10-19T06:11
 - [Wix.com blocked account after I transfered .com domain](https://news.ycombinator.com/item?id=50144900) — 2026-10-18T20:04
@@ -20,7 +21,6 @@
 - [Cisco email security boxes can be rooted by an email](https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604) — 2026-09-15T20:07
 - [Show HN: BlindLock – Passwords hidden in a photo, sealed to your TPM/SE](https://blindlock.app/en/) — 2026-09-10T12:41
 - [Show HN: KeepUp – Verified net worth rankings for everyone](https://keepup.finance/) — 2026-09-10T12:37
-- [Ask HN: What Has Happened to Authentication?](https://news.ycombinator.com/item?id=49622704) — 2026-09-09T07:36
 
 ## 📰 Proofpoint
 - [Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal) — 16 Oct 2026 15:4
