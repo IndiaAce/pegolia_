@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-19
+# 🛡️ Email Security Trends – Updated 2026-10-20
 
 ## 📰 Hacker News
 - [Hookgap passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-19T11:20
