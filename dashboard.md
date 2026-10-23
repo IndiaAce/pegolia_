@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-22
+# 🛡️ Email Security Trends – Updated 2026-10-23
 
 ## 📰 Hacker News
 - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) — 2026-10-20T14:49
