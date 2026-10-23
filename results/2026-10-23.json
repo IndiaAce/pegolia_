@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "480k phishing emails sent from a PC hidden behind a fridge in a hotel room",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi",
+    "published": "2026-10-23T15:21:51Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tell HN: Unbounce Security Incident",
+    "link": "https://news.ycombinator.com/item?id=50209991",
+    "published": "2026-10-23T14:48:01Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
     "link": "https://github.com/KatrielMoses/voidaccess",
     "published": "2026-10-20T14:49:33Z"
@@ -166,17 +178,5 @@
     "title": "Cisco email security boxes can be rooted by an email",
     "link": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604",
     "published": "2026-09-15T20:07:08Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: BlindLock \u2013 Passwords hidden in a photo, sealed to your TPM/SE",
-    "link": "https://blindlock.app/en/",
-    "published": "2026-09-10T12:41:03Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: KeepUp \u2013 Verified net worth rankings for everyone",
-    "link": "https://keepup.finance/",
-    "published": "2026-09-10T12:37:04Z"
   }
 ]
