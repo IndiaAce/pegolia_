@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-23
+# 🛡️ Email Security Trends – Updated 2026-10-24
 
 ## 📰 Hacker News
 - [480k phishing emails sent from a PC hidden behind a fridge in a hotel room](https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi) — 2026-10-23T15:21
