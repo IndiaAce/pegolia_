@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-10-24
+# 🛡️ Email Security Trends – Updated 2026-10-25
 
 ## 📰 Hacker News
+- [ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
 - [480k phishing emails sent from a PC hidden behind a fridge in a hotel room](https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi) — 2026-10-23T15:21
 - [Tell HN: Unbounce Security Incident](https://news.ycombinator.com/item?id=50209991) — 2026-10-23T14:48
 - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) — 2026-10-20T14:49
@@ -20,7 +21,6 @@
 - [SentriSend – Outbound email security gateway to prevent SES bounce bans](https://sentrisend.com/) — 2026-09-29T10:16
 - [Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents](https://omnesis.dev/) — 2026-09-28T13:35
 - [Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX) — 2026-09-16T03:36
-- [Cisco email security boxes can be rooted by an email](https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604) — 2026-09-15T20:07
 
 ## 📰 Proofpoint
 - [Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal) — 16 Oct 2026 15:4
