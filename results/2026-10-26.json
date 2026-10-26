@@ -1,6 +1,12 @@
 [
   {
     "source": "Proofpoint",
+    "title": "Proofpoint Joins Microsoft Integrated Cloud Email Security (ICES) Ecosystem",
+    "link": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem",
+    "published": "26 Oct 2026 16:14:47"
+  },
+  {
+    "source": "Proofpoint",
     "title": "Proofpoint CEO Sumit Dhawan On \u2018Market-Changing\u2019 $6.3B Varonis Deal, IPO Goal",
     "link": "https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal",
     "published": "16 Oct 2026 15:46:15"
@@ -54,10 +60,10 @@
     "published": "30 Sep 2026 16:11:21"
   },
   {
-    "source": "Proofpoint",
-    "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-    "link": "https://www.proofpoint.com/us/newsroom/news/teamfiltration-campaign-compromises-seven-microsoft-365-accounts-using-default",
-    "published": "24 Sep 2026 16:16:23"
+    "source": "Hacker News",
+    "title": "Show HN: Hookgap can do passive email and website security checks for any domain",
+    "link": "https://hookgap.com/",
+    "published": "2026-10-26T10:55:47Z"
   },
   {
     "source": "Hacker News",
@@ -172,11 +178,5 @@
     "title": "Show HN: Omnesis \u2013 A private knowledge layer for ChatGPT and other agents",
     "link": "https://omnesis.dev/",
     "published": "2026-09-28T13:35:57Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)",
-    "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX",
-    "published": "2026-09-16T03:36:42Z"
   }
 ]

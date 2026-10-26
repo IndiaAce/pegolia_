@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-10-26
 
 ## 📰 Hacker News
+- [Show HN: Hookgap can do passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-26T10:55
 - [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
 - [480k phishing emails sent from a PC hidden behind a fridge in a hotel room](https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi) — 2026-10-23T15:21
 - [Tell HN: Unbounce Security Incident](https://news.ycombinator.com/item?id=50209991) — 2026-10-23T14:48
@@ -20,9 +21,9 @@
 - [Show HN: Paperweight – local-first, open-source email cleanup and privacy tool](https://github.com/wslyvh/paperweight) — 2026-09-30T14:36
 - [SentriSend – Outbound email security gateway to prevent SES bounce bans](https://sentrisend.com/) — 2026-09-29T10:16
 - [Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents](https://omnesis.dev/) — 2026-09-28T13:35
-- [Cisco Email Gateway SQL Injection Yields Unauthenticated Root (CVSS 9.8)](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-inj-2bLVGmhX) — 2026-09-16T03:36
 
 ## 📰 Proofpoint
+- [Proofpoint Joins Microsoft Integrated Cloud Email Security (ICES) Ecosystem](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem) — 26 Oct 2026 16:1
 - [Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal) — 16 Oct 2026 15:4
 - [Proofpoint CEO on acquiring Varonis for $6.3B: ‘Opportunities like this don’t come every day’](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-acquiring-varonis-63b-opportunities-dont-come-every-day) — 16 Oct 2026 13:5
 - [Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal](https://www.proofpoint.com/us/newsroom/news/thoma-bravos-proofpoint-buy-varonis-systems-63-billion-all-cash-deal) — 15 Oct 2026 14:2
@@ -32,5 +33,4 @@
 - [Healthcare Cyberattacks Hit Harder, Cost More](https://www.proofpoint.com/us/newsroom/news/healthcare-cyberattacks-hit-harder-cost-more) — 13 Oct 2026 15:4
 - [The Hidden AI Security Risks Threatening Businesses](https://www.proofpoint.com/us/newsroom/news/hidden-ai-security-risks-threatening-businesses) — 12 Oct 2026 14:2
 - [Proofpoint on Why AI Security Must Focus on Intent](https://www.proofpoint.com/us/newsroom/news/proofpoint-why-ai-security-must-focus-intent) — 30 Sep 2026 16:1
-- [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://www.proofpoint.com/us/newsroom/news/teamfiltration-campaign-compromises-seven-microsoft-365-accounts-using-default) — 24 Sep 2026 16:1
 
