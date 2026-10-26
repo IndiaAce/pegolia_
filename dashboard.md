@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-25
+# 🛡️ Email Security Trends – Updated 2026-10-26
 
 ## 📰 Hacker News
 - [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
