@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: I built a tool that finds reliability bugs in your code",
+    "link": "https://news.ycombinator.com/item?id=50280650",
+    "published": "2026-10-28T20:45:51Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: Hookgap can do passive email and website security checks for any domain",
     "link": "https://hookgap.com/",
     "published": "2026-10-26T10:55:47Z"
@@ -172,11 +178,5 @@
     "title": "SentriSend \u2013 Outbound email security gateway to prevent SES bounce bans",
     "link": "https://sentrisend.com/",
     "published": "2026-09-29T10:16:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Omnesis \u2013 A private knowledge layer for ChatGPT and other agents",
-    "link": "https://omnesis.dev/",
-    "published": "2026-09-28T13:35:57Z"
   }
 ]
