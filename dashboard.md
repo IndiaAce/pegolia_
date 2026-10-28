@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-27
+# 🛡️ Email Security Trends – Updated 2026-10-28
 
 ## 📰 Hacker News
 - [Show HN: Hookgap can do passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-26T10:55
