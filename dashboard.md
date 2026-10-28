@@ -23,6 +23,7 @@
 - [Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents](https://omnesis.dev/) — 2026-09-28T13:35
 
 ## 📰 Proofpoint
+- [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2
 - [Proofpoint Joins Microsoft Integrated Cloud Email Security (ICES) Ecosystem](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem) — 26 Oct 2026 16:1
 - [Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal) — 16 Oct 2026 15:4
 - [Proofpoint CEO on acquiring Varonis for $6.3B: ‘Opportunities like this don’t come every day’](https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-acquiring-varonis-63b-opportunities-dont-come-every-day) — 16 Oct 2026 13:5
@@ -32,5 +33,4 @@
 - [Healthcare Sees No Relief from Cyberattacks Disrupting Patient Care](https://www.proofpoint.com/us/newsroom/press-releases/cyber-insecurity-in-healthcare-report-2026) — 13 Oct 2026 16:0
 - [Healthcare Cyberattacks Hit Harder, Cost More](https://www.proofpoint.com/us/newsroom/news/healthcare-cyberattacks-hit-harder-cost-more) — 13 Oct 2026 15:4
 - [The Hidden AI Security Risks Threatening Businesses](https://www.proofpoint.com/us/newsroom/news/hidden-ai-security-risks-threatening-businesses) — 12 Oct 2026 14:2
-- [Proofpoint on Why AI Security Must Focus on Intent](https://www.proofpoint.com/us/newsroom/news/proofpoint-why-ai-security-must-focus-intent) — 30 Sep 2026 16:1
 
