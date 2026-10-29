@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-28
+# 🛡️ Email Security Trends – Updated 2026-10-29
 
 ## 📰 Hacker News
 - [Show HN: I built a tool that finds reliability bugs in your code](https://news.ycombinator.com/item?id=50280650) — 2026-10-28T20:45
