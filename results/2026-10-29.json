@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "We explain how attackers keep reading mail after M365 session revocation",
+    "link": "https://labs.eye.security/how-attackers-keep-reading-mail-after-m365-session-revocation/",
+    "published": "2026-10-29T10:09:08Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: I built a tool that finds reliability bugs in your code",
     "link": "https://news.ycombinator.com/item?id=50280650",
     "published": "2026-10-28T20:45:51Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Paperweight \u2013 local-first, open-source email cleanup and privacy tool",
     "link": "https://github.com/wslyvh/paperweight",
     "published": "2026-09-30T14:36:58Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SentriSend \u2013 Outbound email security gateway to prevent SES bounce bans",
-    "link": "https://sentrisend.com/",
-    "published": "2026-09-29T10:16:18Z"
   }
 ]
