@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-29
+# 🛡️ Email Security Trends – Updated 2026-10-30
 
 ## 📰 Hacker News
 - [We explain how attackers keep reading mail after M365 session revocation](https://labs.eye.security/how-attackers-keep-reading-mail-after-m365-session-revocation/) — 2026-10-29T10:09
