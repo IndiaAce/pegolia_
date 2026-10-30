@@ -61,18 +61,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "We explain how attackers keep reading mail after M365 session revocation",
-    "link": "https://labs.eye.security/how-attackers-keep-reading-mail-after-m365-session-revocation/",
-    "published": "2026-10-29T10:09:08Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a tool that finds reliability bugs in your code",
-    "link": "https://news.ycombinator.com/item?id=50280650",
-    "published": "2026-10-28T20:45:51Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: Hookgap can do passive email and website security checks for any domain",
     "link": "https://hookgap.com/",
     "published": "2026-10-26T10:55:47Z"
@@ -178,5 +166,17 @@
     "title": "Show HN: Paperweight \u2013 local-first, open-source email cleanup and privacy tool",
     "link": "https://github.com/wslyvh/paperweight",
     "published": "2026-09-30T14:36:58Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SentriSend \u2013 Outbound email security gateway to prevent SES bounce bans",
+    "link": "https://sentrisend.com/",
+    "published": "2026-09-29T10:16:18Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Omnesis \u2013 A private knowledge layer for ChatGPT and other agents",
+    "link": "https://omnesis.dev/",
+    "published": "2026-09-28T13:35:57Z"
   }
 ]
