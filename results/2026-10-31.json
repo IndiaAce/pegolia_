@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]",
+    "link": "https://cr.yp.to/qmail/qmailsec-20071101.pdf",
+    "published": "2026-10-31T11:15:06Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: Scribd Breached",
     "link": "https://news.ycombinator.com/item?id=50312756",
     "published": "2026-10-31T02:46:36Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: Paperweight \u2013 local-first, open-source email cleanup and privacy tool",
     "link": "https://github.com/wslyvh/paperweight",
     "published": "2026-09-30T14:36:58Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SentriSend \u2013 Outbound email security gateway to prevent SES bounce bans",
-    "link": "https://sentrisend.com/",
-    "published": "2026-09-29T10:16:18Z"
   }
 ]

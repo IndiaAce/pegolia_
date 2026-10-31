@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-10-31
 
 ## 📰 Hacker News
+- [Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2026-10-31T11:15
 - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) — 2026-10-31T02:46
 - [Show HN: Hookgap can do passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-26T10:55
 - [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
@@ -20,7 +21,6 @@
 - [Django-modern-rest 0.16.0 release](https://news.ycombinator.com/item?id=49921982) — 2026-10-01T14:14
 - [Attackers have been exploiting critical Zimbra flaw to steal emails](https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/) — 2026-10-01T07:09
 - [Show HN: Paperweight – local-first, open-source email cleanup and privacy tool](https://github.com/wslyvh/paperweight) — 2026-09-30T14:36
-- [SentriSend – Outbound email security gateway to prevent SES bounce bans](https://sentrisend.com/) — 2026-09-29T10:16
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2
