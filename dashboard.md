@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-10-31
+# 🛡️ Email Security Trends – Updated 2026-11-01
 
 ## 📰 Hacker News
 - [Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf) — 2026-10-31T11:15
