@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-11-02
+# 🛡️ Email Security Trends – Updated 2026-11-03
 
 ## 📰 Hacker News
+- [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712) — 2026-11-02T23:30
+- [Show HN: Garrul – Comments system for your site on a single Cloudflare Worker](https://github.com/KingPin/Garrul) — 2026-11-02T17:27
 - [Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models](https://calvinyz.github.io/corollary/) — 2026-11-01T21:45
 - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) — 2026-10-31T02:46
 - [Show HN: Hookgap can do passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-26T10:55
@@ -19,8 +21,6 @@
 - [Ask HN: My Apple ID is locked for a week, Apple is a single point of failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
 - [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
 - [Django-modern-rest 0.16.0 release](https://news.ycombinator.com/item?id=49921982) — 2026-10-01T14:14
-- [Attackers have been exploiting critical Zimbra flaw to steal emails](https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/) — 2026-10-01T07:09
-- [Show HN: Paperweight – local-first, open-source email cleanup and privacy tool](https://github.com/wslyvh/paperweight) — 2026-09-30T14:36
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2
