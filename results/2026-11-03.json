@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Anthropic's HackerOne bot lawyered me out of a bounty",
+    "link": "https://news.ycombinator.com/item?id=50353629",
+    "published": "2026-11-03T15:59:32Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "WorkOS reports security breach",
     "link": "https://news.ycombinator.com/item?id=50345712",
     "published": "2026-11-02T23:30:59Z"
@@ -172,11 +178,5 @@
     "title": "Show HN: SVPN News \u2013 Tracks high-engagement news, filters noise",
     "link": "https://news.svpn.com/news",
     "published": "2026-10-01T14:16:18Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Django-modern-rest 0.16.0 release",
-    "link": "https://news.ycombinator.com/item?id=49921982",
-    "published": "2026-10-01T14:14:55Z"
   }
 ]

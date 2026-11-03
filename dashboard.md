@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-11-03
 
 ## 📰 Hacker News
+- [Anthropic's HackerOne bot lawyered me out of a bounty](https://news.ycombinator.com/item?id=50353629) — 2026-11-03T15:59
 - [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712) — 2026-11-02T23:30
 - [Show HN: Garrul – Comments system for your site on a single Cloudflare Worker](https://github.com/KingPin/Garrul) — 2026-11-02T17:27
 - [Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models](https://calvinyz.github.io/corollary/) — 2026-11-01T21:45
@@ -20,7 +21,6 @@
 - [Show HN: MailAccess – the true Email OSINT framework](https://mailaccess.pro) — 2026-10-06T12:24
 - [Ask HN: My Apple ID is locked for a week, Apple is a single point of failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
 - [Show HN: SVPN News – Tracks high-engagement news, filters noise](https://news.svpn.com/news) — 2026-10-01T14:16
-- [Django-modern-rest 0.16.0 release](https://news.ycombinator.com/item?id=49921982) — 2026-10-01T14:14
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2
