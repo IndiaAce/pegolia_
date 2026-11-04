@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-03
+# 🛡️ Email Security Trends – Updated 2026-11-04
 
 ## 📰 Hacker News
 - [Anthropic's HackerOne bot lawyered me out of a bounty](https://news.ycombinator.com/item?id=50353629) — 2026-11-03T15:59
