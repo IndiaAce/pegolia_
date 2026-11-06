@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-05
+# 🛡️ Email Security Trends – Updated 2026-11-06
 
 ## 📰 Hacker News
 - [Barracuda ESG pre-auth remote root (CVE-2026-116606)](https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/) — 2026-11-05T21:58
