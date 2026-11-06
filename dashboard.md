@@ -3,7 +3,6 @@
 ## 📰 Hacker News
 - [Barracuda ESG pre-auth remote root (CVE-2026-116606)](https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/) — 2026-11-05T21:58
 - [Show HN: Securing GrokBot](https://news.ycombinator.com/item?id=50380651) — 2026-11-05T15:51
-- [Anthropic's HackerOne bot lawyered me out of a bounty](https://news.ycombinator.com/item?id=50353629) — 2026-11-03T15:59
 - [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712) — 2026-11-02T23:30
 - [Show HN: Garrul – Comments system for your site on a single Cloudflare Worker](https://github.com/KingPin/Garrul) — 2026-11-02T17:27
 - [Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models](https://calvinyz.github.io/corollary/) — 2026-11-01T21:45
@@ -21,6 +20,7 @@
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
 - [UPS Worker Missed Security Email, Letting China Get F-35 Parts](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-07T19:47
 - [Show HN: MailAccess – the true Email OSINT framework](https://mailaccess.pro) — 2026-10-06T12:24
+- [Ask HN: My Apple ID is locked for a week, Apple is a single point of failure](https://news.ycombinator.com/item?id=49976972) — 2026-10-06T11:31
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2

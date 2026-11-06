@@ -73,12 +73,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Anthropic's HackerOne bot lawyered me out of a bounty",
-    "link": "https://news.ycombinator.com/item?id=50353629",
-    "published": "2026-11-03T15:59:32Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "WorkOS reports security breach",
     "link": "https://news.ycombinator.com/item?id=50345712",
     "published": "2026-11-02T23:30:59Z"
@@ -178,5 +172,11 @@
     "title": "Show HN: MailAccess \u2013 the true Email OSINT framework",
     "link": "https://mailaccess.pro",
     "published": "2026-10-06T12:24:18Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
+    "link": "https://news.ycombinator.com/item?id=49976972",
+    "published": "2026-10-06T11:31:35Z"
   }
 ]
