@@ -2,6 +2,7 @@
 
 ## 📰 Hacker News
 - [Show HN: Solous, a journaling app like a social media for emotions inside of you](https://solous.net/) — 2026-11-07T14:34
+- [Show HN: I built a food recall tracker with ML classification and email alerts](https://brentbutkow.me/projects/recall-radar) — 2026-11-07T09:05
 - [Barracuda ESG pre-auth remote root (CVE-2026-116606)](https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/) — 2026-11-05T21:58
 - [Show HN: Securing GrokBot](https://news.ycombinator.com/item?id=50380651) — 2026-11-05T15:51
 - [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712) — 2026-11-02T23:30
@@ -20,7 +21,6 @@
 - [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/) — 2026-10-14T20:54
 - [China gets access to stealth coating on F-35 parts [Bloomberg]](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-08T07:02
 - [UPS Worker Missed Security Email, Letting China Get F-35 Parts](https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts) — 2026-10-07T19:47
-- [Show HN: MailAccess – the true Email OSINT framework](https://mailaccess.pro) — 2026-10-06T12:24
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2
