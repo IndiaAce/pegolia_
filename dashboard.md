@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-07
+# 🛡️ Email Security Trends – Updated 2026-11-08
 
 ## 📰 Hacker News
 - [Show HN: Solous, a journaling app like a social media for emotions inside of you](https://solous.net/) — 2026-11-07T14:34
