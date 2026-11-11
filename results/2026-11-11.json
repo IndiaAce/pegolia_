@@ -61,6 +61,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Zumungo \u2013 AI-driven home automation",
+    "link": "https://zumungo.com/get-started.html",
+    "published": "2026-11-11T21:58:28Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Beam \u2013 Pairing machines with passkeys; replace SSH&VPN's with Tailcat",
+    "link": "https://github.com/notaharness/beam",
+    "published": "2026-11-11T13:17:26Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
     "link": "https://news.ycombinator.com/item?id=50436636",
     "published": "2026-11-10T06:00:48Z"
@@ -166,17 +178,5 @@
     "title": "A misbehaving test MCP server for stress-testing your MCP client",
     "link": "https://news.ycombinator.com/item?id=50105780",
     "published": "2026-10-15T16:11:41Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-    "published": "2026-10-14T20:54:01Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China gets access to stealth coating on F-35 parts [Bloomberg]",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ups-worker-missed-security-email-letting-china-get-f-35-parts",
-    "published": "2026-10-08T07:02:43Z"
   }
 ]
