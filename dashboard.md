@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-10
+# 🛡️ Email Security Trends – Updated 2026-11-11
 
 ## 📰 Hacker News
 - [Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack](https://news.ycombinator.com/item?id=50436636) — 2026-11-10T06:00
