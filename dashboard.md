@@ -1,8 +1,9 @@
 # 🛡️ Email Security Trends – Updated 2026-11-12
 
 ## 📰 Hacker News
+- [Humble Bundle Undergoes a Vibecoded-Looking Redesign](https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085) — 2026-11-12T10:53
+- [Show HN: TripCoral – Free itinerary and live updates from public flight data](https://www.tripcoral.com/) — 2026-11-12T07:55
 - [Show HN: Zumungo – AI-driven home automation](https://zumungo.com/get-started.html) — 2026-11-11T21:58
-- [Show HN: Beam – Pairing machines with passkeys; replace SSH&VPN's with Tailcat](https://github.com/notaharness/beam) — 2026-11-11T13:17
 - [Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack](https://news.ycombinator.com/item?id=50436636) — 2026-11-10T06:00
 - [CoderPad Reports a Security Breach](https://news.ycombinator.com/item?id=50435929) — 2026-11-10T04:05
 - [Show HN: Solous, a journaling app like a social media for emotions inside of you](https://solous.net/) — 2026-11-07T14:34
@@ -20,7 +21,6 @@
 - [Hookgap passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-19T11:20
 - [OpenCode and OpenAI issue refunds after security breach of OpenCode console](https://news.ycombinator.com/item?id=50148946) — 2026-10-19T06:11
 - [Wix.com blocked account after I transfered .com domain](https://news.ycombinator.com/item?id=50144900) — 2026-10-18T20:04
-- [A misbehaving test MCP server for stress-testing your MCP client](https://news.ycombinator.com/item?id=50105780) — 2026-10-15T16:11
 
 ## 📰 Proofpoint
 - [Proofpoint Introduces Flex to Help Customers Invest with Confidence as Security Needs Evolve](https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-introduces-flex-help-customers-invest-confidence-security-needs) — 28 Oct 2026 09:2
