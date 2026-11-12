@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-11
+# 🛡️ Email Security Trends – Updated 2026-11-12
 
 ## 📰 Hacker News
 - [Show HN: Zumungo – AI-driven home automation](https://zumungo.com/get-started.html) — 2026-11-11T21:58
