@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-12
+# 🛡️ Email Security Trends – Updated 2026-11-13
 
 ## 📰 Hacker News
 - [Humble Bundle Undergoes a Vibecoded-Looking Redesign](https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085) — 2026-11-12T10:53
