@@ -1,6 +1,7 @@
-# 🛡️ Email Security Trends – Updated 2026-11-17
+# 🛡️ Email Security Trends – Updated 2026-11-18
 
 ## 📰 Hacker News
+- [Show HN: A dashboard my wife is finally interested in](https://github.com/sourpatchdad/patchboard) — 2026-11-17T16:59
 - [Humble Bundle Undergoes a Vibecoded-Looking Redesign](https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085) — 2026-11-12T10:53
 - [Show HN: TripCoral – Free itinerary and live updates from public flight data](https://www.tripcoral.com/) — 2026-11-12T07:55
 - [Show HN: Zumungo – AI-driven home automation](https://zumungo.com/get-started.html) — 2026-11-11T21:58
@@ -20,7 +21,6 @@
 - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) — 2026-10-20T14:49
 - [Hookgap passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-19T11:20
 - [OpenCode and OpenAI issue refunds after security breach of OpenCode console](https://news.ycombinator.com/item?id=50148946) — 2026-10-19T06:11
-- [Wix.com blocked account after I transfered .com domain](https://news.ycombinator.com/item?id=50144900) — 2026-10-18T20:04
 
 ## 📰 Proofpoint
 - [18 Outdated Identity And Access Management Assumptions To Retire](https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire) — 10 Nov 2026 20:4
