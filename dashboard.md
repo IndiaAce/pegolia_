@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-18
+# 🛡️ Email Security Trends – Updated 2026-11-19
 
 ## 📰 Hacker News
 - [Show HN: A dashboard my wife is finally interested in](https://github.com/sourpatchdad/patchboard) — 2026-11-17T16:59
