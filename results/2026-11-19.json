@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Some thoughts on security after ten years of qmail 1.0 (2007) [pdf]",
+    "link": "https://cr.yp.to/qmail/qmailsec-20071101.pdf",
+    "published": "2026-11-19T17:28:24Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: A dashboard my wife is finally interested in",
     "link": "https://github.com/sourpatchdad/patchboard",
     "published": "2026-11-17T16:59:52Z"
@@ -172,11 +178,5 @@
     "title": "Hookgap passive email and website security checks for any domain",
     "link": "https://hookgap.com/",
     "published": "2026-10-19T11:20:47Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenCode and OpenAI issue refunds after security breach of OpenCode console",
-    "link": "https://news.ycombinator.com/item?id=50148946",
-    "published": "2026-10-19T06:11:39Z"
   }
 ]
