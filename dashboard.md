@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-11-20
+# 🛡️ Email Security Trends – Updated 2026-11-21
 
 ## 📰 Hacker News
+- [Tell HN: OpenRouter prompts to Minimax may have been read](https://news.ycombinator.com/item?id=50585962) — 2026-11-21T04:31
+- [Portkey Security Incident](https://news.ycombinator.com/item?id=50585039) — 2026-11-21T01:52
 - [Show HN: A dashboard my wife is finally interested in](https://github.com/sourpatchdad/patchboard) — 2026-11-17T16:59
 - [Humble Bundle Undergoes a Vibecoded-Looking Redesign](https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085) — 2026-11-12T10:53
 - [Show HN: TripCoral – Free itinerary and live updates from public flight data](https://www.tripcoral.com/) — 2026-11-12T07:55
@@ -19,8 +21,6 @@
 - [480k phishing emails sent from a PC hidden behind a fridge in a hotel room](https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi) — 2026-10-23T15:21
 - [Tell HN: Unbounce Security Incident](https://news.ycombinator.com/item?id=50209991) — 2026-10-23T14:48
 - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) — 2026-10-20T14:49
-- [Hookgap passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-19T11:20
-- [OpenCode and OpenAI issue refunds after security breach of OpenCode console](https://news.ycombinator.com/item?id=50148946) — 2026-10-19T06:11
 
 ## 📰 Proofpoint
 - [18 Outdated Identity And Access Management Assumptions To Retire](https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire) — 10 Nov 2026 20:4
