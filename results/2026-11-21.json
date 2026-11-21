@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Tell HN: OpenRouter \u2013 \"Requests you sent to MiniMax models may have been read\"",
+    "link": "https://news.ycombinator.com/item?id=50591694",
+    "published": "2026-11-21T17:46:51Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Tell HN: OpenRouter prompts to Minimax may have been read",
     "link": "https://news.ycombinator.com/item?id=50585962",
     "published": "2026-11-21T04:31:38Z"
@@ -172,11 +178,5 @@
     "title": "Tell HN: Unbounce Security Incident",
     "link": "https://news.ycombinator.com/item?id=50209991",
     "published": "2026-10-23T14:48:01Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
-    "link": "https://github.com/KatrielMoses/voidaccess",
-    "published": "2026-10-20T14:49:33Z"
   }
 ]

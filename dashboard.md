@@ -1,6 +1,7 @@
 # 🛡️ Email Security Trends – Updated 2026-11-21
 
 ## 📰 Hacker News
+- [Tell HN: OpenRouter – "Requests you sent to MiniMax models may have been read"](https://news.ycombinator.com/item?id=50591694) — 2026-11-21T17:46
 - [Tell HN: OpenRouter prompts to Minimax may have been read](https://news.ycombinator.com/item?id=50585962) — 2026-11-21T04:31
 - [Portkey Security Incident](https://news.ycombinator.com/item?id=50585039) — 2026-11-21T01:52
 - [Show HN: A dashboard my wife is finally interested in](https://github.com/sourpatchdad/patchboard) — 2026-11-17T16:59
@@ -20,7 +21,6 @@
 - [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
 - [480k phishing emails sent from a PC hidden behind a fridge in a hotel room](https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi) — 2026-10-23T15:21
 - [Tell HN: Unbounce Security Incident](https://news.ycombinator.com/item?id=50209991) — 2026-10-23T14:48
-- [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) — 2026-10-20T14:49
 
 ## 📰 Proofpoint
 - [18 Outdated Identity And Access Management Assumptions To Retire](https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire) — 10 Nov 2026 20:4
