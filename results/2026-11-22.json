@@ -73,12 +73,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "Portkey Security Incident",
-    "link": "https://news.ycombinator.com/item?id=50585039",
-    "published": "2026-11-21T01:52:04Z"
-  },
-  {
-    "source": "Hacker News",
     "title": "Show HN: A dashboard my wife is finally interested in",
     "link": "https://github.com/sourpatchdad/patchboard",
     "published": "2026-11-17T16:59:52Z"
@@ -178,5 +172,11 @@
     "title": "Tell HN: Unbounce Security Incident",
     "link": "https://news.ycombinator.com/item?id=50209991",
     "published": "2026-10-23T14:48:01Z"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+    "link": "https://github.com/KatrielMoses/voidaccess",
+    "published": "2026-10-20T14:49:33Z"
   }
 ]
