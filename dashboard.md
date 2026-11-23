@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-22
+# 🛡️ Email Security Trends – Updated 2026-11-23
 
 ## 📰 Hacker News
 - [Tell HN: OpenRouter – "Requests you sent to MiniMax models may have been read"](https://news.ycombinator.com/item?id=50591694) — 2026-11-21T17:46
