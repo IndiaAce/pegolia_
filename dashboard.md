@@ -1,6 +1,8 @@
 # 🛡️ Email Security Trends – Updated 2026-11-24
 
 ## 📰 Hacker News
+- [Show HN: StoryPass – I turned my mom's paper game into a password generator](https://usestorypass.com/) — 2026-11-24T13:57
+- [Why are so many services using email magic links for login?](https://news.ycombinator.com/item?id=50625996) — 2026-11-24T09:53
 - [Tell HN: OpenRouter – "Requests you sent to MiniMax models may have been read"](https://news.ycombinator.com/item?id=50591694) — 2026-11-21T17:46
 - [Tell HN: OpenRouter prompts to Minimax may have been read](https://news.ycombinator.com/item?id=50585962) — 2026-11-21T04:31
 - [Portkey Security Incident](https://news.ycombinator.com/item?id=50585039) — 2026-11-21T01:52
@@ -19,8 +21,6 @@
 - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) — 2026-10-31T02:46
 - [Show HN: Hookgap can do passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-26T10:55
 - [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
-- [480k phishing emails sent from a PC hidden behind a fridge in a hotel room](https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi) — 2026-10-23T15:21
-- [Tell HN: Unbounce Security Incident](https://news.ycombinator.com/item?id=50209991) — 2026-10-23T14:48
 
 ## 📰 Proofpoint
 - [18 Outdated Identity And Access Management Assumptions To Retire](https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire) — 10 Nov 2026 20:4
