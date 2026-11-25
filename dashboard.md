@@ -1,6 +1,8 @@
-# 🛡️ Email Security Trends – Updated 2026-11-24
+# 🛡️ Email Security Trends – Updated 2026-11-25
 
 ## 📰 Hacker News
+- [Email security of the 100k most-visited websites](https://infranest.io/research/email-security-2026/) — 2026-11-24T20:31
+- [Security incident affecting Todoist accounts](https://www.todoist.com/help/todoist/get-started/security-incident-in-november-2026) — 2026-11-24T20:11
 - [Show HN: StoryPass – I turned my mom's paper game into a password generator](https://usestorypass.com/) — 2026-11-24T13:57
 - [Why are so many services using email magic links for login?](https://news.ycombinator.com/item?id=50625996) — 2026-11-24T09:53
 - [Tell HN: OpenRouter – "Requests you sent to MiniMax models may have been read"](https://news.ycombinator.com/item?id=50591694) — 2026-11-21T17:46
@@ -19,8 +21,6 @@
 - [Show HN: Garrul – Comments system for your site on a single Cloudflare Worker](https://github.com/KingPin/Garrul) — 2026-11-02T17:27
 - [Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models](https://calvinyz.github.io/corollary/) — 2026-11-01T21:45
 - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) — 2026-10-31T02:46
-- [Show HN: Hookgap can do passive email and website security checks for any domain](https://hookgap.com/) — 2026-10-26T10:55
-- [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527) — 2026-10-25T02:01
 
 ## 📰 Proofpoint
 - [18 Outdated Identity And Access Management Assumptions To Retire](https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire) — 10 Nov 2026 20:4
