@@ -1,13 +1,13 @@
 # 🛡️ Email Security Trends – Updated 2026-11-26
 
 ## 📰 Hacker News
+- [Ask HN: Security for the Small Developer](https://news.ycombinator.com/item?id=50650947) — 2026-11-26T03:09
 - [Email security of the 100k most-visited websites](https://infranest.io/research/email-security-2026/) — 2026-11-24T20:31
 - [Security incident affecting Todoist accounts](https://www.todoist.com/help/todoist/get-started/security-incident-in-november-2026) — 2026-11-24T20:11
 - [Show HN: StoryPass – I turned my mom's paper game into a password generator](https://usestorypass.com/) — 2026-11-24T13:57
 - [Why are so many services using email magic links for login?](https://news.ycombinator.com/item?id=50625996) — 2026-11-24T09:53
 - [Tell HN: OpenRouter – "Requests you sent to MiniMax models may have been read"](https://news.ycombinator.com/item?id=50591694) — 2026-11-21T17:46
 - [Tell HN: OpenRouter prompts to Minimax may have been read](https://news.ycombinator.com/item?id=50585962) — 2026-11-21T04:31
-- [Portkey Security Incident](https://news.ycombinator.com/item?id=50585039) — 2026-11-21T01:52
 - [Show HN: A dashboard my wife is finally interested in](https://github.com/sourpatchdad/patchboard) — 2026-11-17T16:59
 - [Humble Bundle Undergoes a Vibecoded-Looking Redesign](https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085) — 2026-11-12T10:53
 - [Show HN: TripCoral – Free itinerary and live updates from public flight data](https://www.tripcoral.com/) — 2026-11-12T07:55

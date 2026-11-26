@@ -61,6 +61,12 @@
   },
   {
     "source": "Hacker News",
+    "title": "Ask HN: Security for the Small Developer",
+    "link": "https://news.ycombinator.com/item?id=50650947",
+    "published": "2026-11-26T03:09:50Z"
+  },
+  {
+    "source": "Hacker News",
     "title": "Email security of the 100k most-visited websites",
     "link": "https://infranest.io/research/email-security-2026/",
     "published": "2026-11-24T20:31:16Z"
@@ -94,12 +100,6 @@
     "title": "Tell HN: OpenRouter prompts to Minimax may have been read",
     "link": "https://news.ycombinator.com/item?id=50585962",
     "published": "2026-11-21T04:31:38Z"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Portkey Security Incident",
-    "link": "https://news.ycombinator.com/item?id=50585039",
-    "published": "2026-11-21T01:52:04Z"
   },
   {
     "source": "Hacker News",
