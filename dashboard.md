@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-25
+# 🛡️ Email Security Trends – Updated 2026-11-26
 
 ## 📰 Hacker News
 - [Email security of the 100k most-visited websites](https://infranest.io/research/email-security-2026/) — 2026-11-24T20:31
