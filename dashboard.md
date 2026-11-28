@@ -1,4 +1,4 @@
-# 🛡️ Email Security Trends – Updated 2026-11-27
+# 🛡️ Email Security Trends – Updated 2026-11-28
 
 ## 📰 Hacker News
 - [Ask HN: Security for the Small Developer](https://news.ycombinator.com/item?id=50650947) — 2026-11-26T03:09
